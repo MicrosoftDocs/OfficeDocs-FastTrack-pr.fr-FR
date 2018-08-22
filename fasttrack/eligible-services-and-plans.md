@@ -3,7 +3,7 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Lorsque vous achetez l'un des services Office 365 (comme détaillé dans la section Services éligibles suivante), les spécialistes FastTrack vous fournissent des conseils pour rejoindre Office 365 et commencer à l'utiliser.
-ms.openlocfilehash: 7547cf5528086e287bd3f156e39a5f5532a8fefd
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 2ba931c6aad66cd21bbab140c3550cb4aae0e57d
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499071"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449080"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -182,7 +182,7 @@ Voici la liste (non exhaustive) des offres non éligibles pour les services Fast
     
 - Office 365 géré par 21Vianet\*\*
     
-\*Pour plus d'informations sur les avantages d'FastTrack pour le gouvernement américain, reportez-vous à l'article relatif à [Office 365 pour le gouvernement américain](https://go.microsoft.com/fwlink/?linkid=2005430).
+\*Pour plus d'informations sur les avantages d'FastTrack pour le gouvernement américain, reportez-vous à l'article relatif à [Office 365 pour le gouvernement américain](https://aka.ms/aboutgovcloud).
   
 \*\*Pour plus d'informations sur les avantages de FastTrack pour Office 365 géré par 21Vianet, contactez l'[assistance 21Vianet](https://go.microsoft.com/fwlink/?linkid=852156).
   

@@ -3,7 +3,7 @@ title: Présentation du Centre FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Les avantages du Centre FastTrack pour Office 365 vous permettent de collaborer à distance avec des spécialistes FastTrack pour préparer votre environnement Office 365 et planifier son lancement et son utilisation au sein de votre organisation. Pour en savoir plus sur les conditions d'éligibilité, reportez-vous à Avantages du Centre FastTrack pour Office 365.
-ms.openlocfilehash: 9fb67df2a28eb6c3b31e22811a46a87784e57119
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 4b54fd05314f9eac96b6f3781e14e988e1282c6c
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498841"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449078"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Présentation du Centre FastTrack
 
@@ -28,7 +28,7 @@ Nous abordons les sujets suivants :
   
 - [Processus FastTrack](fasttrack-process.md)
     
-- [Attente concernant l'environnement source](environment-expectations.md)
+- [Attente concernant l'environnement source](source-environment-expectations.md)
     
 - [Phases d'intégration et de migration](onboarding-and-migration.md)
     
@@ -50,7 +50,7 @@ Nous abordons les sujets suivants :
     
   - Un environnement de forêt Active Directory unique.
     
-  - Une topologie Active Directory à forêts multiples prise en charge. Pour les topologies prises en charge, reportez-vous à la rubrique sur les [attentes relatives à l’environnement source](environment-expectations.md).
+  - Une topologie Active Directory à forêts multiples prise en charge. Pour les topologies prises en charge, reportez-vous à la rubrique sur les [attentes relatives à l’environnement source](source-environment-expectations.md).
     
 - Identités fédérées avec des comptes Office 365 qui sont :
     
