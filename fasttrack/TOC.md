@@ -2,7 +2,7 @@
 ## [Offres et services éligibles](eligible-services-and-plans.md)
 ## [Présentation des avantages du Centre FastTrack](fasttrack-benefit-overview.md)
 ### [Processus FastTrack](fasttrack-process.md)
-### [Attente concernant l'environnement source](environment-expectations.md)
+### [Attente concernant l'environnement source](source-environment-expectations.md)
 ### [Phases d'intégration et de migration](onboarding-and-migration.md)
 ### [Migration des données](data-migration.md)
 ### [Responsabilités FastTrack](fasttrack-responsibilities.md)
@@ -10,4 +10,4 @@
 ### [Annexe A : Migration d’IBM Domino vers Exchange Online](from-ibm-domino-to-exchange-online.md)
 ### [Annexe B : Avantages supplémentaires du centre FastTrack](fasttrack-additional-benefits.md)
 ### [Annexe C : Accord de partenariat commercial HIPAA pour le service FastTrack](hipaa-business-associate-agreement.md)
-
+### [Annexe D : Présentation des avantages du service FastTrack pour Office 365 pour le gouvernement américain](US-Gov-appendix-overview.md)
