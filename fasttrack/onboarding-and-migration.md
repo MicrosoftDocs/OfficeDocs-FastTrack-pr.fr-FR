@@ -3,7 +3,7 @@ title: Phases d’intégration et de migration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: "L'intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 77c13b6aee3fc37e5b3fcb876e310dbd67e4c958
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: ec7366da4df6306d0c33ee99e37a3190777d839a
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498851"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449084"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -24,6 +24,9 @@ L'intégration Office 365 comporte quatre phases principales : lancement, éva
   
 ![Phases du service d’intégration](media/O365-Onboarding-Phases.png)
   
+> [!NOTE]
+>Pour plus d’informations sur l’intégration et la migration concernant Office 365 pour le gouvernement américain, consulter[Intégration et Migration pour Office 365 pour le gouvernement américain](US-Gov-appendix-onboarding-and-migration.md). 
+
 Pour obtenir les tâches détaillées de chaque phase, voir [Responsabilités FastTrack](fasttrack-responsibilities.md) et [Vos responsabilités](your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Phase de lancement
@@ -33,7 +36,7 @@ Après avoir acheté le nombre et le type appropriés de licences, suivez les co
 - Vous pouvez obtenir de l'aide par le biais du Centre d'administration Office 365 ou du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Pour obtenir de l'aide par le biais du Centre d'administration Office 365, votre administrateur se connecte au Centre d'administration, puis clique sur le widget **Besoin d'aide ?**. Pour obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), connectez-vous, cliquez sur **Services** et complétez le formulaire **Demande d'assistance pour Office 365**. 
     
     > [!NOTE]
-    >  Si un partenaire est répertorié dans votre client Office 365, cette option n’apparaît pas. Pour obtenir de l’aide, consultez votre partenaire. 
+    >  Si un partenaire est répertorié dans votre client Office 365, cette option n'apparaît pas. Pour obtenir de l'aide, consultez votre partenaire. 
   
 - Les partenaires peuvent également obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d'un client. Pour ce faire, le partenaire se connecte au site, il sélectionne l'enregistrement client, il clique sur **Services** et remplit le formulaire **Demande d'assistance pour Office 365**. 
     
@@ -49,7 +52,7 @@ Ceci inclut de collaborer avec vous afin de déterminer la façon dont vous pré
 
 Votre responsable FastTrack passe un appel interactif de planification de la réussite avec vous et votre équipe d’adoption. Il présente les fonctionnalités des services éligibles que vous avez achetés, les bases clés nécessaires à votre réussite, la méthodologie pour stimuler l’utilisation du service et les scénarios que vous pouvez utiliser pour tirer parti des services. Nous vous aidons dans la planification de la réussite et vous fournissons des commentaires sur les principaux domaines (selon vos besoins).
   
-Les spécialistes FastTrack travaillent avec vous pour évaluer votre environnement source et la configuration requise. Nous exécutons des outils afin de recueillir des données et vous guidons tout au long de l'estimation des exigences de bande passante et de l'évaluation de vos navigateurs Internet, de vos systèmes d'exploitation client, de votre service DNS (Domain Name System), de votre réseau, de votre infrastructure et de votre système d'identité, afin de déterminer si des changements sont requis pour l'intégration. 
+Les spécialistes FastTrack travaillent avec vous pour évaluer votre environnement source et la configuration requise. Nous mettons des outils à votre disposition afin que vous puissiez recueillir des données sur votre environnement et nous vous guidons tout au long de l’estimation des exigences de bande passante et de l’évaluation de vos navigateurs Internet, de vos systèmes d’exploitation client, de votre service DNS (Domain Name System), de votre réseau, de votre infrastructure et de votre système d’identité, afin de déterminer si des changements sont requis pour l’intégration. 
   
 En fonction de votre configuration actuelle, nous vous fournissons un plan de correction de votre environnement source visant à mettre en place la configuration minimale requise aux conditions minimales requises pour la réussite de l'intégration à Office 365 et, si nécessaire, pour la réussite de la migration des boîtes aux lettres et/ou des données. Nous offrons un ensemble de suggestions d'activités visant à accroître l'adoption et la valeur pour l'utilisateur final. Nous mettons également en place des appels de point de contrôle appropriés pour la phase de correction.
   

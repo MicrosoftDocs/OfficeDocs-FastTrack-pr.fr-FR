@@ -3,7 +3,7 @@ title: Migration des données
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Nous vous aidons à l'aide d'un ensemble d'outils et de documents, et en effectuant des tâches de configuration dès que cela est nécessaire et possible. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 8a3157281947fbc9996a104014a29bb564fe7e13
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 1080da2cd5252a077a1c5f895aa0c7f22d68b5b3
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498881"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449086"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -43,7 +43,7 @@ Le tableau suivant décrit la configuration requise pour la migration dans votre
 
 |**Activité**|**Attente concernant l'environnement source**|
 |:-----|:-----|
-|Migration Exchange Online  <br/> | Microsoft migre deux des environnements source indiqués ci-dessous, l'un après l'autre. Nous pouvons migrer le système de messagerie intégré à l'aide du Centre FastTrack, s'il satisfait aux contrôles du Centre FastTrack. Cela inclut les éléments suivants :<br/>  Une seule ou plusieurs forêt(s) Active Directory avec une seule ou plusieurs organisation(s) Exchange, si un déploiement hybride basé sur Exchange 2010 ou version ultérieure est implémenté dans chaque organisation et que les systèmes de messagerie Exchange datent au moins de 2003.  <br/> Environnement IBM Domino 7.0.3 et versions ultérieures unique ([Annexe A : Migration d'IBM Domino vers Exchange Online](from-ibm-domino-to-exchange-online.md)).  <br/>  Environnement de messagerie IMAP unique.  <br/>  Environnement G Suite unique (Gmail, contacts et calendrier uniquement).  <br/>  Environnement Novell GroupWise 7.0.4 et versions ultérieures unique.  <br/> <br/> **Remarque** *L’intégration d’Exchange Online doit être terminée avant la migration.* <br/> <br/> **Remarque** *FastTrack effectue uniquement une migration vers des boîtes aux lettres Office 365 actives.* <br/> <br/> **Remarque** *Pour les dépendances Exchange locales, reportez-vous à la rubrique [Configuration requise pour un déploiement hybride](https://go.microsoft.com/fwlink/?LinkId=787528).* <br/><br/> **Remarque** *Lors de la migration de plusieurs environnements de messagerie source (par exemple, plusieurs organisations Exchange ou plusieurs domaines Domino), les migrations sont effectuées les unes après les autres.*| 
+|Migration Exchange Online  <br/> | Microsoft migre tous les environnements source indiqués ci-dessous, l'un après l'autre. Nous pouvons migrer le système de messagerie intégré à l'aide du Centre FastTrack ou s'il satisfait aux contrôles du Centre FastTrack. Cela inclut les éléments suivants :  <br/>  Une seule ou plusieurs forêt(s) Active Directory avec une seule ou plusieurs organisation(s) Exchange, si un déploiement hybride basé sur Exchange 2010 ou version ultérieure est implémenté dans chaque organisation et que les systèmes de messagerie Exchange datent au moins de 2003.  <br/> Environnement IBM Domino 7.0.3 et versions ultérieures unique ([Annexe A : Migration d'IBM Domino vers Exchange Online](from-ibm-domino-to-exchange-online.md)).  <br/>  Environnement de messagerie IMAP unique.  <br/>  Environnement G Suite (Gmail, Contacts et Calendrier uniquement)  <br/>  Environnement Novell GroupWise 7.0.4 et versions ultérieures unique.  <br/> <br/> **Remarque** *L’intégration d’Exchange Online doit être terminée avant la migration.* <br/> <br/> **Remarque** *FastTrack effectue uniquement une migration vers des boîtes aux lettres Office 365 actives.* <br/> <br/> **Remarque** *Pour les dépendances Exchange locales, reportez-vous à la rubrique [Configuration requise pour un déploiement hybride](https://go.microsoft.com/fwlink/?LinkId=787528).* <br/><br/> **Remarque** *Lors de la migration de plusieurs environnements de messagerie source (par exemple, plusieurs organisations Exchange ou plusieurs domaines Domino), les migrations sont effectuées les unes après les autres.*| 
 |Migration de SharePoint Online  <br/> | Partages de fichiers (partages de fichiers SMB (Server Message Block) sur des appareils prenant en charge SMB 2.0 et versions ultérieures).  <br/>  Box (Starter, Business, Enterprise).  <br/> |
 |Migration de OneDrive Entreprise  <br/> | Partages de fichiers (partages de fichiers SMB sur des appareils prenant en charge SMB 2.0 et versions ultérieures).  <br/>  Environnement G Suite unique (Google Drive uniquement).  <br/>  Box (Starter, Business, Enterprise). <br/> <br/> **Remarque** *FastTrack effectue uniquement une migration vers des lecteurs Office 365 actifs.*|
    

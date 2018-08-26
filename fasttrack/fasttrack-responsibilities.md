@@ -3,7 +3,7 @@ title: Responsabilités FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 1d1b08663220411b681d79833306a8260dd84c15
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6a332cab1b2ea5bbbd55afa6f2dfa22792578a50
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498941"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449083"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
-Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
+Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.\*
   
 ## <a name="general"></a>Général
 
@@ -176,7 +176,7 @@ Fournir des conseils à propos des éléments suivants :
     
 - la configuration des fonctionnalités SharePoint Online. 
     
-- Fourniture d’instructions de migration de données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
+- l’assurance de la migration de données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
     
 - l'évaluation de la configuration d'infrastructure de batterie de serveurs SharePoint locale nécessaire pour SharePoint Online hybride ; 
     
@@ -348,5 +348,5 @@ Fournir des conseils à propos des éléments suivants :
     
 - Emplacements de téléchargement pour Microsoft StaffHub.
     
-
+\*Pour plus d’informations sur les responsabilités FastTrack pour Office 365 pour le gouvernement américain, consulter[responsabilités FastTrack pour Office 365 pour le gouvernement américain](US-Gov-appendix-fasttrack-responsibilities.md).
 
