@@ -3,7 +3,7 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Lorsque vous achetez l'un des services Office 365 (comme détaillé dans la section Services éligibles suivante), les spécialistes FastTrack vous fournissent des conseils pour rejoindre Office 365 et commencer à l'utiliser.
-ms.openlocfilehash: 2ba931c6aad66cd21bbab140c3550cb4aae0e57d
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 96a5f720fbe20a648df862a364255da2c3b19049
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22449080"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828112"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 

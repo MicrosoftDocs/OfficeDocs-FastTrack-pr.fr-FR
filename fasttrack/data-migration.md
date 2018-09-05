@@ -3,7 +3,7 @@ title: Migration des données
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Nous vous aidons à l'aide d'un ensemble d'outils et de documents, et en effectuant des tâches de configuration dès que cela est nécessaire et possible. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 1080da2cd5252a077a1c5f895aa0c7f22d68b5b3
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 4c2bbaeb68d93da54fa6a974806adfaa5b7f60ad
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22449086"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828092"
 ---
 # <a name="data-migration"></a>Migration des données
 

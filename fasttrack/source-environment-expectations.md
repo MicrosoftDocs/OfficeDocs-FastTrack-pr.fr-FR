@@ -3,7 +3,7 @@ title: Attente concernant l’environnement source
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 533063e2-2630-46f3-9a88-ad07bb7dac9a
 description: Le Centre FastTrack vous fournit de l'aide pour définir des niveaux d'intégration avec votre environnement source (par exemple, si vous avez déjà des services dans votre environnement source que vous souhaitez déplacer vers Office 365).
-ms.openlocfilehash: fdda79e61c3ce3d033ef2258d561cd7f38e77160
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 128c9eb2867322ae9fe23e8ad6baf62880befefc
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329983"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828102"
 ---
 # <a name="source-environment-expectations"></a>Attente concernant l’environnement source
 

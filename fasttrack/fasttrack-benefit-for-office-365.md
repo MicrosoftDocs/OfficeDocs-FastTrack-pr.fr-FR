@@ -3,7 +3,7 @@ title: Service FastTrack pour Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: Vous devez utiliser Service FastTrack pour Office 365 lorsque vous achetez au moins 50 licences pour un service ou un plan éligible pour votre client Office 365. Vous devez ensuite collaborer avec des spécialistes de FastTrack pour évaluer, corriger et activer ces services, ainsi que pour stimuler leur utilisation. Ces spécialistes fournissent également des conseils en matière de migration.
-ms.openlocfilehash: 0c5e68ff95462312d56cf357acb52980904d5750
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: fbaea58fa42c1a7c112f3fc51075df8d1ecf7573
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22449085"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828052"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Service FastTrack pour Office 365
 
