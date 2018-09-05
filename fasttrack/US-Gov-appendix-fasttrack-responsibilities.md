@@ -3,7 +3,7 @@ title: Responsabilités FastTrack pour Office 365 américaine
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 753e8724c379fef5d19b0ffded3713699fd11136
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: c49dda8dafeca909cc183e0539335c0243712bff
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329963"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827992"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour Office 365 américaine
 
@@ -178,7 +178,7 @@ Fournir des conseils à propos des éléments suivants :
     
 - la configuration des fonctionnalités SharePoint Online. 
     
-- Fourniture de migration de données si le service de migration de données FastTrack centre est utilisé et si vous disposez de droit.
+- l’assurance de la migration de données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
     
 - l'évaluation de la configuration d'infrastructure de batterie de serveurs SharePoint locale nécessaire pour SharePoint Online hybride ; 
     
@@ -289,7 +289,7 @@ Fournir des conseils à propos des éléments suivants :
     
 - Téléchargement de l'application Power BI Desktop.
     
-## <a name="project-online"></a>Project Online
+## <a name="project-online"></a>Project Online
 
 Fournir des conseils à propos des éléments suivants :
   
