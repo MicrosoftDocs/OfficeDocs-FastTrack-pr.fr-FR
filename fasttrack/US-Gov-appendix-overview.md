@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: Avec l’avantage centre FastTrack pour Office 365, vous travaillez à distance avec des spécialistes FastTrack pour préparer votre environnement Office 365 à utiliser et le plan de déploiement et d’utilisation au sein de votre organisation.
-ms.openlocfilehash: 959a398e395d4dc1a4d401d4838f1c13f34a44ef
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: b2776280dab424dec995c63c9673b5fdb32e15bf
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23827952"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021516"
 ---
 # <a name="appendix-d-fasttrack-center-benefit-overview-for-office-365-us-government"></a>Annexe D : Présentation des avantages du service FastTrack pour Office 365 pour le gouvernement américain
 
@@ -27,21 +27,13 @@ Bien que la plupart des produits et les fonctionnalités sont identiques entre O
 >Vous devez acheter des licences au moins 50 à partir de la liste des [Services éligibles et des Plans de](eligible-services-and-plans.md) recevoir des services FastTrack.  
 
 Nous abordons les sujets suivants :
-
-- [Processus FastTrack](fasttrack-process.md)
-    
-- [Source attentes d’environnement pour Office 365 américaine](US-Gov-appendix-source-environment-expectations.md)
-    
+- [Processus FastTrack](fasttrack-process.md) 
+- [Source attentes d’environnement pour Office 365 américaine](US-Gov-appendix-source-environment-expectations.md)   
 - [Intégration et Migration Phases pour Office 365 américaine](US-Gov-appendix-onboarding-and-migration.md)
-
-- [Migration des données](data-migration.md)
-    
-- [Responsabilités FastTrack pour Office 365 américaine](US-Gov-appendix-fasttrack-responsibilities.md)
-    
-- [Vos responsabilités pour Office 365 américaine](US-Gov-appendix-your-responsibilities.md)
- 
-- [Annexe A : Migration d'IBM Domino vers Exchange Online](from-ibm-domino-to-exchange-online.md)
-    
+- [Migration des données](data-migration.md)    
+- [Responsabilités FastTrack pour Office 365 américaine](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [Vos responsabilités pour Office 365 américaine](US-Gov-appendix-your-responsibilities.md) 
+- [Annexe A : Migration d'IBM Domino vers Exchange Online](from-ibm-domino-to-exchange-online.md)   
 - [Annexe B : Avantages supplémentaires du centre FastTrack](fasttrack-additional-benefits.md)
 
 
