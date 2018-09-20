@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: Vous devez utiliser Service FastTrack pour Office 365 lorsque vous achetez au moins 50 licences pour un service ou un plan éligible pour votre client Office 365. Vous devez ensuite collaborer avec des spécialistes de FastTrack pour évaluer, corriger et activer ces services, ainsi que pour stimuler leur utilisation. Ces spécialistes fournissent également des conseils en matière de migration.
-ms.openlocfilehash: fbaea58fa42c1a7c112f3fc51075df8d1ecf7573
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 443e15fe77b46b4933d88607aa67bec489602e13
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828052"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021666"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Service FastTrack pour Office 365
 
@@ -35,8 +35,7 @@ Pour obtenir des informations sur le processus du Centre FastTrack et sur qui es
   
 Vous recherchez [Microsoft FastTrack pour Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312) ? Les informations suivantes sont incluses :
   
-- Microsoft Intune
-    
+- Microsoft Intune    
 - Azure Active Directory Premium 
     
 > [!NOTE]
