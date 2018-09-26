@@ -7,7 +7,7 @@
 ### [Migration des données](data-migration.md)
 ### [Responsabilités FastTrack](fasttrack-responsibilities.md)
 ### [Vos responsabilités](your-responsibilities.md)
-### [Annexe A : Migration d’IBM Domino vers Exchange Online](from-ibm-domino-to-exchange-online.md)
+### [Annexe A : Migration d'IBM Domino vers Exchange Online](from-ibm-domino-to-exchange-online.md)
 ### [Annexe B : Avantages supplémentaires du centre FastTrack](fasttrack-additional-benefits.md)
 ### [Annexe C : Accord de partenariat commercial HIPAA pour le service FastTrack](hipaa-business-associate-agreement.md)
 ### [Annexe D : Présentation des avantages du service FastTrack pour Office 365 pour le gouvernement américain](US-Gov-appendix-overview.md)

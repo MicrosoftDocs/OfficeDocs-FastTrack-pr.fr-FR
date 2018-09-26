@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: "L'intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 63492c246f0845693bd1f6d5953a43d8dc696d4a
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: d816407348ff9514c52016f2effbf094b46f9f2a
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828012"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021596"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -33,18 +33,16 @@ Pour obtenir les tâches détaillées de chaque phase, voir [Responsabilités Fa
 
 Après avoir acheté le nombre et le type appropriés de licences, suivez les conseils indiqués dans le message électronique de confirmation d’achat pour associer ces licences à votre client existant ou nouveau. 
   
-- Vous pouvez obtenir de l'aide par le biais du Centre d'administration Office 365 ou du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Pour obtenir de l'aide par le biais du Centre d'administration Office 365, votre administrateur se connecte au Centre d'administration, puis clique sur le widget **Besoin d'aide ?**. Pour obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), connectez-vous, cliquez sur **Services** et complétez le formulaire **Demande d'assistance pour Office 365**. 
+Vous pouvez obtenir de l'aide par le biais du Centre d'administration Office 365 ou du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Pour obtenir de l'aide par le biais du Centre d'administration Office 365, votre administrateur se connecte au Centre d'administration, puis clique sur le widget **Besoin d'aide ?**. Pour obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), connectez-vous, cliquez sur **Services** et complétez le formulaire **Demande d'assistance pour Office 365**. 
     
-    > [!NOTE]
-    >  Si un partenaire est répertorié dans votre client Office 365, cette option n'apparaît pas. Pour obtenir de l'aide, consultez votre partenaire. 
+> [!NOTE]
+>  Si un partenaire est répertorié dans votre client Office 365, cette option n'apparaît pas. Pour obtenir de l'aide, consultez votre partenaire. 
   
-- Les partenaires peuvent également obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d'un client. Pour ce faire, le partenaire se connecte au site, il sélectionne l'enregistrement client, il clique sur **Services** et remplit le formulaire **Demande d'assistance pour Office 365**. 
+Les partenaires peuvent également obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d'un client. Pour ce faire, le partenaire se connecte au site, il sélectionne l'enregistrement client, il clique sur **Services** et remplit le formulaire **Demande d'assistance pour Office 365**. 
+
+Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
     
-- Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
-    
-Pendant cette phase, nous abordons le processus d’intégration, vérifions vos données et organisons une réunion de lancement.
-  
-Ceci inclut de collaborer avec vous afin de déterminer la façon dont vous prévoyez d'utiliser le service, ainsi que les objectifs et plans de votre organisation pour stimuler son utilisation.
+Pendant cette phase, nous abordons le processus d’intégration, vérifions vos données et organisons une réunion de lancement. Nous allons ainsi collaborer avec vous afin de déterminer la façon dont vous prévoyez d’utiliser le service, ainsi que les objectifs et plans de votre organisation, pour stimuler son utilisation.
   
 ![Étapes d’intégration durant la phase de lancement](media/O365-Onboarding-Initiate.png)
   
@@ -88,22 +86,14 @@ L’intégration pour un ou plusieurs services éligibles peut commencer une foi
 ## <a name="exchange-online"></a>Exchange Online
 
 Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre organisation à utiliser la messagerie électronique. Les étapes exactes, en fonction de votre environnement source et de vos plans de migration de messagerie, peuvent vous aider avec les opérations suivantes :
-  
 - La configuration des fonctionnalités d’Exchange Online Protection (EOP) pour tous les domaines à extension messagerie validés dans Office 365.
-    
     > [!NOTE]
     > Vos enregistrements MX doivent pointer vers Office 365. 
-  
 - la configuration de la fonctionnalité Exchange Online - Protection avancée contre les menaces (ATP) si celle-ci fait partie de votre service d'abonnement une fois que vos enregistrements MX pointent vers Office 365. Cette fonctionnalité est configurée dans le cadre des paramètres anti-programme malveillant Exchange Online Protection ;
-    
 - la configuration de ports de pare-feu ;
-    
 - la configuration d’un DNS, y compris les enregistrements de découverte automatique, SPF (Sender Policy Framework) et MX obligatoires (si nécessaire) ; 
-    
 - la configuration d'un flux de messagerie entre votre environnement de messagerie source et Exchange Online (si nécessaire).
-    
 - la migration de messagerie de votre environnement de messagerie source vers Office 365.
-    
     > [!NOTE]
     > Pour plus d'informations sur la migration de données et de messagerie, reportez-vous à [Migration des données](data-migration.md). 
   
@@ -112,13 +102,9 @@ Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>Sharepoint Online et OneDrive Entreprise
 
 Pour SharePoint Online et OneDrive Entreprise, nous fournissons des conseils pour les étapes suivantes :
-  
 - Configuration de DNS.
-    
 - la configuration de ports de pare-feu ;
-    
-- la mise en service des utilisateurs et des licences ;
-    
+- la mise en service des utilisateurs et des licences ;   
 - la configuration des fonctionnalités Environnement hybride SharePoint, telles que la recherche hybride, les sites hybrides, la taxonomie hybride, les types de contenu, la création de sites en libre-service hybride (SharePoint Server 2013 uniquement), le lanceur d'applications étendu, OneDrive Entreprise hybride et les sites extranet.
     
 Les spécialistes FastTrack fournissent des conseils sur la migration des données vers Office 365 à l'aide d'un ensemble d'outils et de documents, ainsi qu'en effectuant des tâches de configuration dès que cela est nécessaire et possible.
@@ -134,15 +120,10 @@ Pour OneDrive Entreprise, les étapes varient selon que vous utilisez ou non Sha
 ## <a name="skype-for-business-online"></a>Skype Entreprise Online
 
 Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes suivantes :
-  
 - la configuration de ports de pare-feu ;
-    
-- Configuration de DNS.
-    
-- la création de comptes pour les périphériques système de salle de réunion ;
-    
-- le déploiement d'un client Skype Entreprise Online pris en charge ;
-    
+- Configuration de DNS.   
+- la création de comptes pour les périphériques système de salle de réunion ;   
+- le déploiement d'un client Skype Entreprise Online pris en charge ;  
 - l'établissement d'une configuration de serveur de domaines séparés entre votre environnement de serveur local Lync 2010, Lync 2013 ou Skype Entreprise 2015 et le client Skype Entreprise Online (si applicable), les plans d'appel, la diffusion de réunion Skype et le système téléphonique/les plans d'appel (dans les pays disponibles).
     
 ![Étapes de l’intégration Lync durant la phase 1 de l’activation](media/O365-Onboarding-Enable-Lync.png)
@@ -152,15 +133,10 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants :
-  
-- Vérification de la configuration minimale requise.
-    
-- la configuration de ports de pare-feu ;
-    
-- Configuration de DNS.
-    
-- Confirmation que Microsoft Teams est activé sur votre client Office 365.
-    
+- Vérification de la configuration minimale requise.  
+- la configuration de ports de pare-feu ;   
+- Configuration de DNS. 
+- Confirmation que Microsoft Teams est activé sur votre client Office 365.  
 - Activation ou désactivation des licences utilisateur.
     
 ![Diagramme de FastTrack Microsoft Teams (phase d’activation)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
@@ -168,21 +144,16 @@ Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants
 ## <a name="power-bi"></a>Power BI
 
 Pour Power BI, nous fournissons des conseils pour les étapes suivantes : 
-  
 - Attribution de licences Power BI.
-    
 - Déploiement de l'application Power BI Desktop.
     
 ## <a name="project-online"></a>Project Online
 
 Pour Project Online, nous fournissons des conseils pour :
   
-- la vérification de la fonctionnalité SharePoint de base sur laquelle Project Online s'appuie ;
-    
-- l'ajout du service Project Online à votre client (y compris en ajoutant des abonnements à des utilisateurs) ;
-    
-- la configuration de la liste des ressources d’entreprise (ERP) ;
-    
+- la vérification de la fonctionnalité SharePoint de base sur laquelle Project Online s'appuie ;   
+- l'ajout du service Project Online à votre client (y compris en ajoutant des abonnements à des utilisateurs) ;  
+- la configuration de la liste des ressources d’entreprise (ERP) ; 
 - la création de votre premier projet. 
     
 ![Étapes de la phase d’activation pour Project Online](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
@@ -190,17 +161,11 @@ Pour Project Online, nous fournissons des conseils pour :
 ## <a name="project-online-professional-and-project-online-premium"></a>Project Online Professionnel et Project Online Premium
 
 Pour Project Online Professionnel et Project Online Premium, nous fournissons des conseils pour les étapes suivantes :
-  
 - Résolution des problèmes de déploiement.
-    
-- Attribution des licences utilisateur final à l'aide du Centre d'administration Office 365 et de Windows PowerShell.
-    
+- Attribution des licences utilisateur final à l'aide du Centre d'administration Office 365 et de Windows PowerShell.  
 - Installation de Client de bureau Project Online à partir du portail Office 365 avec l'option Démarrer en un clic.
-    
-- Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office.
-    
-- Configuration d'un serveur de distribution sur site unique pour Client de bureau Project Online, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.
-    
+- Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office.  
+- Configuration d'un serveur de distribution sur site unique pour Client de bureau Project Online, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.  
 - Connexion de Client de bureau Project Online à Project Online Professional Professionnel ou Project Online Premium.
     
 ![Étapes de la phase d’activation de Project pour Office 365](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
@@ -212,19 +177,12 @@ Pour Yammer, nous fournissons des conseils concernant l’activation du service 
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Pour Office 365 ProPlus, nous fournissons des conseils pour les étapes suivantes :
-  
-- Résolution des problèmes de déploiement.
-    
-- Attribution des licences utilisateur final à l'aide du Centre d'administration Office 365 et de Windows PowerShell.
-    
-- Installation de Office 365 ProPlus à partir du portail Office 365 avec l'option Démarrer en un clic.
-    
-- Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile. 
-    
-- Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office.
-    
-- Configuration d'un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.
-    
+- Résolution des problèmes de déploiement.   
+- Attribution des licences utilisateur final à l'aide du Centre d'administration Office 365 et de Windows PowerShell. 
+- Installation de Office 365 ProPlus à partir du portail Office 365 avec l'option Démarrer en un clic.   
+- Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
+- Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office.   
+- Configuration d'un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.  
 - Déploiement à l'aide de Microsoft System Center Configuration Manager, incluant l'assistance avec la création du packaging System Center Configuration Manager.
     
 ![Étapes de l’intégration Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
@@ -232,13 +190,9 @@ Pour Office 365 ProPlus, nous fournissons des conseils pour les étapes suivant
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
 Pour Microsoft StaffHub, nous fournissons des conseils pour les éléments suivants :
-  
 - Confirmation que Microsoft StaffHub est activé sur votre client Office 365.
-    
 - Activation ou désactivation des licences utilisateur.
-    
 - Fonctionnalités de base du produit. 
-    
 - Emplacements de téléchargement pour Microsoft StaffHub.
     
 ![Étapes d’intégration de Microsoft StaffHub](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
