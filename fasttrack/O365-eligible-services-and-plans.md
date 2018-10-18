@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Lorsque vous achetez l'un des services Office 365 (comme détaillé dans la section Services éligibles suivante), les spécialistes FastTrack vous fournissent des conseils pour rejoindre Office 365 et commencer à l'utiliser.
-ms.openlocfilehash: fc77165f725ab48dd16237c62f11589792df39cf
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353641"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565558"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -45,9 +45,9 @@ Le Centre FastTrack fournit une assistance pour les [services Office 365](https
 - Office 365 ProPlus
 - Microsoft StaffHub
     
-## <a name="eligible-commercial-plans"></a>Plans commerciaux éligibles
+## <a name="eligible-plans"></a>Plans éligibles
 
-Vous devez acheter au moins 50 licences dans la liste des plans éligibles suivants (y compris les plans Office 365 Germany équivalents) pour recevoir les services FastTrack :
+Vous devez acheter au moins 150 licences dans la liste des plans éligibles suivants pour recevoir les services FastTrack :
   
  **Office 365**
   
@@ -66,13 +66,23 @@ Vous devez acheter au moins 50 licences dans la liste des plans éligibles suiva
 - Office 365 Secteur Public américain F1\*
 - Office 365 ProPlus
     
+ **Office 365 Éducation**
+  
+- Office 365 A3
+- Office 365 A5
+
  **Microsoft 365 Entreprise**
   
 - Microsoft 365 E3\*\*\*
 - Microsoft 365 E5\*\*\*
 - Microsoft 365 Business\*\*\*
     
- **Exchange Online**
+ **Microsoft 365 Éducation**
+  
+- Microsoft 365 A3\*\*\*
+- Microsoft 365 A5\*\*\*
+
+ **Exchange Online**
   
 - Exchange Online Plan 1
 - Exchange Online Plan 2 
@@ -106,27 +116,9 @@ Vous devez acheter au moins 50 licences dans la liste des plans éligibles suiva
     
  **Yammer**
   
-- Yammer Entreprise
-    
-## <a name="eligible-education-plans"></a>Offres pour l’éducation éligibles
-
-Les services FastTrack sont disponibles pour Office 365 Éducation et Microsoft Office 365 pour l’éducation uniquement si vous achetez au moins 1 000 licences dans la liste de plans éligibles suivante :
-  
- **Office 365 Éducation**
-  
-- Office 365 A3
-- Office 365 A5
-    
- **Microsoft 365 Éducation**
-  
-- Microsoft 365 A3\*\*\*
-- Microsoft 365 A5\*\*\*
-    
+- Yammer Entreprise 
 > [!NOTE]
-> Si vous avez acheté ou renouvelé le plan Office 365 A5 avant le 01/12/2017, la configuration minimale requise est de 50 licences au cours de votre période d'abonnement afin de bénéficier des avantages FastTrack. Si vous avez acheté ou renouvelé le plan Office 365 A5 avant le 01/12/2017, la configuration minimale requise est de 1 000 licences afin de bénéficier des avantages FastTrack. 
-  
-> [!NOTE]
-> Les offres disponibles à titre gratuit (comme Office 365 A1 ou l’offre d’avantages destinés aux étudiants) ne sont pas éligibles pour une prise en charge FastTrack. 
+> Pour pouvoir bénéficier des services Avantages du Centre FastTrack, vous devez acheter des licences payantes pour les plans éligibles mentionnés précédemment. Les plans disponibles sans frais (par exemple, Office 365 A1, Office 365 Essentials pour les associations et le plan d’avantages destinés aux étudiants) ne peuvent prétendre à l’assistance FastTrack. 
   
 ## <a name="ineligible-plans"></a>Plans non éligibles
 
