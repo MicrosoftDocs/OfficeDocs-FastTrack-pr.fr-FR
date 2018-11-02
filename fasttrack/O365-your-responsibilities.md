@@ -3,7 +3,7 @@ title: Vos responsabilités
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: Vous avez les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 38ff3668592c5bd1df4d9efbb3faff9b05e262dd
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 3d252c80002dcf1a70707b0de3957aa64a20a891
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353791"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895737"
 ---
 # <a name="your-responsibilities"></a>Vos responsabilités
 
