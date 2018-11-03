@@ -3,7 +3,7 @@ title: Responsabilités FastTrack pour Office 365 américaine
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 7d1ed63bc4986238b649669788c6790c49b962be
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021636"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895545"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour Office 365 américaine
 
@@ -103,7 +103,7 @@ Fournir des conseils à propos des éléments suivants :
 - la configuration de l'installation hybride soit entre l'organisation Exchange locale unique et Office 365 *, soit*  entre plusieurs organisations Exchange locales et Office 365. 
 - Définition de configurer la messagerie unifiée avec Exchange Online (messagerie unifiée n’est pas disponible dans les plans de GCC DoD). 
     
-Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](data-migration.md).
+Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](O365-data-migration.md).
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -121,7 +121,7 @@ Fournir des conseils à propos des éléments suivants :
   - Configurer l’approbation entre les environnements SharePoint en local et dans le cloud.   
 - Configurer des sites SharePoint locaux afin d'utiliser les fonctionnalités SharePoint Online hybride.
     
-## <a name="onedrive-for-business"></a>OneDrive Entreprise
+## <a name="onedrive-for-business"></a>OneDrive Entreprise
 
 Fournir des conseils à propos des éléments suivants : 
 - l'identification de la version locale de SharePoint et des options d'intégration ;    
@@ -173,14 +173,14 @@ Fournir des conseils à propos des éléments suivants :
 - Fonctionnalités de base du produit.  
 - Modèles de réussite des clients.
     
-## <a name="power-bi"></a>Power BI
+## <a name="power-bi"></a>Power BI
 
 Fournir des conseils à propos des éléments suivants :
 - Révision des plans d'abonnement Power BI.    
 - Ajout du service Power BI.    
 - Téléchargement de l'application Power BI Desktop.
     
-## <a name="project-online"></a>Project Online
+## <a name="project-online"></a>Project Online
 
 Fournir des conseils à propos des éléments suivants :  
 - Révision des plans d’abonnement.  
@@ -189,7 +189,7 @@ Fournir des conseils à propos des éléments suivants :
 - Ajout d'utilisateurs à Project Online, avec la synchronisation ERP.  
 - Vérification des fonctionnalités Project Online de base en créant un projet
     
-## <a name="yammer-enterprise"></a>Yammer Enterprise
+## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 Fournir des instructions sur la conversion de votre réseau Yammer Basic unique en un seul réseau Yammer Enterprise.
 
@@ -200,7 +200,7 @@ Fournir des instructions sur la conversion de votre réseau Yammer Basic unique 
 
 Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.   
-- Attribution des licences utilisateur final à l'aide du Centre d'administration Office 365 et de Windows PowerShell.  
+- Attribution de licences de l’utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et Windows PowerShell.  
 - Installation de Office 365 ProPlus à partir du portail Office 365 avec l'option Démarrer en un clic.   
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
 - Configuration des paramètres de mise à jour à l'aide de l'outil Déploiement 2016 Office ou des modèles de stratégie de groupe.   
