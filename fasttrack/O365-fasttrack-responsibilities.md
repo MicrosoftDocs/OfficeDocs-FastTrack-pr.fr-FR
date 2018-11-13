@@ -3,7 +3,7 @@ title: Responsabilités FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353731"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895641"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -103,6 +103,7 @@ Fournir des conseils à propos des éléments suivants :
 - l'activation de l'acheminement de courrier électronique entre le système de messagerie source et les environnements Office 365 ; 
 - la configuration des fonctionnalités Exchange Online Protection (y compris les fonctionnalités Exchange Online - Protection avancée contre les menaces si elles sont disponibles dans votre abonnement) et la vérification que votre enregistrement MX pointe vers Office 365 pour tous les domaines à extension messagerie validés.
 - la configuration de l'installation hybride soit entre l'organisation Exchange locale unique et Office 365 *, soit*  entre plusieurs organisations Exchange locales et Office 365. 
+- La configuration des clients de boîte aux lettres (Outlook pour Windows, Outlook sur le web et Outlook pour iOS et Android).
     
 Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](O365-data-migration.md).
   
@@ -191,7 +192,7 @@ Fournir des conseils à propos des éléments suivants :
 
 Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.
-- Attribution des licences utilisateur final à l'aide du Centre d'administration Office 365 et de Windows PowerShell.
+- Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
 - Téléchargement et installation de Client de bureau Project Online à partir du portail.   
 - Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office ou des modèles de stratégie de groupe.
 - Configuration d'un serveur de distribution sur site unique pour Client de bureau Project Online et instructions relatives à la création d'un fichier configuration.xml pour l'outil Déploiement 2016 d'Office. 
@@ -205,10 +206,10 @@ Fournir des instructions sur la conversion de votre réseau Yammer Basic unique 
 
 Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.
-- Attribution des licences utilisateur final à l'aide du Centre d'administration Office 365 et de Windows PowerShell.
-- Installation de Office 365 ProPlus à partir du portail Office 365 avec l'option Démarrer en un clic.
-- Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile. 
-- Configuration des paramètres de mise à jour à l'aide de l'outil Déploiement 2016 Office ou des modèles de stratégie de groupe.
+- Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
+- Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.
+- Installation des applications Office Mobile (comme Outlook pour iOS et Android, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile. 
+- Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement 2016 Office ou des modèles de stratégie de groupe.
 - Configuration d'un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.
 - Déploiement à l'aide de System Center Configuration Manager, incluant l'assistance avec la création du packaging System Center Configuration Manager.
     
@@ -220,5 +221,11 @@ Fournir des conseils à propos des éléments suivants :
 - Fonctionnalités de base du produit.
 - Emplacements de téléchargement pour Microsoft StaffHub.
     
-\*Pour plus d’informations sur les responsabilités FastTrack pour Office 365 pour le gouvernement américain, consulter[responsabilités FastTrack pour Office 365 pour le gouvernement américain](US-Gov-appendix-fasttrack-responsibilities.md).
+## <a name="outlook-for-ios-and-android"></a>Outlook pour iOS et Android
+
+Fournir des conseils à propos des éléments suivants :
+- Téléchargement d’Outlook sur des appareils iOS et Android.
+- Configuration des comptes de messagerie dans Outlook.
+
+\*Pour plus d’informations sur les responsabilités FastTrack pour Office 365 pour le gouvernement américain, consultez l’article relatif aux [responsabilités FastTrack pour Office 365 pour le gouvernement américain](US-Gov-appendix-fasttrack-responsibilities.md).
 

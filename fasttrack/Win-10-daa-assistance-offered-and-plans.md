@@ -3,7 +3,7 @@ title: Présentation des avantages du Centre FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365, des spécialistes FastTrack fournissent des conseils et des instructions pour la correction de problèmes afin d’effectuer un déploiement vers Windows 10 et Office 365 ProPlus et de rester à la page sans frais supplémentaires (avec un abonnement éligible).
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353671"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895617"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>Assistance proposée et plans éligibles   
 
-Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 (comme détaillé dans la section **Plans éligibles** suivante), des spécialistes FastTrack fournissent des conseils et des instructions pour la correction de problèmes afin d’effectuer un déploiement vers Windows 10 et Office 365 ProPlus et de rester à la page sans frais supplémentaires (avec un abonnement éligible).
+Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 (comme détaillé dans la section **Plans éligibles** suivante), des spécialistes FastTrack fournissent des conseils et des instructions pour la correction de problèmes de compatibilité d’application afin d’effectuer un déploiement vers Windows 10 et Office 365 ProPlus, et de rester à la page sans frais supplémentaires (avec un abonnement éligible).
 
 Pour obtenir de l’aide, remplissez la [demande de service Soutien aux applications du bureau](https://go.microsoft.com/fwlink/?linkid=2022721).
 
