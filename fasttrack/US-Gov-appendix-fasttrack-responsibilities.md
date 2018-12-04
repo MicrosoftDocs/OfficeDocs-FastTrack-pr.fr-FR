@@ -3,7 +3,7 @@ title: Responsabilités FastTrack pour Office 365 américaine
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895545"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133120"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour Office 365 américaine
 
@@ -200,8 +200,8 @@ Fournir des instructions sur la conversion de votre réseau Yammer Basic unique 
 
 Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.   
-- Attribution de licences de l’utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et Windows PowerShell.  
-- Installation de Office 365 ProPlus à partir du portail Office 365 avec l'option Démarrer en un clic.   
+- Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.  
+- Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.   
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
 - Configuration des paramètres de mise à jour à l'aide de l'outil Déploiement 2016 Office ou des modèles de stratégie de groupe.   
 - Configuration d'un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.   
