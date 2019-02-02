@@ -3,20 +3,19 @@ title: Intégration et Migration Phases pour Office 365 américaine
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'Intégration d’Office 365 pour Office 365 américains comporte quatre phases principales : lancer, évaluation, appliquer des mesures correctives et activer. Vous pouvez suivre ces étapes avec une phase de migration de données facultatives comme indiqué dans la figure suivante.'
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133072"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696769"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Intégration et Migration Phases pour Office 365 américaine
 
@@ -32,13 +31,13 @@ Après avoir acheté le nombre et le type appropriés de licences, suivez les co
   
 Vous pouvez obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
  
-Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
+Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Sélectionnez **FastTrack**.
 3.  Sélectionnez **Services**.
-4.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
+4.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
     > [!NOTE]
     >  Si un partenaire est répertorié dans votre client Office 365, cette option n’apparaît pas. Pour obtenir de l’aide, consultez votre partenaire. 
 
@@ -118,7 +117,7 @@ Pour SharePoint Online et OneDrive Entreprise, nous fournissons des conseils pou
 - Configuration de DNS.   
 - la configuration de ports de pare-feu ;   
 - la mise en service des utilisateurs et des licences ;   
-- la configuration des fonctionnalités Environnement hybride SharePoint, telles que la recherche hybride, les sites hybrides, la taxonomie hybride, les types de contenu, la création de sites en libre-service hybride (SharePoint Server 2013 uniquement), le lanceur d'applications étendu, OneDrive Entreprise hybride et les sites extranet.
+- Configuration des fonctionnalités hybrides SharePoint, telles que la recherche hybride, sites hybride, taxonomie hybride, les types de contenu (SharePoint Server 2013 uniquement), la création de sites libre-service hybride étendu lancement d’application, hybride OneDrive entreprise et les sites extranet.
     
 Les spécialistes FastTrack fournissent des conseils sur la migration des données vers Office 365 à l'aide d'un ensemble d'outils et de documents, ainsi qu'en effectuant des tâches de configuration dès que cela est nécessaire et possible.
   
@@ -151,7 +150,7 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 
 Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants : 
 - Vérification de la configuration minimale requise.   
-- la configuration de ports de pare-feu ;   
+- la configuration de ports de pare-feu ;   
 - Configuration de DNS.  
 - Confirmation que Microsoft Teams est activé sur votre client Office 365.    
 - Activation ou désactivation des licences utilisateur.
@@ -187,8 +186,8 @@ Pour Office 365 ProPlus, nous fournissons des conseils pour les étapes suivant
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.    
 - Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.    
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
-- Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office.    
-- Configuration d'un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.    
+- Configuration des paramètres de mise à jour à l’aide de l’outil de déploiement d’Office 365.    
+- Configuration d’un serveur de distribution sur site unique pour Office 365 ProPlus, y compris l’aide à la création d’un fichier configuration.xml à utiliser avec l’outil de déploiement Office 365.    
 - Déploiement à l'aide de Microsoft System Center Configuration Manager, incluant l'assistance avec la création du packaging System Center Configuration Manager.
     
 ![Étapes de l’intégration Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)

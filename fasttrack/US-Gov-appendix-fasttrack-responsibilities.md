@@ -3,20 +3,19 @@ title: Responsabilités FastTrack pour Office 365 américaine
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133120"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696781"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour Office 365 américaine
 
@@ -46,10 +45,10 @@ Les responsables FastTrack ont les responsabilités suivantes lors de l’intég
 - Établir la chronologie des activités de correction.
 - Fournir une liste de contrôle de correction.   
 - Évaluer l'infrastructure SharePoint Server 2013 ou SharePoint Server 2016 existante, y compris :  
-  - Conditions préalables pour SharePoint Online hybride.  
-  - Préparation de l'infrastructure locale pour les fonctionnalités SharePoint Online hybride.  
+  - Conditions requises pour l’environnement hybride SharePoint Online.  
+  - Préparation de l’infrastructure locale pour les fonctionnalités de SharePoint Online hybride.  
   - Accès aux points de terminaison SharePoint Online obligatoires. 
-  - Audiences pour OneDrive Entreprise hybride.    
+  - Audiences pour OneDrive pour un environnement hybride Business.    
 - Évaluer l'infrastructure Lync ou Skype Entreprise Online existante, y compris :  
   - la stratégie de déploiement du client Skype Entreprise pris en charge ;  
   - l’accès aux points de terminaison ;  
@@ -115,13 +114,13 @@ Fournir des conseils à propos des éléments suivants :
 - l’activation de sites personnels et de fonctionnalités sociales ;   
 - la configuration des fonctionnalités SharePoint Online.    
 - l’assurance de la migration de données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.  
-- l'évaluation de la configuration d'infrastructure de batterie de serveurs SharePoint locale nécessaire pour SharePoint Online hybride ;    
+- Évaluation de la configuration de l’infrastructure locale SharePoint batterie de serveurs nécessaire pour l’environnement hybride SharePoint Online.    
 - l’utilisation des outils et de l’automatisation pour : 
   - Configurer les applications de service de recherche dans le cloud en local.    
   - Configurer l’approbation entre les environnements SharePoint en local et dans le cloud.   
-- Configurer des sites SharePoint locaux afin d'utiliser les fonctionnalités SharePoint Online hybride.
+- Configuration des sites SharePoint locaux à utiliser des fonctionnalités SharePoint Online hybride.
     
-## <a name="onedrive-for-business"></a>OneDrive Entreprise
+## <a name="onedrive-for-business"></a>OneDrive Entreprise
 
 Fournir des conseils à propos des éléments suivants : 
 - l'identification de la version locale de SharePoint et des options d'intégration ;    
@@ -135,7 +134,7 @@ Fournir des conseils à propos des éléments suivants :
 - l’attribution des licences utilisateur final ;   
 - la configuration d'audiences SharePoint Online pour le contrôle et la gestion de l'accès à OneDrive Entreprise ;    
 - Déploiement du client de synchronisation OneDrive Entreprise sur les ordinateurs de bureau.   
-- Méthode de configuration de la redirection OneDrive Entreprise hybride avec SharePoint Online (SharePoint 2013 et SharePoint 2016 uniquement).  
+- La configuration de SharePoint Online hybride OneDrive pour la redirection d’entreprise (SharePoint 2013 et 2016 SharePoint uniquement).  
 - Migration des données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
     
 ## <a name="skype-for-business-online"></a>Skype Entreprise Online
@@ -198,13 +197,13 @@ Fournir des instructions sur la conversion de votre réseau Yammer Basic unique 
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
-Fournir des conseils à propos des éléments suivants :
+Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.   
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.  
 - Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.   
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
 - Configuration des paramètres de mise à jour à l'aide de l'outil Déploiement 2016 Office ou des modèles de stratégie de groupe.   
-- Configuration d'un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.   
+- Configuration d’un serveur de distribution sur site unique pour Office 365 ProPlus, y compris l’aide à la création d’un fichier configuration.xml à utiliser avec l’outil de déploiement Office 365.   
 - Déploiement à l'aide de System Center Configuration Manager, incluant l'assistance avec la création du packaging System Center Configuration Manager.
 
     
