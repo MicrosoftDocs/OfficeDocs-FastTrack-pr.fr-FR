@@ -3,20 +3,19 @@ title: Phases d’intégration et de migration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'L’intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données facultative.'
-ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: b77b4f02256c4b443c41f4740036e4a88519202d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133180"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696841"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -35,23 +34,21 @@ Après avoir acheté le nombre et le type appropriés de licences, suivez les co
   
 Vous pouvez obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
-Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
+Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **FastTrack**.
-3.  Sélectionnez **Services**.
-4.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
+2.  Sélectionnez **Services**.
+3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
 > [!NOTE]
 >  Si un partenaire est répertorié dans votre client Office 365, cette option n’apparaît pas. Pour obtenir de l’aide, consultez votre partenaire. 
   
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **FastTrack**.
-3.  Sélectionnez **Mes clients**.
-4.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-5.  Sélectionnez **Services**.
-6.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
+2.  Sélectionnez **Mes clients**.
+3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
+4.  Sélectionnez **Services**.
+5.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
 
 Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
     
@@ -102,7 +99,9 @@ Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre
 - La configuration des fonctionnalités d’Exchange Online Protection (EOP) pour tous les domaines à extension messagerie validés dans Office 365.
     > [!NOTE]
     > Vos enregistrements MX doivent pointer vers Office 365. 
-- la configuration de la fonctionnalité Exchange Online - Protection avancée contre les menaces (ATP) si celle-ci fait partie de votre service d'abonnement une fois que vos enregistrements MX pointent vers Office 365. Cette fonctionnalité est configurée dans le cadre des paramètres anti-programme malveillant Exchange Online Protection ;
+- La configuration de la fonctionnalité Exchange Online - Protection avancée contre les menaces (ATP) si celle-ci fait partie de votre service d’abonnement, une fois que vos enregistrements MX pointent vers Office 365. Cette fonctionnalité est configurée dans le cadre des paramètres anti-programme malveillant Exchange Online Protection.
+- La configuration de la fonctionnalité Protection contre la perte de données (DLP) pour tous les domaines à extension messagerie validés dans Office 365 dans le cadre de votre service d’abonnement, une fois que vos enregistrements MX pointent vers Office 365.
+- La configuration de la fonctionnalité Chiffrement des messages Office 365 (OME) pour tous les domaines à extension messagerie validés dans Office 365 dans le cadre de votre service d’abonnement, une fois que vos enregistrements MX pointent vers Office 365.
 - la configuration de ports de pare-feu ;
 - la configuration d’un DNS, y compris les enregistrements de découverte automatique, SPF (Sender Policy Framework) et MX obligatoires (si nécessaire) ; 
 - la configuration d'un flux de messagerie entre votre environnement de messagerie source et Exchange Online (si nécessaire).
@@ -119,7 +118,7 @@ Pour SharePoint Online et OneDrive Entreprise, nous fournissons des conseils pou
 - Configuration de DNS.
 - la configuration de ports de pare-feu ;
 - la mise en service des utilisateurs et des licences ;   
-- la configuration des fonctionnalités Environnement hybride SharePoint, telles que la recherche hybride, les sites hybrides, la taxonomie hybride, les types de contenu, la création de sites en libre-service hybride (SharePoint Server 2013 uniquement), le lanceur d'applications étendu, OneDrive Entreprise hybride et les sites extranet.
+- la configuration des fonctionnalités Environnement hybride SharePoint, telles que la recherche hybride, les sites hybrides, la taxonomie hybride, les types de contenu, la création de sites en libre-service hybride (SharePoint Server 2013 uniquement), le lanceur d’applications étendu, OneDrive Entreprise hybride et les sites extranet.
     
 Les spécialistes FastTrack fournissent des conseils sur la migration des données vers Office 365 à l'aide d'un ensemble d'outils et de documents, ainsi qu'en effectuant des tâches de configuration dès que cela est nécessaire et possible.
   
@@ -131,7 +130,20 @@ Pour OneDrive Entreprise, les étapes varient selon que vous utilisez ou non Sha
   
 ![Étapes de l’intégration OneDrive durant la phase d’activation](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="skype-for-business-online"></a>Skype Entreprise Online
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants :
+- Vérification de la configuration minimale requise.  
+- la configuration de ports de pare-feu ;   
+- Configuration de DNS. 
+- Confirmation que Microsoft Teams est activé sur votre client Office 365.  
+- Activation ou désactivation des licences utilisateur.
+    
+![Diagramme de FastTrack Microsoft Teams (phase d’activation)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Fonctionnalités Skype partagées avec Microsoft Teams](media/Teams-Skype-features.png)
+
+## <a name="skype-for-business-online"></a>Skype Entreprise Online
 
 Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes suivantes :
 - la configuration de ports de pare-feu ;
@@ -143,17 +155,6 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 ![Étapes de l’intégration Lync durant la phase 1 de l’activation](media/O365-Onboarding-Enable-Lync.png)
   
 ![Étapes de l’intégration Skype Entreprise durant la phase 2 de l’activation](media/SfBOifappborderupdate.png)
-  
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants :
-- Vérification de la configuration minimale requise.  
-- la configuration de ports de pare-feu ;   
-- Configuration de DNS. 
-- Confirmation que Microsoft Teams est activé sur votre client Office 365.  
-- Activation ou désactivation des licences utilisateur.
-    
-![Diagramme de FastTrack Microsoft Teams (phase d’activation)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -178,9 +179,9 @@ Pour Project Online Professionnel et Project Online Premium, nous fournissons de
 - Résolution des problèmes de déploiement.
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.  
 - Installation du client de bureau Project Online à partir du portail Office 365 avec l’option Démarrer en un clic.
-- Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office.  
-- Configuration d'un serveur de distribution sur site unique pour Client de bureau Project Online, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.  
-- Connexion de Client de bureau Project Online à Project Online Professional Professionnel ou Project Online Premium.
+- Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.  
+- Configuration d’un serveur de distribution sur site unique pour le client de bureau Project Online, incluant l’assistance concernant la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.  
+- Connexion du client de bureau Project Online à Project Online Professionnel ou Project Online Premium.
     
 ![Étapes de la phase d’activation de Project pour Office 365](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
   
@@ -195,9 +196,9 @@ Pour Office 365 ProPlus, nous fournissons des conseils pour les étapes suivant
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell. 
 - Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.   
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
-- Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office.   
-- Configuration d'un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.  
-- Déploiement à l'aide de Microsoft System Center Configuration Manager, incluant l'assistance avec la création du packaging System Center Configuration Manager.
+- Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.   
+- Configuration d’un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l’assistance concernant la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.  
+- Déploiement à l’aide de Microsoft System Center Configuration Manager, incluant l’assistance avec la création du packaging System Center Configuration Manager.
     
 ![Étapes de l’intégration Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
   

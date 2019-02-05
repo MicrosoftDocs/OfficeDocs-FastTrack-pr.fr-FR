@@ -3,20 +3,19 @@ title: Migration des données
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 6c14e9177d4630a0a7ba5c33c9405b660d08cd26
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133156"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696877"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -49,20 +48,30 @@ Le tableau suivant décrit la configuration requise pour la migration dans votre
    
 ## <a name="migration-to-exchange-online"></a>Migration vers Exchange Online
 
- **Activation de la migration**
+### <a name="enable-to-migrate"></a>Activation de la migration
   
 Si vous utilisez Microsoft pour migrer votre messagerie, nous vous fournissons des instructions pour activer Exchange Online et l'environnement source pour la migration. En fonction de l'environnement source, plusieurs étapes d'activation peuvent être nécessaires. Pour vous aider, nous mettons à votre disposition un ensemble d'outils et de documents, et effectuons des tâches de configuration dès que cela est nécessaire et possible. Selon les paramètres applicables, nous migrons ensuite les boîtes aux lettres, gérons les tâches et fournissons des rapports d'état.
   
 Microsoft peut nécessiter des autorisations et des droits d’accès relatifs à votre système de messagerie afin d’effectuer des activités de migration.
   
- **Stratégie et étapes de la migration**
+### <a name="migration-policy-and-steps"></a>Stratégie et étapes de la migration
   
-- Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (24x5), au cours de créneaux horaires prédéfinis. Ces créneaux horaires de migration sont également appelés « lots de migration ».    
-- Une journée de migration comprend trois lots de migration. Une semaine comprend cinq jours de migration, du lundi 2 h (UTC) au vendredi minuit (UTC). Cela signifie que la dernière migration planifiée a lieu le vendredi à 20 h (UTC).
-- Toutes les migrations utilisent les outils de migration sur le Cloud.
-- Microsoft peut nécessiter des autorisations et des droits d’accès relatifs à votre système de messagerie afin d’effectuer des activités de migration.
+> [!NOTE]
+> Ces créneaux horaires de migration sont également appelés « lots de migration ».
+
+#### <a name="commercial-and-uk-government"></a>Commercial et gouvernement britannique
+
+Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les sept (7) jours ouvrés de la semaine (24x7), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration.
+
+#### <a name="us-governmentdod"></a>Gouvernement américain/DOD
+
+Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (24x5), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi 2 h 00 UTC au vendredi minuit UTC. Cela signifie que la dernière migration planifiée a lieu le vendredi à 20 h 00 UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland Allemagne (MCD)
+
+Les migrations sont effectuées de façon programmée et standardisée 9 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (9x5), au cours de créneaux horaires de migration prédéfinis. Il y a un lot de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi minuit UTC au vendredi 21 h 00 UTC.
     
- **État final**
+ ### <a name="end-state"></a>État final
   
 Après migration d’un lot, l’état final est le suivant :
 - Les données provenant de boîtes aux lettres sources éligibles correctement planifiées dans l’environnement source sont migrées vers Office 365. 
@@ -107,9 +116,8 @@ Lors des migrations, vous devez effectuer les opérations suivantes :
 - Intégration Exchange Online complète ou réalisation satisfaisante des contrôles requis à l'aide du Service FastTrack.
 - Gestion de toutes les communications avec les utilisateurs finals.  
 - Installation du niveau approprié de logiciel client conformément aux instructions d’Office 365. Pour plus d’informations, reportez-vous à [Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?linkid=2005429). 
-- Validation de la coexistence de routage de courrier SMTP entre l'environnement de messagerie source et Office 365 Exchange Online le cas échéant.
-- Fourniture d’un plan de migration incluant une méthode définie et la liste des boîtes aux lettres spécifiques à migrer pour chaque événement de migration au moins 14 jours à l’avance. Pour les migrations de Notes, veillez à fournir ce plan 21 jours à l’avance.
-- Ajout au plan de migration des nouvelles boîtes aux lettres ou des boîtes aux lettres reprogrammées (10 % maximum des boîtes aux lettres déjà programmées pour migration), jusqu’à trois jours avant la migration. Ce doit être le lot de migration final.  
+- Validation de la coexistence de routage de courrier SMTP entre l’environnement de messagerie source et Office 365 Exchange Online le cas échéant.
+- Fourniture d’un plan de migration incluant une méthode définie et la liste des boîtes aux lettres spécifiques à migrer pour chaque événement de migration au moins trois (3) jours à l’avance. Pour les migrations de Notes, veillez à fournir ce plan 21 jours à l’avance.
 - Suppression des boîtes aux lettres en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 - Planification d’un nombre moyen cible de boîtes aux lettres dans une période de 24 heures, comme indiqué dans le tableau ci-dessous.
     
@@ -145,30 +153,33 @@ Vous devez suivre le processus de migration standard et collaborer de façon app
   
 ## <a name="migration-to-sharepoint-online"></a>Migrer vers SharePoint Online
 
- **Activation de la migration**
+### <a name="enable-to-migrate"></a>Activation de la migration
   
 Si vous utilisez Microsoft pour migrer vos données, nous vous fournissons des instructions afin d'activer SharePoint Online et l'environnement source pour la migration. En fonction de la source, plusieurs étapes d'activation peuvent être nécessaires. Pour vous aider, nous mettons à votre disposition un ensemble d'outils et de documents, et effectuons des tâches de configuration dès que cela est nécessaire et possible.
   
 Vous devez fournir un accès et des autorisations appropriés à Microsoft pour certaines activités.
   
- **Stratégie et étapes de la migration**
+### <a name="migration-policy-and-steps"></a>Stratégie et étapes de la migration
   
-- Les migrations visent\* à être exécutées selon des planifications normalisées basées sur la source de migration, comme illustré dans le tableau suivant : 
-    
-|||
-|:-----|:-----|
-|**Source** <br/> |**Stratégie de planification** <br/> |
-|**Partage de fichiers, Box**  <br/> | 24 x 5 en fonction des lots de migration prédéfinis.  <br/>  Trois lots de migration par journée de migration.  <br/>  Une semaine comprend cinq jours de migration, du lundi 2 h (UTC) au vendredi minuit (UTC).  <br/>  La dernière migration planifiée a lieu le vendredi à 20 h (UTC).  <br/> |
-   
-* La planification est basée sur une taille de jeu de données hypothétique et sur des facteurs environnementaux. Certains contenus planifiés ne peuvent pas être migrés au sein d’une fenêtre de migration unique.
-    
-- Les migrations sont effectuées sur une base pré-planifiée normalisée de 24 x 5 dans des lots de migration prédéfinis.
-- Une journée de migration comprend trois lots de migration. Une semaine comprend cinq jours de migration, du lundi 2 h (UTC) au vendredi minuit (UTC). Cela signifie que la dernière migration planifiée a lieu le vendredi à 20 h (UTC).  
-- Toutes les migrations exigent un accès et des autorisations appropriés pour l’environnement source.  
-- Toutes les migrations sont sujettes à des quotas SharePoint Online décrits dans l'article [SharePoint Online : limites et frontières logicielles](https://go.microsoft.com/fwlink/?LinkID=616612).   
+> [!NOTE]
+> Ces créneaux horaires de migration sont également appelés « lots de migration ».
+
+#### <a name="commercial-and-uk-government"></a>Commercial et gouvernement britannique
+
+Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les sept (7) jours ouvrés de la semaine (24x7), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration.
+
+#### <a name="us-governmentdod"></a>Gouvernement américain/DOD
+
+Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (24x5), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi 2 h 00 UTC au vendredi minuit UTC. Cela signifie que la dernière migration planifiée a lieu le vendredi à 20 h 00 UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland Allemagne (MCD)
+
+Les migrations sont effectuées de façon programmée et standardisée 9 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (9x5), au cours de créneaux horaires de migration prédéfinis. Il y a un lot de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi minuit UTC au vendredi 21 h 00 UTC.
+
+- Toutes les migrations sont sujettes à des quotas SharePoint Online décrits dans l’article [SharePoint Online et OneDrive Entreprise : limites et frontières logicielles](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - Le volume total des données migrées est lié à 75 % du quota de stockage SharePoint Online total auquel vous êtes autorisé (y compris le stockage supplémentaire que vous avez peut-être acheté séparément).
     
- **État final**
+ ### <a name="end-state"></a>État final
   
 Après migration d’un lot, l’état final est le suivant : 
 - Les données provenant de sources éligibles correctement planifiées dans l'environnement source sont migrées vers SharePoint Online.   
@@ -189,12 +200,14 @@ Les spécialistes de FastTrack effectuent les opérations suivantes pendant les 
 - Fournir la configuration requise pour les outils de migration et d’évaluation selon le cas pour le scénario.   
 - Fournir la configuration requise pour l’accès de l’équipe de migration à l’environnement source et cible pour l’évaluation et la migration.   
 - Fournir des outils d’évaluation pour évaluer l’environnement source et cible, ou fournir des instructions sur l’utilisation des fonctions de la plateforme source native afin de créer des rapports d’évaluation.   
+- Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins sept (7) jours à l’avance.
+- Supprimer des données utilisateur en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 - Apporter son aide pour le déploiement et l’exécution d’outils d’évaluation et de migration (le cas échéant).   
 - Configurer l’infrastructure de migration en vue de la migration de contenu (le cas échéant).    
 - Effectuer une migration de test limitée pour valider l’infrastructure de migration et la configuration requise.   
 - Provisionner des sites SharePoint Online cibles prêts à l'emploi dans le cadre de la migration.    
 - Effectuer une migration pilote unique avant la migration de rapidité.   
-- Fournir des instructions sur la planification de la migration pour le scénario sélectionné.   
+- Fournir des instructions sur la planification de la migration pour le scénario sélectionné. 
 - Organiser des vagues de migrations de rapidité du contenu conformément à l’échéancier de migration fourni par le client et validé par les ressources FastTrack.   
 - Fournir des résultats de migration après chaque fenêtre de migration.   
 - Participer au triage des problèmes de migration de rapidité et fournir des instructions sur les options de correction potentielles.   
@@ -213,39 +226,45 @@ Lors des migrations, vous devez effectuer les opérations suivantes :
 - Fournir les conditions préalables et effectuer les activités nécessaires pour prendre en charge l’évaluation et la migration.   
 - Installer les outils d’évaluation fournis par FastTrack et effectuer les activités de collecte de données d’évaluation (le cas échéant).   
 - Installer localement le logiciel de migration fourni par FastTrack (le cas échéant).   
-- Effectuer les activités de correction définies dans le rapport de correction fourni par FastTrack (le cas échéant).    
+- Effectuer les activités de correction définies dans le rapport de correction fourni par FastTrack (le cas échéant).  
 - Fournir un échéancier de migration à l’aide des modèles FastTrack et donner des conseils.   
 - Effectuer des tests d’assurance qualité et d’acceptation utilisateur concernant la migration.   
 - Effectuer des corrections de migration après la migration (le cas échéant).
 - Planifier et implémenter des communications de gestion des modifications et aux utilisateurs finals (le cas échéant).   
-- Administrer et configurer les modifications apportées au système source et les appareils requis pour la réalisation des activités d’évaluation et de migration.
+- Administrez et configurez les modifications apportées au système source et les appareils requis pour la réalisation des activités d’évaluation et de migration.
 
 > [!NOTE]
 > Microsoft ne peut pas garantir la vitesse de migration des fichiers.
     
 ## <a name="migration-to-onedrive-for-business"></a>Migration vers OneDrive Entreprise
 
- **Activation de la migration**
+ ### <a name="enable-to-migrate"></a>Activation de la migration
   
 Si vous utilisez Microsoft pour migrer vos données, nous vous fournissons des instructions pour activer OneDrive Entreprise et l'environnement source pour la migration. En fonction de la source, plusieurs étapes d'activation peuvent être nécessaires. Pour vous aider à réaliser certaines opérations, nous mettons à votre disposition un ensemble d'outils, de documents et d'instructions, et effectuons des tâches de configuration dès que cela est nécessaire et possible.
   
 Il peut être nécessaire de fournir un accès et des autorisations appropriés à Microsoft pour certaines opérations. Si vous ne le faites pas, vous devez effectuer certaines tâches définies vous-même, en suivant les instructions de Microsoft. 
   
- **Stratégie et étapes de la migration**
+### <a name="migration-policy-and-steps"></a>Stratégie et étapes de la migration
   
-- Les migrations visent\* à être exécutées selon des planifications normalisées basées sur la source de migration, comme illustré dans le tableau suivant : 
-    
-|||
-|:-----|:-----|
-|**Source** <br/> |**Stratégie de planification** <br/> |
-|**Partage de fichiers, Box, Google Drive**  <br/> | 24 x 5 en fonction des lots de migration prédéfinis.  <br/>  Trois lots de migration par journée de migration.  <br/>  Une semaine comprend cinq jours de migration, du lundi 2 h (UTC) au vendredi minuit (UTC).  <br/>  La dernière migration planifiée a lieu le vendredi à 20 h (UTC).  <br/> |
-   
-* La planification est basée sur une taille de jeu de données hypothétique et sur des facteurs environnementaux. Certains contenus planifiés ne peuvent pas être migrés au sein d’une fenêtre de migration unique.
+> [!NOTE]
+> Ces créneaux horaires de migration sont également appelés « lots de migration ».
+
+#### <a name="commercial-and-uk-government"></a>Commercial et gouvernement britannique
+
+Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les sept (7) jours ouvrés de la semaine (24x7), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration.
+
+#### <a name="us-governmentdod"></a>Gouvernement américain/DOD
+
+Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (24x5), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi 2 h 00 UTC au vendredi minuit UTC. Cela signifie que la dernière migration planifiée a lieu le vendredi à 20 h 00 UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland Allemagne (MCD)
+
+Les migrations sont effectuées de façon programmée et standardisée 9 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (9x5), au cours de créneaux horaires de migration prédéfinis. Il y a un lot de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi minuit UTC au vendredi 21 h 00 UTC.
     
 - Toutes les migrations exigent un accès et des autorisations appropriés pour l’environnement source.   
-- Toutes les migrations sont sujettes à des quotas OneDrive Entreprise décrits dans l'article [SharePoint Online et OneDrive Entreprise : limites et frontières logicielles](https://go.microsoft.com/fwlink/?LinkId=698855).
+- Toutes les migrations sont sujettes à des quotas OneDrive Entreprise décrits dans l’article [SharePoint Online et OneDrive Entreprise : limites et frontières logicielles](https://go.microsoft.com/fwlink/?LinkId=698855).
     
- **État final**
+ ### <a name="end-state"></a>État final
   
 Après migration d’un lot, l’état final est le suivant :  
 - Les données provenant de sources éligibles correctement planifiées de l’environnement source sont migrées vers OneDrive Entreprise.  
@@ -267,6 +286,8 @@ Les spécialistes de FastTrack effectuent les opérations suivantes pendant les 
 - Fournir la configuration requise pour les outils de migration et d’évaluation selon le cas pour le scénario.  
 - Fournir la configuration requise pour l’accès de l’équipe de migration à l’environnement source et cible pour l’évaluation et la migration.   
 - Fournir des outils d’évaluation pour évaluer l’environnement source et cible, ou fournir des instructions sur l’utilisation des fonctions de la plateforme source native afin de créer des rapports d’évaluation.    
+- Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins sept (7) jours à l’avance.
+- Supprimer des données utilisateur en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 - Apporter son aide pour le déploiement et l’exécution d’outils d’évaluation et de migration (le cas échéant).   
 - Configurer l’infrastructure de migration en vue de la migration de contenu (le cas échéant).    
 - Effectuer une migration de test limitée pour valider l’infrastructure de migration et la configuration requise.    

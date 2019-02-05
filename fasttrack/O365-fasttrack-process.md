@@ -3,20 +3,19 @@ title: Processus FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'Le processus de FastTrack propose des services pour l’adoption utilisateur et l’intégration. '
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133012"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696733"
 ---
 # <a name="the-fasttrack-process"></a>Processus FastTrack
 
@@ -40,13 +39,12 @@ Le diagramme suivant illustre le processus d’intégration.
   
 Vous pouvez obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
-Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
+Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **FastTrack**.
-3.  Sélectionnez **Services**.
-4.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
+2.  Sélectionnez **Services**.
+3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
 > [!NOTE]
 >  Si un partenaire est répertorié dans votre client Office 365, cette option n’apparaît pas. Pour obtenir de l’aide, consultez votre partenaire. 
   
@@ -56,11 +54,10 @@ Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.c
     
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **FastTrack**.
-3.  Sélectionnez **Mes clients**.
-4.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-5.  Sélectionnez **Services**.
-6.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
+2.  Sélectionnez **Mes clients**.
+3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
+4.  Sélectionnez **Services**.
+5.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
 
 Le tableau suivant répertorie les rôles et responsabilités nécessaires pour le processus.
     

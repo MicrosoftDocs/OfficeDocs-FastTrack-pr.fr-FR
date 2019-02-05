@@ -3,19 +3,19 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472802"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696805"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -30,19 +30,17 @@ Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 3
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **FastTrack**.
-3.  Sélectionnez **Services**.
-4.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
+2.  Sélectionnez **Services**.
+3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
     > [!NOTE]
     >  Si un partenaire est répertorié dans votre client Office 365, cette option n’apparaît pas. Pour obtenir de l’aide, consultez votre partenaire. 
 
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **FastTrack**.
-3.  Sélectionnez **Mes clients**.
-4.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-5.  Sélectionnez **Services**.
-6.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
+2.  Sélectionnez **Mes clients**.
+3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
+4.  Sélectionnez **Services**.
+5.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
 
 Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
 
@@ -56,8 +54,8 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 - Exchange Online
 - SharePoint Online
 - OneDrive Entreprise
-- Skype Entreprise Online
 - Microsoft Teams
+- Skype Entreprise Online
 - Power BI
 - Project Online
 - Yammer Enterprise 
@@ -71,9 +69,9 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
   
  **Microsoft 365 Entreprise**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 Business
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 Business\*
     
  **Microsoft 365 Éducation**
 
@@ -134,9 +132,9 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
     
  **Skype Entreprise Online**
   
--  Système téléphonique 
--  Forfait d'appels 
--  Audioconférence 
+-  Système téléphonique\*\*\* 
+-  Forfait d’appels\*\*\* 
+-  Audioconférence\*\*\*
 -  Skype Entreprise Online (plan 1)  
 -  Skype Entreprise Online (plan 2)
     
@@ -147,6 +145,8 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 \*Disponible uniquement pour les services cloud éligibles à FastTrack et les fonctionnalités figurant dans cette description des prestations.
 
 \*\*Pour plus d’informations sur les avantages de FastTrack pour le gouvernement des États-Unis, reportez-vous à l’article [Office 365 pour le gouvernement des États-Unis](https://aka.ms/aboutgovcloud).
+
+\*\*\*Peut être utilisé à la fois pour les utilisateurs sous licence Skype Entreprise Online et Microsoft Teams.
 
 > [!NOTE]
 > L’éligibilité aux avantages du Centre FastTrack est basée sur l’achat de licences payantes pour les offres éligibles mentionnées précédemment. 

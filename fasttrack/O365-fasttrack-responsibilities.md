@@ -3,20 +3,19 @@ title: Responsabilités FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 27961b81a4add1342ba194c2e3d04c93aca32ca5
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133096"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696829"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -46,17 +45,17 @@ Les responsables FastTrack ont les responsabilités suivantes lors de l’intég
 - Établir la chronologie des activités de correction.
 - Fournir une liste de contrôle de correction. 
 - Évaluer l'infrastructure SharePoint Server 2013 ou SharePoint Server 2016 existante, y compris :
-  - Conditions préalables pour SharePoint Online hybride. 
-  - Préparation de l'infrastructure locale pour les fonctionnalités SharePoint Online hybride.
+  - Conditions préalables pour SharePoint Online hybride. 
+  - Préparation de l’infrastructure locale pour les fonctionnalités SharePoint Online hybride.
   - Accès aux points de terminaison SharePoint Online obligatoires.
-  - Audiences pour OneDrive Entreprise hybride. 
-- Évaluer l'infrastructure Lync ou Skype Entreprise Online existante, y compris :
-  - la stratégie de déploiement du client Skype Entreprise pris en charge ;
+  - Audiences pour OneDrive Entreprise hybride. 
+- Évaluer l’infrastructure Lync, Skype Entreprise Online ou Microsoft Teams existante, y compris :
+  - la stratégie de déploiement du client Skype Entreprise ou Teams pris en charge ;
   - l’accès aux points de terminaison ;
   - la qualité de la connexion ;
   - les estimations de la bande passante.
   - les conditions requises pour prendre en charge la configuration de serveur de domaine fractionné ;
-  - la préparation des utilisateurs identifiés à déplacer vers Skype Entreprise Online.
+  - la préparation des utilisateurs identifiés à déplacer vers Skype Entreprise Online ou Teams.
 - Évaluer l’infrastructure de messagerie, y compris : 
   - les principes généraux de flux de messagerie et de routage ;
   - l’accès client (y compris les points de terminaison d’accès client publiés existants) ;
@@ -101,7 +100,7 @@ Fournir des conseils à propos des éléments suivants :
 Fournir des conseils à propos des éléments suivants :
 - la création ou mise à jour des enregistrements DNS ; 
 - l'activation de l'acheminement de courrier électronique entre le système de messagerie source et les environnements Office 365 ; 
-- la configuration des fonctionnalités Exchange Online Protection (y compris les fonctionnalités Exchange Online - Protection avancée contre les menaces si elles sont disponibles dans votre abonnement) et la vérification que votre enregistrement MX pointe vers Office 365 pour tous les domaines à extension messagerie validés.
+- la configuration des fonctionnalités Exchange Online Protection, Protection contre la perte de données (DLP) et Chiffrement des messages Office 365 (OME) (y compris les fonctionnalités Exchange Online - Protection avancée contre les menaces si elles sont disponibles dans votre abonnement) et la vérification que votre enregistrement MX pointe vers Office 365 pour tous les domaines à extension messagerie validés.
 - la configuration de l'installation hybride soit entre l'organisation Exchange locale unique et Office 365 *, soit*  entre plusieurs organisations Exchange locales et Office 365. 
 - La configuration des clients de boîte aux lettres (Outlook pour Windows, Outlook sur le web et Outlook pour iOS et Android).
     
@@ -117,13 +116,13 @@ Fournir des conseils à propos des éléments suivants :
 - l’activation de sites personnels et de fonctionnalités sociales ;
 - la configuration des fonctionnalités SharePoint Online. 
 - l’assurance de la migration de données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
-- l'évaluation de la configuration d'infrastructure de batterie de serveurs SharePoint locale nécessaire pour SharePoint Online hybride ; 
+- l’évaluation de la configuration d’infrastructure de batterie de serveurs SharePoint locale nécessaire pour SharePoint Online hybride ; 
 - l’utilisation des outils et de l’automatisation pour :
   - Configurer les applications de service de recherche dans le cloud en local. 
   - Configurer l’approbation entre les environnements SharePoint en local et dans le cloud.
-- Configurer des sites SharePoint locaux afin d'utiliser les fonctionnalités SharePoint Online hybride.
+- Configurer des sites SharePoint locaux afin d’utiliser les fonctionnalités SharePoint Online hybride.
     
-## <a name="onedrive-for-business"></a>OneDrive Entreprise
+## <a name="onedrive-for-business"></a>OneDrive Entreprise
 
 Fournir des conseils à propos des éléments suivants :
 - l'identification de la version locale de SharePoint et des options d'intégration ; 
@@ -137,10 +136,36 @@ Fournir des conseils à propos des éléments suivants :
 - l’attribution des licences utilisateur final ; 
 - la configuration d'audiences SharePoint Online pour le contrôle et la gestion de l'accès à OneDrive Entreprise ; 
 - Déploiement du client de synchronisation OneDrive Entreprise sur les ordinateurs de bureau.   
-- Méthode de configuration de la redirection OneDrive Entreprise hybride avec SharePoint Online (SharePoint 2013 et SharePoint 2016 uniquement).
+- Méthode de configuration de la redirection OneDrive Entreprise hybride avec SharePoint Online (SharePoint 2013 et SharePoint 2016 uniquement).
 - Migration des données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
     
-## <a name="skype-for-business-online"></a>Skype Entreprise Online
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Fournir des conseils à propos des éléments suivants :
+- Vérification de la configuration minimale requise.
+- la configuration de ports de pare-feu ;
+- Configuration de DNS.  
+- Confirmation que Teams est activé sur votre client Office 365.
+- Activation ou désactivation des licences utilisateur.
+- Distribution du client Teams.
+- Fonctionnalités de professionnel de l’informatique et d’administration.
+- Fonctionnalités de base du produit.
+- Modèles de réussite des clients.
+- Création de comptes à associer aux appareils de système de salle pris en charge (jusqu’à 10 comptes). 
+- Activation du routage direct.
+- Activation de l’audioconférence.
+- Configuration de l’organisation pour les paramètres par défaut de la passerelle de conférence.
+- Affectation d’une passerelle de conférence aux utilisateurs titulaires d’une licence.
+- Activation du système téléphonique.
+- Intégration pour l’activation du système téléphonique et des plans d’appel (dans les pays disponibles).
+- Affectation de numéros aux utilisateurs titulaires d’une licence.
+- Instructions de portage de numéro local via l’interface utilisateur jusqu’à 999.
+- Prise en charge des demandes de service de portage de numéro local au-delà de 999. 
+- Activation des événements en direct Teams. 
+- Configuration de l’organisation et intégration à Microsoft Stream.
+
+
+## <a name="skype-for-business-online"></a>Skype Entreprise Online
 
 Fournir des conseils à propos des éléments suivants :
 - Approvisionnement d'identités Skype Entreprise pour Office 365. 
@@ -158,19 +183,6 @@ Fournir des conseils à propos des éléments suivants :
 - Activation de la diffusion de réunion Skype Entreprise :
   - Activation de l’intégration d’instructions pour la diffusion de réunion Skype Entreprise.
   - Configuration de l’organisation pour la fédération avec le service de diffusion de réunion.
-    
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Fournir des conseils à propos des éléments suivants :
-- Vérification de la configuration minimale requise.
-- la configuration de ports de pare-feu ;
-- Configuration de DNS.  
-- Confirmation que Microsoft Teams est activé sur votre client Office 365.
-- Activation ou désactivation des licences utilisateur.
-- Distribution du client Microsoft Teams.
-- Fonctionnalités de professionnel de l’informatique et d’administration.
-- Fonctionnalités de base du produit.
-- Modèles de réussite des clients.
     
 ## <a name="power-bi"></a>Power BI
 
@@ -193,8 +205,8 @@ Fournir des conseils à propos des éléments suivants :
 Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
-- Téléchargement et installation de Client de bureau Project Online à partir du portail.   
-- Configuration des paramètres de mise à jour à l'aide de l'outil de déploiement Office ou des modèles de stratégie de groupe.
+- Téléchargement et installation de client de bureau Project Online à partir du portail.   
+- Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365 ou des modèles de stratégie de groupe.
 - Configuration d'un serveur de distribution sur site unique pour Client de bureau Project Online et instructions relatives à la création d'un fichier configuration.xml pour l'outil Déploiement 2016 d'Office. 
 - Connexion de Client de bureau Project Online à Project Online.
     
@@ -210,8 +222,8 @@ Fournir des conseils à propos des éléments suivants :
 - Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.
 - Installation des applications Office Mobile (comme Outlook pour iOS et Android, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile. 
 - Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement 2016 Office ou des modèles de stratégie de groupe.
-- Configuration d'un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l'assistance concernant la création d'un fichier configuration.xml à utiliser avec l'outil de déploiement Office.
-- Déploiement à l'aide de System Center Configuration Manager, incluant l'assistance avec la création du packaging System Center Configuration Manager.
+- Configuration d’un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l’assistance concernant la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.
+- Déploiement à l’aide de System Center Configuration Manager, incluant l’assistance avec la création du packaging System Center Configuration Manager.
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 

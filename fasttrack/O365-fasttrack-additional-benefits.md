@@ -3,23 +3,22 @@ title: Annexe B  Avantages supplémentaires du centre FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133084"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696721"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Annexe B : Avantages supplémentaires du centre FastTrack
 
-Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à [Offres et services éligibles](O365-eligible-services-and-plans.md). 
+Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à [Offres et services éligibles](M365-eligible-services-and-plans.md). 
   
 ## <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -43,7 +42,7 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour la migration d'
 
 Pour Office 365 ProPlus, nous fournissons des conseils pour les éléments suivants : 
 - Évaluation et planification axées sur la préparation de votre environnement pour le déploiement initial et la gestion des mises à jour conformément aux meilleures pratiques de Microsoft. 
-- Développement de configurations de déploiement et de paramètres de mise à jour à l’aide de l’outil Déploiement d’Office. 
+- Développement de configurations de déploiement et de paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365. 
 - Création d'un package de déploiement à l'aide de System Center Configuration Manager.  
 - Déploiement et configuration de la télémétrie Office pour vous aider à évaluer l’utilisation de solutions et de documents Office essentiels pour l’entreprise pour la compatibilité des applications.
     
