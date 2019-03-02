@@ -3,7 +3,7 @@ title: Soutien aux applications du bureau
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les services Avantages du Centre FastTrack pour Windows 10 permettent d’accéder au service Soutien aux applications du bureau, un service conçu pour corriger les problèmes relatifs à la compatibilité entre applications Office 365 ProPlus et Windows 10.
-ms.openlocfilehash: 31f65f3cf74ef45c9be47ce2d1dbabbd081e8253
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 5f0501efb04214a09d7f220b424e29c80e8dbf6d
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696649"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355126"
 ---
 # <a name="desktop-app-assure"></a>Soutien aux applications du bureau
 
