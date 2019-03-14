@@ -3,19 +3,19 @@ title: Annexe A  Migration d'IBM Domino vers Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: "De nombreux paramètres entrent en jeu dans la migration d'IBM Domino vers Exchange Online, notamment lors des phases suivantes :"
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696817"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355234"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Annexe A : Migration d’IBM Domino vers Exchange Online
 
@@ -28,7 +28,7 @@ De nombreux paramètres entrent en jeu dans la migration d'IBM Domino vers Excha
     
 ## <a name="identities"></a>Identités
 
-Vous êtes responsable de la création et de la gestion des identités (cloud uniquement, synchronisées ou fédérées avec les instances Active Directory locales). Vous devez procéder au mappage des identités (si ce n'est pas déjà fait) entre Domino et l'instance locale d'Active Directory ou d'Azure AD au début du processus d'intégration.
+Vous êtes responsable de la création et de la gestion des identités (cloud uniquement, synchronisées ou fédérées avec les instances Active Directory locales). Vous devez procéder au mappage des identités (si ce n'est pas déjà fait) entre Domino et l'instance locale d'Active Directory ou d'Azure Active Directory au début du processus d'intégration.
   
 ## <a name="coexistence"></a>Coexistence
 
@@ -90,7 +90,7 @@ Le processus du Service FastTrack standard pour la migration de Domino à Exchan
     >  Bien que FastTrack ne migre les boîtes aux lettres que jusqu’à 85 % de la taille cible totale admise, la migration de boîtes aux lettres de plus de 2 Go comporte des risques supplémentaires, comme les suivants :    <br/> Migration plus longue.    <br/> Mobilisation de ressources qui seraient sinon utilisées pour la migration des autres boîtes aux lettres.    <br/> Augmentation considérable du taux d’erreur. 
 - Préparation des bases de données de messagerie et des listes de contrôle d'accès associées pour la migration. Vous devez prendre certaines mesures correctives pour pouvoir migrer des bases de données de messagerie et les autorisations associées vers une boîte aux lettres partagée dans Exchange Online. Voici quelques exemples de ces mesures : 
   - Supprimer des entrées de base de données de messagerie existantes du répertoire Domino et créer des enregistrements de personnes.
-  - Créer des groupes de sécurité universels à extension messagerie sur les instances Active Directory locales qui sont synchronisées avec Office 365 Azure AD et utilisées pour configurer des autorisations sur la boîte aux lettres partagée dans Exchange Online. Cette action transfère les autorisations définies sur la base de données de messagerie vers la boîte aux lettres partagée dans Exchange Online.
+  - Créer des groupes de sécurité universels à extension messagerie sur les instances Active Directory locales qui sont synchronisées avec Office 365 Azure Active Directory et utilisées pour configurer des autorisations sur la boîte aux lettres partagée dans Exchange Online. Cette action transfère les autorisations définies sur la base de données de messagerie vers la boîte aux lettres partagée dans Exchange Online.
     
 > [!NOTE]
 > Vous pouvez entamer les opérations de préparation de l’utilisateur final et de formation au nouveau client/système de messagerie à ce stade. 
