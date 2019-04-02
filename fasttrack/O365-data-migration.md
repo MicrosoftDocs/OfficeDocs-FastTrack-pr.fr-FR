@@ -3,19 +3,19 @@ title: Migration des données
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 5e7cc46807b7ec0e742c2a1097034dae8df14701
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355342"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017078"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -149,7 +149,7 @@ Lors des migrations, vous devez effectuer les opérations suivantes :
 Vous devez suivre le processus de migration standard et collaborer de façon appropriée avec Microsoft, notamment en fournissant des droits d'accès à l'environnement source et à l'environnement Office 365, en planifiant la migration, en corrigeant toute source d'erreur de migration, etc. Vous devez également maintenir une communication appropriée avec les utilisateurs finaux concernant la transmission d'informations et la planification des migrations de boîtes aux lettres, ainsi que gérer les problèmes de migration qu'ils rencontrent.
   
 > [!NOTE]
-> Les migrations utilisent uniquement des comptes qui respectent les exigences de sécurité définies lors de l’intégration. Si vous n'utilisez pas de tels comptes, vous pouvez rencontrer des retards de migration. 
+> Les migrations utilisent uniquement des comptes qui respectent les exigences de sécurité définies lors de l’intégration. Si vous n’utilisez pas de tels comptes, vous pouvez rencontrer des retards de migration. 
   
 ## <a name="migration-to-sharepoint-online"></a>Migrer vers SharePoint Online
 

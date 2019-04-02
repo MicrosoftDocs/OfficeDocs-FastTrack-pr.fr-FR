@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359802"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016928"
 ---
 # <a name="your-responsibilities"></a>Vos responsabilités
 
@@ -49,7 +49,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 
 -   Gérer un processus d'approbation de gestion des modifications techniques et créer une documentation de prise en charge.
 
--   Modification de votre modèle opérationnel et des guides d’utilisation.
+-   Modifier votre modèle opérationnel et les guides d'utilisation.
 
 -   ConFigurez l'authentification multifacteur locale.
 
@@ -79,11 +79,11 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 
 -   Collaborez avec l'équipe FastTrack pour commencer l'intégration des services éligibles.
 
--   Participer à la réunion de lancement, gérer et diriger les participants de votre organisation, et confirmer la chronologie des corrections.
+-   Participez à la réunion de lancement de l'engagement, gérez et dirigez les participants de votre organisation et confirmez la chronologie des corrections.
 
 ## <a name="assess-phase"></a>Phase d’évaluation
 
--   Identifier les parties prenantes appropriées (dont un chef de projet) pour effectuer les activités d’évaluation nécessaires.
+-   Identifier les parties prenantes appropriées (y compris un responsable de projet) pour effectuer les activités d'évaluation nécessaires.
 
 -   Partagez votre écran avec l'équipe FastTrack si vous avez besoin de conseils lors de l'exécution des outils d'évaluation sur votre environnement, EMS ou ses abonnements de service Cloud individuels (si vous le souhaitez).
 
@@ -99,7 +99,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 
 -   Effectuez les étapes obligatoires pour effectuer les activités de correction identifiées durant la phase d’évaluation.
 
--   Participer aux réunions de point de contrôle.
+-   Participer à des réunions de point de contrôle.
 
 ## <a name="enable-phase"></a>Phase d’activation
 

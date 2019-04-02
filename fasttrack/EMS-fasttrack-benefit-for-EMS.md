@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ea104f7bf9b4883624eda3ee40cdba516860097f
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 5d5213d7e7d5162841ddb121e03556e471f6701e
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359946"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016790"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Avantages du service FastTrack pour Enterprise Mobility + Security (EMS)
 
-Vous pouvez utiliser le centre FastTrack Enterprise Mobility + Security (EMS) lorsque vous achetez au moins 150 licences pour EMS ou l'un de ses services Cloud individuels dans un plan éligible. Vous collaborez ensuite avec des spécialistes FastTrack pour évaluer, corriger, activer et favoriser l'utilisation de ces services. Ces spécialistes fournissent également des instructions de migration.
+Vous pouvez utiliser le centre FastTrack Enterprise Mobility + Security (EMS) lorsque vous achetez au moins 150 licences pour EMS ou l'un de ses services Cloud individuels dans un plan éligible. Vous devez ensuite collaborer avec des spécialistes de FastTrack pour évaluer, corriger et activer ces services, ainsi que pour stimuler leur utilisation. Ces spécialistes fournissent également des conseils en matière de migration.
 
 > [!IMPORTANT]
 > Pour l’usage de ce document, les spécialistes FastTrack peuvent inclure des employés de Microsoft, des fournisseurs autorisés par Microsoft et des partenaires autorisés par Microsoft.

@@ -5,21 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 86d69ec9ff9ef26646496d1b9fb443befdd76327
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30360006"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017018"
 ---
-# <a name="onboarding-phases"></a>Phases d'intégration
+# <a name="onboarding-phases"></a>Phases d’intégration
 
 Lorsque vous utilisez les [offres et les services éligibles](M365-eligible-services-and-plans.md) pour l'utilisation de Microsoft Azure Active Directory Premium et de Microsoft Intune, plusieurs phases sont impliquées dans le processus. Les sections suivantes décrivent chacune des phases du processus d'intégration.
 
@@ -42,12 +42,12 @@ Une fois que vous avez acheté le nombre approprié de licences, suivez les cons
 3. Sélectionnez **Services**.
 4. Complétez le **formulaire demande d'assistance concernant Microsoft 365**.
 
-Une fois que l’assistance en matière d’intégration débute, nous organisons un calendrier des réunions en ligne.
+Une fois le support technique d'intégration démarré, nous allons configurer une planification des réunions en ligne.
 
 > [!NOTE]
 > Si vous avez un partenaire Microsoft figurant dans votre client Office 365, cette option ne s'affiche pas. Consultez votre partenaire Microsoft pour obtenir de l'aide.
 
-Les partenaires Microsoft peuvent également obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d'un client. Pour cela, procédez comme suit:
+Les partenaires Microsoft peuvent également obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d'un client. To do so:
 
 1. Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Sélectionnez **FastTrack**.
@@ -82,7 +82,7 @@ Une fois toutes les activités de correction terminées, le projet passe à la c
 
 **Activer les fonctionnalités principales de phase**
 
-L'intégration de base implique la mise en service des services et l'intégration des identités et des clients. Il décrit également les étapes à suivre pour fournir une base pour les services en ligne intégrés tels qu'Azure AD Premium et Intune.
+L'intégration de base implique l'approvisionnement de services et l'intégration du locataire et de l'identité. Il décrit également les étapes à suivre pour fournir une base pour les services en ligne intégrés tels qu'Azure AD Premium et Intune.
 
 ![Phases d'activation de l'intégration-fonctionnalités principales](./media/ft-enable-phase-core-01.png)
 

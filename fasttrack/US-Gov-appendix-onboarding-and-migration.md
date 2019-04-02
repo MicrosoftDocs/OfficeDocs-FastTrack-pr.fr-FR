@@ -3,19 +3,19 @@ title: Phases d'intégration et de migration pour Office 365 gouvernement améri
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'intégration d'Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales: lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355258"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016982"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d'intégration et de migration pour Office 365 gouvernement américain
 
@@ -102,12 +102,12 @@ Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre
     > [!NOTE]
     > Vos enregistrements MX doivent pointer vers Office 365.   
 - la configuration de la fonctionnalité Exchange Online - Protection avancée contre les menaces (ATP) si celle-ci fait partie de votre service d'abonnement une fois que vos enregistrements MX pointent vers Office 365. Cette fonctionnalité est configurée dans le cadre des paramètres anti-programme malveillant Exchange Online Protection ;   
-- la configuration de ports de pare-feu ;   
+- la configuration de ports de pare-feu ;   
 - la configuration d’un DNS, y compris les enregistrements de découverte automatique, SPF (Sender Policy Framework) et MX obligatoires (si nécessaire) ;     
 - la configuration d'un flux de messagerie entre votre environnement de messagerie source et Exchange Online (si nécessaire).   
-- la migration de messagerie de votre environnement de messagerie source vers Office 365.   
+- La migration de messagerie de votre environnement de messagerie source vers Office 365.   
     > [!NOTE]
-    > Pour plus d'informations sur la migration de données et de messagerie, reportez-vous à [Migration des données](O365-data-migration.md). 
+    > Pour plus d’informations sur la migration de données et de messagerie, reportez-vous à [Migration des données](O365-data-migration.md). 
   
 ![Étapes de l’intégration Exchange durant la phase d’activation](media/O365-Onboarding-Enable-Exchange.png)
   
@@ -115,7 +115,7 @@ Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre
 
 Pour SharePoint Online et OneDrive Entreprise, nous fournissons des conseils pour les étapes suivantes : 
 - Configuration de DNS.   
-- la configuration de ports de pare-feu ;   
+- la configuration de ports de pare-feu ;   
 - la mise en service des utilisateurs et des licences ;   
 - la configuration des fonctionnalités Environnement hybride SharePoint, telles que la recherche hybride, les sites hybrides, la taxonomie hybride, les types de contenu, la création de sites en libre-service hybride (SharePoint Server 2013 uniquement), le lanceur d’applications étendu, OneDrive Entreprise hybride et les sites extranet.
     
@@ -129,7 +129,7 @@ Pour OneDrive Entreprise, les étapes varient selon que vous utilisez ou non Sha
   
 ![Étapes de l’intégration OneDrive durant la phase d’activation](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="skype-for-business-online"></a>Skype Entreprise Online
+## <a name="skype-for-business-online"></a>Skype Entreprise Online
 
 Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes suivantes : 
 - la configuration de ports de pare-feu ;    

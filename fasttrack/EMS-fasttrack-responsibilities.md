@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359958"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016910"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -31,7 +31,7 @@ FastTrack a les responsabilités suivantes lors de l'intégration.
 
 ## <a name="initiate-phase"></a>Phase de lancement
 
--   Vous aider à lancer l’intégration.
+-   Travaillez avec vous pour commencer l'intégration.
 
 -   Définir les services éligibles que vous souhaitez intégrer.
 
@@ -41,13 +41,13 @@ FastTrack a les responsabilités suivantes lors de l'intégration.
 
 -   Fournir des conseils à propos des éléments suivants :
 
-    -   DNS, réseau et besoins en infrastructure ;
+    -   Besoins en matière de DNS, de réseau et d'infrastructure.
 
-    -   besoins du client (navigateur Internet, système d’exploitation client et besoins des services) ;
+    -   Besoins du client (navigateur Internet, système d'exploitation client et besoins des services).
 
     -   identité utilisateur et approvisionnement ,
 
-    -   l’activation des services éligibles qui ont été achetés et définis comme faisant partie de l’intégration.
+    -   Activation des services éligibles qui ont été achetés et définis comme faisant partie de l'intégration.
 
 -   Établir la chronologie des activités de correction.
 
@@ -68,7 +68,7 @@ Fournir des conseils à propos des éléments suivants :
 
 -   Validation de la connectivité à Microsoft Online Services.
 
--   Pour un environnement à forêt unique :
+-   Pour un environnement à forêt unique:
 
     -   L'installation d'un serveur de synchronisation d'annuaires entre vos services de domaine Active Directory (AD DS) et les services Microsoft Online Services éligibles (uniquement si nécessaire).
 
@@ -96,7 +96,7 @@ Fournir des conseils à propos des éléments suivants :
 
 - Validation de la connectivité aux services Azure AD Premium.
 
-- Pour un environnement à forêt unique :
+- Pour un environnement à forêt unique:
 
   -   L'installation d'une synchronisation d'annuaires entre vos services de domaine Active Directory (AD DS) et Azure AD Connect, si nécessaire.
 
@@ -105,11 +105,11 @@ Fournir des conseils à propos des éléments suivants :
 - Pour un environnement à forêts multiples:
 
   -   Installation de la synchronisation Azure AD Connect, configuration pour plusieurs scénarios de forêt.
-- Pour les environnements de forêt unique et de forêts multiples :
+- Pour les environnements de forêt unique et de forêts multiples :
   - la configuration de l'authentification directe Azure Active Directory, si nécessaire ;
   - la configuration de l'authentification unique (SSO) transparente Azure Active Directory, si nécessaire.
     > [!NOTE]
-    > L'authentification directe Azure Active Directory pour les environnements de forêts multiples est prise en charge s'il existe des approbations de forêt entre vos forêts Active Directory et si le routage des suffixes de noms est correctement configuré. Des agents supplémentaires peuvent être installés sur plusieurs serveurs locaux afin de fournir une haute disponibilité pour les demandes de connexion.
+    > L'authentification directe Azure Active Directory pour les environnements de forêts multiples est prise en charge s'il existe des approbations de forêt entre vos forêts Active Directory et si le routage des suffixes de noms est correctement configuré. Des agents supplémentaires peuvent être installés sur plusieurs serveurs locaux pour fournir une haute disponibilité pour les demandes de connexion.
 
   - Pour plus d'informations, reportez-vous à [Authentification directe Azure Active Directory : Démarrage rapide](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) et [Authentification unique transparente Azure Active Directory - Démarrage rapide](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
   - Pour obtenir plus d'informations sur les limites de l'authentification directe, reportez-vous à [Authentification directe Azure Active Directory : limitations actuelles](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
