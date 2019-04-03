@@ -3,19 +3,19 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355294"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016994"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -112,7 +112,7 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 - Exchange Online (plan 2) 
 - Exchange Online Kiosk
 - Exchange Online Protection
-- Exchange Online – Protection avancée contre les menaces
+- Office 365-Protection avancée contre les menaces
     
  **Project Online**
   
@@ -165,7 +165,7 @@ Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack
 |**Cloud Attach**     |    L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.     |
 |**Microsoft Intune pour l’Éducation**     |  L’éligibilité s’applique en cas d’achat d’offre A3, A5 ou autonome.       |
 |**Protection Microsoft avancée contre les menaces**     |    Limité. Éligible uniquement si vous avez acheté une offre autonome. Pour ce faire, accédez au [portail Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Microsoft Advanced Threat Analytics**   |        Limité. Éligible uniquement si vous avez acheté une offre autonome. Pour ce faire, accédez au [portail Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
+|**Microsoft Advanced Threat Analytics**   |        Limitée. L’éligibilité s’applique uniquement en cas d’achat d’offre autonome. Pour ce faire, accédez au [portail Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 |**Microsoft Cloud App Security**    |       Limitée. L’éligibilité s’applique uniquement en cas d’achat d’offre autonome. Pour ce faire, accédez au [portail Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
 Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).

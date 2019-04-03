@@ -3,7 +3,7 @@ title: Assistance proposée
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365, des spécialistes FastTrack fournissent des conseils et des instructions pour la correction de problèmes afin d’effectuer un déploiement vers Windows 10 et Office 365 ProPlus et de rester à la page sans frais supplémentaires (avec un abonnement éligible).
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355186"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016870"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
@@ -46,7 +46,7 @@ FastTrack fournit une assistance pour les éléments suivants :
 ## <a name="out-of-scope"></a>Non compris
 
 FastTrack ne fournit pas d’assistance pour :
-- Inventaire et tests d'applications pour déterminer ce qui fonctionne ou non sous Windows 10 et Office 365 ProPlus. Pour plus d'informations sur ce processus, visitez le [Centre de déploiement de postes de travail modernes](https://go.microsoft.com/fwlink/?linkid=2080140). Si vous êtes intéressé par une évaluation approfondie de l'état de préparation à la mise à niveau, remplissez le formulaire [Demande de client pour une évaluation moderne des postes de travail](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Inventaire et test des applications pour déterminer ce qui fonctionne et ce qui ne fonctionne pas sous Windows 10 et Office 365 ProPlus. Pour obtenir des instructions plus sur ce processus, visitez le [Centre de Déploiement de Bureau](https://go.microsoft.com/fwlink/?linkid=2080140). Si vous êtes intéressé(e) par une évaluation approfondie de préparation de mise à niveau, terminez le formulaire[client demande pour l’évaluation bureau modernes](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Recherche des déclarations de prise en charge et de compatibilité avec Windows 10 dans les applications d’ISV tierces. Pour plus d’informations, voir [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580) (Prêt pour Windows).
 - Services de conditionnement uniquement d’applications. Toutefois, l’équipe Soutien aux applications du bureau conditionne les applications que nous avons corrigées pour Windows 10 afin de s’assurer qu’elles peuvent être déployées dans l’environnement du client.
 
