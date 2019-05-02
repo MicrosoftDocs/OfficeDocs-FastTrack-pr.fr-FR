@@ -3,19 +3,19 @@ title: Annexe A  Migration d'IBM Domino vers Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: "De nombreux paramètres entrent en jeu dans la migration d'IBM Domino vers Exchange Online, notamment lors des phases suivantes :"
-ms.openlocfilehash: bc0835f75d34d9f015ba70b65db3f317f1f594b5
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: ce800ae7bab16946346133df5f1d4df4c27304a3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017006"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513797"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Annexe A : Migration d’IBM Domino vers Exchange Online
 
