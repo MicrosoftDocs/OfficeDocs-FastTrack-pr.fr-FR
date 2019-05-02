@@ -3,19 +3,19 @@ title: Vos responsabilités pour Office 365 gouvernement américain
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: a7053abfaf0a47023e031b1d400f0e9c1ff6187c
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9f20f365868e506ffa2beda8306919e32ce3f3f8
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016856"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513041"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Vos responsabilités pour Office 365 gouvernement américain
 
@@ -41,7 +41,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 - Gérer, configurer et appliquer des stratégies de sécurité.    
 - Activer les appareils mobiles.    
 - Assurer la configuration, l’analyse, la validation de la bande passante, le test et la surveillance du réseau. 
-- Modifier les règles de pare-feu pour prendre en charge les URL spécifiques et les plages d'adresses IP utilisées par les services Office 365 (le cas échéant).
+- Modifier les règles de pare-feu pour prendre en charge les URL spécifiques et les plages d’adresses IP utilisées par les services Office 365 (le cas échéant).
 - Fournir des points de terminaison de proxy inverse sur site à Microsoft (le cas échéant).     
 - Modifier le réseau afin de fournir la bande passante nécessaire pour les services Skype Entreprise Online.   
 - Gérer un processus d’approbation de gestion des modifications techniques et créer la documentation associée.    
@@ -58,7 +58,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.
     
 ## <a name="initiate-phase"></a>Phase de lancement
 
-- ConFigurez un espace Microsoft teams collaboratif pour le partenariat d'intégration et invitez les membres de l'équipe du centre FastTrack (non disponible dans les offres GCC High ou DoD).   
+- Configurez un espace Microsoft teams collaboratif pour le partenariat d’intégration et invitez les membres de l’équipe du centre FastTrack (non disponible dans les offres GCC High ou DoD).   
 - Collaborer avec les spécialistes de FastTrack pour commencer l’intégration des services éligibles.    
 - Participer à la réunion de lancement, gérer et diriger les participants de votre organisation et confirmer la chronologie des corrections.    
 - Fournir vos objectifs pour les services Office 365 (par exemple, SharePoint Online, Exchange Online, Microsoft Teams et Office 365 ProPlus) et des objectifs organisationnels.

@@ -3,19 +3,19 @@ title: Responsabilités FastTrack pour le gouvernement américain Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4b527f43bd3030f810f3334f7405d7fc357d2d1f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016970"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513126"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -79,8 +79,8 @@ Fournir des conseils à propos des éléments suivants :
   - l'installation d'un serveur de synchronisation d'annuaires entre vos services de domaine Active Directory (AD DS) et Office 365, le cas échéant ;   
   - la configuration de la synchronisation de mot de passe (hachage de mot de passe) pour Office 365 (Azure Active Directory) avec l’outil Azure Active Directory Connect, si nécessaire ;  
   - Pour les environnements de forêt unique et de forêts multiples :
-      - La configuration de l'authentification directe Azure Active Directory, si nécessaire (non disponible dans les offres GCC High ou DoD).
-      - Configuration de l'authentification unique (SSO) transparente Azure Active Directory, si nécessaire (non disponible dans les offres GCC High ou DoD).
+      - La configuration de l’authentification directe Azure Active Directory, si nécessaire (non disponible dans les offres GCC High ou DoD).
+      - Configuration de l’authentification unique (SSO) transparente Azure Active Directory, si nécessaire (non disponible dans les offres GCC High ou DoD).
     > [!NOTE]
     > L'authentification directe Azure Active Directory pour les environnements de forêts multiples est prise en charge s'il existe des approbations de forêt entre vos forêts Active Directory et si le routage des suffixes de noms est correctement configuré. Des agents supplémentaires peuvent être installés sur plusieurs serveurs locaux pour fournir une haute disponibilité pour les demandes de connexion. Pour plus d'informations, reportez-vous à [Authentification directe Azure Active Directory : Démarrage rapide](https://go.microsoft.com/fwlink/?linkid=860094) et [Authentification unique transparente Azure Active Directory - Démarrage rapide](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Pour obtenir plus d'informations sur les limites de l'authentification directe, reportez-vous à [Authentification directe Azure Active Directory : limitations actuelles](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
@@ -100,7 +100,7 @@ Fournir des conseils à propos des éléments suivants :
 - l'activation de l'acheminement de courrier électronique entre le système de messagerie source et les environnements Office 365 ;    
 - la configuration des fonctionnalités Exchange Online Protection (y compris les fonctionnalités Exchange Online - Protection avancée contre les menaces si elles sont disponibles dans votre abonnement) et la vérification que votre enregistrement MX pointe vers Office 365 pour tous les domaines à extension messagerie validés.   
 - la configuration de l'installation hybride soit entre l'organisation Exchange locale unique et Office 365 *, soit*  entre plusieurs organisations Exchange locales et Office 365. 
-- Configuration de la messagerie unifiée (MU) avec Exchange Online (la messagerie UNIFIÉe n'est pas disponible dans les forfaits GCC DoD). 
+- Configuration de la messagerie unifiée (MU) avec Exchange Online (la messagerie UNIFIÉe n’est pas disponible dans les forfaits GCC DoD). 
     
 Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](O365-data-migration.md).
   
@@ -193,7 +193,7 @@ Fournir des conseils à propos des éléments suivants :
 Fournir des instructions sur la conversion de votre réseau Yammer Basic unique en un seul réseau Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise n'est pas un composant d'Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu'offre autonome pour chaque utilisateur titulaire d'une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d'entreprise et les contrats d'abonnement Enterprise. Yammer n'est pas disponible dans les plans GCC High ou DoD.
+> Yammer Enterprise n’est pas un composant d’Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d’entreprise et les contrats d’abonnement Enterprise. Yammer n’est pas disponible dans les plans GCC High ou DoD.
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 

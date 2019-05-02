@@ -1,23 +1,23 @@
 ---
-title: Phases d'intégration et de migration pour Office 365 gouvernement américain
+title: Phases d’intégration et de migration pour Office 365 gouvernement américain
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: "L'intégration d'Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales: lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales: lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
+ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016982"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513621"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d'intégration et de migration pour Office 365 gouvernement américain
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 
 L'intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données, comme indiqué dans l'illustration suivante.
   
@@ -61,7 +61,7 @@ Ceci inclut de collaborer avec vous afin de déterminer la façon dont vous pré
 
 Votre responsable FastTrack passe un appel interactif de planification de la réussite avec vous et votre équipe d’adoption. Il présente les fonctionnalités des services éligibles que vous avez achetés, les bases clés nécessaires à votre réussite, la méthodologie pour stimuler l’utilisation du service et les scénarios que vous pouvez utiliser pour tirer parti des services. Nous vous aidons dans la planification de la réussite et vous fournissons des commentaires sur les principaux domaines (selon vos besoins).
   
-Les spécialistes FastTrack travaillent avec vous pour évaluer votre environnement source et la configuration requise. Nous fournissons des outils qui vous permettent de collecter des données sur votre environnement et de vous guider dans l'estimation des besoins en bande passante et en évaluant vos navigateurs Internet, systèmes d'exploitation clients, DNS (Domain Name System), réseau, infrastructure et système d'identité. Déterminez si des modifications sont requises pour l'intégration. 
+Les spécialistes FastTrack travaillent avec vous pour évaluer votre environnement source et la configuration requise. Nous fournissons des outils qui vous permettent de collecter des données sur votre environnement et de vous guider dans l’estimation des besoins en bande passante et en évaluant vos navigateurs Internet, systèmes d’exploitation clients, DNS (Domain Name System), réseau, infrastructure et système d’identité. Déterminez si des modifications sont requises pour l’intégration. 
   
 En fonction de votre configuration actuelle, nous vous fournissons un plan de correction de votre environnement source visant à mettre en place la configuration minimale requise aux conditions minimales requises pour la réussite de l'intégration à Office 365 et, si nécessaire, pour la réussite de la migration des boîtes aux lettres et/ou des données. Nous offrons un ensemble de suggestions d'activités visant à accroître l'adoption et la valeur pour l'utilisateur final. Nous mettons également en place des appels de point de contrôle appropriés pour la phase de correction.
   
@@ -136,8 +136,8 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 - Configuration de DNS.    
 - la création de comptes pour les périphériques système de salle de réunion ;    
 - le déploiement d'un client Skype Entreprise Online pris en charge ;   
-- Établissement d'une configuration de serveur de domaine fractionné entre votre environnement de serveur Lync 2010, Lync 2013 ou Skype entreprise 2015 sur site et le client Skype entreprise Online (le cas échéant).
-- Activation des forfaits d'appels, de la diffusion de réunion Skype, du système téléphonique et des forfaits d'appels (sur les marchés disponibles: non disponibles dans les offres GCC High ou DoD). 
+- Établissement d’une configuration de serveur de domaine fractionné entre votre environnement de serveur Lync 2010, Lync 2013 ou Skype entreprise 2015 sur site et le client Skype entreprise Online (le cas échéant).
+- Activation des forfaits d’appels, de la diffusion de réunion Skype, du système téléphonique et des forfaits d’appels (sur les marchés disponibles: non disponibles dans les offres GCC High ou DoD). 
     
 ![Étapes de l’intégration Lync durant la phase 1 de l’activation](media/O365-Onboarding-Enable-Lync.png)
   
@@ -177,7 +177,7 @@ Pour Project Online, nous fournissons des conseils pour :
 Pour Yammer, nous fournissons des conseils concernant l’activation du service Yammer Entreprise.
 
 > [!NOTE]
-> Yammer Enterprise n'est pas un composant d'Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu'offre autonome pour chaque utilisateur titulaire d'une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d'entreprise et les contrats d'abonnement Enterprise. Yammer n'est pas disponible dans les plans GCC High ou DoD. 
+> Yammer Enterprise n’est pas un composant d’Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d’entreprise et les contrats d’abonnement Enterprise. Yammer n’est pas disponible dans les plans GCC High ou DoD. 
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
