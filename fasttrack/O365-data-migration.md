@@ -3,19 +3,19 @@ title: Migration des données
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017078"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513749"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -23,7 +23,7 @@ Les spécialistes FastTrack fournissent des conseils sur la procédure de migrat
   
 Les services de migration de données décrits dans le tableau suivant sont disponibles pour les locataires Office 365 disposant d'au moins 500 licences.\* Par exemple, vos environnements sources contiennent peut-être des données que vous souhaitez faire migrer vers Office 365. Cet avantage Service FastTrack inclut une aide à l'intégration à votre environnement source en vue de faciliter la migration de contenu.
   
-\*Si vous avez acheté ou renouvelé un plan commercial avant le 01/09/2017, la configuration minimale requise est de 150 licences au cours de votre période d'abonnement afin de bénéficier de la migration. Pour les offres destinées à l'éducation, seuls les enseignants et membres du corps enseignant sont éligibles aux services de migration. 
+\*Si vous avez acheté ou renouvelé une offre commerciale avant le 01/09/2017, 150 licences est la condition minimale requise en matière de licences pendant toute la durée de votre période d’abonnement actuelle pour recevoir l’avantage de migration. Pour les offres d’éducation, seules les licences enseignants et membres du personnel payantes sont éligibles pour les services de migration. 
   
 > [!NOTE]
 > Les données migrées par le biais des services FastTrack peuvent être transférées, stockées et traitées dans n'importe quelle région du monde où Microsoft est implanté (sauf disposition contraire prévue pour votre engagement FastTrack). Les services FastTrack ne sont pas conçus pour des données soumises à des exigences légales ou réglementaires particulières, ni destinés à celles-ci. 

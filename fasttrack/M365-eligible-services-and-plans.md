@@ -3,19 +3,19 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016994"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513089"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -147,7 +147,7 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 
 \*\*Pour plus d’informations sur les avantages de FastTrack pour le gouvernement des États-Unis, reportez-vous à l’article [Office 365 pour le gouvernement des États-Unis](https://aka.ms/aboutgovcloud).
 
-\*\*\*Peut être utilisé à la fois pour les utilisateurs sous licence Skype Entreprise Online et Microsoft Teams.
+\*\*\*Peut être utilisé à la fois pour les utilisateurs sous licence Skype Entreprise Online et Microsoft Teams. Nécessite l’achat éligible de Skype Entreprise ou de Microsoft Teams. 
 
 > [!NOTE]
 > L’éligibilité aux avantages du Centre FastTrack est basée sur l’achat de licences payantes pour les offres éligibles mentionnées précédemment. 
@@ -160,7 +160,7 @@ Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack
 |---------|---------|
 |**Enterprise Mobility + Security (EMS) E3 ou E5**       |   Disponible pour les services cloud qui peuvent bénéficier d’avantages FastTrack. Dans le cas contraire, un spécialiste FastTrack ou un partenaire de référence est contacté.        |
 |**Microsoft Azure Active Directory Premium**     |  L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.       |
-|**Microsoft Azure Information Protection**    |  L’éligibilité s’applique en cas d’achat d’offre P2, E5 ou autonome. Dans le cas contraire, un spécialiste FastTrack ou un partenaire de référence est contacté.        |
+|**Microsoft Azure Information Protection**    |  Disponible pour P2 dans le cadre de EMS E5 ou d’une offre autonome. Dans le cas contraire, il y a acheminement vers un spécialiste FastTrack ou pour référence de partenaire.        |
 |**Microsoft Intune**    |   L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.      |
 |**Cloud Attach**     |    L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.     |
 |**Microsoft Intune pour l’Éducation**     |  L’éligibilité s’applique en cas d’achat d’offre A3, A5 ou autonome.       |
