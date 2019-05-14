@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513833"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967959"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -283,7 +283,7 @@ Fournir des conseils à propos des éléments suivants :
 
 ### <a name="enable-phase--azure-information-protection"></a>Phase d’activation: Azure information protection
 
-Prendre en charge les éléments suivants: 
+Fournir des conseils sur: 
 
 - Aux clients de classer et d’étiqueter automatiquement les informations dans les applications Office (par exemple, Word, PowerPoint, Excel et Outlook) exécutées sur Windows et à l’aide du client Azure information protection. 
 - Fichiers au repos à l’aide du scanneur Azure information protection.

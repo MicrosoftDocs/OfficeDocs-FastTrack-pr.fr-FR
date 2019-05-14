@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0fc6dc613c152f1050437535397f33cd1e8fa069
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ecd03448901c62acf4b131ce83748216fdf5f7
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513377"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967971"
 ---
 # <a name="your-responsibilities"></a>Vos responsabilités
 
@@ -47,7 +47,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 
 -   Gérer la configuration réseau, l’analyse, la validation de la bande passante, les tests et la surveillance.
 
--   Gérer un processus d’approbation de gestion des modifications techniques et créer une documentation de prise en charge.
+-   Gérer un processus d’approbation de gestion des modifications techniques et créer une documentation basée sur les instructions.
 
 -   Modifier votre modèle opérationnel et les guides d’utilisation.
 
