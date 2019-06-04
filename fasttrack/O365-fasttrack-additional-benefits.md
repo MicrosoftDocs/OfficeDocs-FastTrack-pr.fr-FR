@@ -3,18 +3,18 @@ title: Annexe B  Avantages supplémentaires du centre FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: 1521d3eec5c710af4418bc8bf71d8aac74e68dbc
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 44cbba5e3ec5e1011c9673611a0143a7b1ba13ec
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513413"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673413"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Annexe B : Avantages supplémentaires du centre FastTrack
 
