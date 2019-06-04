@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967983"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673557"
 ---
 # <a name="onboarding-phases"></a>Phases d’intégration
 
@@ -47,7 +49,7 @@ Une fois le support technique d’intégration démarré, nous allons configurer
 > [!NOTE]
 > Si vous avez un partenaire Microsoft figurant dans votre client Office 365, cette option ne s’affiche pas. Consultez votre partenaire Microsoft pour obtenir de l’aide.
 
-Les partenaires Microsoft peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. To do so:
+Les partenaires Microsoft peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Pour ce faire, procédez comme suit :
 
 1. Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Sélectionnez **FastTrack**.
@@ -272,20 +274,16 @@ FastTrack vous fournit également des conseils sur la façon d’effectuer l’a
 
 #### <a name="enable-phase--azure-information-protection"></a>Phase d’activation: Azure information protection
 
-Azure information protection fournit des conseils sur les éléments suivants: 
-
-- Aux clients de classer et d’étiqueter automatiquement les informations dans les applications Office (par exemple, Word, PowerPoint, Excel et Outlook) exécutées sur Windows et à l’aide du client Azure information protection. 
-- Fichiers au repos à l’aide du scanneur Azure information protection.
-- Les E-mails en transit à l’aide de règles de flux de messagerie Exchange Online. 
-
-La prise en charge est également fournie aux clients qui souhaitent appliquer la protection à l’aide des services Microsoft Azure Rights Management (Azure RMS), du chiffrement de messages Office 365 (OME) et de la protection contre la perte de données (DLP). 
-
 Les clients sont dotés de conseils pour: 
 
 - Activez et configurez leur client.
 - Créez et configurez des étiquettes et des stratégies.
 - Appliquer la protection des informations aux documents. 
+- Classer et étiqueter automatiquement les informations dans les applications Office (par exemple, Word, PowerPoint, Excel et Outlook) exécutées sur Windows et à l’aide du client Azure information protection.
+- Utilisez des fichiers au repos à l’aide du scanneur Azure information protection.
+- Surveiller les messages électroniques en transit à l’aide des règles de flux de messagerie Exchange Online.
 
+Des conseils sont également fournis aux clients qui souhaitent appliquer une protection à l’aide des services Microsoft Azure Rights Management (Azure RMS), du chiffrement de messages Office 365 (OME) et de la protection contre la perte de données (DLP).
 
 > [!NOTE]
 > **Vous souhaitez en savoir plus?** Voir [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
