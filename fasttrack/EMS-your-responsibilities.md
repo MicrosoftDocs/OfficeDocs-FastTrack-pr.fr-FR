@@ -1,11 +1,11 @@
 ---
 title: Vos responsabilités
-description: Responsabilités du client lors de l’utilisation de l’avantage du centre FastTrack
+description: Responsabilités des clients lorsqu’ils utilisent les services Avantages du Centre FastTrack
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 67634a552ac731b2b2fa8b6d594bd870d79d68ef
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
-ms.translationtype: MT
+ms.openlocfilehash: e9dad847ebb41be6d00791bd1415622228811a6d
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673641"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410741"
 ---
 # <a name="your-responsibilities"></a>Vos responsabilités
 
@@ -27,9 +27,9 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 
 ## <a name="general-responsibilities"></a>Responsabilités générales
 
--   Fournir des améliorations et des intégrations à votre client Enterprise Mobility + Security (EMS) au-delà des options configurables répertoriées ici.
+-   Apporter à votre locataire Enterprise Mobility + Security (EMS) des améliorations et intégrations dépassant les options configurables répertoriées dans cet article.
 
--   Assurer la gestion globale des projets et des programmes de vos ressources.
+-   Fournir une gestion globale des projets et des programmes concernant vos ressources.
 
 -   Fournir des communications avec l’utilisateur final, de la documentation, de la formation et une gestion des modifications.
 
@@ -43,89 +43,89 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 
 -   Obtenir, installer et configurer les logiciels.
 
--   Gérer, configurer et appliquer des stratégies de sécurité au-delà de celles créées pour la configuration et les fonctionnalités de base des services EMS.
+-   Gérer, configurer et appliquer des stratégies de sécurité autres que celles qui sont créées pour la configuration et les fonctionnalités de base de vos services EMS.
 
--   Inscrire les comptes d’utilisateur au-delà de ceux utilisés pour tester la configuration et les fonctionnalités de base des services EMS Microsoft Azure Active Directory.
+-   Inscrivez des comptes d’utilisateurs au-delà de ceux utilisés pour tester la configuration et les fonctionnalités de base des services EMS Microsoft Azure Active Directory.
 
--   Gérer la configuration réseau, l’analyse, la validation de la bande passante, les tests et la surveillance.
+-   Gérez la configuration, l’analyse, la validation de la bande passante, le test et la surveillance du réseau.
 
--   Gérer un processus d’approbation de gestion des modifications techniques et créer une documentation basée sur les instructions.
+-   Gérer un processus d’approbation de gestion des modifications techniques et créer la documentation basée sur les conseils.
 
--   Modifier votre modèle opérationnel et les guides d’utilisation.
+-   Modification de votre modèle opérationnel et des guides d’utilisation.
 
--   Configurez l’authentification multifacteur locale.
+-   Configurer des solutions d’authentification multifacteur locales.
 
--   Désactivez et supprimez les environnements et services sources précédemment utilisés.
+-   Désactiver et supprimer les environnements et services sources utilisés précédemment.
 
 -   Créer et gérer votre environnement de test.
 
--   Installer les mises à jour cumulatives/mises à jour cumulatives (CUs) et autres mises à jour obligatoires sur les serveurs d’infrastructure.
+-   Installer des Service Packs/mises à jour cumulatives (CU) et d’autres mises à jour obligatoires sur les serveurs d’infrastructure.
 
 -   Fournir et configurer tous les certificats SSL (Secure Sockets Layer) publics.
 
--   Configurez ou mettez à niveau le gestionnaire de configuration avec la configuration minimale requise pour l’intégration de Microsoft Intune avec le gestionnaire de configuration.
+-   Configurer ou mettre à niveau Configuration Manager avec la configuration minimale requise pour l’intégration de Microsoft Intune avec Configuration Manager.
 
--   Si nécessaire pour déployer des profils Wi-Fi et VPN avec Intune, fournissez et configurez des infrastructures de certificat, Wi-Fi et VPN, le cas échéant.
+-   Pour déployer les profils Wi-Fi et VPN avec Intune, fournissez et configurez l’autorité de certification, ainsi que les infrastructures Wi-Fi et VPN, le cas échéant.
 
--   Rédigez l’instruction de conditions d’utilisation de l’Organisation pour qu’elle soit configurée et affichée sur le portail d’entreprise Microsoft Intune auquel les utilisateurs finaux peuvent accéder.
+-   Rédiger les conditions d’utilisation de l’organisation devant être configurées et affichées sur le portail de l’entreprise Microsoft Intune et auxquelles les utilisateurs finaux peuvent accéder.
 
--   Mettez à niveau les clients site Manager et Configuration Manager vers les dernières versions de build (le cas échéant).
+-   Mettre à niveau le serveur de site et les clients Configuration Manager vers les versions les plus récentes (le cas échéant).
 
--   Inscrivez-vous aux abonnements tiers, tels que la défense contre les menaces mobiles, les frais de télécommunications, etc. Lorsque vous avez besoin d’une intégration avec Microsoft Intune.
+-   S’inscrire aux abonnements tiers tels que la défense contre les menaces mobiles, les dépenses de télécommunication, etc. lorsque l’intégration à Microsoft Intune est nécessaire.
 
--   Inscrivez-vous à la visionneuse d’équipes, la protection mobile contre les menaces et les abonnements aux solutions de gestion des dépenses de télécommunications.
+-   S’inscrire aux abonnements Team Viewer, de défense contre les menaces mobiles et de gestion des dépenses de télécommunication.
 
--   Inscrivez-vous aux licences de protection avancée contre les menaces Windows Defender. (Licences Windows E5 ou Microsoft E5).
+-   S’inscrire pour obtenir des licences Protection avancée contre les menaces Windows Defender. (licences Windows E5 ou Microsoft E5).
 
 ## <a name="initiate-phase"></a>Phase de lancement
 
--   Collaborez avec l’équipe FastTrack pour commencer l’intégration des services éligibles.
+-   Collaborer avec l’équipe FastTrack pour commencer l’intégration des services éligibles.
 
--   Participez à la réunion de lancement de l’engagement, gérez et dirigez les participants de votre organisation et confirmez la chronologie des corrections.
+-   Participer à la réunion de lancement, gérer et diriger les participants de votre organisation, et confirmer la chronologie des corrections.
 
 ## <a name="assess-phase"></a>Phase d’évaluation
 
--   Identifier les parties prenantes appropriées (y compris un responsable de projet) pour effectuer les activités d’évaluation nécessaires.
+-   Identifier les parties prenantes appropriées (dont un chef de projet) pour effectuer les activités d’évaluation nécessaires.
 
--   Partagez votre écran avec l’équipe FastTrack si vous avez besoin de conseils lors de l’exécution des outils d’évaluation sur votre environnement, EMS ou ses abonnements de service Cloud individuels (si vous le souhaitez).
+-   Partager votre écran avec l’équipe FastTrack si une assistance est nécessaire lors de l’exécution d’outils d’évaluation sur votre environnement, EMS ou vos abonnements individuels au service Cloud (si vous le souhaitez).
 
--   Participer aux réunions pour créer la liste de contrôle de correction et contribuer à l’ensemble de la planification, y compris l’infrastructure, le réseau, l’administration, la préparation de la synchronisation d’annuaires, la sécurité du réseau et les rubriques d’identité fédérée.
+-   Participer aux réunions pour la création de la liste de contrôle de correction et contribuer au plan global, y compris sur des sujets tels que l’infrastructure, le réseau, l’administration, la préparation de la synchronisation d’annuaires, la sécurité du réseau et les identités fédérées.
 
 -   Participer aux réunions pour définir l’approche d’approvisionnement utilisateur.
 
 -   Participer aux réunions pour planifier la configuration du service en ligne.
 
--   Créez un plan de prise en charge pour la préparation à la migration.
+-   Créer un plan de prise en charge pour la préparation à la migration.
 
 ## <a name="remediate-phase"></a>Phase de correction
 
 -   Effectuez les étapes obligatoires pour effectuer les activités de correction identifiées durant la phase d’évaluation.
 
--   Participer à des réunions de point de contrôle.
+-   Participer aux réunions de point de contrôle.
 
 ## <a name="enable-phase"></a>Phase d’activation
 
--   Partagez votre écran avec l’équipe FastTrack si vous avez besoin de conseils lors de l’exécution des outils d’évaluation sur votre environnement, EMS ou ses abonnements de service Cloud individuels (si vous le souhaitez). Gérez les ressources selon vos besoins.
+-   Partager votre écran avec l’équipe FastTrack si une assistance est nécessaire lors de l’exécution d’outils d’évaluation sur votre environnement, EMS ou vos abonnements individuels au service Cloud (si vous le souhaitez). Gérer les ressources selon vos besoins.
 
--   Configurez les éléments liés au réseau par guide à partir de l’équipe FastTrack.
+-   Configurer les éléments liés au réseau avec les conseils de l’équipe FastTrack.
 
--   Effectuer la préparation des annuaires et configurer la synchronisation d’annuaires par guide à partir de l’équipe FastTrack.
+-   Effectuer la préparation des annuaires et configurer la synchronisation d’annuaires selon les recommandations de l’équipe FastTrack.
 
--   Configurez une méthode d’authentification, par exemple, gérée ou fédérée. 
+-   Configurer une méthode d’authentification, par exemple, gérée ou fédérée. 
 
--   Configurez l’infrastructure liée à la sécurité (par exemple les ports de pare-feu) par Guide de l’équipe FastTrack.
+-   Configurer les éléments d’infrastructure liés à la sécurité (tels que les ports de pare-feu) selon les recommandations de l’équipe FastTrack.
 
 -   Implémenter l’infrastructure client appropriée.
 
--   Implémenter une approche d’approvisionnement utilisateur par guide à partir de l’équipe FastTrack.
+-   Implémenter une approche d’approvisionnement utilisateur selon les recommandations de l’équipe FastTrack.
 
--   Activer divers services par guide à partir de l’équipe FastTrack.
+-   Activer divers services selon les recommandations de FastTrack.
 
 > [!NOTE]
-> **Vous souhaitez en savoir plus?** Voir [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+> **Vous voulez en savoir plus ?** Voir [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 ## <a name="see-also"></a>Voir aussi
 
 - [Avantages de FastTrack pour EMS](EMS-fasttrack-benefit-for-EMS.md)
-- [Avantages de FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md)
+- [Avantages de FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md)
 
