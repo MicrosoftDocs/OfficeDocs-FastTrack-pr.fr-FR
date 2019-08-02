@@ -3,19 +3,19 @@ title: Vos responsabilités pour Office 365 gouvernement américain
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 06b9015b9c42068a7803a93a931a419cc523bcaf
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 6cbb7652e2ba42c82a4fa12c217d5fa078ddba8d
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673761"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054013"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Vos responsabilités pour Office 365 gouvernement américain
 
