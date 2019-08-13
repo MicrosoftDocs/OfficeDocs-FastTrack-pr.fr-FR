@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'L’intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données facultative.'
-ms.openlocfilehash: 52c6c449d0805955308cfc685f9646095404ff5d
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 433f118b00f5a521eb8a48fbf43e3cd64ddf4a14
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054109"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294432"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -39,9 +39,7 @@ Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 3
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Sélectionnez **Services**.
-3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
-> [!NOTE]
->  Si un partenaire est répertorié dans votre client Office 365, cette option n’apparaît pas. Pour obtenir de l’aide, consultez votre partenaire. 
+3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
   
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
