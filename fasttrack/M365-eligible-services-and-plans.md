@@ -3,19 +3,19 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053881"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294216"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -31,10 +31,8 @@ Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 3
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Sélectionnez **Services**.
-3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
-    > [!NOTE]
-    >  Si un partenaire est répertorié dans votre client Office 365, cette option n’apparaît pas. Pour obtenir de l’aide, consultez votre partenaire. 
-
+3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
+  
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Sélectionnez **Mes clients**.
@@ -163,7 +161,7 @@ Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack
 |**Microsoft Azure Active Directory Premium**     |  L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.       |
 |**Microsoft Azure Information Protection**    |  Disponible pour P2 dans E5 ou en tant qu’offre autonome. Disponible pour les services cloud éligibles pour les Avantages FastTrack. Pour les services cloud P1, FastTrack partage le guide de déploiement automatique.       |
 |**Microsoft Intune**    |   L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.      |
-|**Cloud Attach**     |    L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.     |
+|**Cloud Attach Configuration Manager avec Microsoft Intune**     |    L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.     |
 |**Microsoft Intune pour l’Éducation**     |  L’éligibilité s’applique en cas d’achat d’offre A3, A5 ou autonome.       |
 |**Protection Microsoft avancée contre les menaces**     |    Limité. Éligible uniquement si vous avez acheté une offre autonome. Pour ce faire, accédez au [portail Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
 |**Microsoft Advanced Threat Analytics**   |        Limitée. L’éligibilité s’applique uniquement en cas d’achat d’offre autonome. Pour ce faire, accédez au [portail Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |

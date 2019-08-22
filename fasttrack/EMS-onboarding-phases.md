@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 30b0f1eae559bbc32eb80f89d4f177be0178079b
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0ea242b03fc0d7cdfc3241c6d2f023213c2fa383
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053821"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294300"
 ---
 # <a name="onboarding-phases"></a>Phases d’intégration
 
@@ -46,10 +46,7 @@ Après avoir acheté le nombre approprié de licences, suivez les conseils indiq
 
 Une fois que l’assistance en matière d’intégration débute, nous organisons un calendrier des réunions en ligne.
 
-> [!NOTE]
-> Si un partenaire Microsoft est répertorié dans votre client Office 365, cette option n'apparaît pas. Pour obtenir de l’aide, consultez votre partenaire Microsoft.
-
-Les partenaires Microsoft peuvent également obtenir de l'aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d'un client. Pour ce faire, procédez comme suit :
+Les partenaires Microsoft peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Pour ce faire, procédez comme suit :
 
 1. Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Sélectionnez **FastTrack**.

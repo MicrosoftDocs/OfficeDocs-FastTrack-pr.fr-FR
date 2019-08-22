@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à effectuer la mise à niveau de Windows 7 Professionnel et Windows 8.1 Professionnel vers Windows 10 Entreprise.
-ms.openlocfilehash: 50a33d07593eef18a4d0dff8efb6adef0ca10250
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0d94d7cd231e6b9659f325b471c705239bdf03ce
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054073"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294409"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à effectuer la mise à niveau de Windows 7 Professionnel et Windows 8.1 Professionnel vers Windows 10 Entreprise. Vous collaborez avec des spécialistes FastTrack pour :
 
-- Déployer Windows 10 Entreprise.
+- Déployer Windows 10 Entreprise à l’aide de Microsoft System Center Configuration Manager ou Microsoft 365.
 - Déployer Office 365 ProPlus. 
-- Mettez à jour Windows 10 Entreprise et Office 365 ProPlus à l’aide de Microsoft System Center Configuration Manager ou Microsoft 365.
+- Mettre à jour Windows 10 Entreprise et Office 365 ProPlus à l’aide de System Center Configuration Manager ou Microsoft 365.
   
 > [!NOTE]
 > FastTrack offre aux clients des méthodes recommandées, des conseils et des meilleures pratiques conçus pour offrir des résultats rapides et prévisibles. Si vous choisissez d’effectuer votre déploiement sans ces conseils, votre expérience peut en être impactée. Les conseils sont définis comme une combinaison d’assistance orale et écrite. Lorsque les spécialistes FastTrack fournissent des conseils, ils ne peuvent pas agir en votre nom. Vous pouvez utiliser les services FastTrack pour les offres éligibles tant que votre abonnement est à jour.  
@@ -36,5 +36,18 @@ Le tableau suivant répertorie les rôles et responsabilités nécessaires pour 
 |**Spécialiste FastTrack** <br/> |Fournit tous les services de déploiement et de mise à jour à distance.  <br/> Vous aide à distance à l’aide d’un ensemble d’outils et de documents publiés. <br/> Travaille directement avec vous ou votre représentant.|
 |**Centre FastTrack**  <br/> |Fournit des conseils pour planifier et déployer Windows 10 Entreprise.   <br/> Assure l’assistance et est disponible pendant les heures normales d’ouverture de chaque région. <br/> Fournit une assistance en chinois traditionnel, chinois simplifié (les ressources parlent le mandarin uniquement), anglais, français, allemand, italien, japonais, coréen, portugais (Brésil), espagnol, thaï et vietnamien.|
  
+Si vous avez besoin d’aide, accédez au [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Pour vous connecter, vous devez disposer d’un compte professionnel ou scolaire actif (ID d’organisation ou ID Azure Active Directory) sur un client actif. 
 
+Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
+1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Sélectionnez **Services**.
+3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
+  
+Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
+1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Sélectionnez **Mes clients**.
+3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
+4.  Sélectionnez **Services**.
+5.  Sélectionnez le formulaire **Demande d’assistance avec Microsoft 365**.
+6.  Sélectionnez l’option produit Windows 10 et complétez le formulaire.
  
