@@ -3,19 +3,19 @@ title: Responsabilités FastTrack pour le gouvernement américain Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: d9b9aa3f44fcf5aa28a4d1a392d4d053ba1a56c4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 006ab382d74cca8850a8d7542d39a09f133cb6ff
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712186"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342161"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -147,12 +147,12 @@ Fournir des conseils à propos des éléments suivants :
 - Activation de l’audioconférence :   
   - Configuration de l’organisation pour les paramètres par défaut de la passerelle de conférence.   
   - Affectation d’une passerelle de conférence aux utilisateurs titulaires d’une licence. 
-- Activation du système téléphonique (non disponible dans les offres GCC High ou DoD):  
+- Activation du système téléphonique (non disponible dans les offres GCC High ou DoD) :  
   - Intégration pour l’activation du système téléphonique et des plans d’appel (dans les pays disponibles). 
   - Affectation de numéros aux utilisateurs titulaires d’une licence.  
   - Instructions de portage de numéro local via l’interface utilisateur jusqu’à 999.  
   - Prise en charge des demandes de service de portage de numéro local au-delà de 999.  
-- Activation de la diffusion de réunion Skype entreprise (non disponible dans les offres GCC High ou DoD):  
+- Activation de la diffusion de réunion Skype entreprise (non disponible dans les offres GCC High ou DoD) :  
   - Activation de l’intégration d’instructions pour la diffusion de réunion Skype Entreprise.  
   - Configuration de l’organisation pour la fédération avec le service de diffusion de réunion.
     

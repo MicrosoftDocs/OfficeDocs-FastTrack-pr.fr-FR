@@ -3,19 +3,19 @@ title: Phases d’intégration et de migration pour Office 365 gouvernement amé
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales: lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 1c16d6f22b9739431d014bca490dd609f7564728
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales : lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
+ms.openlocfilehash: 05e14c08148a5b02df9c175882a2853f0a39301c
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712282"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342725"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 
@@ -135,7 +135,7 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 - la création de comptes pour les périphériques système de salle de réunion ;    
 - le déploiement d'un client Skype Entreprise Online pris en charge ;   
 - Établissement d’une configuration de serveur de domaine fractionné entre votre environnement de serveur Lync 2010, Lync 2013 ou Skype entreprise 2015 sur site et le client Skype entreprise Online (le cas échéant).
-- Activation des forfaits d’appels, de la diffusion de réunion Skype, du système téléphonique et des forfaits d’appels (sur les marchés disponibles: non disponibles dans les offres GCC High ou DoD). 
+- Activation des forfaits d’appels, de la diffusion de réunion Skype, du système téléphonique et des forfaits d’appels (sur les marchés disponibles : non disponibles dans les offres GCC High ou DoD). 
     
 ![Étapes de l’intégration Lync durant la phase 1 de l’activation](media/O365-Onboarding-Enable-Lync.png)
   
