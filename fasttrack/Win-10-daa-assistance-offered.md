@@ -3,19 +3,19 @@ title: Assistance proposée
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365, des spécialistes FastTrack fournissent des conseils et des instructions pour la correction de problèmes afin d’effectuer un déploiement vers Windows 10 et Office 365 ProPlus et de rester à la page sans frais supplémentaires (avec un abonnement éligible).
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712246"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342569"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
@@ -51,7 +51,9 @@ FastTrack ne fournit pas d’assistance pour :
 Responsabilités du client, entre autres :
 - Création d’un inventaire d’applications.
 - Validation de ces applications sur Windows 10 et Office 365 ProPlus.
+
 > [!NOTE]
-> Microsoft ne peut pas modificer votre code source. Toutefois, l’équipe Soutien aux applications du bureau peut fournir des conseils aux développeurs d’applications si le code source est disponible pour vos applications. [!NOTE]
-> FastTrack ne peut pas solutionner les versions antérieures d’applications, les compléments ou les macros ISV s’il existe des versions plus récentes pris en charge dans Windows 10 et Office 365 ProPlus. [!NOTE]
+> Microsoft ne peut pas modificer votre code source. Toutefois, l’équipe Soutien aux applications du bureau peut fournir des conseils aux développeurs d’applications si le code source est disponible pour vos applications.
+
+> [!NOTE]
 > Contactez un [partenaire Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) pour fournir une assistance avec les services identifiés comme non compris.
