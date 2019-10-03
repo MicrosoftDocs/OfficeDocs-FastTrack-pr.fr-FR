@@ -5,21 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: ''
-ms.suite: ems
-ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 5b661d709b4f5c25395f07f005d055c5bb84db35
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711538"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342617"
 ---
 # <a name="onboarding-phases"></a>Phases d’intégration
 
@@ -138,11 +135,11 @@ Pour Intune, nous vous guiderons tout au long de la préparation de l’utilisat
 
 -   Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils.
 
--   Configuration de votre autorité de gestion des appareils mobiles, en fonction de vos besoins en matière de gestion, notamment :
+-   Configuration de votre autorité de gestion des appareils mobiles, en fonction de vos besoins en matière de gestion, notamment :
 
-    -   Définir Intune comme autorité GPM lorsque Intune est votre seule solution de gestion ou est en conjonction avec des périphériques mobiles pour Office 365.
+    -   Définition d’Intune comme autorité de gestion des appareils mobiles lorsqu’ Intune est votre seule solution de gestion des appareils mobiles.
 
--   Recommandations en matière de gestion des périphériques mobiles pour :
+-   Recommandations en matière de gestion des appareils mobiles pour :
 
     -   Configuration des groupes tests à utiliser pour valider les stratégies de la gestion des périphériques mobiles.
 

@@ -3,19 +3,19 @@ title: Responsabilités FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712152"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342293"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -225,14 +225,6 @@ Fournir des conseils à propos des éléments suivants :
 - Sélection et configuration d’une installation locale ou dans le cloud.
 - Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.
 - Déploiement à l’aide de System Center Configuration Manager, incluant l’assistance avec la création du packaging System Center Configuration Manager.
-    
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Fournir des conseils à propos des éléments suivants :
-- Confirmation que Microsoft StaffHub est activé sur votre client Office 365.
-- Activation ou désactivation des licences utilisateur.
-- Fonctionnalités de base du produit.
-- Emplacements de téléchargement pour Microsoft StaffHub.
     
 ## <a name="outlook-for-ios-and-android"></a>Outlook pour iOS et Android
 
