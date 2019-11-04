@@ -3,19 +3,19 @@ title: Attentes concernant l’environnement source
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les services Avantages du Centre FastTrack vous fournissent des conseils pour vous aider à configurer les niveaux d’intégration avec votre environnement source pour le déploiement de Windows 10.
-ms.openlocfilehash: f2cbee68266e953dd9b58f25bb0cf9fabb67e7b7
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: bdd76e9ca00f868d6231a65b140966baec983edc
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342665"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921876"
 ---
 # <a name="source-environment-expectations"></a>Attentes concernant l’environnement source
 

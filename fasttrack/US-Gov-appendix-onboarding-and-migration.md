@@ -3,19 +3,19 @@ title: Phases d’intégration et de migration pour Office 365 gouvernement amé
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales : lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 05e14c08148a5b02df9c175882a2853f0a39301c
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: fc6f89d64ee78089c584014a080d8739e94239eb
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342725"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921972"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 
@@ -59,7 +59,7 @@ Ceci inclut de collaborer avec vous afin de déterminer la façon dont vous pré
 
 Votre responsable FastTrack passe un appel interactif de planification de la réussite avec vous et votre équipe d’adoption. Il présente les fonctionnalités des services éligibles que vous avez achetés, les bases clés nécessaires à votre réussite, la méthodologie pour stimuler l’utilisation du service et les scénarios que vous pouvez utiliser pour tirer parti des services. Nous vous aidons dans la planification de la réussite et vous fournissons des commentaires sur les principaux domaines (selon vos besoins).
   
-Les spécialistes FastTrack travaillent avec vous pour évaluer votre environnement source et la configuration requise. Nous fournissons des outils qui vous permettent de collecter des données sur votre environnement et de vous guider dans l’estimation des besoins en bande passante et en évaluant vos navigateurs Internet, systèmes d’exploitation clients, DNS (Domain Name System), réseau, infrastructure et système d’identité. Déterminez si des modifications sont requises pour l’intégration. 
+Les spécialistes FastTrack collaborent avec vous pour évaluer votre environnement source et la configuration requise. Nous fournissons des outils qui vous permettent de collecter des données sur votre environnement et de vous guider dans l’estimation des besoins en bande passante et en évaluant vos navigateurs Internet, systèmes d’exploitation clients, DNS (Domain Name System), réseau, infrastructure et système d’identité. Déterminez si des modifications sont requises pour l’intégration. 
   
 En fonction de votre configuration actuelle, nous vous fournissons un plan de correction de votre environnement source visant à mettre en place la configuration minimale requise aux conditions minimales requises pour la réussite de l'intégration à Office 365 et, si nécessaire, pour la réussite de la migration des boîtes aux lettres et/ou des données. Nous offrons un ensemble de suggestions d'activités visant à accroître l'adoption et la valeur pour l'utilisateur final. Nous mettons également en place des appels de point de contrôle appropriés pour la phase de correction.
   
