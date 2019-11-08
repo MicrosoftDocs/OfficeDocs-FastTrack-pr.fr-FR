@@ -3,19 +3,19 @@ title: Phases d’intégration et de migration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'L’intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données facultative.'
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342413"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922640"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -97,10 +97,14 @@ Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre
 - La configuration des fonctionnalités d’Exchange Online Protection (EOP) pour tous les domaines à extension messagerie validés dans Office 365.
     > [!NOTE]
     > Vos enregistrements MX doivent pointer vers Office 365. 
-- La configuration de la fonctionnalité Exchange Online - Protection avancée contre les menaces (ATP) si celle-ci fait partie de votre service d’abonnement, une fois que vos enregistrements MX pointent vers Office 365. Cette fonctionnalité est configurée dans le cadre des paramètres anti-programme malveillant Exchange Online Protection.
+- La configuration de la fonctionnalité Office 365 - Protection avancée contre les menaces (ATP) si celle-ci fait partie de votre service d’abonnement. Pour plus d’informations, consultez [Office 365 - Protection avancée contre les menaces](#office-365-advanced-threat-protection).
 - La configuration de la fonctionnalité Protection contre la perte de données (DLP) pour tous les domaines à extension messagerie validés dans Office 365 dans le cadre de votre service d’abonnement, une fois que vos enregistrements MX pointent vers Office 365.
 - La configuration de la fonctionnalité Chiffrement des messages Office 365 (OME) pour tous les domaines à extension messagerie validés dans Office 365 dans le cadre de votre service d’abonnement, une fois que vos enregistrements MX pointent vers Office 365.
-- la configuration de ports de pare-feu ;
+
+> [!NOTE]
+> Le service de réplication de boîte aux lettres (MRS) tente de migrer les e-mails gérés par des droits relatifs à l’information (IRM) de votre boîte aux lettres locale vers la boîte aux lettres Exchange Online correspondante. La possibilité de lire le contenu protégé après la migration dépend des modèles utilisés par le client pour le mappage et la copie des modèles AD RMS (Active Directory Rights Managed Services) vers le service Azure Rights Management (Azure RMS).
+
+- La configuration de ports de pare-feu.
 - la configuration d’un DNS, y compris les enregistrements de découverte automatique, SPF (Sender Policy Framework) et MX obligatoires (si nécessaire) ; 
 - la configuration d'un flux de messagerie entre votre environnement de messagerie source et Exchange Online (si nécessaire).
 - La migration de messagerie de votre environnement de messagerie source vers Office 365.
@@ -128,7 +132,15 @@ Pour OneDrive Entreprise, les étapes varient selon que vous utilisez ou non Sha
   
 ![Étapes de l’intégration OneDrive durant la phase d’activation](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
+
+Pour Office 365 – Protection avancée contre les menaces, nous fournissons des conseils pour les étapes suivantes :
+- Activation de liens fiables, de pièces jointes fiables et de l’anti-hameçonnage. 
+- Configuration de l’automatisation, de l’investigation et de la réponse.
+- Utilisation d’un simulateur d’attaques.
+- Création de rapports et analytique des menaces.
+
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants :
 - Vérification de la configuration minimale requise.  

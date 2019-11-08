@@ -3,19 +3,19 @@ title: Phases d’intégration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'L’intégration Windows 10 comporte quatre phases principales : lancement, évaluation, correction et activation.'
-ms.openlocfilehash: 8cd5f1586518976d965c08f07398974334093658
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: c2c9515f0e3cefed133da74d41e84995724ed042
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342677"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921888"
 ---
 # <a name="onboarding-phases"></a>Phases d’intégration
 
@@ -33,6 +33,8 @@ Nous vous proposons des options recommandées pour évaluer vos applications Win
 
 FastTrack peut également guider votre évaluation de la compatibilité d’Office 365 ProPlus à l’aide du tableau de bord de préparation d’Office 365 dans Configuration Manager ou du kit de ressources de préparation autonome pour Office. Pour plus d’informations sur les services disponibles, consultez l’article [Avantages du Centre FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md). 
 
+FastTrack évalue également les stratégies de gestion modernes pour vous, notamment en associant Configuration Manager à Microsoft Intune dans le cloud ou en déployant Intune comme unique solution de gestion cloud.
+
 ## <a name="remediate"></a>Corriger
 
 Les tâches de correction doivent être adaptées à votre environnement source de façon à ce que celui-ci puisse remplir les conditions requises pour l’intégration. Nous fournissons une liste de contrôle des correctifs pour préparer votre environnement et vérifier que ces éléments sont en place afin que votre environnement source dispose de la configuration minimale requise pour un déploiement réussi. 
@@ -45,6 +47,8 @@ Nous vous proposons des conseils pour déployer Office 365 ProPlus à l’aide 
 
 Nous fournissons des conseils pour aider votre organisation à rester à jour avec Windows 10 Entreprise et Office 365 ProPlus à l’aide de votre environnement Configuration Manager existant ou de Microsoft 365.
 
+Au besoin, FastTrack peut guider les clients dans l’activation d’une gestion moderne en associant Configuration Manager à Intune dans le cloud ou en déployant Intune autonome. Pour en savoir plus sur les services associés, consultez [Processus des Avantages du Centre FastTrack pour Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
+
 > [!NOTE]
 > Si vous ne disposez pas d’un plan ou d’un processus existant pour le déploiement et la maintenance, nous pouvons fournir des conseils sur les pratiques recommandées en fonction du scénario de mise à niveau sur place (recommandé) ou de [Windows AutoPilot](EMS-onboarding-phases.md#windows-autopilot).
 
@@ -54,6 +58,7 @@ FastTrack ne fournit pas de recommandations pour :
 
 - Mettre à niveau Configuration Manager vers la branche actuelle.
 - Créer des images personnalisées pour le déploiement de Windows 10.
+- Créer et prendre en charge des scripts de déploiement pour le déploiement de Windows 10.
 - Convertir un système Windows 10 à partir du BIOS vers Unified Extensible Firmware Interface (UEFI).
 - Activer les fonctionnalités de sécurité Windows 10. 
 - Configurer les services de déploiement Windows (WDS) pour le démarrage de l’environnement PXE (Preboot Execution Environment).

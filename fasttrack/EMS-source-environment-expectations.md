@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c5cb280c3ac2280f0f32fda39258b68ee144e508
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 3163294fc53913a125beb560a0ec21f7aac96e22
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342365"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921184"
 ---
 # <a name="source-environment-expectations"></a>Attentes concernant l’environnement source
 
@@ -35,7 +35,7 @@ Le tableau suivant indique les conditions attendues dans votre environnement sou
 |Intégration Azure AD Premium|L’environnement Active Directory local et son environnement ont été préparés pour Azure AD Premium, ce qui inclut la correction des problèmes identifiés qui empêchent l’intégration avec Azure AD et les fonctionnalités Azure AD Premium.|
 |Intégration Intune| Les administrateurs informatiques doivent avoir des infrastructures de certificats, WiFi et VPN existantes, qui travaillent déjà dans leurs environnements de production lors de la planification du déploiement de profils WiFi et VPN avec Intune.<br /><br /> **Remarque**: le service benefit n’inclut pas d’aide pour l’installation ou la configuration des autorités de certification, WiFi, VPN ou pour les certificats push Apple MDM  |
 |Cogestion|Avec la cogestion, les administrateurs informatiques sont responsables de la préparation de l’environnement local, ce qui peut inclure une correction des problèmes qui vous empêchent de gérer simultanément les appareils Windows 10 à l’aide du Configuration Manager et d’Intune.<br /><br />**Remarque**: le service FastTrack benefit n’inclut pas d’aide pour la configuration ou la mise à niveau du serveur de site Configuration Manager et/ou du client Configuration Manager vers la configuration minimale requise pour la prise en charge de la cogestion avec les appareils Windows 10. |
-|Intégrer Intune à Windows Defender - Protection avancée contre les menaces|Votre abonnement Windows Defender ATP a été activé et configuré conformément aux exigences de sécurité de votre entreprise.<br /><br />**Remarque**: le service FastTrack benefit fournit de l’aide sur l’intégration d’Intune avec Windows Defender ATP et la création de stratégies de conformité des appareils basées sur son évaluation du niveau de risque Windows 10. Le service FastTrack benefit n’offre aucune aide sur l’achat, l’octroi de licences, l’activation ou l’utilisation de Windows Defender ATP et de sa console Centre de sécurité. |
+|Intune intégré avec Microsoft Defender - Protection avancée contre les menaces (ATP)|**Remarque** : le service FastTrack offre de l’aide sur l’intégration d’Intune avec Microsoft Defender ATP et la création de stratégies de conformité des appareils basées sur son évaluation du niveau de risque Windows 10. Il n’offre aucune aide sur l’achat, la gestion des licences ou l’activation. |
 |Windows Autopilot|Les administrateurs informatiques sont responsables de l’enregistrement de leurs appareils dans leur organisation en permettant de charger leur ID de matériel en leur nom ou en le téléchargeant eux-mêmes dans le service de pilote automatique de Windows. |
 |Déployer Outlook pour iOS et Android de façon sécurisée avec Intune|<br /><br />- Identités utilisateurs activées dans Azure Active Directory pour Office 365.<br />-Exchange Online ou Exchange hybride configuré avec des licences utilisateur affectées.<br />|
 |Azure Information Protection Premium (P2 ou EMS E5)|<br /><br />Les clients doivent déjà : <br /> - Utiliser Azure AD.<br />- Utiliser Windows ou iOS (les autres systèmes d’exploitation sont hors de portée).<br /> - Utiliser les clients Office plus récents qu’Office 2010 SP2 qui ne dépendent pas d’Office comme client principal. <br /> - Avoir leur fichier principal partageant son emplacement.  <br /> - Avoit fait la mise à jour des services de la gestion des droits relatifs à l’information AD RMS (Active Directory Rights Management Services). <br /> - Avoir une taxonomie de classification approuvée. <br /> - Comprendre les restrictions réglementaires pour la gestion des clés protégée. <br />|

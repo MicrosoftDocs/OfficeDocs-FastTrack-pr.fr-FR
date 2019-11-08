@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à effectuer la mise à niveau de Windows 7 Professionnel et Windows 8.1 Professionnel vers Windows 10 Entreprise.
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342653"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921568"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à
 - Déployer Windows 10 Entreprise à l’aide de Microsoft System Center Configuration Manager ou Microsoft 365.
 - Déployer Office 365 ProPlus. 
 - Mettre à jour Windows 10 Entreprise et Office 365 ProPlus à l’aide de System Center Configuration Manager ou Microsoft 365.
+- Associer le Gestionnaire de configuration à Microsoft Intune dans le cloud ou déployer Intune comme unique solution de gestion cloud.
   
 > [!NOTE]
 > FastTrack offre aux clients des méthodes recommandées, des conseils et des meilleures pratiques conçus pour offrir des résultats rapides et prévisibles. Si vous choisissez d’effectuer votre déploiement sans ces conseils, votre expérience peut en être impactée. Les conseils sont définis comme une combinaison d’assistance orale et écrite. Lorsque les spécialistes FastTrack fournissent des conseils, ils ne peuvent pas agir en votre nom. Vous pouvez utiliser les services FastTrack pour les offres éligibles tant que votre abonnement est à jour.  

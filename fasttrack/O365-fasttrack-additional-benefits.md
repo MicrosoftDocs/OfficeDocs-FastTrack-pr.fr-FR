@@ -3,18 +3,18 @@ title: Annexe B  Avantages supplémentaires du centre FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 8da19cd3922e1e37eb382716039dc6a96166191e
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342497"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921292"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Annexe B : Avantages supplémentaires du centre FastTrack
 
@@ -42,9 +42,9 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour la migration d'
 
 Pour Office 365 ProPlus, nous fournissons des conseils pour les éléments suivants : 
 - Évaluation et planification axées sur la préparation de votre environnement pour le déploiement initial et la gestion des mises à jour conformément aux meilleures pratiques de Microsoft. 
-- Développement de configurations de déploiement et de paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365. 
+- Développement de configurations de déploiement et de paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365 et de l’Outil de personnalisation Office. 
 - Création d'un package de déploiement à l'aide de System Center Configuration Manager.  
-- Déploiement et configuration de la télémétrie Office pour vous aider à évaluer l’utilisation de solutions et de documents Office essentiels pour l’entreprise pour la compatibilité des applications.
+- Activation de l’utilisation du Readiness Toolkit pour Office, qui permet d’identifier des problèmes de compatibilité potentiels avec vos macros Microsoft Visual Basic pour Applications (VBA) et autres compléments que vous utilisez avec Office.
     
 ## <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -132,12 +132,7 @@ Les spécialistes de FastTrack ont les responsabilités suivantes lors de l’in
 
 - Fournir des conseils et une assistance pour :  
   - Évaluation et planification conformément aux meilleures pratiques de Microsoft pour le déploiement initial et la gestion des mises à jour.
-  - Déploiement et configuration de la télémétrie Office. 
-  - Activation de la journalisation de télémétrie pour les clients Office 2013 et versions ultérieures à l'aide de la stratégie de groupe. 
-  - Déploiement des agents de télémétrie Office pour clients Office de versions antérieures (Office 2003, Office 2007 et Office 2010). 
-  - Déploiement du processeur de télémétrie 
-    > [!NOTE]
-    > Cette opération nécessite un emplacement de partage de fichiers pour stocker les données de télémétrie et un serveur exécutant SQL Server 2005 ou une version ultérieure auquel envoyer les données transformées. 
+  - Activation de l’utilisation du Readiness Toolkit pour Office, qui permet d’identifier des problèmes de compatibilité potentiels avec vos macros Microsoft VBA et autres compléments que vous utilisez avec Office.
   
 ## <a name="your-responsibilities"></a>Vos responsabilités
 

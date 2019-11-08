@@ -3,19 +3,19 @@ title: Responsabilités FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342293"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921580"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -88,7 +88,7 @@ Fournir des conseils à propos des éléments suivants :
   - l’installation et la configuration de WAP pour publier votre infrastructure AD FS sur Internet, si nécessaire.
     > [!NOTE]
     > Pour toutes les configurations à forêts multiples, les déploiements AD FS sont hors de portée. 
-- le test de la fonctionnalités d’authentification unique, si elle est déployée.
+- Le test de la fonctionnalité d’authentification unique transparente, si elle est déployée.
 - la détermination de la valeur et l’adoption des services.
     
 \*\*Pour obtenir plus d’informations sur les limites de l’authentification directe, reportez-vous à la rubrique [Authentification directe Azure Active Directory : limites actuelles](https://go.microsoft.com/fwlink/?linkid=860356). 
@@ -100,9 +100,10 @@ Fournir des conseils à propos des éléments suivants :
 Fournir des conseils à propos des éléments suivants :
 - la création ou mise à jour des enregistrements DNS ; 
 - l'activation de l'acheminement de courrier électronique entre le système de messagerie source et les environnements Office 365 ; 
-- la configuration des fonctionnalités Exchange Online Protection, Protection contre la perte de données (DLP) et Chiffrement des messages Office 365 (OME) (y compris les fonctionnalités Exchange Online - Protection avancée contre les menaces si elles sont disponibles dans votre abonnement) et la vérification que votre enregistrement MX pointe vers Office 365 pour tous les domaines à extension messagerie validés.
+- la configuration des fonctionnalités Exchange Online Protection, Protection contre la perte de données (DLP) et Chiffrement des messages Office 365 (OME) et Office 365 - Protection avancée contre les menaces (ATP) (si elles sont disponibles dans votre abonnement) et la vérification que vos enregistrements MX pointent vers Office 365 pour tous les domaines à extension messagerie validés.
 - la configuration de l'installation hybride soit entre l'organisation Exchange locale unique et Office 365 *, soit*  entre plusieurs organisations Exchange locales et Office 365. 
 - La configuration des clients de boîte aux lettres (Outlook pour Windows, Outlook sur le web et Outlook pour iOS et Android).
+- la configuration de l’automatisation, de l’enquête et de la réponse pour Office 365 - Protection avancée contre les menaces (si ces fonctionnalités sont disponibles dans votre abonnement).
     
 Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](O365-data-migration.md).
   
@@ -139,7 +140,17 @@ Fournir des conseils à propos des éléments suivants :
 - Méthode de configuration de la redirection OneDrive Entreprise hybride avec SharePoint Online (SharePoint 2013 et SharePoint 2016 uniquement).
 - Migration des données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
     
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="office-365-advanced-threat-protection"></a>Office 365 - Protection avancée contre les menaces
+
+Fournir des conseils à propos des éléments suivants :
+- Activation des liens fiables.
+- Activation des pièces jointes fiables.
+- Activation des stratégies anti-hameçonnage.
+- Configuration de l’automatisation, de l’enquête et de la réponse.
+- Utilisation du Simulateur d’attaques.
+- Création de rapports et analytique des menaces.
+
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
 - Vérification de la configuration minimale requise.
