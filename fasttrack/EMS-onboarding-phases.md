@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921592"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662915"
 ---
 # <a name="onboarding-phases"></a>Phases d’intégration
 
@@ -103,7 +103,7 @@ La configuration d’Azure AD Premium inclut l’activation des fonctionnalités
 
 -   Jusqu’à trois (3) ou plus intégrations de logiciels comme service (SaaS) à l’aide de l'authentification unique (SSO) à partir d’[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
--   Configuration automatique des utilisateurs pour les applications SaaS intégrées répertoriées dans la [liste des didacticiels d’intégration des applications](https://docs.microsoft.com/fr-FR/azure/active-directory/saas-apps/tutorial-list), limitée à la configuration sortante uniquement.
+-   Configuration automatique des utilisateurs pour les applications SaaS intégrées répertoriées dans la [liste des didacticiels d’intégration des applications](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), limitée à la configuration sortante uniquement.
 
 -   Écran de connexion personnalisé, y compris le logo, le texte et les images.
 
@@ -280,7 +280,7 @@ Fournit des instructions sur la façon de procéder aux clients pour :
 Des instructions sont également fournies aux clients qui souhaitent appliquer une protection à l’aide de Microsoft Azure Rights Management Services (Azure RMS), d’Office 365 Encryption (OME) et de protection contre la perte de données (DLP).
 
 > [!NOTE]
-> **Vous voulez en savoir plus ?** Voir [Enterprise Mobility + Security](https://www.microsoft.com/fr-FR/cloud-platform/enterprise-mobility).  
+> **Vous voulez en savoir plus ?** Voir [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).  
 
 ## <a name="next-steps"></a>Étapes suivantes
 

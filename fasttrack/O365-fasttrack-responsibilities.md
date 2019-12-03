@@ -3,19 +3,19 @@ title: Responsabilités FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 08fc251860aca5868deefd19904abd30b5a9f8b9
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921580"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662987"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -107,50 +107,7 @@ Fournir des conseils à propos des éléments suivants :
     
 Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](O365-data-migration.md).
   
-## <a name="sharepoint-online"></a>SharePoint Online
-
-Fournir des conseils à propos des éléments suivants :
-- la configuration de l’approvisionnement utilisateur, y compris la gestion des licences.
-- l'activation de la création de sites pour votre administrateur SharePoint Online ;    
-- la planification des collections de sites ; 
-- la sécurisation du contenu et la gestion des autorisations ;
-- l’activation de sites personnels et de fonctionnalités sociales ;
-- la configuration des fonctionnalités SharePoint Online. 
-- l’assurance de la migration de données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
-- l’évaluation de la configuration d’infrastructure de batterie de serveurs SharePoint locale nécessaire pour SharePoint Online hybride ; 
-- l’utilisation des outils et de l’automatisation pour :
-  - Configurer les applications de service de recherche dans le cloud en local. 
-  - Configurer l’approbation entre les environnements SharePoint en local et dans le cloud.
-- Configurer des sites SharePoint locaux afin d’utiliser les fonctionnalités SharePoint Online hybride.
-    
-## <a name="onedrive-for-business"></a>OneDrive Entreprise
-
-Fournir des conseils à propos des éléments suivants :
-- l'identification de la version locale de SharePoint et des options d'intégration ; 
-- l’identification des options de synchronisation et d’identité ;
-- Sélection d’une option de déploiement :   
-  - Déploiement juste-à-temps.
-  - Déploiement intermédiaire (effectué en séquences et en phases).
-- Préparation de l'environnement local pour le déploiement de OneDrive Entreprise :
-  - Identification du client de synchronisation OneDrive Entreprise approprié.
-  - la configuration du DNS, des ports réseau et du pare-feu ; 
-- l’attribution des licences utilisateur final ; 
-- la configuration d'audiences SharePoint Online pour le contrôle et la gestion de l'accès à OneDrive Entreprise ; 
-- Déploiement du client de synchronisation OneDrive Entreprise sur les ordinateurs de bureau.   
-- Méthode de configuration de la redirection OneDrive Entreprise hybride avec SharePoint Online (SharePoint 2013 et SharePoint 2016 uniquement).
-- Migration des données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
-    
-## <a name="office-365-advanced-threat-protection"></a>Office 365 - Protection avancée contre les menaces
-
-Fournir des conseils à propos des éléments suivants :
-- Activation des liens fiables.
-- Activation des pièces jointes fiables.
-- Activation des stratégies anti-hameçonnage.
-- Configuration de l’automatisation, de l’enquête et de la réponse.
-- Utilisation du Simulateur d’attaques.
-- Création de rapports et analytique des menaces.
-
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
 - Vérification de la configuration minimale requise.
@@ -175,26 +132,51 @@ Fournir des conseils à propos des éléments suivants :
 - Activation des événements en direct Teams. 
 - Configuration de l’organisation et intégration à Microsoft Stream.
 
-
-## <a name="skype-for-business-online"></a>Skype Entreprise Online
+## <a name="office-365-advanced-threat-protection"></a>Protection avancée contre les menaces Office 365
 
 Fournir des conseils à propos des éléments suivants :
-- Approvisionnement d'identités Skype Entreprise pour Office 365. 
-- Activation des fonctionnalités de conférence en ligne, de messagerie instantanée et de présence pour Office 365. 
-- Création de comptes à associer aux appareils de système de salle pris en charge (jusqu’à 10 comptes). 
-- Configuration d'un environnement de serveur de domaine séparé pour prendre en charge les scénarios hybrides Lync ou Skype Entreprise Online (le cas échéant).
-- Activation de l’audioconférence :
-  - Configuration de l’organisation pour les paramètres par défaut de la passerelle de conférence.
-  - Affectation d’une passerelle de conférence aux utilisateurs titulaires d’une licence.
-- Activation du système téléphonique :
-  - Intégration pour l’activation du système téléphonique et des plans d’appel (dans les pays disponibles).
-  - Affectation de numéros aux utilisateurs titulaires d’une licence.
-  - Instructions de portage de numéro local via l’interface utilisateur jusqu’à 999.
-  - Prise en charge des demandes de service de portage de numéro local au-delà de 999.
-- Activation de la diffusion de réunion Skype Entreprise :
-  - Activation de l’intégration d’instructions pour la diffusion de réunion Skype Entreprise.
-  - Configuration de l’organisation pour la fédération avec le service de diffusion de réunion.
+- Activation des liens fiables.
+- Activation des pièces jointes fiables.
+- Activation des stratégies anti-hameçonnage.
+- Configuration de l’automatisation, de l’enquête et de la réponse.
+- Utilisation du Simulateur d’attaques.
+- Création de rapports et analytique des menaces.
+
+## <a name="office-365-proplus"></a>Office 365 ProPlus
+
+Fournir des conseils à propos des éléments suivants :
+- Résolution des problèmes de déploiement.
+- Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
+- Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.
+- Installation des applications Office Mobile (comme Outlook pour iOS et Android, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile. 
+- Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.
+- Sélection et configuration d’une installation locale ou dans le cloud.
+- Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.
+- Déploiement à l’aide de System Center Configuration Manager, incluant l’assistance avec la création du packaging System Center Configuration Manager.
     
+## <a name="onedrive-for-business"></a>OneDrive Entreprise
+
+Fournir des conseils à propos des éléments suivants :
+- l'identification de la version locale de SharePoint et des options d'intégration ; 
+- l’identification des options de synchronisation et d’identité ;
+- Sélection d’une option de déploiement :   
+  - Déploiement juste-à-temps.
+  - Déploiement intermédiaire (effectué en séquences et en phases).
+- Préparation de l'environnement local pour le déploiement de OneDrive Entreprise :
+  - Identification du client de synchronisation OneDrive Entreprise approprié.
+  - la configuration du DNS, des ports réseau et du pare-feu ; 
+- l’attribution des licences utilisateur final ; 
+- la configuration d'audiences SharePoint Online pour le contrôle et la gestion de l'accès à OneDrive Entreprise ; 
+- Déploiement du client de synchronisation OneDrive Entreprise sur les ordinateurs de bureau.   
+- Méthode de configuration de la redirection OneDrive Entreprise hybride avec SharePoint Online (SharePoint 2013 et SharePoint 2016 uniquement).
+- Migration des données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
+    
+## <a name="outlook-for-ios-and-android"></a>Outlook pour iOS et Android
+
+Fournir des conseils à propos des éléments suivants :
+- Téléchargement d’Outlook sur des appareils iOS et Android.
+- Configuration des comptes de messagerie dans Outlook.
+
 ## <a name="power-bi"></a>Power BI
 
 Fournir des conseils à propos des éléments suivants :
@@ -220,28 +202,45 @@ Fournir des conseils à propos des éléments suivants :
 - Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365 ou des modèles de stratégie de groupe.
 - Configuration d'un serveur de distribution sur site unique pour Client de bureau Project Online et instructions relatives à la création d'un fichier configuration.xml pour l'outil Déploiement 2016 d'Office. 
 - Connexion de Client de bureau Project Online à Project Online.
+
+## <a name="sharepoint-online"></a>SharePoint Online
+
+Fournir des conseils à propos des éléments suivants :
+- la configuration de l’approvisionnement utilisateur, y compris la gestion des licences.
+- l'activation de la création de sites pour votre administrateur SharePoint Online ;    
+- la planification des collections de sites ; 
+- la sécurisation du contenu et la gestion des autorisations ;
+- l’activation de sites personnels et de fonctionnalités sociales ;
+- la configuration des fonctionnalités SharePoint Online. 
+- l’assurance de la migration de données si le service de migration de données du centre FastTrack est utilisé et que vous êtes éligible.
+- l’évaluation de la configuration d’infrastructure de batterie de serveurs SharePoint locale nécessaire pour SharePoint Online hybride ; 
+- l’utilisation des outils et de l’automatisation pour :
+  - Configurer les applications de service de recherche dans le cloud en local. 
+  - Configurer l’approbation entre les environnements SharePoint en local et dans le cloud.
+- Configurer des sites SharePoint locaux afin d’utiliser les fonctionnalités SharePoint Online hybride.
+    
+## <a name="skype-for-business-online"></a>Skype Entreprise Online
+
+Fournir des conseils à propos des éléments suivants :
+- Approvisionnement d'identités Skype Entreprise pour Office 365. 
+- Activation des fonctionnalités de conférence en ligne, de messagerie instantanée et de présence pour Office 365. 
+- Création de comptes à associer aux appareils de système de salle pris en charge (jusqu’à 10 comptes). 
+- Configuration d'un environnement de serveur de domaine séparé pour prendre en charge les scénarios hybrides Lync ou Skype Entreprise Online (le cas échéant).
+- Activation de l’audioconférence :
+  - Configuration de l’organisation pour les paramètres par défaut de la passerelle de conférence.
+  - Affectation d’une passerelle de conférence aux utilisateurs titulaires d’une licence.
+- Activation du système téléphonique :
+  - Intégration pour l’activation du système téléphonique et des plans d’appel (dans les pays disponibles).
+  - Affectation de numéros aux utilisateurs titulaires d’une licence.
+  - Instructions de portage de numéro local via l’interface utilisateur jusqu’à 999.
+  - Prise en charge des demandes de service de portage de numéro local au-delà de 999.
+- Activation de la diffusion de réunion Skype Entreprise :
+  - Activation de l’intégration d’instructions pour la diffusion de réunion Skype Entreprise.
+  - Configuration de l’organisation pour la fédération avec le service de diffusion de réunion.
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 Fournir des instructions sur la conversion de votre réseau Yammer Basic unique en un seul réseau Yammer Enterprise.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-Fournir des conseils à propos des éléments suivants :
-- Résolution des problèmes de déploiement.
-- Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
-- Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.
-- Installation des applications Office Mobile (comme Outlook pour iOS et Android, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile. 
-- Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.
-- Sélection et configuration d’une installation locale ou dans le cloud.
-- Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.
-- Déploiement à l’aide de System Center Configuration Manager, incluant l’assistance avec la création du packaging System Center Configuration Manager.
-    
-## <a name="outlook-for-ios-and-android"></a>Outlook pour iOS et Android
-
-Fournir des conseils à propos des éléments suivants :
-- Téléchargement d’Outlook sur des appareils iOS et Android.
-- Configuration des comptes de messagerie dans Outlook.
-
 \*Pour plus d’informations sur les responsabilités FastTrack pour Office 365 pour le gouvernement américain, consultez l’article relatif aux [responsabilités FastTrack pour Office 365 pour le gouvernement américain](US-Gov-appendix-fasttrack-responsibilities.md).
 
