@@ -3,30 +3,30 @@ title: Avantages du Centre FastTrack pour Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Vous utilisez les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez *au moins* 150 licences pour un service ou un plan éligible.
-ms.openlocfilehash: 6cea55294624df24437ef509e33a27d946675ef5
-ms.sourcegitcommit: bcb004732e9198bddea721c98b3221a7d9c0ddd6
+ms.openlocfilehash: ed3ceae775f014a771efc1a1b134825b4135c9d8
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37992372"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663407"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="4b64c-103">Avantages du Centre FastTrack pour Windows 10</span><span class="sxs-lookup"><span data-stu-id="4b64c-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="60a9f-103">Avantages du Centre FastTrack pour Windows 10</span><span class="sxs-lookup"><span data-stu-id="60a9f-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="4b64c-104">Vous utilisez les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez au moins 150 licences pour un service ou un plan éligible.</span><span class="sxs-lookup"><span data-stu-id="4b64c-104">You use the FastTrack Center Benefit for Windows 10 when you purchase at least 150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="4b64c-105">Vous collaborez ensuite avec les spécialistes FastTrack pour évaluer, corriger et déployer Windows 10 et coordonner les services Avantages du Centre FastTrack pour Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="4b64c-105">You then work with FastTrack Specialists to assess, remediate, and deploy Windows 10 and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> <span data-ttu-id="4b64c-106">Le service Soutien aux applications du bureau met à disposition un spécialiste FastTrack qui vous conseille et vous communique des instructions si vous rencontrez des problèmes de compatibilité avec l’application.</span><span class="sxs-lookup"><span data-stu-id="4b64c-106">The Desktop App Assure service makes a FastTrack Specialist available who provides advisory and remediation guidance if you encounter app compatibility issues.</span></span>  <span data-ttu-id="4b64c-107">Les spécialistes FastTrack vous guident également lors du déploiement et de la mise à jour de Windows 10 et Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="4b64c-107">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10 and Office 365 ProPlus.</span></span> <span data-ttu-id="4b64c-108">Ces avantages de service sont disponibles sans frais supplémentaires avec un abonnement éligible inclus dans les [Offres et services éligibles](M365-eligible-services-and-plans.md) FastTrack.</span><span class="sxs-lookup"><span data-stu-id="4b64c-108">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="60a9f-104">Vous utilisez les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez au moins 150 licences pour un service ou un plan éligible.</span><span class="sxs-lookup"><span data-stu-id="60a9f-104">You use the FastTrack Center Benefit for Windows 10 when you purchase at least 150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="60a9f-105">Vous collaborez ensuite avec les spécialistes FastTrack pour évaluer, corriger et déployer Windows 10 et coordonner les services Avantages du Centre FastTrack pour Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="60a9f-105">You then work with FastTrack Specialists to assess, remediate, and deploy Windows 10 and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> <span data-ttu-id="60a9f-106">Le service Soutien aux applications du bureau met à disposition un spécialiste FastTrack qui vous conseille et vous communique des instructions si vous rencontrez des problèmes de compatibilité avec l’application.</span><span class="sxs-lookup"><span data-stu-id="60a9f-106">The Desktop App Assure service makes a FastTrack Specialist available who provides advisory and remediation guidance if you encounter app compatibility issues.</span></span>  <span data-ttu-id="60a9f-107">Les spécialistes FastTrack vous guident également lors du déploiement et de la mise à jour de Windows 10 et Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="60a9f-107">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10 and Office 365 ProPlus.</span></span> <span data-ttu-id="60a9f-108">Ces avantages de service sont disponibles sans frais supplémentaires avec un abonnement éligible inclus dans les [Offres et services éligibles](M365-eligible-services-and-plans.md) FastTrack.</span><span class="sxs-lookup"><span data-stu-id="60a9f-108">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="4b64c-109">Pour l’usage de ce document, les spécialistes FastTrack peuvent inclure des employés de Microsoft, des fournisseurs autorisés par Microsoft et des partenaires autorisés par Microsoft.</span><span class="sxs-lookup"><span data-stu-id="4b64c-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="60a9f-109">Pour l’usage de ce document, les spécialistes FastTrack peuvent inclure des employés de Microsoft, des fournisseurs autorisés par Microsoft et des partenaires autorisés par Microsoft.</span><span class="sxs-lookup"><span data-stu-id="60a9f-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
-- [<span data-ttu-id="4b64c-110">Windows 10</span><span class="sxs-lookup"><span data-stu-id="4b64c-110">Windows 10</span></span>](Win-10-windows-10.md)
-- [<span data-ttu-id="4b64c-111">Soutien aux applications du bureau</span><span class="sxs-lookup"><span data-stu-id="4b64c-111">Desktop App Assure</span></span>](Win-10-desktop-app-assure.md)
-- [<span data-ttu-id="4b64c-112">Microsoft Defender – Protection avancée contre les menaces</span><span class="sxs-lookup"><span data-stu-id="4b64c-112">Microsoft Defender Advanced Threat Protection</span></span>](Win-10-microsoft-defender-atp.md)
+- [<span data-ttu-id="60a9f-110">Windows 10</span><span class="sxs-lookup"><span data-stu-id="60a9f-110">Windows 10</span></span>](Win-10-windows-10.md)
+- [<span data-ttu-id="60a9f-111">Soutien aux applications du bureau</span><span class="sxs-lookup"><span data-stu-id="60a9f-111">Desktop App Assure</span></span>](Win-10-desktop-app-assure.md)
+- [<span data-ttu-id="60a9f-112">Microsoft Defender – Protection avancée contre les menaces</span><span class="sxs-lookup"><span data-stu-id="60a9f-112">Microsoft Defender Advanced Threat Protection</span></span>](Win-10-microsoft-defender-atp.md)
   
 
   
