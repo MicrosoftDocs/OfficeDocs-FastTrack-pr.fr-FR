@@ -3,19 +3,19 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921172"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662767"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -72,6 +72,7 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Sécurité\*
+- Microsoft 365 F1
 - Microsoft 365 Business\*
     
  **Microsoft 365 Éducation**
@@ -164,8 +165,6 @@ Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack
 |**Microsoft Intune**    |   L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.      |
 |**Microsoft Intune et Configuration Manager**     |    L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.     |
 |**Microsoft Intune pour l’Éducation**     |  L’éligibilité s’applique en cas d’achat d’offre A3, A5 ou autonome.       |
-|**Azure Advanced Threat Protection**     |    Limitée. L’éligibilité s’applique uniquement en cas d’achat d’offre autonome. Pour ce faire, accédez au [portail Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Microsoft Cloud App Security**    |       Limitée. L’éligibilité s’applique uniquement en cas d’achat d’offre autonome. Pour ce faire, accédez au [portail Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
 Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 

@@ -3,19 +3,19 @@ title: Migration des données
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921244"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662927"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -66,10 +66,6 @@ Les migrations sont effectuées de façon programmée et standardisée 24 heure
 #### <a name="us-governmentdod"></a>Gouvernement américain/DOD
 
 Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (24x5), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi 2 h 00 UTC au vendredi minuit UTC. Cela signifie que la dernière migration planifiée a lieu le vendredi à 20 h 00 UTC.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland Allemagne (MCD)
-
-Les migrations sont effectuées de façon programmée et standardisée 9 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (9x5), au cours de créneaux horaires de migration prédéfinis. Il y a un lot de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi minuit UTC au vendredi 21 h 00 UTC.
     
  ### <a name="end-state"></a>État final
   
@@ -172,10 +168,6 @@ Les migrations sont effectuées de façon programmée et standardisée 24 heure
 
 Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (24x5), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi 2 h 00 UTC au vendredi minuit UTC. Cela signifie que la dernière migration planifiée a lieu le vendredi à 20 h 00 UTC.
 
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland Allemagne (MCD)
-
-Les migrations sont effectuées de façon programmée et standardisée 9 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (9x5), au cours de créneaux horaires de migration prédéfinis. Il y a un lot de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi minuit UTC au vendredi 21 h 00 UTC.
-
 - Toutes les migrations sont sujettes à des quotas SharePoint Online décrits dans l’article [SharePoint Online et OneDrive Entreprise : limites et frontières logicielles](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - Le volume total des données migrées est lié à 75 % du quota de stockage SharePoint Online total auquel vous êtes autorisé (y compris le stockage supplémentaire que vous avez peut-être acheté séparément).
     
@@ -230,8 +222,8 @@ Lors des migrations, vous devez effectuer les opérations suivantes :
 - Effectuer des corrections de migration après la migration (le cas échéant).
 - Planifier et implémenter des communications de gestion des modifications et aux utilisateurs finals (le cas échéant).   
 - Administrez et configurez les modifications apportées au système source et les appareils requis pour la réalisation des activités d’évaluation et de migration.
-- Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins sept (7) jours à l’avance.
-- Supprimer des données utilisateur en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
+- Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins trois (3) jours à l’avance.
+- Supprimer du plan de migration les données utilisateur jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 > [!NOTE]
 > Microsoft ne peut pas garantir la vitesse de migration des fichiers.
     
@@ -255,10 +247,6 @@ Les migrations sont effectuées de façon programmée et standardisée 24 heure
 #### <a name="us-governmentdod"></a>Gouvernement américain/DOD
 
 Les migrations sont effectuées de façon programmée et standardisée 24 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (24x5), au cours de créneaux horaires de migration prédéfinis. Il y a trois lots de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi 2 h 00 UTC au vendredi minuit UTC. Cela signifie que la dernière migration planifiée a lieu le vendredi à 20 h 00 UTC.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland Allemagne (MCD)
-
-Les migrations sont effectuées de façon programmée et standardisée 9 heures sur 24, sur les cinq (5) jours ouvrés de la semaine (9x5), au cours de créneaux horaires de migration prédéfinis. Il y a un lot de migration par jour de migration. Il y a cinq jours de migration par semaine du lundi minuit UTC au vendredi 21 h 00 UTC.
     
 - Toutes les migrations exigent un accès et des autorisations appropriés pour l’environnement source.   
 - Toutes les migrations sont sujettes à des quotas OneDrive Entreprise décrits dans l’article [SharePoint Online et OneDrive Entreprise : limites et frontières logicielles](https://go.microsoft.com/fwlink/?LinkId=698855).
@@ -285,7 +273,7 @@ Les spécialistes de FastTrack effectuent les opérations suivantes pendant les 
 - Fournir la configuration requise pour les outils de migration et d’évaluation selon le cas pour le scénario.  
 - Fournir la configuration requise pour l’accès de l’équipe de migration à l’environnement source et cible pour l’évaluation et la migration.   
 - Fournir des outils d’évaluation pour évaluer l’environnement source et cible, ou fournir des instructions sur l’utilisation des fonctions de la plateforme source native afin de créer des rapports d’évaluation.    
-- Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins sept (7) jours à l’avance.
+- Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins trois (3) jours à l’avance.
 - Supprimer des données utilisateur en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 - Apporter son aide pour le déploiement et l’exécution d’outils d’évaluation et de migration (le cas échéant).   
 - Configurer l’infrastructure de migration en vue de la migration de contenu (le cas échéant).    

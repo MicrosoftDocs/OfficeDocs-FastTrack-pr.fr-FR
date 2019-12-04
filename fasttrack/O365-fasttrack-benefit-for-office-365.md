@@ -3,7 +3,7 @@ title: Avantages du Centre FastTrack pour Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Vous utilisez les services Avantages du Centre FastTrack pour Office 365 lorsque vous achetez au moins 150 licences pour un service ou un plan admissible pour votre client Office 365. Vous travaillez ensuite avec des spécialistes FastTrack pour évaluer, corriger et activer ces services, ainsi que pour stimuler leur utilisation. Ces spécialistes fournissent également des conseils en matière de migration.
-ms.openlocfilehash: 6b472c211d3356e66c6d8df9aca5e97457c323eb
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 1d427811f2d9f3763c288f43275653379599ff23
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921484"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663011"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Avantages du Centre FastTrack pour Office 365
 
@@ -31,6 +31,21 @@ Pour bénéficier des services de migration du Centre FastTrack, votre client Of
 Pour en savoir plus sur les plans et les services éligibles, voir [Offres et services éligibles](M365-eligible-services-and-plans.md).
   
 Pour obtenir des informations sur le processus du Centre FastTrack et sur qui est responsable de quoi, consultez la rubrique [Présentation des avantages du Centre FastTrack](O365-fasttrack-benefit-overview.md).
+
+Pour en savoir plus sur les avantages fournis par FastTrack par service, voir :
+
+- [Exchange Online](O365-fasttrack-responsibilities.md#exchange-online)
+- [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
+- [Protection avancée contre les menaces dans Office 365](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
+- [Office 365 ProPlus](O365-fasttrack-responsibilities.md#office-365-proplus)
+- [OneDrive Entreprise](O365-fasttrack-responsibilities.md#onedrive-for-business)
+- [Outlook pour iOS et Android](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
+- [Power BI](O365-fasttrack-responsibilities.md#power-bi)
+- [Project Online](O365-fasttrack-responsibilities.md#project-online)
+- [Project Online Professionnel et Project Online Premium](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
+- [SharePoint Online](O365-fasttrack-responsibilities.md#sharepoint-online)
+- [Skype Entreprise Online](O365-fasttrack-responsibilities.md#skype-for-business-online)
+- [Yammer Enterprise](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
 Vous recherchez [Microsoft FastTrack pour Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md) ? Les informations suivantes sont incluses :
   
