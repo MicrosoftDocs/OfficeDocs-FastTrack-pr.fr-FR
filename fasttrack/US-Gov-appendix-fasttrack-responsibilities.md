@@ -3,19 +3,19 @@ title: Responsabilités FastTrack pour le gouvernement américain Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: fd1ff8f660ec5b9a808ef0b30b347fee62d4363c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662939"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929292"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -24,7 +24,7 @@ Les responsables FastTrack ont les responsabilités suivantes lors de l’intég
 ## <a name="general"></a>Général
 
 - Nous vous fournissons une assistance technique à distance pour la mise en œuvre et le développement de la planification de la réussite, et pour les activités de configuration obligatoires, comme indiqué dans les descriptions détaillées des phases.
-- Nous fournissons la documentation disponible, ainsi que des outils logiciels, des consoles d’administration, des scripts pour vous aider à réduire ou à éliminer les tâches de configuration, et des ressources pour la planification de la réussite. 
+- Nous fournissons la documentation disponible, ainsi que des outils logiciels, des consoles d’administration, des scripts pour vous aider à réduire ou à éliminer les tâches de configuration, et des ressources pour la planification de la réussite.   
     
 ## <a name="initiate-phase"></a>Phase de lancement
 
@@ -156,7 +156,7 @@ Fournir des conseils à propos des éléments suivants :
   - Activation de l’intégration d’instructions pour la diffusion de réunion Skype Entreprise.  
   - Configuration de l’organisation pour la fédération avec le service de diffusion de réunion.
     
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
 - Vérification de la configuration minimale requise.   
@@ -192,7 +192,7 @@ Fournir des instructions sur la conversion de votre réseau Yammer Basic unique 
 > [!NOTE]
 > Yammer Enterprise n’est pas un composant d’Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d’entreprise et les contrats d’abonnement Enterprise. Yammer n’est pas disponible dans les plans GCC High ou DoD.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.   

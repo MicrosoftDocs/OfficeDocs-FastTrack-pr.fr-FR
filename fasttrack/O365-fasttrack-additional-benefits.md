@@ -3,18 +3,18 @@ title: Annexe B  Avantages supplémentaires du centre FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662867"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929208"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Annexe B : Avantages supplémentaires du centre FastTrack
 
@@ -102,7 +102,6 @@ Les spécialistes de FastTrack ont les responsabilités suivantes lors de l’in
 
 - Fournir des conseils sur la coexistence d’une arborescence de dossiers publics unique, notamment :  
   - Préparation d'un dossier public dans Exchange 2007, Exchange 2010 et Exchange 2013. 
-  - Cmdlets Windows PowerShell nécessaires pour synchroniser la hiérarchie de dossiers publics Exchange 2007, Exchange 2010 et Exchange 2013 avec Exchange Online.  
   - Configuration Exchange Online pour rediriger l'accès aux dossiers publics vers les dossiers publics locaux.  
   - Configuration de l'accès aux dossiers publics à partir de Exchange Online vers un seul environnement local Exchange 2007, Exchange 2010 ou Exchange 2013.  
   - Aide à la validation d'accès à l'environnement de dossier public pour 10 utilisateurs au maximum dans Exchange Online.

@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à effectuer la mise à niveau de Windows 7 Professionnel et Windows 8.1 Professionnel vers Windows 10 Entreprise.
-ms.openlocfilehash: 93682e15c4bb2dc524d9442cc75e79ae1f3dad7f
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: e4f048f826ea42b462ca973cbd48a1d2914f5f98
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663113"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929364"
 ---
 # <a name="windows-10"></a>Windows 10
 
