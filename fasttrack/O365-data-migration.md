@@ -3,19 +3,19 @@ title: Migration des données
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662927"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929220"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -83,9 +83,9 @@ Voici l’état final prévu une fois toutes les migrations terminées :
 |||||
 |:-----|:-----|:-----|:-----|
 |**Environnement source**|**Type de migration**|**Éléments migrés à partir de la boîte aux lettres source**|**Éléments qui ne sont pas migrés**|
-|**Exchange 2003 et versions ultérieures**|Basculement| Messages électroniques <br/> Règles de boîte aux lettres <br/> Délégués <br/> Contacts de boîte aux lettres <br/> Calendrier <br/> Tâches <br/> E-mails gérés par des droits| Dossiers publics <br/> Contacts personnels <br/> Utilisateurs à extension messagerie <br/> Utilisateurs bloqués ou inactifs <br/> Signatures <br/> Conteneur de dépôt de boîte aux lettres <br/>  Tout message électronique dépassant la limite de taille de message <br/> Données d’archive <br/> E-mails chiffrés <br/> Éléments endommagés <br/>  Boîtes aux lettres inactives |
-|**Exchange 2003 et Exchange 2007**|Intermédiaire| Messages électroniques <br/> Règles de boîte aux lettres <br/> Délégués <br/> Contacts de boîte aux lettres <br/> Calendrier <br/> Tâches <br/> E-mails gérés par des droits| Dossiers publics <br/> Contacts personnels <br/> Utilisateurs à extension messagerie <br/> Utilisateurs bloqués ou inactifs <br/> Signatures <br/> Conteneur de dépôt de boîte aux lettres <br/> Tout message électronique dépassant la limite de taille de message <br/> Données d’archive <br/> E-mails chiffrés <br/> Éléments endommagés <br/> Boîtes aux lettres inactives |
-|**Exchange 2010, Exchange 2013, Exchange 2016** <br/><br/> **Remarque** *Pour les dépendances Exchange locales, reportez-vous à la rubrique [Configuration requise pour un déploiement hybride](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migration avec déploiement hybride| Messages électroniques <br/> Règles de boîte aux lettres <br/> Délégués <br/> Contacts de boîte aux lettres <br/> Calendrier <br/> Tâches <br/> Signatures <br/> Archives personnelles migrées avec la boîte aux lettres des utilisateurs <br/> Éléments récupérables <br/> E-mails gérés par des droits| Dossiers publics <br/> Tout message électronique dépassant la limite de taille de message <br/> Archivage de journalisation ou toute solution d’archivage tierce <br/> Utilisateurs bloqués ou inactifs <br/> Données d’archive à partir de fichiers PST (Personal Storage Table) <br/> E-mails chiffrés <br/> Éléments endommagés <br/> Boîtes aux lettres inactives |
+|**Exchange 2003 et versions ultérieures**|Basculement| Messages électroniques <br/> Règles de boîte aux lettres <br/> Délégués <br/> Contacts de boîte aux lettres <br/> Calendrier <br/> Tâches <br/> E-mails gérés par des droits <br/> E-mails chiffrés| Dossiers publics <br/> Contacts personnels <br/> Utilisateurs à extension messagerie <br/> Utilisateurs bloqués ou inactifs <br/> Signatures <br/> Conteneur de dépôt de boîte aux lettres <br/>  Tout message électronique dépassant la limite de taille de message <br/> Données d’archive <br/> Éléments endommagés <br/>  Boîtes aux lettres inactives |
+|**Exchange 2003 et Exchange 2007**|Intermédiaire| Messages électroniques <br/> Règles de boîte aux lettres <br/> Délégués <br/> Contacts de boîte aux lettres <br/> Calendrier <br/> Tâches <br/> E-mails gérés par des droits <br/> E-mails chiffrés| Dossiers publics <br/> Contacts personnels <br/> Utilisateurs à extension messagerie <br/> Utilisateurs bloqués ou inactifs <br/> Signatures <br/> Conteneur de dépôt de boîte aux lettres <br/> Tout message électronique dépassant la limite de taille de message <br/> Données d’archive <br/> Éléments endommagés <br/> Boîtes aux lettres inactives |
+|**Exchange 2010, Exchange 2013, Exchange 2016** <br/><br/> **Remarque** *Pour les dépendances Exchange locales, reportez-vous à la rubrique [Configuration requise pour un déploiement hybride](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migration avec déploiement hybride| Messages électroniques <br/> Règles de boîte aux lettres <br/> Délégués <br/> Contacts de boîte aux lettres <br/> Calendrier <br/> Tâches <br/> Signatures <br/> Archives personnelles migrées avec la boîte aux lettres des utilisateurs <br/> Éléments récupérables <br/> E-mails gérés par des droits <br/> E-mails chiffrés| Dossiers publics <br/> Tout message électronique dépassant la limite de taille de message <br/> Archivage de journalisation ou toute solution d’archivage tierce <br/> Utilisateurs bloqués ou inactifs <br/> Données d’archive à partir de fichiers PST (Personal Storage Table) <br/> Éléments endommagés <br/> Boîtes aux lettres inactives |
 |**Environnement G Suite (Gmail, contacts et calendrier uniquement)** <br/> <br/> **Remarque** *Les API Google et le Kit de développement logiciel (SDK) d’administration Google doivent être activés dans votre environnement G Suite pour bénéficier de fonctionnalités étendues.* <br/> <br/> **Remarque** *Emplacement des données : FastTrack peut transférer, traiter et stocker des données migrées selon l'emplacement de location du client aux États-Unis ou depuis n'importe quel emplacement depuis lequel Microsoft ou ses fournisseurs tiers tiennent à jour des installations. FastTrack supprime les données stockées dans les 30 jours après la fin des services applicables.*           |À basculement ou intermédiaire| Messages électroniques <br/> Contacts de boîte aux lettres <br/> Calendrier <br/> Étiquettes | Règles <br/> Délégués <br/> Signatures <br/> Tâches <br/> Tout message électronique ou toute pièce jointe dépassant 35 Mo <br/> Utilisateurs bloqués ou inactifs <br/> Données d’archive à partir de fichiers PST ou de toute solution d’archivage tierce (par exemple, Google Vault) <br/> Droits gérés ou messages électroniques chiffrés <br/> Éléments endommagés <br/> Google Hangouts <br/> Groupes Google <br/> Boîtes aux lettres de ressources <br/> Boîtes aux lettres inactives |
 |**IBM Domino 7.0.3 et versions ultérieures** ([Annexe A : Migration d’IBM Domino vers Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|Intermédiaire| Messages électroniques - 90 derniers jours <br/> Calendrier - 90 derniers jours et éléments futurs <br/> Contacts de boîte aux lettres - tous <br/> Tâches - Tout <br/> Salles et ressources - En fonction de leur implémentation avec le modèle standard <br/> Les fichiers de messagerie, y compris ceux partagés, doivent utiliser le modèle de messagerie standard | Signatures <br/> Règles de boîte aux lettres <br/> Délégués <br/> Éléments chiffrés <br/> Liens de documents <br/> Papier à lettres utilisateur <br/> Tout message électronique dépassant la limite de taille de message <br/> Utilisateurs bloqués ou inactifs <br/> Données d’archive <br/> Éléments endommagés <br/> Coexistence de calendriers <br/> Boîtes aux lettres inactives |
 |**Novell GroupWise 7.0.4 et versions ultérieures** <br/><br/> **Remarque** *Emplacement des données : FastTrack peut transférer, traiter et stocker des données migrées selon l'emplacement de location du client aux États-Unis ou depuis n'importe quel emplacement depuis lequel Microsoft ou ses fournisseurs tiers tiennent à jour des installations. FastTrack supprime les données stockées dans les 30 jours après la fin des services applicables.*           |Intermédiaire| Messages électroniques <br/> Calendrier <br/> Contacts de boîte aux lettres <br/> Groupes personnels <br/> Tâches (avec restrictions) <br/> Documents | Règles <br/> Conversion de proxys/délégués/liste de contrôle d’accès (ACL) <br/> Signatures <br/> Catégories de contact <br/> Message électronique chiffré <br/> Dossiers de recherche <br/> Tout message électronique ou toute pièce jointe dépassant 35 Mo <br/> Utilisateurs bloqués ou inactifs <br/> Données d’archive <br/> Éléments chiffrés ou gérés par des droits <br/> Éléments endommagés <br/> Coexistence de calendriers <br/> Boîtes aux lettres inactives |
@@ -223,7 +223,7 @@ Lors des migrations, vous devez effectuer les opérations suivantes :
 - Planifier et implémenter des communications de gestion des modifications et aux utilisateurs finals (le cas échéant).   
 - Administrez et configurez les modifications apportées au système source et les appareils requis pour la réalisation des activités d’évaluation et de migration.
 - Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins trois (3) jours à l’avance.
-- Supprimer du plan de migration les données utilisateur jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
+- Supprimer des données utilisateur en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 > [!NOTE]
 > Microsoft ne peut pas garantir la vitesse de migration des fichiers.
     
@@ -273,8 +273,6 @@ Les spécialistes de FastTrack effectuent les opérations suivantes pendant les 
 - Fournir la configuration requise pour les outils de migration et d’évaluation selon le cas pour le scénario.  
 - Fournir la configuration requise pour l’accès de l’équipe de migration à l’environnement source et cible pour l’évaluation et la migration.   
 - Fournir des outils d’évaluation pour évaluer l’environnement source et cible, ou fournir des instructions sur l’utilisation des fonctions de la plateforme source native afin de créer des rapports d’évaluation.    
-- Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins trois (3) jours à l’avance.
-- Supprimer des données utilisateur en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 - Apporter son aide pour le déploiement et l’exécution d’outils d’évaluation et de migration (le cas échéant).   
 - Configurer l’infrastructure de migration en vue de la migration de contenu (le cas échéant).    
 - Effectuer une migration de test limitée pour valider l’infrastructure de migration et la configuration requise.    
@@ -300,6 +298,8 @@ Lors des migrations, vous devez effectuer les opérations suivantes :
 - Installer localement le logiciel de migration fourni par FastTrack (le cas échéant).  
 - Effectuer les activités de correction définies dans le rapport de correction fourni par FastTrack (le cas échéant).   
 - Fournir un échéancier de migration à l’aide des modèles FastTrack et donner des conseils. 
+- Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins trois (3) jours à l’avance.
+- Supprimer des données utilisateur en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 - Effectuer des tests d’assurance qualité et d’acceptation utilisateur concernant la migration.   
 - Effectuer des corrections de migration après la migration (le cas échéant).  
 - Planifier et implémenter des communications de gestion des modifications et aux utilisateurs finals (le cas échéant).  
