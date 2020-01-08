@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929220"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959198"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -98,7 +98,6 @@ Les spécialistes de FastTrack effectuent les opérations suivantes pendant les 
 - Fourniture d’un modèle standard pour la planification des migrations de boîtes aux lettres.
 - Fourniture d'informations sur les autorisations requises pour les spécialistes de FastTrack. 
 - Collecte d’une planification de migration de boîtes aux lettres prédéterminée dans un format prédéfini.
-- Partage des outils préliminaires avec vous, de sorte que vous puissiez exécuter l’outil préliminaire et corriger les défaillances préliminaires de manière proactive avant de migrer les boîtes aux lettres en échec.
 - Tentative de réalisation de migration d’une seule boîte aux lettres jusqu’à deux fois dans un lot de migration avant de signaler que la migration de cette boîte aux lettres a échoué.
 - Pour les environnements source Exchange et IMAP4, migration du contenu des boîtes aux lettres jusqu'à 85 % de la limite de stockage de boîte aux lettres (par exemple, si la limite de stockage de boîte aux lettres est de 85 Go, Microsoft migre au maximum 50 % de la limite de stockage de 50 Go). 
 - Activation de la coexistence de routage de courrier SMTP entre l’environnement de messagerie source et Office 365 Exchange Online, sauf si la migration à basculement est utilisée.
