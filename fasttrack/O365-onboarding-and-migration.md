@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'L’intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données facultative.'
-ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 919908648177a45a9544d8980c11344064d4c4bd
+ms.sourcegitcommit: b5a887ad5e592a469476af3716634ec64a1afe4a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928776"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40988429"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -140,7 +140,9 @@ Pour Office 365 – Protection avancée contre les menaces, nous fournissons d
 - Utilisation du Simulateur d’attaques.
 - Création de rapports et analytique des menaces.
 
-## <a name="microsoft-teams"></a>Microsoft Teams
+![Diagramme Office 365 Protection avancée contre les menaces (intégration)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
+
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants :
 - Vérification de la configuration minimale requise.  
