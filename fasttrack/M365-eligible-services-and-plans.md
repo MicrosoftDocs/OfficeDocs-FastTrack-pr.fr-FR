@@ -3,19 +3,19 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959174"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677018"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -79,6 +79,7 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
+- Sécurité Microsoft 365 A5\*
  
 ## <a name="eligible-office-365-plans"></a>Offres Office 365 éligibles
 
@@ -157,14 +158,35 @@ Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>Offres éligibles Enterprise Mobility + Security (EMS)
 
-|Offre    |Détails de l’éligibilité  |
-|---------|---------|
-|**Enterprise Mobility + Security (EMS) E3 ou E5**       |   Disponible pour les services cloud qui peuvent bénéficier d’avantages FastTrack. Dans le cas contraire, un spécialiste FastTrack ou un partenaire de référence est contacté.        |
-|**Azure Active Directory Premium**     |  L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.       |
-|**Azure Information Protection**    |  Disponible pour P2 dans E5 ou en tant qu’offre autonome. Disponible pour les services cloud éligibles pour les Avantages FastTrack. Pour les services cloud P1, FastTrack partage le guide de déploiement automatique.       |
-|**Microsoft Intune**    |   L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.      |
-|**Microsoft Intune et Configuration Manager**     |    L’éligibilité s’applique en cas d’achat d’offre E3, E5 ou autonome.     |
-|**Microsoft Intune pour l’Éducation**     |  L’éligibilité s’applique en cas d’achat d’offre A3, A5 ou autonome.       |
+**Enterprise Mobility + Security** 
+
+- Enterprise Mobility + Security (EMS) E3 \*\*\*\*
+- Enterprise Mobility + Security (EMS) E5 \*\*\*\*
+
+**Azure Active Directory Premium**
+
+- Azure Active Directory Premium (plan 1)
+- Azure Active Directory Premium (plan 2)
+
+**Azure Information Protection**
+
+- Azure Information Protection Plan 2\*\*\*\*\*
+
+**Microsoft Intune**
+
+- Microsoft Intune
+
+**Microsoft Intune et Configuration Manager**
+
+- Microsoft Intune et Configuration Manager
+
+**Microsoft Intune pour l’Éducation**
+
+- Microsoft Intune pour l’Éducation
+
+\*\*\*\*Disponible pour les services cloud éligibles pour les Avantages FastTrack. Dans le cas contraire, il y a acheminement vers un spécialiste FastTrack ou pour référence de partenaire.
+
+\*\*\*\*\*Disponible pour P2 dans E5 ou en tant qu’offre autonome. Disponible pour les services cloud éligibles pour les Avantages FastTrack. Pour les services cloud P1, FastTrack partage le guide de déploiement automatique.
 
 Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
