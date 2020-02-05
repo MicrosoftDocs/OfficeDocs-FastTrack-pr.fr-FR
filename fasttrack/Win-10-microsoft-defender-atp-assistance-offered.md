@@ -3,19 +3,19 @@ title: Assistance proposée
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quand vous achetez l’un des services Windows 10 ou Microsoft 365, les spécialistes FastTrack fournissent des conseils de déploiement à distance pour la sécurisation des points de terminaison. Notre service est adapté à l’environnement et aux besoins de chaque client.
-ms.openlocfilehash: d9ac7129a10e59198c5c60e131ae019598a2a4db
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 7496b42c0fde63e950f687254e1e52085aada551
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929184"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677264"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
@@ -24,9 +24,6 @@ Quand vous achetez l’un des services Windows 10 ou Microsoft 365 (comme déc
 - Évaluent l’état de vos services Windows AV ou d’autres logiciels de sécurité de point de terminaison.
 - Évaluent les proxys et les pare-feu limitant le trafic réseau.
 - Identifient les sponsors et discutent des plans de déploiement, des dates de début et de la cadence des réunions de support.
-
-> [!NOTE]
-> L’assistance n’est fournie qu’en anglais pour l’instant. 
 
 ## <a name="assistance"></a>Assistance
 
@@ -45,6 +42,10 @@ FastTrack fournit une assistance pour les éléments suivants :
 FastTrack ne fournit pas d’assistance pour :
 - Gestion de projet des activités de correction du client.
 - Support sur site.
+- Intégration ou configuration des agents Microsoft Defender - PACM suivants :
+   - Windows Server
+   - macOS
+   - Linux
 - Isolation basée sur le matériel, contrôle d’application, protection contre le code malveillant exploitant une faille de sécurité et conseils concernant le pare-feu réseau.
 - Gestion continue et réponse aux menaces.
 
