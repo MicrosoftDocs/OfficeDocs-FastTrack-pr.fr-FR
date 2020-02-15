@@ -26,5 +26,7 @@
 #### [Vos responsabilités](Win-10-your-responsibilities.md)
 ### [Soutien aux applications](Win-10-app-assure.md)
 #### [Assistance proposée](Win-10-app-assure-assistance-offered.md)
+### [Microsoft Edge](Win-10-microsoft-edge.md)
+#### [Assistance proposée](Win-10-microsoft-edge-assistance-offered.md)
 ### [Microsoft Defender – Protection avancée contre les menaces](Win-10-microsoft-defender-atp.md)
 #### [Assistance proposée](Win-10-microsoft-defender-atp-assistance-offered.md)
