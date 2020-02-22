@@ -170,7 +170,7 @@ Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack
 
 **Azure Information Protection**
 
-- Azure Information Protection Plan 2\*\*\*\*\*
+- Azure Information Protection (plan 2)\*\*\*\*\*
 
 **Microsoft Intune**
 
@@ -184,9 +184,9 @@ Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack
 
 - Microsoft Intune pour l’Éducation
 
-\*\*\*\*Disponible pour les services cloud éligibles pour les Avantages FastTrack. Dans le cas contraire, il y a acheminement vers un spécialiste FastTrack ou pour référence de partenaire.
+\*\*\*\*Disponible pour les services cloud éligibles aux avantages FastTrack. Dans le cas contraire, les demandes d’assistances sont transmises à un spécialiste FastTrack ou à un partenaire de référence.
 
-\*\*\*\*\*Disponible pour P2 dans E5 ou en tant qu’offre autonome. Disponible pour les services cloud éligibles pour les Avantages FastTrack. Pour les services cloud P1, FastTrack partage le guide de déploiement automatique.
+\*\*\*\*\*Disponible pour P2 dans E5 ou en tant qu’offre autonome. Disponible pour les services cloud éligibles aux avantages FastTrack. Pour les services cloud P1, FastTrack partage le guide de déploiement automatique.
 
 Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
