@@ -3,19 +3,19 @@ title: Responsabilités FastTrack pour le gouvernement américain Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 502f3c7595de510caf98b51b7b2d0bd274d076e8
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677030"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347454"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -192,7 +192,7 @@ Fournir des instructions sur la conversion de votre réseau Yammer Basic unique 
 > [!NOTE]
 > Yammer Enterprise n’est pas un composant d’Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d’entreprise et les contrats d’abonnement Enterprise. Yammer n’est pas disponible dans les plans GCC High ou DoD.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.   
@@ -201,7 +201,7 @@ Fournir des conseils à propos des éléments suivants :
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
 - Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement 2016 Office ou des modèles de stratégie de groupe.   
 - Configuration d’un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l’assistance concernant la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.   
-- Déploiement à l’aide de System Center Configuration Manager, incluant l’assistance avec la création du packaging System Center Configuration Manager.
+- Déploiement à l’aide du gestionnaire de configuration de point de terminaison Microsoft, y compris l’assistance concernant la création d’un package Microsoft Endpoint Manager.
 
     
 
