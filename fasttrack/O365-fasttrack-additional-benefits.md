@@ -3,18 +3,18 @@ title: Annexe B  Avantages supplémentaires du centre FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676646"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347610"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Annexe B : Avantages supplémentaires du centre FastTrack
 
@@ -43,7 +43,7 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour la migration d'
 Pour Office 365 ProPlus, nous fournissons des conseils pour les éléments suivants : 
 - Évaluation et planification axées sur la préparation de votre environnement pour le déploiement initial et la gestion des mises à jour conformément aux meilleures pratiques de Microsoft. 
 - Développement de configurations de déploiement et de paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365 et de l’Outil de personnalisation Office. 
-- Création d'un package de déploiement à l'aide de System Center Configuration Manager.  
+- Déploiement du packaging à l’aide de Microsoft Endpoint Configuration Manager.  
 - Activation de l’utilisation du Readiness Toolkit pour Office, qui permet d’identifier des problèmes de compatibilité potentiels avec vos macros Microsoft Visual Basic pour Applications (VBA) et autres compléments que vous utilisez avec Office.
     
 ## <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack

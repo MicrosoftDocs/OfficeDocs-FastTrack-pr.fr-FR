@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à effectuer la mise à niveau de Windows 7 Professionnel et Windows 8.1 Professionnel vers Windows 10 Entreprise.
-ms.openlocfilehash: ce40590a481465a3aa5ee5238935aa98627bb05b
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677300"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347514"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à effectuer la mise à niveau de Windows 7 Professionnel et Windows 8.1 Professionnel vers Windows 10 Entreprise. Vous collaborez avec des spécialistes FastTrack pour :
 
-- Déployer Windows 10 Entreprise à l’aide de Microsoft System Center Configuration Manager ou Microsoft 365.
+- Déployer Windows 10 Entreprise à l’aide de Microsoft Endpoint Configuration Manager ou Microsoft 365.
 - Déployer Office 365 ProPlus. 
-- Mettre à jour Windows 10 Entreprise et Office 365 ProPlus à l’aide de System Center Configuration Manager ou Microsoft 365.
+- Mettre à jour Windows 10 Entreprise et Office 365 ProPlus à l’aide de Microsoft Endpoint Configuration Manager ou Microsoft 365.
 - Associer le Gestionnaire de configuration à Microsoft Intune dans le cloud ou déployer Intune comme unique solution de gestion cloud.
   
 > [!NOTE]
@@ -41,14 +41,14 @@ Si vous avez besoin d’aide, accédez au [Centre d’administration Microsoft 
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Services**.
-3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
+2.  Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
+3.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
   
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Sélectionnez **Mes clients**.
 3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
 4.  Sélectionnez **Services**.
-5.  Sélectionnez le formulaire **Demande d’assistance avec Microsoft 365**.
+5.  Sélectionnez le formulaire **Obtenir de l’aide pour Microsoft 365**.
 6.  Sélectionnez l’option produit Windows 10 et complétez le formulaire.
  

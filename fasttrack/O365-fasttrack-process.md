@@ -3,19 +3,19 @@ title: Processus FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Le processus de FastTrack propose des services pour l’adoption utilisateur et l’intégration. '
-ms.openlocfilehash: a1c67af6c9bb19c967afcd32ba46ebc550068fd7
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677078"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347658"
 ---
 # <a name="the-fasttrack-process"></a>Processus FastTrack
 
@@ -43,8 +43,8 @@ Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 3
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Services**.
-3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
+2.  Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
+3.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
   
  Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
     
@@ -55,7 +55,7 @@ Les partenaires peuvent également obtenir de l’aide par le biais du [site Fas
 2.  Sélectionnez **Mes clients**.
 3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
 4.  Sélectionnez **Services**.
-5.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**. 
+5.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
 
 Le tableau suivant répertorie les rôles et responsabilités nécessaires pour le processus.
     

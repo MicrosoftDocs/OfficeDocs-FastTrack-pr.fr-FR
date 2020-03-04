@@ -3,19 +3,19 @@ title: Assistance proposée
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365, des spécialistes FastTrack fournissent des conseils et des instructions pour la correction de problèmes afin d’effectuer un déploiement vers Windows 10 et Office 365 ProPlus et de rester à la page sans frais supplémentaires (avec un abonnement éligible).
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677198"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347682"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
@@ -40,6 +40,8 @@ FastTrack fournit une assistance de conversion pour les applications déployées
 
 - Si vos applications ou sites Web fonctionnent sur Internet Explorer 11, les versions prises en charge de Google Chrome ou toute version de Microsoft Edge, ils fonctionnent également avec le nouveau Microsoft Edge.
 
+Si vous souhaitez en savoir plus sur le déploiement de Microsoft Edge, consultez [Présentation des canaux Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). Le web est en constante évolution, c’est pourquoi nous publions une liste des [ modifications connues ayant un impact sur la compatibilité des sites pour Microsoft Edge.](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
+
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 - Les applications virtualisées qui s'exécutent sur un hôte de la session Bureau à distance Windows Server s'exécutent également sur Windows 10 Entreprise multi-session dans le cadre de Windows Virtual Desktop.
@@ -58,7 +60,7 @@ Pour plus d’informations, voir [Qu’est-ce que Windows Virtual Desktop ?](ht
 
 ## <a name="out-of-scope"></a>Non compris
 
-FastTrack ne fournit pas d’assistance pour :
+Les services FastTrack ne comprennent pas les éléments suivants :
 - Inventaire et test des applications pour déterminer ce qui fonctionne et ce qui ne fonctionne pas sous Windows 10 et Office 365 ProPlus. Pour obtenir des instructions plus sur ce processus, visitez le [Centre de Déploiement de Bureau](https://go.microsoft.com/fwlink/?linkid=2080140). Si vous êtes intéressé(e) par une évaluation approfondie de préparation de mise à niveau, terminez le formulaire[client demande pour l’évaluation bureau modernes](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Recherche des déclarations de support et de compatibilité avec Windows 10 dans les applications ISV tierces. Pour plus d’informations, consultez [Analytique de bureau](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Services uniquement pour le conditionnement des applications. Toutefois, l’équipe Soutien aux applications du bureau conditionne les applications que nous avons corrigées pour Windows 10 afin qu’elles puissent être déployées dans l’environnement du client.
