@@ -3,19 +3,19 @@ title: Assistance proposée
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/11/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 (comme indiqué dans les services et les offres éligibles), les spécialistes FastTrack fournissent des instructions de déploiement à distance et une assistance en matière de compatibilité si vous avez une application web ou un site qui fonctionne avec Internet Explorer ou Google Chrome.
-ms.openlocfilehash: 25306c2ac1a9fecd00daac1745dfcab62da99201
-ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+ms.openlocfilehash: 24fc9e2794f30897172aa422902919594d2c6114
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41891740"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347550"
 ---
 # <a name="assistance-offered"></a>Assistance proposée
 
@@ -23,8 +23,8 @@ Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 éligibles 
 
 ## <a name="assistance"></a>Assistance
 
-FastTrack fournit une assistance pour les éléments suivants :
-- Conseils pour déployer le nouveau Microsoft Edge sur Windows 10 Entreprise avec Microsoft Endpoint Manager (Configuration Manager) ou Intune.
+FastTrack propose une assistance à distance pour les éléments suivants :
+- Instructions sur le déploiement du nouveau Microsoft Edge sur Windows 10 Entreprise avec Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager or Microsoft Intune).
 - Instructions sur la configuration de Microsoft Edge (à l’aide de stratégies de groupe ou de la configuration de l’application Intune et des stratégies d’application).
 - Recommandations sur l’inventaire de la liste des sites pouvant nécessiter une utilisation en mode Internet Explorer.
 - Instructions pour activer le mode Internet Explorer avec la liste des sites d’entreprise existante.
@@ -33,15 +33,15 @@ Pour demander des conseils sur le déploiement de Microsoft Edge, vous avez beso
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Services**.
-3.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
+2.  Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
+3.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
   
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Sélectionnez **Mes clients**.
 3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
 4.  Sélectionnez **Services**.
-5.  Sélectionnez le formulaire **Demande d’assistance avec Microsoft 365**.
+5.  Sélectionnez le formulaire **Obtenir de l’aide pour Microsoft 365**.
 6.  Sélectionnez l’option produit **Microsoft Edge** et complétez le formulaire.
  
 Pour obtenir de l’aide sur la compatibilité des applications, remplissez la [demande de service Soutien aux applications](https://go.microsoft.com/fwlink/?linkid=2022721).
@@ -50,6 +50,6 @@ Les partenaires peuvent également obtenir de l'aide par le biais du [site FastT
 
 ## <a name="out-of-scope"></a>Non compris
 
-FastTrack ne fournit pas d’assistance pour :
+Les services FastTrack ne comprennent pas les éléments suivants :
 - Gestion de projet du déploiement Microsoft Edge du client.
 - Support sur site.

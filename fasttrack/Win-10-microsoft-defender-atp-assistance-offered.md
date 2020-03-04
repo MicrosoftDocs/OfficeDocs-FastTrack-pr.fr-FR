@@ -3,34 +3,34 @@ title: Assistance proposée
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quand vous achetez l’un des services Windows 10 ou Microsoft 365, les spécialistes FastTrack fournissent des conseils de déploiement à distance pour la sécurisation des points de terminaison. Notre service est adapté à l’environnement et aux besoins de chaque client.
-ms.openlocfilehash: 7496b42c0fde63e950f687254e1e52085aada551
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 466830de034342d196a3bc5b681b28f43ee5cbbe
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677264"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347706"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
 Quand vous achetez l’un des services Windows 10 ou Microsoft 365 (comme décrit dans [Offres et services éligibles](M365-eligible-services-and-plans.md)), les spécialistes FastTrack fournissent des conseils de déploiement à distance pour la sécurisation des points de terminaison. Notre service est adapté à l’environnement et aux besoins de chaque client. Les spécialistes FastTrack :
-- Évaluent la version du système d’exploitation et la gestion des appareils (notamment Microsoft Intune, System Center Configuration Manager, les objets de stratégie de groupe et les configurations tierces).
+- Évaluent la version du système d’exploitation et la gestion des appareils (notamment Microsoft Intune, Microsoft Endpoint Configuration Manager, les objets de stratégie de groupe et les configurations tierces).
 - Évaluent l’état de vos services Windows AV ou d’autres logiciels de sécurité de point de terminaison.
 - Évaluent les proxys et les pare-feu limitant le trafic réseau.
 - Identifient les sponsors et discutent des plans de déploiement, des dates de début et de la cadence des réunions de support.
 
 ## <a name="assistance"></a>Assistance
 
-FastTrack fournit une assistance pour les éléments suivants :
-- Activer le service Microsoft Defender ATP en déployant un profil d’agent ATP à l’aide d’un point de terminaison intégré.
-- Définir les profils de configuration Microsoft Defender ATP (notamment de protection des points de terminaison et de restriction d’appareil).
-- Définir les paramètres du Centre de sécurité pour personnaliser la façon dont Microsoft Defender ATP répond à vos besoins.
+FastTrack propose une assistance à distance pour les éléments suivants :
+- Activer le service Microsoft Defender ATP en déployant un profil d’agent ATP à l’aide d’un point de terminaison intégré.
+- Définir les profils de configuration Microsoft Defender ATP (notamment la protection des points de terminaison et la restriction de l’appareil).
+- Personnaliser les paramètres du Centre de Sécurité pour que Microsoft Defender ATP réponde à vos besoins spécifiques.
 - Formation aux opérations suivantes :
     - Simulations et tutoriels (comme des scénarios pratiques, de faux programmes malveillants et des investigations automatisées).
     - Création de rapports et analytique des menaces.
@@ -39,7 +39,7 @@ FastTrack fournit une assistance pour les éléments suivants :
 
 ## <a name="out-of-scope"></a>Non compris
 
-FastTrack ne fournit pas d’assistance pour :
+Les services FastTrack ne comprennent pas les éléments suivants :
 - Gestion de projet des activités de correction du client.
 - Support sur site.
 - Intégration ou configuration des agents Microsoft Defender - PACM suivants :
