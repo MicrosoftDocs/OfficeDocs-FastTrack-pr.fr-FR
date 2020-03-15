@@ -10,35 +10,35 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347538"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637378"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
 Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
 
 > [!IMPORTANT]
-> Vous devez acheter *au moins* 150 licences dans la liste des offres éligibles pour bénéficier des services FastTrack.
+> Vous devez acheter *au moins* 150 licences dans la liste des offres éligibles pour bénéficier des services FastTrack. 
   
 Si vous avez besoin d’aide, accédez au [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
 Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
-1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
-3.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
+1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
+3.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
   
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
-1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Mes clients**.
-3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-4.  Sélectionnez **Services**.
-5.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
+1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Sélectionnez **Mes clients**.
+3.    Recherchez votre client ou sélectionnez-le dans votre liste de clients.
+4.    Sélectionnez **Services**.
+5.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
 
 Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
 
