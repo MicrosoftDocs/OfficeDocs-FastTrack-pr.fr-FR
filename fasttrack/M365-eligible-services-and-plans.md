@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
+ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637378"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707043"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
 Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
 
 > [!IMPORTANT]
-> Vous devez acheter *au moins* 150 licences dans la liste des offres éligibles pour bénéficier des services FastTrack. 
+> Vous devez acheter *au moins* 150 licences dans la liste des offres éligibles pour bénéficier des services FastTrack. Nouveauté de mars 2020, Microsoft a mis à disposition les licences d’évaluation [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) et [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) pour une durée de six mois afin de faciliter le travail et l'apprentissage à distance dans le cadre de la réponse des clients à l'épidémie de COVID-19 (coronavirus). À titre d’exception, FastTrack assiste à l’intégration à ces licences gratuites de mars 2020 à août 2020.  
   
 Si vous avez besoin d’aide, accédez au [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
@@ -152,7 +152,7 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 \*\*\*Peut être utilisé à la fois pour les utilisateurs sous licence Skype Entreprise Online et Microsoft Teams. Nécessite l’achat éligible de Skype Entreprise ou de Microsoft Teams. 
 
 > [!NOTE]
-> L’éligibilité aux avantages du Centre FastTrack est basée sur l’achat de licences payantes pour les offres éligibles mentionnées précédemment. 
+> L’éligibilité aux avantages du Centre FastTrack est basée sur l’achat de licences payantes pour les offres éligibles mentionnées précédemment. Nouveauté de mars 2020, Microsoft a mis à disposition les licences d’évaluation [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) et [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) pour une durée de six mois afin de faciliter le travail et l'apprentissage à distance dans le cadre de la réponse des clients à l'épidémie de COVID-19 (coronavirus). À titre d’exception, FastTrack assiste à l’intégration à ces licences gratuites de mars 2020 à août 2020. 
  
 Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](https://go.microsoft.com/fwlink/?linkid=2044752).
 
