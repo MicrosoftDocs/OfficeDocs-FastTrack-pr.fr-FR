@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack pour Microsoft 365 fournit des conseils pour la planification, déploiement et adoption incluant l’accès à distance à l’expertise ingénierie Microsoft, meilleures pratiques, outils et ressources. FastTrack pour Microsoft 365 permet aux organisations et à leurs partenaires d’accélérer le déploiement et développer l’adoption d’Office 365, Windows 10 et Enterprise Mobility + Security par les utilisateurs finaux.
-ms.openlocfilehash: 84e08aab87cc1223c858f82c8e84484dd257cde8
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7595141667db532522104a48ce07b61d4f724200
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347562"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052523"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Centre FastTrack pour Microsoft 365
 
@@ -35,6 +35,3 @@ Pour plus d’informations, voir :
 
 FastTrack est votre partenaire pour le succès de Microsoft 365.
   
-  
-
- 

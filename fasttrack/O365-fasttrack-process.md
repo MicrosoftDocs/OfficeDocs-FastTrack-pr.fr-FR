@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Le processus de FastTrack propose des services pour l’adoption utilisateur et l’intégration. '
-ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347658"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052763"
 ---
 # <a name="the-fasttrack-process"></a>Processus FastTrack
 
@@ -42,20 +42,20 @@ Vous pouvez obtenir de l’aide par le biais du [Centre d’administration Micro
 Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
-1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
-3.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
+1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
+3.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
   
  Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
     
  Quand l’assistance en matière d’intégration débute, nous créons un calendrier de réunions en ligne.
     
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
-1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Mes clients**.
-3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-4.  Sélectionnez **Services**.
-5.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
+1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Sélectionnez **Mes clients**.
+3.    Recherchez votre client ou sélectionnez-le dans votre liste de clients.
+4.    Sélectionnez **Services**.
+5.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
 
 Le tableau suivant répertorie les rôles et responsabilités nécessaires pour le processus.
     
@@ -64,7 +64,3 @@ Le tableau suivant répertorie les rôles et responsabilités nécessaires pour 
 |**Rôle** <br/> |**Responsabilité** <br/> |
 |**Spécialiste FastTrack** <br/> |Propose tous les services d’intégration, de migration et d’adoption par les utilisateurs à distance.  <br/> Vous aide à distance à l’aide d’un ensemble d’outils et de documents publiés. <br/> Travaille directement avec vous ou votre représentant. <br/> Fournit des conseils concernant la migration de la messagerie et des données.|
 |**Service FastTrack**  <br/> |Fournit des conseils pour l’intégration de base et de service, et la planification visant à réussir l’adoption des services éligibles.  <br/> Assure l’assistance et est disponible pendant les heures normales d’ouverture de chaque région. <br/> Fournit une assistance en chinois traditionnel, chinois simplifié (les ressources parlent le mandarin uniquement), anglais, français, allemand, italien, japonais, coréen, portugais (Brésil), espagnol, thaï et vietnamien.|
-
-
-  
-

@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les services Avantages du Centre FastTrack pour Windows 10 permettent d’accéder au service Soutien aux applications du bureau, un service conçu pour corriger les problèmes relatifs à la compatibilité entre applications Office 365 ProPlus et Windows 10.
-ms.openlocfilehash: 5ecbbb7ef31b16e266ae4b4a614a424f62fa2007
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9e73f2c42ce6e12dde94e47d01a69027e6edc798
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347598"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052934"
 ---
 # <a name="app-assure"></a>Soutien aux applications
 
@@ -25,7 +25,3 @@ Pour obtenir de l’aide, remplissez la [demande de service Soutien aux applicat
 
   > [!NOTE]
 > Il s’agit d’un service fourni par FastTrack, et non d’un package logiciel.
-
-    
-
- 

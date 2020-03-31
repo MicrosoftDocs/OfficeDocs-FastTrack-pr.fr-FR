@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347610"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052559"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Annexe B : Avantages supplémentaires du centre FastTrack
 
@@ -143,7 +143,3 @@ Vous avez les responsabilités suivantes lors de l’intégration. Elles s’ajo
 - Nommer un commanditaire opérationnel ou un responsable pouvant prendre des décisions afin de diriger le comité de pilotage.  
 - Nommer un commanditaire opérationnel pour collaborer avec le commanditaire exécutif Microsoft.  
 - Établir une réunion mensuelle pour le comité de pilotage.
-    
-
-  
-
