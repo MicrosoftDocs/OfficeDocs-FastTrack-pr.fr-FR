@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 (comme indiqué dans les services et les offres éligibles), les spécialistes FastTrack fournissent des instructions de déploiement à distance et une assistance en matière de compatibilité si vous avez une application web ou un site qui fonctionne avec Internet Explorer ou Google Chrome.
-ms.openlocfilehash: 24fc9e2794f30897172aa422902919594d2c6114
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 5bcad9585c9ebb6449350d72ed3ad9e5f17ae061
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347550"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052979"
 ---
 # <a name="assistance-offered"></a>Assistance proposée
 
@@ -32,17 +32,17 @@ FastTrack propose une assistance à distance pour les éléments suivants :
 Pour demander des conseils sur le déploiement de Microsoft Edge, vous avez besoin d’aide, accédez au [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Pour vous connecter, vous devez disposer d’un compte professionnel ou scolaire actif (ID d’organisation ou ID Azure Active Directory) sur un client actif. 
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
-1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
-3.  Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
+1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
+3.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
   
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
-1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Mes clients**.
-3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-4.  Sélectionnez **Services**.
-5.  Sélectionnez le formulaire **Obtenir de l’aide pour Microsoft 365**.
-6.  Sélectionnez l’option produit **Microsoft Edge** et complétez le formulaire.
+1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Sélectionnez **Mes clients**.
+3.    Recherchez votre client ou sélectionnez-le dans votre liste de clients.
+4.    Sélectionnez **Services**.
+5.    Sélectionnez le formulaire **Obtenir de l’aide pour Microsoft 365**.
+6.    Sélectionnez l’option produit **Microsoft Edge** et complétez le formulaire.
  
 Pour obtenir de l’aide sur la compatibilité des applications, remplissez la [demande de service Soutien aux applications](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -53,3 +53,4 @@ Les partenaires peuvent également obtenir de l'aide par le biais du [site FastT
 Les services FastTrack ne comprennent pas les éléments suivants :
 - Gestion de projet du déploiement Microsoft Edge du client.
 - Support sur site.
+

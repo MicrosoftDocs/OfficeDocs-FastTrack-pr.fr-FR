@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347766"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052271"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -146,7 +146,7 @@ Fournir des conseils à propos des éléments suivants :
 
 Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.
-- Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
+- Attribution des licences utilisateur final et basées sur l’appareil à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
 - Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.
 - Installation des applications Office Mobile (comme Outlook pour iOS et Android, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile. 
 - Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.
@@ -243,4 +243,3 @@ Fournir des conseils à propos des éléments suivants :
 Fournir des instructions sur la conversion de votre réseau Yammer Basic unique en un seul réseau Yammer Enterprise.
   
 \*Pour plus d’informations sur les responsabilités FastTrack pour Office 365 pour le gouvernement américain, consultez l’article relatif aux [responsabilités FastTrack pour Office 365 pour le gouvernement américain](US-Gov-appendix-fasttrack-responsibilities.md).
-

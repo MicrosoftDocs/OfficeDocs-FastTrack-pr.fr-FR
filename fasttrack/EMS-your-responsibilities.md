@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347478"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052535"
 ---
 # <a name="your-responsibilities"></a>Vos responsabilités
 
@@ -63,9 +63,9 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 
 -   Fournir et configurer tous les certificats SSL (Secure Sockets Layer) publics.
 
--   Configurer ou mettre à niveau Configuration Manager avec la configuration minimale requise pour l’intégration de Microsoft Intune avec Configuration Manager.
+-     Configurer ou mettre à niveau Configuration Manager avec la configuration minimale requise pour l’intégration de Microsoft Intune avec Configuration Manager.
 
--   Pour déployer les profils Wi-Fi et VPN avec Intune, fournissez et configurez l’autorité de certification, ainsi que les infrastructures Wi-Fi et VPN, le cas échéant.
+-     Pour déployer les profils Wi-Fi et VPN avec Intune, fournissez et configurez l’autorité de certification, ainsi que les infrastructures Wi-Fi et VPN, le cas échéant.
 
 -   Rédiger les conditions d’utilisation de l’organisation devant être configurées et affichées sur le portail de l’entreprise Microsoft Intune et auxquelles les utilisateurs finaux peuvent accéder.
 
@@ -127,5 +127,6 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 ## <a name="see-also"></a>Voir aussi
 
 - [Avantages de FastTrack pour EMS](EMS-fasttrack-benefit-for-EMS.md)
+
 - [Avantages de FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md)
 

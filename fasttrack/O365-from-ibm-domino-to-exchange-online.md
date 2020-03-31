@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: "De nombreux paramètres entrent en jeu dans la migration d'IBM Domino vers Exchange Online, notamment lors des phases suivantes :"
-ms.openlocfilehash: ac945137e7beee0d0813ce171fc7292d683e9cd9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7c09957d2a1955313d42c17491d26aedd96c798a
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347574"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052379"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Annexe A : Migration d’IBM Domino vers Exchange Online
 
@@ -126,7 +126,7 @@ Les activités précédant la migration sont coordonnées entre vous et le Centr
     
  **Responsabilités du client**
   
-- Déterminer et importer les plans de migration 21 jours avant la migration.
+- Fournissez un planning dans une méthode définie et une liste de données utilisateur spécifiques à migrer pour chaque événement de migration.
     > [!NOTE]
     > Cette tâche est essentielle, car les activités préalables à la migration impliquent des tâches de correction et de nouvelles tentatives de création de réplicas à différents moments précédant le jour de la migration réelle (T-0). Pendant la migration de certaines boîtes aux lettres, les activités T-moins sont effectuées sur les autres. Aussi, une planification et une coordination optimales sont indispensables. 
 - Corriger les problèmes repérés au cours des activités T-moins.
@@ -136,7 +136,3 @@ Les activités précédant la migration sont coordonnées entre vous et le Centr
 - Repérer et signaler les problèmes survenus à l'issue de la migration. Le Service FastTrack offre une assistance post-migration pendant les cinq jours suivant la migration, après quoi la résolution des problèmes passe sous votre responsabilité. Vous pouvez soumettre des tickets post-migration pour des problèmes comme l'absence de certains messages électroniques, éléments de calendrier et contacts, ou en cas de doublons dans la boîte aux lettres.
     
 Le Service FastTrack ne prend pas en charge les tâches de déploiement, de facturation de licences ou d'assistance associées à la préparation d'annuaires (y compris la synchronisation d'annuaires de Domino vers Active Directory), aux modules complémentaires des logiciels de coexistence pour l'interopérabilité des applications Notes, à la migration en libre-service ou à la migration des archives.
-  
-
-  
-

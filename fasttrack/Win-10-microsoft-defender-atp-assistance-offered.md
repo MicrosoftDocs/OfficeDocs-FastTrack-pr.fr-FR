@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quand vous achetez l’un des services Windows 10 ou Microsoft 365, les spécialistes FastTrack fournissent des conseils de déploiement à distance pour la sécurisation des points de terminaison. Notre service est adapté à l’environnement et aux besoins de chaque client.
-ms.openlocfilehash: 466830de034342d196a3bc5b681b28f43ee5cbbe
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: ed8e9d9764f2dcf970fb1f345482ddc450a87711
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347706"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052799"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
@@ -48,4 +48,3 @@ Les services FastTrack ne comprennent pas les éléments suivants :
    - Linux
 - Isolation basée sur le matériel, contrôle d’application, protection contre le code malveillant exploitant une faille de sécurité et conseils concernant le pare-feu réseau.
 - Gestion continue et réponse aux menaces.
-
