@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales : lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 73c2647a6b1c34d2396d19bedecb7ca1768aba6f
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347526"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052991"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 
@@ -34,16 +34,16 @@ Vous pouvez obtenir de l’aide par le biais du [Centre d’administration Micro
 Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), votre administrateur se connecte au Centre d’administration, puis clique sur le widget **Besoin d’aide ?**. 
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
-1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **demander de l’aide pour microsoft 365** dans les **actions rapides** en haut de votre page d’accueil ou en sélectionnant **demander une assistance pour Microsoft 365** sur la carte de déploiement.
-3. Remplissez le formulaire **demander une assistance pour Microsoft 365** . 
+1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Sélectionnez **demander de l’aide pour microsoft 365** dans les **actions rapides** en haut de votre page d’accueil ou en sélectionnant **demander une assistance pour Microsoft 365** sur la carte de déploiement.
+3. Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
 
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
-1.  Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Sélectionnez **Mes clients**.
-3.  Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-4.  Sélectionnez **Services**.
-5.  Remplissez le formulaire **demander une assistance pour Microsoft 365** .   
+1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Sélectionnez **Mes clients**.
+3.    Recherchez votre client ou sélectionnez-le dans votre liste de clients.
+4.    Sélectionnez **Services**.
+5.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.   
 
 Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
     
@@ -184,11 +184,6 @@ Pour Office 365 ProPlus, nous fournissons des conseils pour les étapes suivant
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
 - Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.    
 - Configuration d’un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l’assistance concernant la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.    
-- Déploiement à l’aide du gestionnaire de configuration de point de terminaison Microsoft, y compris l’assistance concernant la création d’un package Microsoft Endpoint Manager.
+- Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.
     
 ![Étapes de l’intégration Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
-
-  
-
-  
-

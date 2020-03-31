@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Avec le service FastTrack pour Office 365, vous travaillez à distance avec des spécialistes FastTrack pour faire en sorte que votre environnement Office 365 prêt à être utilisé et planifier le déploiement et l’utilisation au sein de votre organisation.
-ms.openlocfilehash: a26f01aa7c12444c5e64ce1618e53360d9fbc5ff
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: fa44502e2697cd18e2e2e3c56d8c1f629ed60afc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347370"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052811"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Annexe D : Présentation des avantages du service FastTrack pour Office 365 pour le gouvernement américain
 
@@ -34,5 +34,3 @@ Nous abordons les sujets suivants :
 - [Vos responsabilités pour Office 365 gouvernement américain](US-Gov-appendix-your-responsibilities.md) 
 - [Annexe A : Migration d'IBM Domino vers Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
 - [Annexe B : Avantages supplémentaires du centre FastTrack](O365-fasttrack-additional-benefits.md)
-
-

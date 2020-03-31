@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 03718f62f7ce28d9e3cbd2b586b64bc26b93e614
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347454"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052787"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -201,8 +201,4 @@ Fournir des conseils à propos des éléments suivants :
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
 - Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement 2016 Office ou des modèles de stratégie de groupe.   
 - Configuration d’un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l’assistance concernant la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.   
-- Déploiement à l’aide du gestionnaire de configuration de point de terminaison Microsoft, y compris l’assistance concernant la création d’un package Microsoft Endpoint Manager.
-
-    
-
-
+- Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.

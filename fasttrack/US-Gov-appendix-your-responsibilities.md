@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 088534b930921210396a0ba9371bd3373756ff92
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0ee08a2fdbe05365731bd0110be29499ae6cce63
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347778"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052967"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Vos responsabilités pour Office 365 gouvernement américain
 
@@ -103,7 +103,4 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 - Activer divers services selon les recommandations de Microsoft.    
 - Obtenir un ID Apple, si vous configurez la gestion des périphériques mobiles (GPM).   
 - Mettre à jour votre certificat Apple Push Notification Service (APNS).
-    
-
   
-
