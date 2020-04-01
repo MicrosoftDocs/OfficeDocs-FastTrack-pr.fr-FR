@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347406"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052259"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -249,43 +249,37 @@ Fournir des conseils à propos des éléments suivants :
     > [!NOTE]
     > La configuration de Windows AutoPilot hors Intune n’est plus dans l’étendue de FastTrack Benefit.
 
-### <a name="enable-phase---co-management"></a>Phase d’activation - Co-gestion
+### <a name="enable-phase---cloud-attach"></a>Phase d’activation : Attacher via le cloud
 
 Fournir des conseils à propos des éléments suivants :
 
 -   Licences pour les utilisateurs finaux.
 
--   Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils (si Intune n’est pas installé).
+-   Mise en œuvre de l’attachement via le cloud dans la console Configuration Manager.
 
--   Configuration d’Azure Active Directory pour l’inscription automatique à la gestion des périphériques mobiles.
+-   Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils (si Intune n’est pas installé).
 
 -   Configuration hybride Azure Active Directory Join.
 
--   Configurer la passerelle de gestion Cloud.
+-   Configuration d’Azure Active Directory pour l’inscription automatique à la gestion des périphériques mobiles.
+
+-   Configurer la passerelle de gestion cloud.
 
 -   Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils.
 
--   Préparer Intune (si Intune n’est pas installé) :
+-   Préparation du service Intune pour la gestion des appareils :
 
-    -   Configuration de votre autorité de gestion des appareils mobiles, en fonction de vos besoins en matière de gestion, notamment :
-
-    -   Définir Intune comme autorité pour la gestion des périphériques mobiles.
+    -   Configuration de l’autorité pour la gestion des périphériques mobiles (MDM) sur Intune.
 
     -   Configuration des groupes tests à utiliser pour valider les stratégies de la gestion des périphériques mobiles.
 
     -   Navigation dans le portail d’administration Intune pour trouver des informations sur les utilisateurs et les appareils.
 
-    -   Configuration des rôles Intune (opérateur de support technique, administrateurs, etc.)
+    -   Configuration des rôles Intune (opérateur de support technique, administrateurs et bien d’autres).
 
-    -   Configurer et déployer des stratégies de protection des applications Intune pour chaque plateforme prise en charge.
+    -   Inscription de périphériques Windows 10 à Intune.
 
-    -   Inscription de périphériques Windows 10 à votre Intune.
-
-- Activer co-gestion dans la console Configuration Manager.
-
-- Basculer les charges de travail dans Intune.
-
-- Surveiller l’activité de co-gestion dans votre environnement.
+    -   Basculement par Intune des charges de travail pour la gestion, à votre convenance.
 
 ### <a name="enable-phase--azure-information-protection"></a>Phase d’activation - Azure Information Protection
 
@@ -311,3 +305,4 @@ Des instructions sont également fournies aux clients qui souhaitent appliquer u
 ## <a name="next-steps"></a>Étapes suivantes
 
 [Avantages de FastTrack pour EMS - Vos responsabilités](EMS-your-responsibilities.md)
+

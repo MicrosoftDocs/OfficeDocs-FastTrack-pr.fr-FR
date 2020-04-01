@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 37fd12c6fd2b9fa09c27954f9119ad864983e691
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 72817a8fca704e480dd2e2b33287890b5e6450ea
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347466"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052331"
 ---
 # <a name="source-environment-expectations"></a>Attentes concernant l’environnement source
 
@@ -33,8 +33,8 @@ Le tableau suivant indique les conditions attendues dans votre environnement sou
 |------------|----------------------------------|
 |Intégration de base|Forêts Active Directory avec le niveau de forêts fonctionnel défini sur Windows Server 2008 ou version ultérieure, avec la configuration de forêt suivante :<br /><br />- Forêt Active Directory unique<br />- Forêts Active Directory multiple </br></br>**Remarque**: Pour toutes les configurations à forêts multiples, le déploiement des services de fédération Active Directory (AD FS) n'entre pas dans le cadre du FastTrack Center Benefit.|
 |Intégration Azure AD Premium|L’environnement Active Directory local et son environnement ont été préparés pour Azure AD Premium, ce qui inclut la correction des problèmes identifiés qui empêchent l’intégration avec Azure AD et les fonctionnalités Azure AD Premium.|
-|Intégration Intune| Les administrateurs informatiques doivent avoir des infrastructures de certificats, WiFi et VPN existantes, qui travaillent déjà dans leurs environnements de production lors de la planification du déploiement de profils WiFi et VPN avec Intune.<br /><br /> **Remarque**: le service benefit n’inclut pas d’aide pour l’installation ou la configuration des autorités de certification, WiFi, VPN ou pour les certificats push Apple MDM  |
-|Cogestion|Avec la cogestion, les administrateurs informatiques sont responsables de la préparation de l’environnement local, ce qui peut inclure une correction des problèmes qui vous empêchent de gérer simultanément les appareils Windows 10 à l’aide du Configuration Manager et d’Intune.<br /><br />**Remarque**: le service FastTrack benefit n’inclut pas d’aide pour la configuration ou la mise à niveau du serveur de site Configuration Manager et/ou du client Configuration Manager vers la configuration minimale requise pour la prise en charge de la cogestion avec les appareils Windows 10. |
+|Intégration Intune| Les administrateurs informatiques doivent avoir des infrastructures de certificats, WiFi et VPN existantes, qui travaillent déjà dans leurs environnements de production lors de la planification du déploiement de profils WiFi et VPN avec Intune.<br /><br /> **Remarque** : l’avantage de service n’inclut pas d’aide pour l’installation ou la configuration des autorités de certification, WiFi, VPN ou pour les certificats push Apple MDM  |
+|Attachement via le cloud de Configuration Manager avec Intune|Avec l’attachement via le cloud, les administrateurs informatiques sont responsables de la préparation de l’environnement local, ce qui peut inclure une correction des problèmes qui vous empêchent d’attacher via le cloud vos environnement Configuration Manager avec Intune.<br /><br />**Remarque**: l’avantage de service FastTrack n’inclut pas d’aide pour la configuration ou la mise à niveau du serveur de site Configuration Manager et du client Configuration Manager vers la configuration minimale requise pour la prise en charge de l’attachement via le cloud. |
 |Intune intégré avec Microsoft Defender - Protection avancée contre les menaces (ATP)|**Remarque** : le service FastTrack offre de l’aide sur l’intégration d’Intune avec Microsoft Defender ATP et la création de stratégies de conformité des appareils basées sur son évaluation du niveau de risque Windows 10. Il n’offre aucune aide sur l’achat, la gestion des licences ou l’activation. |
 |Windows Autopilot|Les administrateurs informatiques sont responsables de l’enregistrement de leurs appareils dans leur organisation en permettant de charger leur ID de matériel en leur nom ou en le téléchargeant eux-mêmes dans le service de pilote automatique de Windows. |
 |Déployer Outlook pour iOS et Android de façon sécurisée avec Intune|<br /><br />- Identités utilisateurs activées dans Azure Active Directory pour Office 365.<br />-Exchange Online ou Exchange hybride configuré avec des licences utilisateur affectées.<br />|
@@ -48,3 +48,4 @@ Le tableau suivant indique les conditions attendues dans votre environnement sou
 ## <a name="next-steps"></a>Étapes suivantes
 
 [FastTrack Center Benefit pour les phases d’intégration EMS](EMS-onboarding-phases.md)
+

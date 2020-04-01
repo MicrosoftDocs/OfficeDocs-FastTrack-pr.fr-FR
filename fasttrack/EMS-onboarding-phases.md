@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637390"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052343"
 ---
 # <a name="onboarding-phases"></a>Phases d’intégration
 
@@ -160,7 +160,7 @@ Pour Intune, nous vous guiderons tout au long de la préparation de l’utilisat
         -   Intégration de Intune avec :
             -   Visionneuse d’équipe pour l’assistance à distance (l’abonnement Team Viewer est obligatoire).
 
-            -   Solutions pour les partenaires mobiles pour la défense contre les menaces Mobile Threat Defense (l’abonnement Mobile Threat Defense est requis).
+            -   Solutions des partenaires pour la protection contre les menaces mobiles (MTD) (un abonnement à la protection contre les menaces mobiles est requis).
 
             -   Solutions de gestion des dépenses télécom (l’abonnement solutions de gestion des dépenses de télécoms est requise).
 
@@ -232,41 +232,37 @@ La procédure de déploiement sécurisé d’Outlook Mobile pour iOS et Android 
     > [!IMPORTANT]
     > L’équipe FastTrack ne prend pas en charge la sécurisation d’Outlook pour iOS et Android avec les stratégies de boîte aux lettres d’appareil mobile Exchange.
 
-#### <a name="co-management"></a>Co-Management
+#### <a name="cloud-attach"></a>Attachement via le cloud
 
-FastTrack vous guide dans la préparation de la gestion simultanée des appareils Windows 10 avec Configuration Manager et Intune. Les étapes exactes dépendent de votre environnement source et peuvent inclure les éléments suivants :
+FastTrack vous guide dans le cadre de la préparation à l’attachement via le cloud d’environnements Configuration Manager existants avec Intune. Les étapes exactes dépendent de votre environnement source. La procédure inclut les étapes suivantes :
 
-- Expliquer les avantages de la co-direction.
+- Explication des avantages de l’attachement via le cloud de Configuration Manager avec Intune.
 
-- Octroyer une licence à vos utilisateurs finaux. FastTrack fournit également des informations sur l’activation des licences en volume pour votre client de service Cloud Microsoft (selon vos besoins).
+- Licences pour les utilisateurs finaux. FastTrack fournit également des informations sur l’activation des licences en volume pour votre client de service cloud Microsoft (selon vos besoins).
 
-- Configurer les identités pour les utiliser avec Intune, soit en tirant parti de votre Active Directory local, soit d’identités Cloud.
+- Configurer les identités pour les utiliser avec Intune en tirant parti de votre Active Directory local et des identités cloud.
 
 - Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils.
 
-- Fournit des instructions sur la migration de Intune intégré avec Microsoft Endpoint Configuration Manager vers Intune en mode autonome.
+- Activer l’attachement via le cloud dans la console Configuration Manager.
 
-- Configuration d’Azure Active Directory pour l’inscription automatique à la gestion des périphériques mobiles.
+- Fourniture de conseils sur la configuration hybride Azure Active Directory Join.
 
-- Fournit des conseils pour la configuration hybride Azure Active Directory Join.
+- Fourniture de conseils sur la configuration d’Azure Active Directory pour l’inscription automatique à la gestion des périphériques mobiles.
 
-- Fournir des instructions sur la configuration de la passerelle de gestion Cloud
+- Fourniture de conseils sur la configuration de la passerelle de gestion cloud.
 
-- Activer co-gestion dans la console Configuration Manager.
+- Configuration des charges de travail prises en charge que vous voulez basculer vers Intune.
 
-- Configure les charges de travail prises en charge que vous voulez basculer vers Intune.
+- Installation du client Configuration Manager dans les appareils inscrits sur Intune.
 
-- Installe le client Configuration Manager dans les appareils inscrits sur Intune.
-
-- Fournit des conseils sur la surveillance de l’activité de co-gestion dans votre environnement.
-
-Microsoft vous fournit également des conseils pour réussir l’adoption de vos services éligibles.
+Microsoft fournit également des conseils pour réussir l’adoption de vos services éligibles.
 
 ![Intégration de la phase d’activation - Intune](./media/ft-enable-phase_intune_mam.png)
 
 ![Intégration de la phase d’activation - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Intégration de la phase d’activation - Co-gestion](./media/ft-9-enable-phase-comanagement.png) 
+![Intégration de la phase d’activation : Attachement via le cloud](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>Phase d’activation - Azure Information Protection
 
@@ -287,3 +283,4 @@ Des instructions sont également fournies aux clients qui souhaitent appliquer u
 ## <a name="next-steps"></a>Étapes suivantes
 
 [Avantages de FastTrack pour EMS - Vos responsabilités Microsoft](EMS-fasttrack-responsibilities.md)
+
