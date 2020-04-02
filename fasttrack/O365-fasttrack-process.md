@@ -3,19 +3,19 @@ title: Processus FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Le processus de FastTrack propose des services pour l’adoption utilisateur et l’intégration. '
-ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052763"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097704"
 ---
 # <a name="the-fasttrack-process"></a>Processus FastTrack
 
