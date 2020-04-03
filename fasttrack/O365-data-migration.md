@@ -3,19 +3,19 @@ title: Migration des données
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052571"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098136"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -50,11 +50,10 @@ Le tableau suivant décrit la configuration requise pour la migration dans votre
 |**Migration de OneDrive Entreprise**  <br/> | Partages de fichiers (partages de fichiers SMB sur des appareils prenant en charge SMB 2.0 et versions ultérieures).  <br/>  Environnement G Suite unique (Google Drive uniquement).  <br/>  Box (Starter, Business, Enterprise). <br/> <br/> **Remarque** *FastTrack effectue uniquement une migration vers des lecteurs Office 365 actifs.*|
    
 ## <a name="migration-to-exchange-online"></a>Migration vers Exchange Online
-
+’’
 ### <a name="enable-to-migrate"></a>Activation de la migration
   
-Si vous utilisez Microsoft pour migrer votre messagerie, nous vous fournissons des instructions pour activer Exchange Online et l'environnement source pour la migration. En fonction de l'environnement source, plusieurs étapes d'activation peuvent être nécessaires. Pour vous aider, nous mettons à votre disposition un ensemble d'outils et de documents, et effectuons des tâches de configuration dès que cela est nécessaire et possible. Selon les paramètres applicables, nous migrons ensuite les boîtes aux lettres, gérons les tâches et fournissons des rapports d'état.
-  
+Si vous utilisez Microsoft pour migrer votre messagerie, nous vous fournissons des instructions pour activer Exchange Online et l'environnement source pour la migration. En fonction de l'environnement source, plusieurs étapes d'activation peuvent être nécessaires. Pour vous aider, nous mettons à votre disposition un ensemble d’outils et de documents, et effectuons des tâches de configuration dès que cela est nécessaire et possible. Selon les paramètres applicables, nous migrons ensuite les boîtes aux lettres, gérons les tâches et fournissons des rapports d’état.
 Microsoft peut nécessiter des autorisations et des droits d’accès relatifs à votre système de messagerie afin d’effectuer des activités de migration.
   
 ### <a name="migration-policy-and-steps"></a>Stratégie et étapes de la migration
@@ -225,7 +224,7 @@ Lors des migrations, vous devez effectuer les opérations suivantes :
 - Planifier et implémenter des communications de gestion des modifications et aux utilisateurs finals (le cas échéant).   
 - Administrez et configurez les modifications apportées au système source et les appareils requis pour la réalisation des activités d’évaluation et de migration.
 - Fournir un plan de migration incluant une méthode définie et la liste des données utilisateur spécifiques à migrer pour chaque événement de migration au moins trois (3) jours à l’avance.
-- Supprimer des données utilisateur en trop, jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
+- Supprimer du plan de migration les données utilisateur jusqu’à 24 heures avant le créneau de migration. Ce doit être le lot de migration final.
 > [!NOTE]
 > Microsoft ne peut pas garantir la vitesse de migration des fichiers.
     

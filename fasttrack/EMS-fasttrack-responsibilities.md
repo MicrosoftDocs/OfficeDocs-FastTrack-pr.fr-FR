@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052259"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097716"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -267,19 +267,19 @@ Fournir des conseils à propos des éléments suivants :
 
 -   Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils.
 
--   Préparation du service Intune pour la gestion des appareils :
+-   Préparation du service Intune pour la gestion des appareils.
 
-    -   Configuration de l’autorité pour la gestion des périphériques mobiles (MDM) sur Intune.
+-   Configuration de l’autorité pour la gestion des périphériques mobiles (MDM) sur Intune.
 
-    -   Configuration des groupes tests à utiliser pour valider les stratégies de la gestion des périphériques mobiles.
+-   Configuration des groupes tests à utiliser pour valider les stratégies de la gestion des périphériques mobiles.
 
-    -   Navigation dans le portail d’administration Intune pour trouver des informations sur les utilisateurs et les appareils.
+-   Navigation dans le portail d’administration Intune pour trouver des informations sur les utilisateurs et les appareils.
 
-    -   Configuration des rôles Intune (opérateur de support technique, administrateurs et bien d’autres).
+-   Configuration des rôles Intune (opérateur de support technique, administrateurs et bien d’autres).
 
-    -   Inscription de périphériques Windows 10 à Intune.
+-   Inscription de périphériques Windows 10 à Intune.
 
-    -   Basculement par Intune des charges de travail pour la gestion, à votre convenance.
+-   Basculement par Intune des charges de travail pour la gestion, à votre convenance.
 
 ### <a name="enable-phase--azure-information-protection"></a>Phase d’activation - Azure Information Protection
 
