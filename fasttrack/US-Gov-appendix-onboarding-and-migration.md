@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales : lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665917"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 
@@ -175,15 +175,15 @@ Pour Yammer, nous fournissons des conseils concernant l’activation du service 
 > [!NOTE]
 > Yammer Enterprise n’est pas un composant d’Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d’entreprise et les contrats d’abonnement Enterprise. Yammer n’est pas disponible dans les plans GCC High ou DoD. 
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Applications Microsoft 365
 
-Pour Office 365 ProPlus, nous fournissons des conseils pour les étapes suivantes : 
+Pour les applications Microsoft 365, nous fournissons des conseils pour : 
 - Résolution des problèmes de déploiement.    
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.    
-- Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.    
-- Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
+- Installation des applications Microsoft 365 à partir du portail Office 365 à l’aide de la démarrer en un clic.    
+- Installation d’applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS ou Android.   
 - Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.    
-- Configuration d’un serveur de distribution sur site unique pour Office 365 ProPlus, incluant l’assistance concernant la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.    
+- Configuration d’un serveur de distribution sur site unique pour les applications Microsoft 365, y compris l’assistance relative à la création d’un fichier Configuration. XML à utiliser avec l’outil de déploiement d’Office 365.    
 - Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.
     
-![Étapes de l’intégration Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
+![Étapes de l’intégration Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)

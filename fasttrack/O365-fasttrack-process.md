@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Le processus de FastTrack propose des services pour l’adoption utilisateur et l’intégration. '
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097704"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666136"
 ---
 # <a name="the-fasttrack-process"></a>Processus FastTrack
 
@@ -35,7 +35,7 @@ Les services d’adoption utilisateur se composent de tâches qui vous aident à
 
 Le diagramme suivant illustre le processus d’intégration.
   
-![Chronologie pour l’utilisation du service d’intégration](media/O365-Onboarding-Timeline.png)
+![Chronologie pour l’utilisation du service d’intégration](media/o365-onboarding-timeline-m365-apps.png)
   
 Vous pouvez obtenir de l’aide par le biais du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
