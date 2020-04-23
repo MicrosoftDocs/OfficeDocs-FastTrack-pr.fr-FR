@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à effectuer la mise à niveau de Windows 7 Professionnel et Windows 8.1 Professionnel vers Windows 10 Entreprise.
-ms.openlocfilehash: d9f2ea820828f91e6eb0ddc22e37c7f98dd8f71d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: d8f8821c1a730a8c42f7ae3755e6c227d53a2b7a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098360"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665834"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack fournit des conseils de déploiement de Windows 10 pour vous aider à effectuer la mise à niveau de Windows 7 Professionnel et Windows 8.1 Professionnel vers Windows 10 Entreprise. Vous collaborez avec des spécialistes FastTrack pour :
 
 - Déployer Windows 10 Entreprise à l’aide de Microsoft Endpoint Configuration Manager ou Microsoft 365.
-- Déployer Office 365 ProPlus. 
-- Mettre à jour Windows 10 Entreprise et Office 365 ProPlus à l’aide de Microsoft Endpoint Configuration Manager ou Microsoft 365.
+- Déployer Microsoft 365 Apps. 
+- Mettre à jour Windows 10 Entreprise et Microsoft 365 Apps à l’aide de Microsoft Endpoint Configuration Manager ou Microsoft 365.
 - Associer le Gestionnaire de configuration à Microsoft Intune dans le cloud ou déployer Intune comme unique solution de gestion cloud.
   
 > [!NOTE]

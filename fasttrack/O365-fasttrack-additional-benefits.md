@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666110"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Annexe B : Avantages supplémentaires du centre FastTrack
 
@@ -38,9 +38,9 @@ Pour Exchange Online, nous fournissons des conseils de configuration pour les é
 
 Pour Skype Entreprise Online, nous fournissons des conseils pour la migration d'utilisateurs locaux Lync et Skype Entreprise vers Skype Entreprise Online.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Pour Office 365 ProPlus, nous fournissons des conseils pour les éléments suivants : 
+Pour Microsoft 365 Apps, nous fournissons des conseils dans les domaines suivants : 
 - Évaluation et planification axées sur la préparation de votre environnement pour le déploiement initial et la gestion des mises à jour conformément aux meilleures pratiques de Microsoft. 
 - Développement de configurations de déploiement et de paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365 et de l’Outil de personnalisation Office. 
 - Déploiement du packaging à l’aide de Microsoft Endpoint Configuration Manager.  
@@ -127,7 +127,7 @@ Les spécialistes de FastTrack ont les responsabilités suivantes lors de l’in
 
 - Fournir des conseils pour migrer les utilisateurs par lots dans un déploiement hybride Skype Entreprise (en conservant les listes de contacts des utilisateurs).
     
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
 - Fournir des conseils et une assistance pour :  
   - Évaluation et planification conformément aux meilleures pratiques de Microsoft pour le déploiement initial et la gestion des mises à jour.

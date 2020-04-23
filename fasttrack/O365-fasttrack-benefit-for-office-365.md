@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Vous utilisez les services Avantages du Centre FastTrack pour Office 365 lorsque vous achetez au moins 150 licences pour un service ou un plan admissible pour votre client Office 365. Vous travaillez ensuite avec des spécialistes FastTrack pour évaluer, corriger et activer ces services, ainsi que pour stimuler leur utilisation. Ces spécialistes fournissent également des conseils en matière de migration.
-ms.openlocfilehash: 830aca2f274cb00d7c365866b31dced314e5429d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665798"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Avantages du Centre FastTrack pour Office 365
 
@@ -35,9 +35,9 @@ Pour obtenir des informations sur le processus du Centre FastTrack et sur qui es
 Pour en savoir plus sur les avantages fournis par FastTrack par service, voir :
 
 - [Exchange Online](O365-fasttrack-responsibilities.md#exchange-online)
+- [Microsoft 365 Apps](O365-fasttrack-responsibilities.md#microsoft-365-apps)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Protection avancée contre les menaces dans Office 365](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [Office 365 ProPlus](O365-fasttrack-responsibilities.md#office-365-proplus)
 - [OneDrive Entreprise](O365-fasttrack-responsibilities.md#onedrive-for-business)
 - [Outlook pour iOS et Android](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
 - [Power BI](O365-fasttrack-responsibilities.md#power-bi)
@@ -49,7 +49,7 @@ Pour en savoir plus sur les avantages fournis par FastTrack par service, voir :
   
 Vous recherchez [Microsoft FastTrack pour Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md) ? Les informations suivantes sont incluses :
   
-- Microsoft Intune    
+- Microsoft Intune
 - Azure Active Directory Premium 
 - Azure Information Protection
     

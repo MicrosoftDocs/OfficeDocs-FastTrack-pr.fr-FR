@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098276"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666170"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -107,6 +107,18 @@ Fournir des conseils à propos des éléments suivants :
     
 Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](O365-data-migration.md).
   
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
+
+Fournir des conseils à propos des éléments suivants :
+- Résolution des problèmes de déploiement.
+- Attribution des licences utilisateur final et basées sur l’appareil à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
+- Installation de Microsoft 365 Apps à partir du portail Office 365 avec l’option Démarrer en un clic.
+- Installation des applications Office Mobile (comme Outlook pour iOS et Android, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS ou Android. 
+- Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.
+- Sélection et configuration d’une installation locale ou dans le cloud.
+- Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.
+- Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
@@ -141,18 +153,6 @@ Fournir des conseils à propos des éléments suivants :
 - Configuration de l’automatisation, de l’enquête et de la réponse.
 - Utilisation du Simulateur d’attaques.
 - Création de rapports et analytique des menaces.
-
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-Fournir des conseils à propos des éléments suivants :
-- Résolution des problèmes de déploiement.
-- Attribution des licences utilisateur final et basées sur l’appareil à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
-- Installation de Office 365 ProPlus à partir du portail Office 365 avec l’option Démarrer en un clic.
-- Installation des applications Office Mobile (comme Outlook pour iOS et Android, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile. 
-- Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.
-- Sélection et configuration d’une installation locale ou dans le cloud.
-- Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.
-- Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive Entreprise
 

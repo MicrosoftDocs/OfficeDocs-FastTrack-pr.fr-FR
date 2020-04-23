@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365, des spécialistes FastTrack fournissent des conseils et des instructions pour la correction de problèmes afin d’effectuer un déploiement vers Windows 10 et Office 365 ProPlus et de rester à la page sans frais supplémentaires (avec un abonnement éligible).
-ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: Lorsque vous achetez un service Windows 10 ou Microsoft 365, des spécialistes FastTrack vous fournissent des conseils et des instructions afin de le déployer vers Windows 10 et Microsoft 365 Apps et de rester à jour sans frais supplémentaires (avec un abonnement éligible).
+ms.openlocfilehash: e7bc00346742f4a69865d6d111eea4187a861c40
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098384"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666050"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
@@ -32,9 +32,9 @@ Les partenaires peuvent également obtenir de l'aide par le biais du [site FastT
 
 FastTrack fournit une assistance de conversion pour les applications déployées sur les produits Microsoft suivants :
 
-### <a name="windows-10-and-office-365-proplus"></a>Windows 10 et Office 365 ProPlus
+### <a name="windows-10-and-microsoft-365-apps"></a>Windows 10 et Microsoft 365 Apps
 
-- Les applications qui fonctionnaient sur Windows 7, Windows 8.1, Office 2010 et Office 2013 fonctionnent également sur Windows 10 et Office 365 ProPlus.
+- Les applications qui fonctionnaient sous Windows 7, Windows 8.1, Office 2010 et Office 2013 fonctionnent également sous Windows 10 et Microsoft 365 Apps.
 
 ### <a name="the-new-microsoft-edge"></a>Le nouveau Microsoft Edge
 
@@ -61,13 +61,13 @@ Pour plus d’informations, voir [Qu’est-ce que Windows Virtual Desktop ?](ht
 ## <a name="out-of-scope"></a>Non compris
 
 Les services FastTrack ne comprennent pas les éléments suivants :
-- Inventaire et test des applications pour déterminer ce qui fonctionne et ce qui ne fonctionne pas sous Windows 10 et Office 365 ProPlus. Pour obtenir des instructions plus sur ce processus, visitez le [Centre de Déploiement de Bureau](https://go.microsoft.com/fwlink/?linkid=2080140). Si vous êtes intéressé(e) par une évaluation approfondie de préparation de mise à niveau, terminez le formulaire[client demande pour l’évaluation bureau modernes](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Inventaire et test des applications pour déterminer ce qui fonctionne et ce qui ne fonctionne pas sous Windows 10 et Microsoft 365 Apps. Pour obtenir des instructions plus sur ce processus, visitez le [Centre de Déploiement de Bureau](https://go.microsoft.com/fwlink/?linkid=2080140). Si vous êtes intéressé(e) par une évaluation approfondie de préparation de mise à niveau, terminez le formulaire[client demande pour l’évaluation bureau modernes](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Recherche des déclarations de support et de compatibilité avec Windows 10 dans les applications ISV tierces. Pour plus d’informations, consultez [Analytique de bureau](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Services uniquement pour le conditionnement des applications. Toutefois, l’équipe Soutien aux applications du bureau conditionne les applications que nous avons corrigées pour Windows 10 afin qu’elles puissent être déployées dans l’environnement du client.
 
 Responsabilités du client, entre autres :
 - Création d’un inventaire d’applications.
-- Validation de ces applications sur Windows 10 et Office 365 ProPlus.
+- Validation de ces applications sous Windows 10 et Microsoft 365 Apps.
 
 > [!NOTE]
 > Microsoft ne peut pas apporter de modifications à votre code source. Toutefois, l’équipe Soutien aux applications peut fournir des conseils aux développeurs d’applications si le code source est disponible pour vos applications.

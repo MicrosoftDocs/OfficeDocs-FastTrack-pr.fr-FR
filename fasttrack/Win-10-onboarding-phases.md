@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'L’intégration Windows 10 comporte quatre phases principales : lancement, évaluation, correction et activation.'
-ms.openlocfilehash: 814b59cebb7f129e9c01ecc205da72bb9029db3d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 06a975d5759fccabe638fc21d9042d95eb46bb07
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098396"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666122"
 ---
 # <a name="onboarding-phases"></a>Phases d’intégration
 
@@ -31,7 +31,7 @@ Les spécialistes FastTrack collaborent avec vous pour évaluer votre environnem
 
 Nous vous proposons des options recommandées pour évaluer vos applications Windows 10. FastTrack fournit des instructions sur l’utilisation Desktop Analytics et vous guide dans la création d’un plan de déploiement de Desktop Analytics.
 
-FastTrack peut également guider votre évaluation de la compatibilité d’Office 365 ProPlus à l’aide du tableau de bord de préparation d’Office 365 dans Configuration Manager ou du kit de ressources de préparation autonome pour Office. Pour plus d’informations sur les services disponibles, consultez l’article [Avantages du Centre FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md). 
+FastTrack peut également guider votre évaluation de la compatibilité de Microsoft 365 Apps à l’aide du tableau de bord de préparation d’Office 365 de Configuration Manager ou du kit de ressources de préparation autonome pour Office. Pour plus d’informations sur les services disponibles, consultez l’article [Avantages du Centre FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md). 
 
 FastTrack évalue également les stratégies de gestion modernes pour vous, notamment en associant Configuration Manager à Microsoft Intune dans le cloud ou en déployant Intune comme unique solution de gestion cloud.
 
@@ -43,14 +43,14 @@ Les tâches de correction doivent être adaptées à votre environnement source 
 
 FastTrack fournit des instructions sur la mise à niveau de vos appareils existants vers Windows 10 Entreprise, pour autant qu’ils répondent à la configuration matérielle requise pour l’appareil. Des instructions de mise à niveau sont disponibles pour soutenir votre mouvement de déploiement existant. FastTrack recommande et fournit des conseils pour une mise à niveau sur place vers Windows 10. Des instructions sont également disponibles pour l’installation d'une image propre de Windows et les scénarios de déploiement [Windows Auopilot](EMS-onboarding-phases.md#windows-autopilot). 
 
-Nous vous proposons des conseils pour déployer Office 365 ProPlus à l’aide de Configuration Manager dans le cadre du déploiement de Windows 10. Voir [Office 365 ProPlus](O365-onboarding-and-migration.md#office-365-proplus) pour plus d’informations sur les services associés.
+Nous vous proposons des conseils pour déployer Microsoft 365 Apps à l’aide de Configuration Manager dans le cadre du déploiement de Windows 10. Consultez [Microsoft 365 Apps](O365-onboarding-and-migration.md#microsoft-365-apps) pour plus d’informations sur les services associés.
 
-Nous fournissons des conseils pour aider votre organisation à rester à jour avec Windows 10 Entreprise et Office 365 ProPlus à l’aide de votre environnement Configuration Manager existant ou de Microsoft 365.
+Nous fournissons des conseils pour permettre à votre organisation d’assurer la mise à jour de Windows 10 Entreprise et Microsoft 365 Apps à l’aide de l’environnement Configuration Manager existant ou de Microsoft 365.
 
 Au besoin, FastTrack peut guider les clients dans l’activation d’une gestion moderne en associant Configuration Manager à Intune dans le cloud ou en déployant Intune autonome. Pour en savoir plus sur les services associés, consultez [Processus des Avantages du Centre FastTrack pour Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
 > [!NOTE]
-> Si vous ne disposez pas d’un plan ou d’un processus existant pour le déploiement et la maintenance, nous pouvons fournir des conseils sur les pratiques recommandées en fonction du scénario de mise à niveau sur place (recommandé) ou de [Windows AutoPilot](EMS-onboarding-phases.md#windows-autopilot).
+> En l’absence de plan ou de processus existant pour le déploiement et la maintenance, nous pouvons fournir des conseils sur les pratiques recommandées en fonction du scénario de mise à niveau en place (recommandé) ou de [Windows AutoPilot](EMS-onboarding-phases.md#windows-autopilot).
 
 ## <a name="out-of-scope"></a>Non compris
 

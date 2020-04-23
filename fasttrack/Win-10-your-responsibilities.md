@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration de Windows 10.
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097788"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666086"
 ---
 # <a name="your-responsibilities"></a>Vos responsabilités
 
@@ -55,6 +55,6 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 
 - Partager votre écran avec l’équipe FastTrack si une assistance est nécessaire lors de l’exécution d’outils d’évaluation sur votre environnement ou vos abonnements au service Cloud (si vous le souhaitez).
 - Configurer les éléments liés au réseau avec les conseils de l’équipe FastTrack.
-- Effectuer la préparation des annuaires et configurer la synchronisation d’annuaires selon les recommandations de l’équipe FastTrack lors du déploiement d’Office 365 ProPlus avec Windows 10.
+- Effectuer la préparation des annuaires et configurer la synchronisation des annuaires conformément aux recommandations de l’équipe FastTrack lors du déploiement de Microsoft 365 Apps avec Windows 10.
 - Configurer une méthode d’authentification, par exemple, gérée ou fédérée.
 

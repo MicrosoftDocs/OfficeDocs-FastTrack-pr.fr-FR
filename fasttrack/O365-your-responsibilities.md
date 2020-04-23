@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: e52a02c356fe9d516e041819717d38a0e2bee3ba
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2529ba36c5656cceeea43f3360adba94e5d96ec3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097584"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666062"
 ---
 # <a name="your-responsibilities"></a>Vos responsabilités
 
@@ -59,7 +59,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.\*
 - Configurer l’espace Microsoft Teams collaboratif pour intégrer le partenariat et inviter les membres de l’équipe du Centre FastTrack.   
 - Collaborer avec les spécialistes de FastTrack pour commencer l’intégration des services éligibles.    
 - Participer à la réunion de lancement, gérer et diriger les participants de votre organisation et confirmer la chronologie des corrections.   
-- Fournir vos objectifs pour les services Office 365 (par exemple, SharePoint Online, Exchange Online, Microsoft Teams et Office 365 ProPlus) et des objectifs organisationnels.
+- Fournir vos objectifs pour les services Office 365 (par exemple, SharePoint Online, Exchange Online, Microsoft Teams et Microsoft 365 Apps) et des objectifs organisationnels.
     
 ## <a name="assess-phase"></a>Phase d’évaluation
 

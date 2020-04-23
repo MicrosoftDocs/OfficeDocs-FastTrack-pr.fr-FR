@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Vous utilisez les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez *au moins* 150 licences pour un service ou un plan éligible.
-ms.openlocfilehash: aaa143651057586938f829fe41a0ddbe2cdf40c5
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 66b8da97435ef0c89a31bc4d55228fbead88bbb3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098204"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665822"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Avantages du Centre FastTrack pour Windows 10
 
-Vous pouvez utiliser les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez au moins 150 licences pour un service ou un plan éligible. Vous collaborez ensuite avec les spécialistes FastTrack pour évaluer, corriger et déployer Windows 10, le nouveau Microsoft Edge ou la protection avancée contre les menaces de Microsoft Defender, et coordonner les avantages du Centre FastTrack pour Office 365 ProPlus. 
+Vous pouvez utiliser les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez au moins 150 licences pour un service ou un plan éligible. Vous collaborez ensuite avec les spécialistes FastTrack pour évaluer, corriger et déployer Windows 10, le nouveau Microsoft Edge ou Microsoft Defender - Protection avancée contre les menaces, et coordonner les avantages du Centre FastTrack pour Microsoft 365 Apps. 
 
 Le avantages du Centre FastTrack pour Windows 10 fournit également l’application vérifier le service. Avec ce service, un spécialiste FastTrack est disponible pour fournir des conseils et vous communique des instructions si vous rencontrez des problèmes de compatibilité avec l’application. 
 
-Les spécialistes FastTrack vous guident également lors du déploiement et de la mise à jour de Windows 10, Microsoft Edge et Office 365 ProPlus. Ces avantages de service sont disponibles sans frais supplémentaires avec un abonnement éligible inclus dans les [Offres et services éligibles](M365-eligible-services-and-plans.md) FastTrack.
+Les spécialistes FastTrack vous guident également lors du déploiement et de la mise à jour de Windows 10, Microsoft Edge et Microsoft 365 Apps. Ces avantages de service sont disponibles sans frais supplémentaires avec un abonnement éligible inclus dans les [Offres et services éligibles](M365-eligible-services-and-plans.md) FastTrack.
   
 > [!NOTE]
 > Pour l’usage de ce document, les spécialistes FastTrack peuvent inclure des employés de Microsoft, des fournisseurs autorisés par Microsoft et des partenaires autorisés par Microsoft. 
