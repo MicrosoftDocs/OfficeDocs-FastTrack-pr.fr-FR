@@ -3,19 +3,19 @@ title: Attentes en matière d’environnement source pour le gouvernement améri
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Le Centre FastTrack vous fournit de l'aide pour définir des niveaux d'intégration avec votre environnement source (par exemple, si vous avez déjà des services dans votre environnement source que vous souhaitez déplacer vers Office 365).
-ms.openlocfilehash: 1f5309220ad4a018741a6ba07a3a44e3afbbffbf
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: cc251184b49b2ab09f9623894dcdc6ff9f647da0
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665870"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999758"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Attentes en matière d’environnement source pour le gouvernement américain Office 365
 

@@ -3,19 +3,19 @@ title: Vos responsabilités pour Office 365 gouvernement américain
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 27d1309b0cfdd610ab56767765665d9bc887fc8b
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665810"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999746"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Vos responsabilités pour Office 365 gouvernement américain
 
@@ -61,7 +61,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 - Configurez un espace Microsoft teams collaboratif pour le partenariat d’intégration et invitez les membres de l’équipe du centre FastTrack (non disponible dans les offres GCC High ou DoD).   
 - Collaborer avec les spécialistes de FastTrack pour commencer l’intégration des services éligibles.    
 - Participer à la réunion de lancement, gérer et diriger les participants de votre organisation et confirmer la chronologie des corrections.    
-- Fournissez vos objectifs pour les services Office 365 (par exemple, SharePoint Online, Exchange Online, Microsoft teams et les applications Microsoft 365) et les objectifs organisationnels.
+- Fournir vos objectifs pour les services Office 365 (par exemple, SharePoint Online, Exchange Online, Microsoft Teams et Microsoft 365 Apps) et des objectifs organisationnels.
     
 ## <a name="assess-phase"></a>Phase d’évaluation
 
