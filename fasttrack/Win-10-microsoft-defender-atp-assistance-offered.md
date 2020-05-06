@@ -3,19 +3,19 @@ title: Assistance proposée
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quand vous achetez l’un des services Windows 10 ou Microsoft 365, les spécialistes FastTrack fournissent des conseils de déploiement à distance pour la sécurisation des points de terminaison. Notre service est adapté à l’environnement et aux besoins de chaque client.
-ms.openlocfilehash: 0e4dc5c08c66839d63c2e09958a26da96325b132
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: be9d4ee5f8b35e7ff48793d25a6116978d45d733
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098192"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999686"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
@@ -29,22 +29,34 @@ Quand vous achetez l’un des services Windows 10 ou Microsoft 365 (comme déc
 
 FastTrack propose une assistance à distance pour les éléments suivants :
 - Activer le service Microsoft Defender ATP en déployant un profil d’agent ATP à l’aide d’un point de terminaison intégré.
-- Définir les profils de configuration Microsoft Defender ATP (notamment la protection des points de terminaison et la restriction de l’appareil).
-- Personnaliser les paramètres du Centre de Sécurité pour que Microsoft Defender ATP réponde à vos besoins spécifiques.
-- Formation aux opérations suivantes :
-    - Simulations et tutoriels (comme des scénarios pratiques, de faux programmes malveillants et des investigations automatisées).
-    - Création de rapports et analytique des menaces.
-    - Gestion des menaces et des vulnérabilités.
-    - Navigation dans le portail du Centre de sécurité Microsoft Defender.
+- Fourniture de conseils de déploiement, l’aide à la configuration et l’éducation sur :
+    - La gestion des menaces et des vulnérabilités.
+    - La réduction de la surface d’attaque.
+    - La nouvelle génération de protection.
+    - La détection de point de terminaison et réponse.
+    - Les enquêtes et résolutions automatiques.
+    - Le niveau de sécurité.
+- L’examen de simulations et de tutoriels (comme des scénarios pratiques, de faux programmes malveillants et des enquêtes automatiques).
+- Un plongeon au cœur de la création de rapports et de l’analyse des menaces.
+- L’intégration d’Office 365 – Protection avancée contre les menaces avec Microsoft Defender – Protection avancée contre les menaces.
+- Effectuer des procédures pas à pas dans le portail du Centre de sécurité Microsoft Defender.
 
 ## <a name="out-of-scope"></a>Non compris
 
 Les services FastTrack ne comprennent pas les éléments suivants :
 - Gestion de projet des activités de correction du client.
 - Support sur site.
+- Gestion continue et réponse aux menaces.
 - Intégration ou configuration des agents Microsoft Defender - PACM suivants :
    - Windows Server
    - macOS
    - Linux
-- Isolation basée sur le matériel, contrôle d’application, protection contre le code malveillant exploitant une faille de sécurité et conseils concernant le pare-feu réseau.
-- Gestion continue et réponse aux menaces.
+- Configuration des fonctionnalités suivantes de réduction de la surface d’attaque :
+    - Isolation basée sur le matériel.
+    - Contrôle d’application.
+    - Exploit Protection.
+    - Pare-feu du réseau.
+- Inscription ou configuration des Spécialistes des menaces Microsoft.
+- Configuration ou formation à l’examen des API ou des connections du serveur de gestion des événements et des informations de sécurité (SIEM).
+- Inscription ou configuration de la Protection Microsoft contre les menaces (MTP).
+- Formation ou conseils pour le repérage avancé.

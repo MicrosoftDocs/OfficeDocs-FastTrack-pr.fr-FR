@@ -3,25 +3,25 @@ title: Microsoft Defender - Protection avancée contre les menaces
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les Avantages du Centre FastTrack pour Windows 10 permettent d’accéder à Microsoft Defender - Protection avancée contre les menaces (ATP), un nouveau service conçu pour aider les réseaux d’entreprise à prévenir, détecter, examiner et traiter les menaces avancées.
-ms.openlocfilehash: f5f81609fe1d632f0499a96135aca048b7e1e158
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 9407dfddff1b59c88a19fb0266e73efe3d117615
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097776"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999640"
 ---
-# <a name="microsoft-defender-advanced-threat-protection"></a>Microsoft Defender - Protection avancée contre les menaces
+# <a name="microsoft-defender-advanced-threat-protection"></a>Microsoft Defender – Protection avancée contre les menaces
 
-Les Avantages du Centre FastTrack pour Windows 10 permettent d’accéder à Microsoft Defender - Protection avancée contre les menaces (ATP), un nouveau service conçu pour aider les réseaux d’entreprise à prévenir, détecter, examiner et traiter les menaces avancées. Quand vous demandez le service Microsoft Defender ATP, un spécialiste FastTrack travaille avec vous pour que vous puissiez déployer les technologies permettant de sécuriser vos points de terminaison.
+Les Avantages du Centre FastTrack pour Windows 10 permettent d’accéder à Microsoft Defender – Protection avancée contre les menaces (ATP), une plateforme conçue pour aider les réseaux d’entreprise à prévenir, détecter, examiner et traiter les menaces avancées. Lorsque vous sollicitez l’aide au déploiement de Microsoft Defender – Protection avancée contre les menaces (ATP) via FastTrack, un spécialiste FastTrack travaille avec vous pour vous permettre de déployer des technologies afin de sécuriser vos points de terminaison.
 
-Un ingénieur Microsoft vous permet d’évaluer la version du système d’exploitation et la gestion des appareils, ainsi que l’état de vos services Windows AV ou d’autres logiciels de sécurité de point de terminaison. Nous fournissons également des conseils pour les profils de protection des points de terminaison et de restriction d’appareil.  
+Dans le cadre des Avantages du Centre FastTrack, un ingénieur Microsoft vous permet d’évaluer la version du système d’exploitation et la gestion des appareils, ainsi que l’état de vos services Windows Defender AV ou d’autres logiciels de sécurité de point de terminaison. Nous fournissons également des conseils pour la configuration de la protection des points de terminaison et des profils de restriction d’appareil.  
 
 > [!NOTE]
 > Il s’agit d’un service fourni par FastTrack, et non d’un package logiciel. 
