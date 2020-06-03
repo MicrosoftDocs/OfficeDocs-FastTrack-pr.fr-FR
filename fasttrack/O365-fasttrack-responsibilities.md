@@ -3,19 +3,19 @@ title: Responsabilités FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999818"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472199"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -119,7 +119,42 @@ Fournir des conseils à propos des éléments suivants :
 - Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.
 - Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.
 
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-information-governance"></a>Microsoft information Governance 
+
+Fournir des conseils à propos des éléments suivants :
+- Gestion d’enregistrements.
+  - Application des autorisations pour la gestion des enregistrements.
+  - Instructions sur la traduction des plans de fichiers et des planifications de rétention en étiquettes et stratégies.
+  - Création d’étiquettes et de stratégies de rétention.
+  - Établissement de stratégies de suppression.
+  - Vérification des éléments pour leur destruction.
+- Gestion des risques internes.
+  - Activation des journaux d’audit Office 365.
+  - Configuration des paramètres dans la gestion des risques initiés.
+  - Création de stratégies de risque initiées à l’aide des règles intégrées.
+  - Configuration des autorisations pour la conformité des communications.
+  - Création de stratégies de conformité de communication à l’aide de modèles personnalisables.
+  - Surveillance et vérification des alertes.
+- Gouvernance des informations.
+  - Application d’autorisations pour la gouvernance des informations.
+  - Création d’étiquettes de rétention.
+  - Les étiquettes de rétention de publication (manuelle et automatique).
+  - Création de travaux d’importation.
+
+## <a name="microsoft-information-protection"></a>Protection des informations Microsoft
+
+Fournir des conseils à propos des éléments suivants :
+- Classification des données.
+- Types d’informations sensibles.
+- Création d’étiquettes de sensibilité.
+- Application d’étiquettes de sensibilité. 
+- Étiquetage unifié.
+- Classifieurs de formation.
+- Connaissance de vos données avec l’Explorateur d’activités et l’Explorateur de contenu.
+- La publication d’étiquettes à l’aide de stratégies (manuelle et automatique).
+- Création de stratégies de protection contre la perte de données (DLP) pour les conversations et les canaux de Microsoft Teams.
+
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
 - Vérification de la configuration minimale requise.
@@ -195,7 +230,7 @@ Fournir des conseils à propos des éléments suivants :
     
 ## <a name="project-online-professional-and-project-online-premium"></a>Project Online Professional Professionnel et Project Online Premium
 
-Fournir des conseils à propos des éléments suivants :
+Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
 - Téléchargement et installation de client de bureau Project Online à partir du portail.   
