@@ -3,7 +3,7 @@ title: Présentation du Centre FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les avantages du Centre FastTrack pour Office 365 vous permettent de collaborer à distance avec des spécialistes FastTrack pour préparer votre environnement Office 365 et planifier son lancement et son utilisation au sein de votre organisation. Pour en savoir plus sur les conditions d'éligibilité, reportez-vous à Avantages du Centre FastTrack pour Office 365.
-ms.openlocfilehash: f3dd071707d469041900f9bab86c07489ffcb4d0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999890"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471708"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Présentation du Centre FastTrack
 
@@ -30,8 +30,7 @@ Nous abordons les sujets suivants :
 - [Migration des données](O365-data-migration.md)
 - [Responsabilités FastTrack](O365-fasttrack-responsibilities.md)
 - [Vos responsabilités](O365-your-responsibilities.md) 
-- [Annexe A : Migration d'IBM Domino vers Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-- [Annexe B : Avantages supplémentaires du centre FastTrack](O365-fasttrack-additional-benefits.md)
+- [Annexe B : Avantages supplémentaires du centre FastTrack](O365-fasttrack-additional-benefits.md)
 - [Annexe C : Accord de partenariat commercial HIPAA pour le service FastTrack](O365-hipaa-business-associate-agreement.md)
 - [Annexe D : Présentation des avantages du service FastTrack pour Office 365 pour le gouvernement américain](US-Gov-appendix-overview.md)
     
