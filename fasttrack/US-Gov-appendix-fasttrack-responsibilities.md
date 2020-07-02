@@ -3,19 +3,19 @@ title: Responsabilités FastTrack pour le gouvernement américain Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 57fba2b06ec21a2603fb36ff32cc58896e80f623
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471587"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011620"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -82,8 +82,10 @@ Fournir des conseils à propos des éléments suivants :
       - La configuration de l’authentification directe Azure Active Directory, si nécessaire (non disponible dans les offres GCC High ou DoD).
       - Configuration de l’authentification unique (SSO) transparente Azure Active Directory, si nécessaire (non disponible dans les offres GCC High ou DoD).
     > [!NOTE]
-    > L'authentification directe Azure Active Directory pour les environnements de forêts multiples est prise en charge s'il existe des approbations de forêt entre vos forêts Active Directory et si le routage des suffixes de noms est correctement configuré. Des agents supplémentaires peuvent être installés sur plusieurs serveurs locaux pour fournir une haute disponibilité pour les demandes de connexion. Pour plus d'informations, reportez-vous à [Authentification directe Azure Active Directory : Démarrage rapide](https://go.microsoft.com/fwlink/?linkid=860094) et [Authentification unique transparente Azure Active Directory - Démarrage rapide](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
-    > Pour obtenir plus d’informations sur les limites de l’authentification directe, reportez-vous à la rubrique [Authentification directe Azure Active Directory : limites actuelles](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > [!NOTE]
+    > For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). 
+    > [!NOTE]
     > Pour obtenir plus d'informations sur les problèmes de l'authentification unique transparente, reportez-vous à [Résoudre les problèmes d'authentification unique transparente Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=841926). 
 - Pour une forêt unique lorsque les identités fédérées sont ciblées : 
   - l'installation et la configuration des services AD FS pour l'authentification de domaine local avec Office 365 dans une configuration à site unique et à tolérance de panne, si nécessaire.  
@@ -156,7 +158,7 @@ Fournir des conseils à propos des éléments suivants :
   - Activation de l’intégration d’instructions pour la diffusion de réunion Skype Entreprise.  
   - Configuration de l’organisation pour la fédération avec le service de diffusion de réunion.
     
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
 - Vérification de la configuration minimale requise.   
@@ -200,5 +202,5 @@ Fournir des conseils à propos des éléments suivants :
 - Installation de Microsoft 365 Apps à partir du portail Office 365 avec l’option Démarrer en un clic.   
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS, Android ou Windows Mobile.   
 - Configuration des paramètres de mise à jour à l'aide de l'outil Déploiement 2016 Office ou des modèles de stratégie de groupe.   
-- Configuration d’un serveur de distribution sur site unique pour les applications Microsoft 365, y compris l’assistance relative à la création d’un fichier Configuration. XML à utiliser avec l’outil de déploiement d’Office 365.   
+- Configuration d’un serveur de distribution sur site unique pour les applications Microsoft 365, y compris l’assistance concernant la création d’un fichier de configuration.xml à utiliser avec l’outil de déploiement d’Office 365.   
 - Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.

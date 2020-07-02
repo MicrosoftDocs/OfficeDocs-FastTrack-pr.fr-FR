@@ -3,19 +3,19 @@ title: Responsabilités FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472199"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011428"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
@@ -82,7 +82,7 @@ Fournir des conseils à propos des éléments suivants :
       - la configuration de l'authentification directe Azure Active Directory, si nécessaire ;\*\*
       - la configuration de l'authentification unique (SSO) transparente Azure Active Directory, si nécessaire.\*\*\*
     > [!NOTE]
-    > L'authentification directe Azure Active Directory pour les environnements de forêts multiples est prise en charge s'il existe des approbations de forêt entre vos forêts Active Directory et si le routage des suffixes de noms est correctement configuré. Des agents supplémentaires peuvent être installés sur plusieurs serveurs locaux pour fournir une haute disponibilité pour les demandes de connexion. Pour plus d'informations, reportez-vous à [Authentification directe Azure Active Directory : Démarrage rapide](https://go.microsoft.com/fwlink/?linkid=860094) et [Authentification unique transparente Azure Active Directory - Démarrage rapide](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - Pour une forêt unique lorsque les identités fédérées sont ciblées : 
   - l'installation et la configuration des services AD FS pour l'authentification de domaine local avec Office 365 dans une configuration à site unique et à tolérance de panne, si nécessaire.
   - l’installation et la configuration de WAP pour publier votre infrastructure AD FS sur Internet, si nécessaire.
@@ -140,6 +140,15 @@ Fournir des conseils à propos des éléments suivants :
   - Création d’étiquettes de rétention.
   - Les étiquettes de rétention de publication (manuelle et automatique).
   - Création de travaux d’importation.
+- Advanced eDiscovery.
+  - Données non Office 365.
+  - Définition des autorisations.
+  - Création de cas.
+  - Ajout de dépositaires. 
+  - Conservation légale.
+  - Chercher.
+  - Examinez les ensembles.
+  - Exportation de contenu.
 
 ## <a name="microsoft-information-protection"></a>Protection des informations Microsoft
 
@@ -154,7 +163,7 @@ Fournir des conseils à propos des éléments suivants :
 - La publication d’étiquettes à l’aide de stratégies (manuelle et automatique).
 - Création de stratégies de protection contre la perte de données (DLP) pour les conversations et les canaux de Microsoft Teams.
 
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
 - Vérification de la configuration minimale requise.
@@ -221,7 +230,7 @@ Fournir des conseils à propos des éléments suivants :
     
 ## <a name="project-online"></a>Project Online
 
-Fournir des conseils à propos des éléments suivants :
+Fournir des conseils à propos des éléments suivants :
 - Révision des plans d’abonnement.
 - Vérification des fonctionnalités SharePoint de base.
 - Ajout du service Project Online.
@@ -230,7 +239,7 @@ Fournir des conseils à propos des éléments suivants :
     
 ## <a name="project-online-professional-and-project-online-premium"></a>Project Online Professional Professionnel et Project Online Premium
 
-Fournir des conseils à propos des éléments suivants :
+Fournir des conseils à propos des éléments suivants :
 - Résolution des problèmes de déploiement.
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.
 - Téléchargement et installation de client de bureau Project Online à partir du portail.   

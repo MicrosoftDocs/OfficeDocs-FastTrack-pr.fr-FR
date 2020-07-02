@@ -3,19 +3,19 @@ title: Assistance proposée
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez un service Windows 10 ou Microsoft 365, des spécialistes FastTrack vous fournissent des conseils et des instructions afin de le déployer vers Windows 10 et Microsoft 365 Apps et de rester à jour sans frais supplémentaires (avec un abonnement éligible).
-ms.openlocfilehash: 8b006493a46108791031ac1baa9bdd501278414f
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: bebe49e4fe8808192265bc1573ea410b0e63cdc2
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472049"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011032"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
