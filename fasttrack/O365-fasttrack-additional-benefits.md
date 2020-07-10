@@ -1,24 +1,24 @@
 ---
-title: Annexe B  Avantages supplémentaires du centre FastTrack
+title: 'Annexe A : Avantages supplémentaires du centre FastTrack'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: 9b16a13f4bf658d68c43720ecad04f3ec7191cf0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See Eligible Services and Plans for more details.
+ms.openlocfilehash: 619ba9bf27116a94a40e74b38a4f4bbdd4d6c99d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999097"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010984"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a>Annexe B : Avantages supplémentaires du centre FastTrack
+# <a name="appendix-a---fasttrack-center-additional-benefit"></a>Annexe A : Avantages supplémentaires du centre FastTrack
 
-Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à [Offres et services éligibles](M365-eligible-services-and-plans.md). 
+Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details. 
   
 ## <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -48,7 +48,7 @@ Pour Microsoft 365 Apps, nous fournissons des conseils dans les domaines suivan
     
 ## <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
-Les spécialistes de FastTrack ont les responsabilités suivantes lors de l’intégration. Elles peuvent s’ajouter ou se substituer aux activités définies dans la rubrique [Responsabilités FastTrack](O365-fasttrack-responsibilities.md).
+FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).
   
 ## <a name="general"></a>Général
 
@@ -64,7 +64,7 @@ Les spécialistes de FastTrack ont les responsabilités suivantes lors de l’in
 
 ### <a name="geo-redundant-ad-fs-guidance"></a>Conseils sur la configuration AD FS géo-redondante
 
-- Fournir un modèle d’architecture de référence standard pour une topologie AD FS géo-redondante couvrant deux (2) centres de données. L’architecture standard fournit les avantages suivants :
+- Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:
   - Authentification fédérée pour les services dans l’étendue des as du Centre FastTrack. 
   - Résilience de site unique.  
   - Disponibilité élevée et basculement.  
@@ -79,7 +79,7 @@ Les spécialistes de FastTrack ont les responsabilités suivantes lors de l’in
 ### <a name="ad-fs-client-access-policy-guidance"></a>Conseils sur la stratégie d’accès au client AD FS
 
 - Passer en revue les stratégies et la configuration requises pour sécuriser les ressources Office 365.  
-- Fournir des conseils et de l'aide pour configurer la stratégie d'accès au client AD FS pour les scénarios d'accès au client identifiés dans les limites des scénarios pris en charge. Pour plus d'informations, voir [Limiter l'accès aux services Office 365 selon le lieu de résidence du client](https://go.microsoft.com/fwlink/?LinkID=525689). 
+- Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689). 
 - Valider la fonctionnalité d’authentification fédérée avec les stratégies d’accès client modifiées pour les scénarios d’accès identifiés avec la configuration pour 10 utilisateurs au maximum.
     
 ## <a name="exchange-online"></a>Exchange Online
@@ -96,7 +96,7 @@ Les spécialistes de FastTrack ont les responsabilités suivantes lors de l’in
   - les contacts standard automatiques de messagerie unifiée et la messagerie vocale Outlook pour rediriger les utilisateurs vers Exchange Online ; 
   - aide à la création des enregistrements d’emplacement du service (SRV) comme requis pour la fédération.
 > [!NOTE]
-> La messagerie unifiée peut être configurée avec les passerelles IP de MU et les contrôleurs de frontière de session pris en charge. Pour plus d’informations, reportez-vous à la rubrique [Intégration des systèmes téléphoniques à la messagerie unifiée](https://go.microsoft.com/fwlink/?LinkID=809293). 
+> UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
   
 ### <a name="public-folder-coexistence-guidance"></a>Conseils sur la coexistence avec les dossiers publics
 
@@ -135,7 +135,7 @@ Les spécialistes de FastTrack ont les responsabilités suivantes lors de l’in
   
 ## <a name="your-responsibilities"></a>Vos responsabilités
 
-Vous avez les responsabilités suivantes lors de l’intégration. Elles s’ajoutent aux responsabilités définies dans la section [Vos responsabilités](O365-your-responsibilities.md). 
+You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section. 
   
 - Nommer et gérer les ressources selon le plan de projet.  
 - Prendre des mesures à temps pour atténuer les risques et résoudre les problèmes soulevés par le client, les responsables de projet partenaires et le responsable FastTrack.   
