@@ -1,23 +1,23 @@
 ---
-title: 'Annexe C : Accord de partenariat commercial HIPAA pour le service FastTrack'
+title: 'Annexe B : Accord de partenariat commercial HIPAA pour le service FastTrack'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 'Si vous disposez d’un contrat de partenariat commercial HIPAA avec Microsoft pour les services FastTrack, tous les services répertoriés dans le FastTrack Center Benefit for Office 365 sont inclus dans ce contrat sauf :'
-ms.openlocfilehash: f7e9d309934bf40bea4c95af3a02cb4473244c94
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 0ab618d9aac4c59e6441d817878d279c43d5e8a1
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999068"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011416"
 ---
-# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="7b148-103">Annexe C : Accord de partenariat commercial HIPAA pour le service FastTrack</span><span class="sxs-lookup"><span data-stu-id="7b148-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
+# <a name="appendix-b---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="8a43b-103">Annexe B : Accord de partenariat commercial HIPAA pour le service FastTrack</span><span class="sxs-lookup"><span data-stu-id="8a43b-103">Appendix B - FastTrack Center HIPAA Business Associate Agreement</span></span>
 
-<span data-ttu-id="7b148-104">Si vous avez conclu un contrat de partenariat commercial HIPAA avec Microsoft, tous les services répertoriés dans les [Avantages du Centre FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md) sont exécutés conformément à ce contrat.</span><span class="sxs-lookup"><span data-stu-id="7b148-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are performed in accordance with that BAA.</span></span>
+<span data-ttu-id="8a43b-104">Si vous avez conclu un contrat de partenariat commercial HIPAA avec Microsoft, tous les services répertoriés dans les [Avantages du Centre FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md) sont exécutés conformément à ce contrat.</span><span class="sxs-lookup"><span data-stu-id="8a43b-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are performed in accordance with that BAA.</span></span>
 
 
