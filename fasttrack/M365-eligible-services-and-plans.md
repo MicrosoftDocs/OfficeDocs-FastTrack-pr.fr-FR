@@ -3,19 +3,19 @@ title: Offres et services éligibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Microsoft 365, les spécialistes FastTrack vous fournissent des conseils pour faciliter votre intégration et votre adoption de Microsoft 365.
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999830"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011224"
 ---
 # <a name="eligible-services-and-plans"></a>Offres et services éligibles
 
@@ -33,7 +33,7 @@ Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.c
 2.    Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
 3.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
   
-Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Sélectionnez **Mes clients**.
 3.    Recherchez votre client ou sélectionnez-le dans votre liste de clients.
@@ -53,7 +53,9 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 - Azure Information Protection
 - Exchange Online 
 - Microsoft 365 Apps
-- Microsoft Defender – Protection avancée contre les menaces
+- Microsoft Defender – Protection avancée contre les menaces
+- Gouvernance des informations Microsoft
+- Protection des informations Microsoft
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 – Protection avancée contre les menaces
@@ -75,6 +77,10 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Sécurité\*
+- Microsoft 365 E5 Conformité\*
+- Microsoft 365 E5 - eDiscovery et audit\*
+- Microsoft 365 E5, Protection des informations et gouvernance\*
+- Microsoft 365 E5 : Gestion des risques internes\*
 - Microsoft 365 F1\*
 - Microsoft 365 Business\*
 - Microsoft 365 Apps for enterprise\*
@@ -91,6 +97,10 @@ Le Centre FastTrack fournit une assistance pour les services suivants :
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Sécurité Microsoft 365 A5\*
+- Conformité Microsoft 365 A5\*
+- Microsoft 365 A5 - eDiscovery et audit\*
+- Microsoft 365 A5, Protection des informations et gouvernance\*
+- Microsoft 365 A5 : Gestion des risques internes\*
 - Microsoft 365 Apps pour l’éducation (appareil)\*
  
 ## <a name="eligible-office-365-plans"></a>Offres Office 365 éligibles
@@ -227,5 +237,5 @@ Voici la liste (non exhaustive) des offres non éligibles aux services FastTrack
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>Éligibilité aux avantages supplémentaires du Centre FastTrack
 
-Les clients qui achètent au moins 20 000 licences pour un client Office 365 sont éligibles pour les services supplémentaires du Centre FastTrack. Pour plus d'informations, consultez la rubrique [Annexe B : Avantages supplémentaires du Centre FastTrack](O365-fasttrack-additional-benefits.md).
+Les clients qui achètent au moins 20 000 licences pour un client Office 365 sont éligibles pour les services supplémentaires du centre FastTrack. Pour plus d'informations, consultez la rubrique [Annexe B : Avantages supplémentaires du centre FastTrack](O365-fasttrack-additional-benefits.md).
   
