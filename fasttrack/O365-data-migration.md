@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011308"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534047"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -38,9 +38,6 @@ Vos environnements sources contiennent peut-être des données que vous souhaite
   
 > [!NOTE]
 > Si l’intégration est requise, votre environnement source doit être à un niveau minimal pour cette application. 
-  
-> [!NOTE]
-> Nouveauté de mars 2020, Microsoft met à disposition des licences d’évaluation [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) et [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) pour une durée de six mois afin de faciliter le travail et l'apprentissage à distance dans le cadre de la réponse des clients à l'épidémie de COVID-19. À titre d’exception, FastTrack permet d’assurer la disponibilité des services de migration de données pour les clients disposant d’au moins 500 licences en version d’évaluation et pour [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) pour les étudiants de mars 2020 à août 2020. Microsoft se réserve le droit d’annuler, de modifier ou de suspendre cette offre à tout moment, sans préavis.
 
 Le tableau suivant décrit la configuration requise pour la migration dans votre environnement source existant.
   
