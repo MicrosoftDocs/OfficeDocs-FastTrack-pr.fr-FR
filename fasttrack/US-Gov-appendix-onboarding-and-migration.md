@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales : lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: a1c18b08e1be0cbb0afc26e9736d9b13c027de8f
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011272"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634216"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 
@@ -35,15 +35,15 @@ Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 3
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Sélectionnez **demander de l’aide pour microsoft 365** dans les **actions rapides** en haut de votre page d’accueil ou en sélectionnant **demander une assistance pour Microsoft 365** sur la carte de déploiement.
-3. Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
-
+2.    Sélectionnez **demander de l’aide avec Microsoft 365** des **actions rapides** en haut de votre page d’accueil.
+3.    Remplissez le formulaire **demander une assistance avec Microsoft 365** .
+  
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Sélectionnez **Mes clients**.
-3.    Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-4.    Sélectionnez **Services**.
-5.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.   
+2.    Sélectionnez **demander de l’aide avec Microsoft 365** des **actions rapides** en haut de votre page d’accueil.
+3.    Recherchez votre client en saisissant le nom du client, le domaine ou TPID.
+4.    Sélectionnez client dans les résultats de la recherche.
+5.    Remplissez le formulaire **demander une assistance avec Microsoft 365** .
 
 Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
     
@@ -98,7 +98,7 @@ Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre
     > [!NOTE]
     > Vos enregistrements MX doivent pointer vers Office 365.   
 - la configuration de la fonctionnalité Exchange Online - Protection avancée contre les menaces (ATP) si celle-ci fait partie de votre service d'abonnement une fois que vos enregistrements MX pointent vers Office 365. Cette fonctionnalité est configurée dans le cadre des paramètres anti-programme malveillant Exchange Online Protection ;   
-- La configuration de ports de pare-feu.   
+- la configuration de ports de pare-feu ;   
 - la configuration d’un DNS, y compris les enregistrements de découverte automatique, SPF (Sender Policy Framework) et MX obligatoires (si nécessaire) ;     
 - la configuration d'un flux de messagerie entre votre environnement de messagerie source et Exchange Online (si nécessaire).   
 - La migration de messagerie de votre environnement de messagerie source vers Office 365.   
