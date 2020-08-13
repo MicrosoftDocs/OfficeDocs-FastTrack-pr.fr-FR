@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'L’intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données facultative.'
-ms.openlocfilehash: 7361a3aa493ae9263076357bf2ce005c3f92a5b4
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 075ff08f59992d5ebd6fd77fa25012c1416cd8ae
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011596"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634228"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 
@@ -38,15 +38,15 @@ Pour obtenir de l’aide par le biais du [Centre d’administration Microsoft 3
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
-3.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**. 
+2.    Sélectionnez **Demander de l’aide avec Microsoft 365** à partir des **actions rapides** en haut de votre page d’accueil.
+3.    Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
   
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Sélectionnez **Mes clients**.
-3.    Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-4.    Sélectionnez **Services**.
-5.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
+2.    Sélectionnez **Demander de l’aide avec Microsoft 365** à partir des **actions rapides** en haut de votre page d’accueil.
+3.    Recherchez votre client en entrant le nom du client, le domaine ou TPID.
+4.    Sélectionnez un client dans les résultats de recherche.
+5.    Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
 
 Vous pouvez également demander de l’aide pour le Centre FastTrack sur le [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), dans la liste des services disponibles pour votre client. 
     

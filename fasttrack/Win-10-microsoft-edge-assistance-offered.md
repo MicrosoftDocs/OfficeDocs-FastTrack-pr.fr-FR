@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 (comme indiqué dans les services et les offres éligibles), les spécialistes FastTrack fournissent des instructions de déploiement à distance et une assistance en matière de compatibilité si vous avez une application web ou un site qui fonctionne avec Internet Explorer ou Google Chrome.
-ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: 29a38add3ca5787faaf083e96ec858661fe823b0
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011560"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634180"
 ---
 # <a name="assistance-offered"></a>Assistance proposée
 
@@ -33,16 +33,15 @@ Pour demander des conseils sur le déploiement de Microsoft Edge, vous avez beso
 
 Pour obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) : 
 1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Sélectionnez **Obtenir de l’aide pour Microsoft 365**en utilisant les **actions rapides** en haut de votre page d’accueil ou **Obtenir de l’aide pour Microsoft 365** sur la carte de déploiement.
-3.    Complétez le formulaire **Obtenir de l’aide pour Microsoft 365**.
+2.    Sélectionnez **Demander de l’aide avec Microsoft 365** à partir des **actions rapides** en haut de votre page d’accueil.
+3.    Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
   
 Les partenaires peuvent également obtenir de l’aide par le biais du [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) pour le compte d’un client. Procédez comme suit :
 1.    Connectez-vous au [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Sélectionnez **Mes clients**.
-3.    Recherchez votre client ou sélectionnez-le dans votre liste de clients.
-4.    Sélectionnez **Services**.
-5.    Sélectionnez le formulaire **Obtenir de l’aide pour Microsoft 365**.
-6.    Sélectionnez l’option produit **Microsoft Edge** et complétez le formulaire.
+2.    Sélectionnez **Demander de l’aide avec Microsoft 365** à partir des **actions rapides** en haut de votre page d’accueil.
+3.    Recherchez votre client en entrant le nom du client, le domaine ou TPID.
+4.    Sélectionnez un client dans les résultats de recherche.
+5.    Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
  
 Pour obtenir de l’aide sur la compatibilité des applications, remplissez la [demande de service Soutien aux applications](https://go.microsoft.com/fwlink/?linkid=2022721).
 
