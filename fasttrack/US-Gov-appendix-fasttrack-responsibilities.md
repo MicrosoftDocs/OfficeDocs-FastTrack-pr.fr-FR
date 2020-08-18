@@ -3,19 +3,19 @@ title: Responsabilités FastTrack pour le gouvernement américain Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011620"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776476"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -36,7 +36,7 @@ Les responsables FastTrack ont les responsabilités suivantes lors de l’intég
 
 - Organiser un appel de planification de la réussite pour vous aider à assurer l’adoption par les utilisateurs.  
 - Fournir un aperçu administratif.  
-- Fournir des conseils à propos des éléments suivants : 
+- Fournir des conseils à propos des éléments suivants : 
   - exigences en matière de DNS (Domain Name System), de réseau et d’infrastructure ;  
   - besoins du client (navigateur Internet, système d’exploitation client, appareil mobile et besoins des services) ;
   - identité utilisateur et approvisionnement , 
@@ -102,7 +102,7 @@ Fournir des conseils à propos des éléments suivants :
 - la configuration de l'installation hybride soit entre l'organisation Exchange locale unique et Office 365 *, soit*  entre plusieurs organisations Exchange locales et Office 365. 
 - Configuration de la messagerie unifiée (MU) avec Exchange Online (la messagerie unifiée n’est pas disponible dans les forfaits GCC DoD). 
     
-Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](O365-data-migration.md).
+Pour plus d’informations sur les responsabilités de la migration de données, reportez-vous à la rubrique [Migration des données](data-migration.md).
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
