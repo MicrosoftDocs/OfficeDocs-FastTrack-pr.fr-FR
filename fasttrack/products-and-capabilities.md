@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Cette rubrique inclut des détails sur les scénarios de charge de travail pris en charge par FastTrack et sur l’environnement source requis avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui permet à votre environnement source de bénéficier de la configuration minimale requise pour une intégration réussie.
-ms.openlocfilehash: 1b1ffa5812905630723b5d8a23196fbbc18a9c32
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800966"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817699"
 ---
 # <a name="products-and-capabilities"></a>Produits et fonctionnalités
 
@@ -30,7 +30,7 @@ FastTrack fournit des conseils pour vous aider à utiliser les fonctionnalités 
   - [Sécurité & Enterprise Mobility](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Soutien aux applications](Win-10-app-assure.md)
-  - [Le nouveau Microsoft Edge](Win-10-microsoft-edge.md)
+  - [Nouveau Microsoft Edge](Win-10-microsoft-edge.md)
 
 > [!NOTE]
 > Pour plus d’informations sur les attentes en matière d’environnement source pour Office 365, consultez la rubrique [source Environment attentes for office 365 Office US Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
@@ -660,7 +660,7 @@ Pour mettre à niveau une infrastructure, vous devez respecter les exigences sui
 </ul>
 
 <tr class="odd">
-<td><strong>Protection avancée contre les menaces Microsoft Defender (ATP)</strong></td>
+<td><strong>Microsoft Defender – Protection avancée contre les menaces (ATP)</strong></td>
 <td>  Microsoft Defender – Protection avancée contre les menaces est une plateforme conçue pour aider les réseaux d’entreprise à prévenir, détecter et examiner les menaces avancées et à y répondre.  
   Nous fournissons des conseils à distance pour :
 <ul>

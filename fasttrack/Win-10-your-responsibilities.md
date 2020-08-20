@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration de Windows 10.
-ms.openlocfilehash: eca0ba1edac777ce5a3d17c303cc14bcec312781
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: f86a889f1819afa8a8dceefb45ab9dc1ab439535
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800582"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817147"
 ---
 # <a name="your-responsibilities"></a>Vos responsabilités
 > [!CAUTION]

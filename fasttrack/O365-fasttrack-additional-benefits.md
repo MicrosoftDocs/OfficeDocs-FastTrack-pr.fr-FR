@@ -7,14 +7,14 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 description: Les clients qui achètent au moins 20 000 licences pour un client Exchange Online peuvent bénéficier de services supplémentaires du Centre FastTrack. Pour plus d'informations, reportez-vous à Offres et services éligibles.
-ms.openlocfilehash: 833d53b2b3e27aff99bf9b329d68b53804f9f27a
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800918"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817543"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>Annexe A : Avantages supplémentaires du centre FastTrack
 

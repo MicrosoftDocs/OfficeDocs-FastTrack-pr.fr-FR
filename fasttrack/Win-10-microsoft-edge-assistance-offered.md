@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 (comme indiqué dans les services et les offres éligibles), les spécialistes FastTrack fournissent des instructions de déploiement à distance et une assistance en matière de compatibilité si vous avez une application web ou un site qui fonctionne avec Internet Explorer ou Google Chrome.
-ms.openlocfilehash: 23cd4ea46bb13255acf975ee2ee727dd307a59b0
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800702"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817627"
 ---
 # <a name="assistance-offered"></a>Assistance proposée
 
