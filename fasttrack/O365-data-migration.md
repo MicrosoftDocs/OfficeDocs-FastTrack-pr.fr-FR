@@ -12,14 +12,14 @@ ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
 ms.openlocfilehash: cafbad6e17814d0a8961c22389c5870cfd82ec81
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800930"
 ---
 # <a name="data-migration"></a>Migration des données
 > [!CAUTION]
-> Ce contenu n’est plus actuel et est planifié pour suppression. Utilisez la table des matières dans le volet de navigation de gauche pour le contenu actuel.
+> Ce contenu n’est plus à jour et il est prévu de le supprimer. Utilisez la table des matières dans le volet de navigation gauche pour voir le contenu actuel.
 
 Vos environnements sources contiennent peut-être des données que vous souhaitez migrer vers Office 365.
 
@@ -51,7 +51,7 @@ Le tableau suivant décrit la configuration requise pour la migration dans votre
 |**Migration de OneDrive Entreprise**  <br/> | Partages de fichiers (partages de fichiers SMB sur des appareils prenant en charge SMB 2.0 et versions ultérieures).  <br/>  Environnement G Suite unique (Google Drive uniquement).  <br/>  Box (Starter, Business, Enterprise). <br/> Dropbox pour Teams (Standard et avancée).<br/><br/> **Remarque** *FastTrack effectue uniquement une migration vers des lecteurs Office 365 actifs.*|
    
 ## <a name="migration-to-exchange-online"></a>Migration vers Exchange Online
-''
+’’
 ### <a name="enable-to-migrate"></a>Activation de la migration
   
 Si vous utilisez Microsoft pour migrer votre messagerie, nous vous fournissons des instructions pour activer Exchange Online et l'environnement source pour la migration. En fonction de l'environnement source, plusieurs étapes d'activation peuvent être nécessaires. Pour vous aider, nous mettons à votre disposition un ensemble d’outils et de documents, et effectuons des tâches de configuration dès que cela est nécessaire et possible. Selon les paramètres applicables, nous migrons ensuite les boîtes aux lettres, gérons les tâches et fournissons des rapports d’état.

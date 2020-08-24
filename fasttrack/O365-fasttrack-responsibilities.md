@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
 ms.openlocfilehash: c881976636243b258623c61ca1406a179177a063
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800858"
@@ -20,7 +20,7 @@ ms.locfileid: "46800858"
 # <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
 
 > [!CAUTION]
-> Ce contenu n’est plus actuel et est planifié pour suppression. Utilisez la table des matières dans le volet de navigation de gauche pour le contenu actuel.
+> Ce contenu n’est plus à jour et il est prévu de le supprimer. Utilisez la table des matières dans le volet de navigation gauche pour voir le contenu actuel.
 
 Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.\*
   
@@ -122,51 +122,51 @@ Fournir des conseils à propos des éléments suivants :
 - Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.
 - Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.
 
-## <a name="microsoft-information-governance"></a>Gouvernance des informations Microsoft 
+## <a name="microsoft-information-governance"></a>Gouvernance de l'information de Microsoft 
 
-Fournir des conseils à propos des éléments suivants :
+Fournir des conseils sur :
 - Gestion des enregistrements.
-  - Application des autorisations pour la gestion des enregistrements.
-  - Instructions sur la traduction des plans de fichiers et des planifications de rétention en étiquettes et stratégies.
-  - Création d’étiquettes et de stratégies de rétention.
-  - Établissement de stratégies de suppression.
-  - Vérification des éléments pour leur destruction.
-- Gestion des risques internes.
-  - Activation des journaux d’audit Office 365.
-  - Configuration des paramètres dans la gestion des risques initiés.
-  - Création de stratégies de risque initiées à l’aide des règles intégrées.
-  - Configuration des autorisations pour la conformité des communications.
-  - Création de stratégies de conformité de communication à l’aide de modèles personnalisables.
-  - Surveillance et vérification des alertes.
-- Gouvernance des informations.
-  - Application d’autorisations pour la gouvernance des informations.
-  - Création d’étiquettes de rétention.
-  - Les étiquettes de rétention de publication (manuelle et automatique).
-  - Création de travaux d’importation.
-- Advanced eDiscovery.
-  - Données non Office 365.
+  - Appliquer les autorisations pour la gestion des enregistrements.
+  - Des conseils sur la traduction des plans de dossiers et des calendriers de conservation en étiquettes et en politiques.
+  - Créer des étiquettes et des politiques de rétention.
+  - Établir des politiques de suppression.
+  - Examiner les articles pour la disposition.
+- Gestion des risques d'initiés.
+  - Activation des journaux d'audit d'Office 365.
+  - Configuration des paramètres dans le cadre de la gestion des risques d'initiés.
+  - Créer des politiques de risque d'initié en utilisant les playbooks intégrés.
+  - Configurer les autorisations pour la conformité de la communication.
+  - Créer des politiques de conformité en matière de communication à l'aide de modèles personnalisables.
+  - Suivi et révision des alertes.
+- La gouvernance de l'information.
+  - Appliquer les autorisations pour la gouvernance de l'information.
+  - Création de labels de rétention.
+  - Publication d'étiquettes de rétention (manuelle et automatique).
+  - Créer des emplois d'importation.
+- EDiscovery avancée.
+  - Données non-Office 365.
   - Définition des autorisations.
-  - Création de cas.
-  - Ajout de dépositaires. 
-  - Conservation légale.
-  - Chercher.
-  - Examinez les ensembles.
-  - Exportation de contenu.
+  - Créer des cas.
+  - Ajout de gardiens. 
+  - Mise en suspens légale.
+  - Recherche.
+  - Les ensembles de révision.
+  - L'exportation de contenu.
 
-## <a name="microsoft-information-protection"></a>Protection des informations Microsoft
+## <a name="microsoft-information-protection"></a>Protection des informations de Microsoft
 
-Fournir des conseils à propos des éléments suivants :
+Fournir des conseils sur :
 - Classification des données.
-- Types d’informations sensibles.
-- Création d’étiquettes de sensibilité.
-- Application d’étiquettes de sensibilité. 
+- Types d'informations sensibles.
+- Création de labels de sensibilité.
+- Appliquer des labels de sensibilité. 
 - Étiquetage unifié.
-- Classifieurs de formation.
-- Connaissance de vos données avec l’Explorateur d’activités et l’Explorateur de contenu.
-- La publication d’étiquettes à l’aide de stratégies (manuelle et automatique).
-- Création de stratégies de protection contre la perte de données (DLP) pour les conversations et les canaux de Microsoft Teams.
+- Des classificateurs avec capacité d’apprentissage.
+- Connaître ses données avec l'explorateur de contenu et l'explorateur d'activités.
+- Publication d'étiquettes à l'aide de politiques (manuelles et automatiques).
+- Créer des politiques de prévention des pertes de données (DLP) pour les conversations et les canaux de Microsoft Teams.
 
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
 - Vérification de la configuration minimale requise.

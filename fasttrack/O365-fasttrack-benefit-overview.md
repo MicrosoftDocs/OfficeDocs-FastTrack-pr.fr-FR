@@ -14,15 +14,15 @@ ms.collection: FastTrack
 description: Les avantages du Centre FastTrack pour Office 365 vous permettent de collaborer à distance avec des spécialistes FastTrack pour préparer votre environnement Office 365 et planifier son lancement et son utilisation au sein de votre organisation. Pour en savoir plus sur les conditions d'éligibilité, reportez-vous à Avantages du Centre FastTrack pour Office 365.
 ms.openlocfilehash: 40d49036d4aba6655a51c950efd0e29384a45f5c
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800894"
 ---
-# <a name="fasttrack-center-benefit-overview"></a>Présentation du Centre FastTrack
+# <a name="fasttrack-center-benefit-overview"></a>Présentation du Centre FastTrack Benefit
 
 > [!CAUTION]
-> Ce contenu n’est plus actuel et est planifié pour suppression. Utilisez la table des matières dans le volet de navigation de gauche pour le contenu actuel.
+> Ce contenu n’est plus à jour et il est prévu de le supprimer. Utilisez la table des matières dans le volet de navigation gauche pour voir le contenu actuel.
 
 Les avantages du Centre FastTrack pour Office 365 vous permettent de collaborer à distance avec des spécialistes FastTrack pour préparer votre environnement Office 365 et planifier son lancement et son utilisation au sein de votre organisation. Pour en savoir plus sur les conditions d'éligibilité, reportez-vous à [Avantages du Centre FastTrack pour Office 365](O365-fasttrack-benefit-for-office-365.md).
   
