@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: L’avantage de FastTrack pour Windows 10 fournit des instructions de déploiement pour les nouveaux clients Microsoft Edge pour Windows 10 Entreprise avec 150 ou plus.
-ms.openlocfilehash: b0a0523749cfa834d0ade55c72e29ae9b0c2506e
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 521249edbcca687432074792b1cdf86f4298b263
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817615"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338484"
 ---
 # <a name="the-new-microsoft-edge"></a>Le nouveau Microsoft Edge
 
@@ -23,4 +23,4 @@ L’avantage de FastTrack pour Windows 10 fournit des instructions de déploieme
 
 Un spécialiste FastTrack travaille avec vous pour déployer Microsoft Edge sur Windows 10 Entreprise avec Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Microsoft Intune).
 
-
+Pour plus d’informations sur le service FastTrack, consultez l' [avantage du centre FastTrack pour Microsoft 365](introduction.md).

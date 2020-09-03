@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Les services Avantages du Centre FastTrack vous fournissent des conseils pour vous aider à configurer les niveaux d’intégration avec votre environnement source pour le déploiement de Windows 10.
-ms.openlocfilehash: 84f026176cd93892272917ac5aa91fff62e6c37a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e9289f534ec0686655e58c12c5e12379b1849b33
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817267"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338160"
 ---
 # <a name="source-environment-expectations"></a>Attentes concernant l’environnement source
 
 > [!CAUTION]
-> Ce contenu n’est plus actuel et est planifié pour suppression. Utilisez la table des matières dans le volet de navigation de gauche pour le contenu actuel.
+> Ce contenu n’est plus à jour et il est prévu de le supprimer. Utilisez la table des matières dans le volet de navigation gauche pour voir le contenu actuel.
 
 Les services Avantages du Centre FastTrack vous fournit des conseils pour vous aider à configurer les niveaux d’intégration avec votre environnement source.
   

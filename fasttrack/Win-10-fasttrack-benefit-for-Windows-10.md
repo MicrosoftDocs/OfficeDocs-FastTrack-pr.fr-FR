@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Vous utilisez les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez *au moins* 150 licences pour un service ou un plan éligible.
-ms.openlocfilehash: 6616b967bac16402f732c56d763dc67accf19f70
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 3293ff9212224774cd101171a20e18972e51f8c4
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817663"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338532"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Avantages du Centre FastTrack pour Windows 10
 
 > [!CAUTION]
-> Ce contenu n’est plus actuel et est planifié pour suppression. Utilisez la table des matières dans le volet de navigation de gauche pour le contenu actuel.
+> Ce contenu n’est plus à jour et il est prévu de le supprimer. Utilisez la table des matières dans le volet de navigation gauche pour voir le contenu actuel.
 
 Vous pouvez utiliser les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez au moins 150 licences pour un service ou un plan éligible. Vous collaborez ensuite avec les spécialistes FastTrack pour évaluer, corriger et déployer Windows 10, le nouveau Microsoft Edge ou Microsoft Defender - Protection avancée contre les menaces, et coordonner les avantages du Centre FastTrack pour Microsoft 365 Apps. 
 
