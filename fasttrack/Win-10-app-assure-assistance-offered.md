@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Lorsque vous achetez un service Windows 10 ou Microsoft 365, des spécialistes FastTrack vous fournissent des conseils et des instructions afin de le déployer vers Windows 10 et Microsoft 365 Apps et de rester à jour sans frais supplémentaires (avec un abonnement éligible).
-ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
+ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817687"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48206251"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
@@ -36,6 +36,13 @@ FastTrack fournit une assistance de conversion pour les applications déployées
 
 - Les applications qui fonctionnaient sous Windows 7, Windows 8.1, Office 2010 et Office 2013 fonctionnent également sous Windows 10 et Microsoft 365 Apps.
 
+### <a name="windows-10-on-arm"></a>Windows 10 sur ARM
+
+- Les applications qui fonctionnaient sous Windows 7, Office 2010 ou des versions ultérieures fonctionnent sur les applications Windows 10 et Microsoft 365 sur les appareils ARM64.
+
+> [!NOTE]
+> Les exclusions et limitations de Windows 10 sur ARM incluent les applications qui reposent sur des pilotes logiciels qui ne sont pas compatibles avec ARM, utilisent OpenGL ou OpenCL, ou sont uniquement disponibles dans 64 bits (x64).
+
 ### <a name="the-new-microsoft-edge"></a>Le nouveau Microsoft Edge
 
 - Si vos applications ou sites Web fonctionnent sur Internet Explorer 11, les versions prises en charge de Google Chrome ou toute version de Microsoft Edge, ils fonctionnent également avec le nouveau Microsoft Edge.
@@ -45,13 +52,14 @@ Si vous souhaitez en savoir plus sur le déploiement de Microsoft Edge, consult
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 - Les applications virtualisées qui s'exécutent sur un hôte de la session Bureau à distance Windows Server s'exécutent également sur Windows 10 Entreprise multi-session dans le cadre de Windows Virtual Desktop.
-- Les applications s’exécutant sur l’environnement de bureau virtuel Windows 7 ou Windows 10 s’exécutent également sur Windows 7 Entreprise et Windows 10 Entreprise dans le cadre de Windows Virtual Desktop.*
-- Les applications s’exécutant sur les appareils clients Windows 7 ou Windows 10 s’exécutent également sur Windows 7 Entreprise et Windows 10 Entreprise dans le cadre de Windows Virtual Desktop.\*
+- Les applications qui s’exécutent sur un environnement VDI (Virtual Desktop Infrastructure) Windows 7 ou Windows 10 s’exécutent également sur Windows 7 entreprise et Windows 10 entreprise dans le cadre du bureau virtuel Windows.
+- Les applications s’exécutant sur les appareils clients Windows 7 ou Windows 10 s’exécutent également sur Windows 7 Entreprise et Windows 10 Entreprise dans le cadre de Windows Virtual Desktop.
 
-\*Les exclusions et restrictions de compatibilité entre les sessions Windows 10 Entreprise sont les suivantes :
-- Redirection limitée du matériel.
-- Les applications ayant une grande quantité de A/V peuvent avoir une capacité réduite.
-- Les applications 16 bits ne sont pas prises en charge pour les applications Windows Virtual Desktop 64 bits.
+> [!NOTE]
+> Les exclusions et restrictions de compatibilité entre les sessions Windows 10 Entreprise sont les suivantes : 
+> - Redirection limitée du matériel.
+> - Les applications ayant une grande quantité de A/V peuvent avoir une capacité réduite.
+> - Les applications 16 bits ne sont pas prises en charge pour les applications Windows Virtual Desktop 64 bits.
 
 Pour plus d’informations, voir [Qu’est-ce que Windows Virtual Desktop ?](https://docs.microsoft.com/azure/virtual-desktop/overview) et [FAQ sur la session multi-session de Windows 10 Entreprise](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq).
 
