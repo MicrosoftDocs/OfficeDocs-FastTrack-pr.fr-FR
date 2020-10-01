@@ -3,18 +3,18 @@ title: 'Annexe A : Accord de partenariat commercial HIPAA pour le service Fast
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 description: 'Si vous disposez d’un contrat de partenariat commercial HIPAA avec Microsoft pour les services FastTrack, tous les services répertoriés dans le FastTrack Center Benefit for Office 365 sont inclus dans ce contrat sauf :'
-ms.openlocfilehash: 0e8b61c73d48ec0f5b2ebefa0143f516dcd51a98
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: c4fb3ad4966391fc4c830e32bc1304eda444a71e
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817495"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319910"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>Annexe A : Accord de partenariat commercial HIPAA pour le service FastTrack
 
