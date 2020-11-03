@@ -1,7 +1,7 @@
 ---
 title: Migration des données
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les spécialistes FastTrack fournissent des conseils sur la procédure de migration des données vers Office 365. Ceci est disponible pour tous les clients éligibles disposant des services Office 365 pour Exchange Online, OneDrive Entreprise et SharePoint Online.
-ms.openlocfilehash: c7878e96557650a6dd340a08fb6348e2d60ab302
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 82a8bcbd39091a5cfaa024538cb64b25d5d35717
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338592"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827308"
 ---
 # <a name="data-migration"></a>Migration des données
 > [!CAUTION]
@@ -25,7 +25,7 @@ Vos environnements sources contiennent peut-être des données que vous souhaite
 
 **Pour les clients Office 365 avec 150-499 licences :** nous fournissons des instructions en utilisant une combinaison d’outils et de documentation pour que votre migration s’effectue facilement et efficacement. 
 
-**Pour les clients Office 365 possédant 500 licences\* : ** Les services de migration des données sont disponibles pour Exchange Online, SharePoint Online et OneDrive Entreprise. Votre avantage FastTrack inclut des instructions sur l’intégration de l’environnement source et la migration des données à votre place.
+**Pour les clients Office 365 possédant 500 licences\* :** Les services de migration des données sont disponibles pour Exchange Online, SharePoint Online et OneDrive Entreprise. Votre avantage FastTrack inclut des instructions sur l’intégration de l’environnement source et la migration des données à votre place.
   
 \*Si vous avez acheté ou renouvelé une offre commerciale avant le 01/09/2017, 150 licences est la condition minimale requise en matière de licences pendant toute la durée de votre période d’abonnement actuelle pour recevoir l’avantage de migration. Pour les offres d’éducation, seules les licences enseignants et membres du personnel payantes sont éligibles pour les services de migration. 
   

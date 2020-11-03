@@ -1,21 +1,21 @@
 ---
 title: Responsabilités FastTrack pour le gouvernement américain Office 365
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319970"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827176"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -80,7 +80,7 @@ Fournir des conseils à propos des éléments suivants :
   - la configuration de la synchronisation de mot de passe (hachage de mot de passe) pour Office 365 (Azure Active Directory) avec l’outil Azure Active Directory Connect, si nécessaire ;  
   - Pour les environnements de forêt unique et de forêts multiples :
       - La configuration de l’authentification directe Azure Active Directory, si nécessaire (non disponible dans les offres GCC High ou DoD).
-      - Configuration de l’authentification unique (SSO) transparente Azure Active Directory, si nécessaire (non disponible dans les offres GCC High ou DoD).
+      - La configuration de l’authentification Sign-On unique transparente Azure Active Directory (SSO), si nécessaire (non disponible dans les offres GCC High ou DoD).
     > [!NOTE]
     > L'authentification directe Azure Active Directory pour les environnements de forêts multiples est prise en charge s'il existe des approbations de forêt entre vos forêts Active Directory et si le routage des suffixes de noms est correctement configuré. Des agents supplémentaires peuvent être installés sur plusieurs serveurs locaux pour fournir une haute disponibilité pour les demandes de connexion. Pour plus d'informations, reportez-vous à [Authentification directe Azure Active Directory : Démarrage rapide](https://go.microsoft.com/fwlink/?linkid=860094) et [Authentification unique transparente Azure Active Directory - Démarrage rapide](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Pour obtenir plus d’informations sur les limites de l’authentification directe, reportez-vous à la rubrique [Authentification directe Azure Active Directory : limites actuelles](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]

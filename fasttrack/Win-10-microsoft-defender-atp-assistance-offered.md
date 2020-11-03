@@ -1,7 +1,7 @@
 ---
 title: Assistance proposée
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Quand vous achetez l’un des services Windows 10 ou Microsoft 365, les spécialistes FastTrack fournissent des conseils de déploiement à distance pour la sécurisation des points de terminaison. Notre service est adapté à l’environnement et aux besoins de chaque client.
-ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: ecd4ff51b7db85ffab0f0e2887040621b6ea5e7d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338555"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827272"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 

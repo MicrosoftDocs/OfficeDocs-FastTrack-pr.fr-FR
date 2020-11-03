@@ -1,21 +1,21 @@
 ---
 title: Phases d’intégration et de migration pour Office 365 gouvernement américain
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales : lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: c35f5d9338e649c0dc8cf4a5e579132ea601f85a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: f7e8545d34b0f9df72e9f518983975d825ffbfb7
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319994"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827536"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 

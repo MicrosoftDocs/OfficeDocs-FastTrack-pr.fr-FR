@@ -1,7 +1,7 @@
 ---
 title: Processus FastTrack
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com-msft
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Le processus de FastTrack propose des services pour l’adoption utilisateur et l’intégration. '
-ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6d13e6fc9247196c9a2e6cf7692abf3fa75152dc
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338544"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827044"
 ---
 # <a name="the-fasttrack-process"></a>Processus FastTrack
 
@@ -26,8 +26,8 @@ Le processus de FastTrack propose des services pour l’adoption utilisateur et 
   
 L’intégration se compose des éléments suivants :
   
-- *Intégration de base* : tâches requises pour la configuration du client et son intégration à Azure Active Directory (Azure AD), si nécessaire. L'intégration de base fournit également la ligne de base pour l'intégration d'autres services éligibles. 
-- *Intégration et migration de service* : les tâches d’intégration de service vous offrent plus de possibilités dans votre client. La migration de données (notamment fichiers et e-mails) est abordée dans la rubrique sur la [migration de données](O365-data-migration.md). 
+- *Intégration de base*  : tâches requises pour la configuration du client et son intégration à Azure Active Directory (Azure AD), si nécessaire. L'intégration de base fournit également la ligne de base pour l'intégration d'autres services éligibles. 
+- *Intégration et migration de service*  : les tâches d’intégration de service vous offrent plus de possibilités dans votre client. La migration de données (notamment fichiers et e-mails) est abordée dans la rubrique sur la [migration de données](O365-data-migration.md). 
     
 Les services d’adoption utilisateur se composent de tâches qui vous aident à vérifier que vos utilisateurs connaissent les services éligibles et qu’ils peuvent les utiliser pour dynamiser la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
   

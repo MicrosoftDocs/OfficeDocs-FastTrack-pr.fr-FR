@@ -1,21 +1,21 @@
 ---
 title: Processus et attentes
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous allons vous expliquer comment impliquer FastTrack pour obtenir de l’aide, obtenir des conseils sur la réussite d’une expérience et comprendre les responsabilités essentielles de FastTrack et de votre entreprise.
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319934"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827647"
 ---
 # <a name="process-and-expectations"></a>Processus et attentes
 
@@ -27,7 +27,7 @@ Obtention d’assistance technique d’un spécialiste FastTrack
   
 Vous pouvez demander l’aide d’un spécialiste FastTrack de deux manières :
 
-  - Dans le Centre d’administration Microsoft, votre administrateur de client se connecte au Centre d’administration Microsoft, puis clique sur le widget **Besoin d’aide ?**, qui les guide ensuite dans le processus de demande.
+  - Dans le Centre d’administration Microsoft, votre administrateur de client se connecte au Centre d’administration Microsoft, puis clique sur le widget **Besoin d’aide ?** , qui les guide ensuite dans le processus de demande.
   - Par le biais du site FastTrack, vous ou votre partenaire demande l’aide pour votre entreprise via le site FastTrack.
 
 Pour demander de l’aide directement par le biais du site FastTrack, procédez comme suit :
@@ -55,7 +55,7 @@ FastTrack fournit des instructions complètes sur la migration vers et l’utili
 Vous travaillez à distance avec les spécialistes FastTrack par le biais de conversations techniques, de séminaires et de réunions de point de contrôle, notamment :
 
   - **Séminaires techniques et ateliers :** ceux-ci proposent des idées approfondies et des pratiques recommandées pour accélérer le déploiement des services Microsoft 365. Ces réunions fournissent souvent une vue d’ensemble de la documentation, des outils logiciels et des consoles d’administration disponibles. Durée standard : 60 minutes.
-  - **Réunions de points de contrôle :** des points de contrôle hebdomadaires ou bihebdomadaires pour assurer la progression de votre déploiement. Durée standard : 30 minutes.
+  - **Réunions de point de contrôle :** Toutes les semaines ou tous les TouchPoints pour garantir la progression de votre déploiement. Durée standard : 30 minutes.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Résultats attendus et dates importantes 
 

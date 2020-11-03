@@ -1,7 +1,7 @@
 ---
 title: Phases d’intégration et de migration
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'L’intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données facultative.'
-ms.openlocfilehash: 69b77911afc351ff48f6198049204822e5dd0d3c
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 2358700e6e7bb052869c41b1f5b7fdc15e86207b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338256"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827008"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phases d’intégration et de migration
 

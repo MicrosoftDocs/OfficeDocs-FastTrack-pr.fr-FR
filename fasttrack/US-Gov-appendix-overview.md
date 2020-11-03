@@ -1,20 +1,20 @@
 ---
 title: 'Annexe B : Présentation des avantages du service FastTrack pour Office 365 pour le gouvernement américain'
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Avec le service FastTrack pour Office 365, vous travaillez à distance avec des spécialistes FastTrack pour faire en sorte que votre environnement Office 365 prêt à être utilisé et planifier le déploiement et l’utilisation au sein de votre organisation.
-ms.openlocfilehash: 87bb7ee331b9abbd92d984d9f2ac940762cf34c2
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: c1149d981da62e89b8d50ef20b547ba18f0c7a47
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319958"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827584"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Annexe B : Présentation des avantages du service FastTrack pour Office 365 pour le gouvernement américain
 
