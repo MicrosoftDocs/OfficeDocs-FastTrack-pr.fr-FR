@@ -3,19 +3,19 @@ title: Produits et fonctionnalités
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Cette rubrique inclut des détails sur les scénarios de charge de travail pris en charge par FastTrack et sur l’environnement source requis avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui permet à votre environnement source de bénéficier de la configuration minimale requise pour une intégration réussie.
-ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 3fdd57f1d0e8bf53b68f0bc54fda4665ca85f513
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827104"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525459"
 ---
 # <a name="products-and-capabilities"></a>Produits et fonctionnalités
 
@@ -27,7 +27,7 @@ FastTrack fournit des conseils pour vous aider à utiliser les fonctionnalités 
 
   - [Général](#general)
   - [Office 365](#office-365)
-  - [Sécurité & Enterprise Mobility](#enterprise-mobility--security)
+  - [Enterprise Mobility + Security](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Windows Virtual Desktop](#windows-virtual-desktop)
   - [Soutien aux Applications](#app-assure)
@@ -163,14 +163,23 @@ Les logiciels clients en ligne tels que Project pour Office 365, Outlook pour Wi
 <td><strong>Gouvernance des informations Microsoft</strong></td>
 <td>  Nous fournissons des conseils à distance pour :
 <ul>
-<li>  Gouvernance des informations.  </li>
 <li>  Étiquettes et stratégies de rétention.  </li>
 <li>  Gestion des enregistrements.  </li>
 <li>  Stratégies de suppression.  </li>
 <li>  Conformité des communications.  </li>
 <li>  Gestion des risques d'initiés.  </li>
 <li>  EDiscovery avancée.  </li>
-</ul></td>
+</ul>
+
+  <strong>Les éléments suivants sont hors de portée </strong>  
+<ul>
+<li> Développement d’un plan de gestion des fichiers de gestion des enregistrements.</li>
+<li> Connecteurs de données.</li>
+<li> Obstacles aux informations.</li>
+<li> Gestion des accès privilégiés.</li>
+<li> Développement de l’architecture des informations dans SharePoint.</li>
+<li> Le codage et l’écriture de scripts personnalisés.</li>
+</td>
 <td>Outre la partie de base de l' <strong>intégration</strong> en <a href="#general">général</a>, il n’y a pas de configuration système requise minimale.</td>
 </tr>
 <tr class="odd">
@@ -180,14 +189,26 @@ Les logiciels clients en ligne tels que Project pour Office 365, Outlook pour Wi
 <li>  Classification des données.  </li>
 <li>  Types d'informations sensibles.  </li>
 <li>  Création de labels de sensibilité.  </li>
-<li>  Appliquer des labels de sensibilité.  </li>
+<li>  Application d’étiquettes de sensibilité.  </li>
 <li>  Étiquetage unifié.  </li>
 <li>  Des classificateurs avec capacité d’apprentissage.  </li>
 <li>  Connaître ses données avec l'explorateur de contenu et l'explorateur d'activités.  </li>
 <li>  Publication d'étiquettes à l'aide de politiques (manuelles et automatiques).  </li>
 <li>  Créer des politiques de prévention des pertes de données (DLP) pour les conversations et les canaux de Microsoft Teams.  </li>
-<li>  Création de stratégies DLP pour les appareils gérés par le gestionnaire de points de terminaison Microsoft.  </li>
-</ul></td>
+<li>  Création de stratégies DLP de point de terminaison pour les appareils Windows 10.  </li>
+</ul>
+
+<strong>Les éléments suivants sont hors de portée </strong>  
+<ul>
+<li>Clé client.</li>
+<li>Le développement d’expressions régulières personnalisées (RegEx) pour les types d’informations sensibles.</li>
+<li>Création ou modification de dictionnaires de mots clés.</li>
+<li>Le codage et l’écriture de scripts personnalisés.</li>
+</ul>
+<strong>Remarque :</strong> Pour plus d’informations, reportez-vous à <strong> Azure information protection </strong> in <a href="#enterprise-mobility--security">Enterprise Mobility + Security</a>.
+<ul>
+
+</td>
 <td>Outre la partie de base de l' <strong>intégration</strong> en <a href="#general">général</a>, il n’y a pas de configuration système requise minimale.</td>
 </tr>
 <tr class="even">
@@ -358,7 +379,7 @@ Nous fournissons des conseils à distance pour l’activation du service Yammer 
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>Sécurité & Enterprise Mobility
+## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security
 
 <table>
 <thead>
@@ -420,40 +441,36 @@ Nous fournissons des conseils à distance pour l’activation du service Yammer 
 <td>Active Directory sur site et son environnement ont été préparés pour Azure AD Premium, y compris la correction des problèmes identifiés qui empêchent l’intégration à Azure AD et les fonctionnalités Azure AD Premium.</td>
 </tr>
 <tr class="odd">
-<td><strong>Azure Information Protection Premium (P2 ou EMS E5)</strong></td>
+<td><strong>Azure information protection </strong></td>
 <td>  Nous fournissons des conseils sur la façon de :
 <ul>
 <li>  Activez et configurez votre client.  </li>
 <li>  Créer et configurer des étiquettes et des stratégies.  </li>
 <li>  Application de la protection des informations aux documents.  </li>
 <li>  Classifier et étiqueter automatiquement des informations dans les applications Office (telles que Word, PowerPoint, Excel et Outlook) exécutées sur Windows et utilisant le client Azure information protection.  </li>
-<li>  Utilisation des fichiers au repos avec l’analyseur Azure information protection.  </li>
+<li>  Détectez et étiquetez les fichiers sur REST à l’aide du scanneur Azure information protection.  </li>
 <li>  Surveillance des courriers électroniques en transit à l’aide de règles de flux de messagerie Exchange Online.  </li>
 </ul>
 Nous fournissons également des conseils pour appliquer la protection à l’aide des services Microsoft Azure Rights Management (Azure RMS), du chiffrement de messages Office 365 (OME) et de la protection contre la perte de données (DLP).  </td>
-<td>  Vous devez déjà :
+<td>  Les responsabilités du client sont les suivantes :
 <ul>
-<li>  Utiliser Azure AD.  </li>
-<li>  Utilisez Windows ou iOS (les autres systèmes d’exploitation sont hors de portée).  
+<li>  Liste des emplacements de partage de fichiers à analyser.  </li>
+<li>  Une taxonomie de classification approuvée. </li>
+<li> Compréhension des restrictions réglementaires ou des exigences en matière de gestion des clés.  </li>
+<li>  Un compte de service créé pour votre annuaire Active Directory local qui a été synchronisé avec Azure AD. </li>
+<li>  Étiquettes configurées pour la classification et la protection. </li>
+<li> Tous les éléments prérequis pour le scanneur Azure information protection sont en place. Pour plus d’informations, reportez-vous à <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">la rubrique conditions préalables pour l’installation et le déploiement du scanneur d’étiquetage unifié Azure information protection</a>. </li>
+<li>  Vérifiez que les appareils utilisateur exécutent un système d’exploitation pris en charge et que les conditions préalables nécessaires sont installées. Pour plus d’informations, consultez les rubriques suivantes.</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guide d’administration : installer le client d’étiquetage unifié Azure information protection pour les utilisateurs</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Qu’est-ce que l’application Azure information protection pour iOS ou Android ?</a>  </li>
+</ul>
+<li> L’installation et la configuration du connecteur et des serveurs Azure RMS, y compris le connecteur AD RMS (Active Directory RMS) pour la prise en charge hybride.  </li>
+<li> Programme d’installation et configuration de la préversion (BYOK), du chiffrement à clé double (DKE) (client d’étiquetage unifié uniquement) ou de votre propre clé (HYOK) (client classique uniquement) si vous avez besoin de l’une de ces options pour votre déploiement.  </li>
   </ul>
-<strong>Remarque</strong>: les ordinateurs et les appareils mobiles doivent s’exécuter sur un <a href="https://docs.microsoft.com/azure/information-protection/requirements#client-devices">système d’exploitation</a> qui prend en charge Azure information protection.  
-<li>  Disposez de vos emplacements de partage de fichiers principaux.  </li>
-<strong>Remarque</strong>: le support hybride requiert le connecteur AD RMS. 
-<li>  Disposer d’une taxonomie de classification approuvée.  </li>
-<li>  Comprenez les restrictions réglementaires relatives à votre gestion des clés protégées.  </li>
 </ul>
   
-<strong>Scanneur Azure information protection</strong>  
-  
-Vous devez déjà :  
-<ul>
-<li>  Utilisez Windows Server 2012 R2 ou Windows Server 2016.  </li>
-<li>  Disposer d’une connexion Internet.  </li>
-<li>  Disposer de Microsoft SQL Server 2012 à partir d’une instance locale ou distante.  </li>
-<li>  Disposer d’un compte de service créé pour votre annuaire Active Directory local et synchronisé avec Azure AD.  </li>
-<li>  Avez téléchargé AzInfoProtection.exe.  </li>
-<li>  Les étiquettes sont configurées pour la classification/la protection automatique.  </li>
-</ul></td>
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
@@ -473,7 +490,7 @@ Vous devez déjà :
 <ul>
 <li>  Déploiement d’applications pour chaque plateforme prise en charge par le biais de liens Web ou de liens détaillés.  </li>
 <li>  Stratégies d’accès conditionnel.  </li>
-<li>  Le déploiement de profils de messagerie, de réseaux sans fil et de VPN si vous disposez d’une autorité de certification, d’un réseau sans fil ou d’une infrastructure VPN existante dans votre organisation.  </li>
+<li>  Le déploiement de la messagerie, des réseaux sans fil et des profils VPN si vous disposez d’une autorité de certification, d’un réseau sans fil ou d’une infrastructure VPN existante dans votre organisation.  </li>
 <li>  Connexion à l’entrepôt de données Intune.  </li>
 <li>  Intégration de Intune avec :
 <ul>
@@ -540,11 +557,7 @@ Vous devez déjà :
  
   Les administrateurs informatiques sont responsables de l’enregistrement de leurs appareils dans leur organisation en permettant de charger leur ID de matériel en leur nom ou en le téléchargeant eux-mêmes dans le service de pilote automatique de Windows.  
   
-<strong>Déployer Outlook pour iOS et Android de manière sécurisée avec Intune </strong>  
-<ul>
-<li>  Identités utilisateur activées dans Azure AD pour Office 365.  </li>
-<li>  Exchange Online ou Exchange hybride configuré avec des licences utilisateur affectées.  </li>
-</ul></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -865,19 +878,17 @@ Pour plus d’informations, voir <a href="https://docs.microsoft.com/azure/virtu
 <strong>Windows 10 sur ARM</strong>
 <ul>
 <li>  
-Les applications qui fonctionnaient sous Windows 7, Office 2010 ou des versions ultérieures fonctionnent sur les applications Windows 10 et Microsoft 365 sur les appareils ARM64. 
+Les applications qui fonctionnaient sous Windows 7, Office 2010 ou des versions ultérieures fonctionnent également sur les applications Windows 10 et Microsoft 365 sur les appareils ARM64. 
   </li>
 </ul>
-  <strong>Remarque :</strong> Les exclusions et limitations de Windows 10 sur ARM sont les suivantes :
+  <strong>Note</strong> 
 <ul>
+<li> l’émulation x64 (64 bits) est disponible en aperçu pour les clients participant au <a href="https://insider.windows.com/">programme Windows Insider</a>.  </li>
 <li>  
- Applications qui reposent sur des pilotes logiciels qui ne sont pas compatibles avec ARM.  
+ Pour les clients non-Windows Insider sur Windows 10 version 2004 (ou version ultérieure), ARM64 Photoshop est pris en charge à l’aide du <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">Pack de compatibilité OpenCL et OpenGL</a>. 
   </li>
 <li>  
-  Applications qui utilisent OpenGL ou OpenCL.   
-  </li>
-<li>  
-  Les applications sont uniquement disponibles dans 64 bits (x64).  
+  Les clients du programme Windows Insider peuvent télécharger une version Insider du Pack de compatibilité OpenCL et OpenGL à utiliser avec des applications supplémentaires.    
   </li>
 </ul>
 <strong>Le nouveau Microsoft Edge</strong>

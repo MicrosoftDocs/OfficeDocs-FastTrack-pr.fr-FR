@@ -3,19 +3,19 @@ title: Migration des données
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack peut vous aider à migrer le courrier et les données de fichiers de vos environnements sources vers Office 365 (Exchange Online, SharePoint Online et OneDrive Entreprise). Le type d’aide que nous fournissons dépend de votre nombre de licences Office 365.
-ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827650"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525335"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -23,8 +23,8 @@ FastTrack peut vous aider à migrer le courrier et les données de fichiers de v
 
 Le type d’aide que nous fournissons dépend de votre nombre de licences Office 365 :
 
-  - **Pour les clients Office 365 possédant entre 150 et 499 licences**  : FastTrack fournit uniquement des recommandations sur la migration. Vous êtes responsable de l’exécution de la migration des données. Nous vous guiderons à l’aide d’une documentation qui vous aide à planifier et à utiliser des outils gratuits pour effectuer une migration en libre-service.
-  - **Pour les clients Office 365 possédant 500 licences**  : FastTrack fournit une aide à la migration ainsi que des services de migration des données. Nous vous proposons des conseils pour vous aider à planifier la migration, configurer vos environnements sources ainsi que le client Office 365, et tirer parti de nos services de migration des données pour migrer vos données. Vous créez et planifiez vos événements de migration. Nous les lançons conformément à votre planning, nous surveillons leur avancement et nous fournissons des rapports sur leur statut.
+  - **Pour les clients Office 365 possédant entre 150 et 499 licences** : FastTrack fournit uniquement des recommandations sur la migration. Vous êtes responsable de l’exécution de la migration des données. Nous vous guiderons à l’aide d’une documentation qui vous aide à planifier et à utiliser des outils gratuits pour effectuer une migration en libre-service.
+  - **Pour les clients Office 365 possédant 500 licences** : FastTrack fournit une aide à la migration ainsi que des services de migration des données. Nous vous proposons des conseils pour vous aider à planifier la migration, configurer vos environnements sources ainsi que le client Office 365, et tirer parti de nos services de migration des données pour migrer vos données. Vous créez et planifiez vos événements de migration. Nous les lançons conformément à votre planning, nous surveillons leur avancement et nous fournissons des rapports sur leur statut.
 
 > [!NOTE]
 > Si vous avez acheté ou renouvelé un plan commercial avant le 01/09/2017, il vous faut uniquement 150 licences pour bénéficier des services de migration des données. En ce qui concerne les plans pour l’éducation, seules les licences d’enseignants et de personnel payées sont éligibles aux services de migration.
@@ -54,7 +54,7 @@ Lorsque vous choisissez d’utiliser FastTrack pour migrer votre courrier vers E
   - FastTrack effectue uniquement les migrations vers des boîtes aux lettres Office 365 actives.
   - Vous devez respecter des conditions particulières si vous prévoyez de migrer à partir d’un environnement Exchange local. Pour plus d’informations, voir [Conditions préalables à un déploiement hybride](https://go.microsoft.com/fwlink/?LinkId=787528).
   - Chaque environnement source doit normalement être doté du Service Pack (SP) et des niveaux de correctif cumulatif/mise à jour cumulative les plus récents pour le produit concerné dans l’environnement source.
-  - Les listes de distribution (objets *MailEnabledGroup* ) et les contacts externes (objets *MailEnabledContact* ) figurant dans votre annuaire Active Directory local ne sont pas inclus dans la migration des données de boîte aux lettres. Toutefois, vous pouvez les synchroniser à l’aide d’Azure Active Directory (Azure AD) Connect. 
+  - Les listes de distribution (objets *MailEnabledGroup*) et les contacts externes (objets *MailEnabledContact*) figurant dans votre annuaire Active Directory local ne sont pas inclus dans la migration des données de boîte aux lettres. Toutefois, vous pouvez les synchroniser à l’aide d’Azure Active Directory (Azure AD) Connect. 
 
 ## <a name="source-environments"></a>Environnements sources
 
@@ -302,6 +302,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Auteur de la dernière modification </li>
 </ul></li>
 <li> Contenu partagé appartenant au compte Box en cours de migration </li>
+<li> Notes de zone (conversion au format de document Word) </li>
 </ul></td>
 <td><ul>
 <li> Historique d’appartenance, versions précédentes et commentaires </li>

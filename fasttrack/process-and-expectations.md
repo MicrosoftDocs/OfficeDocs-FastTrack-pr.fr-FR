@@ -3,19 +3,19 @@ title: Processus et attentes
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous allons vous expliquer comment impliquer FastTrack pour obtenir de l’aide, obtenir des conseils sur la réussite d’une expérience et comprendre les responsabilités essentielles de FastTrack et de votre entreprise.
-ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827647"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525331"
 ---
 # <a name="process-and-expectations"></a>Processus et attentes
 
@@ -27,7 +27,7 @@ Obtention d’assistance technique d’un spécialiste FastTrack
   
 Vous pouvez demander l’aide d’un spécialiste FastTrack de deux manières :
 
-  - Dans le Centre d’administration Microsoft, votre administrateur de client se connecte au Centre d’administration Microsoft, puis clique sur le widget **Besoin d’aide ?** , qui les guide ensuite dans le processus de demande.
+  - Dans le Centre d’administration Microsoft, votre administrateur de client se connecte au Centre d’administration Microsoft, puis clique sur le widget **Besoin d’aide ?**, qui les guide ensuite dans le processus de demande.
   - Par le biais du site FastTrack, vous ou votre partenaire demande l’aide pour votre entreprise via le site FastTrack.
 
 Pour demander de l’aide directement par le biais du site FastTrack, procédez comme suit :
