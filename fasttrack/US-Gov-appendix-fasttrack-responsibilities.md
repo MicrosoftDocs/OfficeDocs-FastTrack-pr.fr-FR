@@ -1,21 +1,21 @@
 ---
 title: Responsabilités FastTrack pour le gouvernement américain Office 365
-ms.author: v-bermic@microsoft.com
-author: rberg-steyer@microsoft.com
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Les responsables FastTrack ont les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 6fc21be1bd1bc5e4cb5842403b5978fb72587f15
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 42ad4053ef169470abd5de96cd59329704d1b224
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525339"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750077"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilités FastTrack pour le gouvernement américain Office 365
 
@@ -156,7 +156,7 @@ Fournir des conseils à propos des éléments suivants :
   - Activation de l’intégration d’instructions pour la diffusion de réunion Skype Entreprise.  
   - Configuration de l’organisation pour la fédération avec le service de diffusion de réunion.
     
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fournir des conseils à propos des éléments suivants :
 - Vérification de la configuration minimale requise.   

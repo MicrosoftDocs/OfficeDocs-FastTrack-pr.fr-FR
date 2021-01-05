@@ -3,19 +3,19 @@ title: Éligibilité
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous décrivons les conditions d’éligibilité pour bénéficier de l’assistance guidée à distance des spécialistes FastTrack incluse dans l’achat de licences Microsoft 365 en présentant dans le détail les produits et les fonctionnalités spécifiques couverts.
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525387"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750017"
 ---
 # <a name="eligibility"></a>Éligibilité
 
@@ -35,7 +35,10 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
 > [!NOTE]
 > Office 365 ProPlus a été renommé Microsoft 365 Apps. Dans certains cas, vous rencontrerez peut-être encore l’ancien nom. Pour plus d’informations sur la date d’entrée en vigueur de cette modification, consultez [Changement de nom d’Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
+  - Microsoft 365 Defender
+  - Microsoft Cloud App Security
   - Microsoft Defender – Protection avancée contre les menaces (ATP)
+  - Microsoft Defender pour Identity 
   - Microsoft Edge
   - Gouvernance des informations Microsoft
   - Protection des informations Microsoft
@@ -116,7 +119,7 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
   - Exchange Online Protection
   - Office 365 – Protection avancée contre les menaces
 
-#### <a name="microsoft-teams"></a>Microsoft Teams
+#### <a name="microsoft-teams"></a>Microsoft Teams
 
   - Système téléphonique
   - Forfait d'appels
