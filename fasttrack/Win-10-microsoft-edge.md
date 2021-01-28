@@ -1,5 +1,5 @@
 ---
-title: Le nouveau Microsoft Edge
+title: Microsoft Edge
 ms.author: v-bermic@microsoft.com
 author: rberg-steyer@microsoft.com
 manager: jimmuir
@@ -9,18 +9,18 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
-description: L’avantage de FastTrack pour Windows 10 fournit des instructions de déploiement pour les nouveaux clients Microsoft Edge pour Windows 10 Entreprise avec 150 ou plus.
-ms.openlocfilehash: 986d4a7328bd7e4b78bdd4c18284507ad7466f98
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+description: FastTrack Benefit pour Windows 10 fournit des conseils de déploiement pour les clients Windows 10 Entreprise avec 150 sièges ou plus.
+ms.openlocfilehash: 56d9e8cb6bbb6209ad6327771992719cde579226
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827296"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016408"
 ---
-# <a name="the-new-microsoft-edge"></a>Le nouveau Microsoft Edge
+# <a name="microsoft-edge"></a>Microsoft Edge
 
-L’avantage de FastTrack pour Windows 10 fournit des instructions de déploiement pour les nouveaux clients Microsoft Edge pour Windows 10 Entreprise avec 150 ou plus. De plus, si vous disposez d’une application web ou d’un site qui fonctionne avec Internet Explorer ou Google Chrome et que vous rencontrez des problèmes de compatibilité, nous allons résoudre le problème sans frais supplémentaires via le [programme App Assure](Win-10-app-assure.md).
+FastTrack Benefit pour Windows 10 fournit des conseils de déploiement pour les clients De Windows 10 Entreprise avec 150 sièges ou plus. De plus, si vous disposez d’une application web ou d’un site qui fonctionne avec Internet Explorer ou Google Chrome et que vous rencontrez des problèmes de compatibilité, nous allons résoudre le problème sans frais supplémentaires via le [programme App Assure](Win-10-app-assure.md).
 
 Un spécialiste FastTrack travaille avec vous pour déployer Microsoft Edge sur Windows 10 Entreprise avec Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Microsoft Intune).
 
-Pour plus d’informations sur le service FastTrack, consultez l' [avantage du centre FastTrack pour Microsoft 365](introduction.md).
+Pour plus d’informations sur les avantages de FastTrack, voir Les avantages [du Centre FastTrack pour Microsoft 365.](introduction.md)

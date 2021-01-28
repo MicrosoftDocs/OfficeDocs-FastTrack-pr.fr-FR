@@ -1,29 +1,29 @@
 ---
-title: Phases d’intégration et de migration pour Office 365 gouvernement américain
+title: Phases d’intégration et de migration pour Office 365 pour le gouvernement américain
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: "L’intégration d’Office 365 pour Office 365 le gouvernement américain comporte quatre phases principales : lancer, évaluer, résoudre et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 82f6b9add76ca5aecbc7e0d210cb32aec0a5e05c
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+description: "L’intégration d’Office 365 pour Office 365 pour le gouvernement américain a quatre phases principales : lancer, évaluer, corriger et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
+ms.openlocfilehash: 8a16d48099cb2899e966fa61857c216c59350cb5
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750137"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016566"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 pour le gouvernement américain
 
 L'intégration Office 365 comporte quatre phases principales : lancement, évaluation, correction et activation. Vous pouvez suivre ces phases avec une étape de migration de données, comme indiqué dans l'illustration suivante.
   
 ![Phases du service d’intégration](media/O365-Onboarding-Phases.png)
   
-Pour connaître les tâches détaillées de chaque phase, reportez-vous à la rubrique [responsabilités de FastTrack pour le gouvernement américain office 365](US-Gov-appendix-fasttrack-responsibilities.md) et [vos responsabilités pour Office 365](US-Gov-appendix-your-responsibilities.md).
+Pour obtenir des tâches détaillées pour chaque phase, voir [Responsabilités FastTrack pour Office 365 pour](US-Gov-appendix-fasttrack-responsibilities.md) le gouvernement américain et Vos responsabilités pour Office [365 pour](US-Gov-appendix-your-responsibilities.md)le gouvernement américain.
   
 ## <a name="initiate-phase"></a>Phase de lancement
 
@@ -57,7 +57,7 @@ Ceci inclut de collaborer avec vous afin de déterminer la façon dont vous pré
 
 Votre responsable FastTrack passe un appel interactif de planification de la réussite avec vous et votre équipe d’adoption. Il présente les fonctionnalités des services éligibles que vous avez achetés, les bases clés nécessaires à votre réussite, la méthodologie pour stimuler l’utilisation du service et les scénarios que vous pouvez utiliser pour tirer parti des services. Nous vous aidons dans la planification de la réussite et vous fournissons des commentaires sur les principaux domaines (selon vos besoins).
   
-Les spécialistes FastTrack collaborent avec vous pour évaluer votre environnement source et la configuration requise. Nous fournissons des outils qui vous permettent de collecter des données sur votre environnement et de vous guider dans l’estimation des besoins en bande passante et en évaluant les navigateurs Internet, les systèmes d’exploitation clients, le système DNS (Domain Name System), le réseau, l’infrastructure et le système d’identité afin de déterminer si des modifications sont requises pour l’intégration. 
+Les spécialistes FastTrack collaborent avec vous pour évaluer votre environnement source et la configuration requise. Nous vous fournissons des outils pour collecter des données sur votre environnement et vous guider dans l’estimation des besoins en bande passante et l’évaluation de vos navigateurs Internet, systèmes d’exploitation clients, DNS (Domain Name System), réseau, infrastructure et système d’identité pour déterminer si des modifications sont nécessaires à l’intégration. 
   
 En fonction de votre configuration actuelle, nous vous fournissons un plan de correction de votre environnement source visant à mettre en place la configuration minimale requise aux conditions minimales requises pour la réussite de l'intégration à Office 365 et, si nécessaire, pour la réussite de la migration des boîtes aux lettres et/ou des données. Nous offrons un ensemble de suggestions d'activités visant à accroître l'adoption et la valeur pour l'utilisateur final. Nous mettons également en place des appels de point de contrôle appropriés pour la phase de correction.
   
@@ -132,8 +132,8 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 - Configuration de DNS.    
 - la création de comptes pour les périphériques système de salle de réunion ;    
 - le déploiement d'un client Skype Entreprise Online pris en charge ;   
-- Établissement d’une configuration de serveur de domaine fractionné entre votre environnement de serveur Lync 2010, Lync 2013 ou Skype entreprise 2015 sur site et le client Skype entreprise Online (le cas échéant).
-- Activation des forfaits d’appels, de la diffusion de réunion Skype, du système téléphonique et des forfaits d’appels (sur les marchés disponibles : non disponibles dans les offres GCC High ou DoD). 
+- Établir une configuration de serveur de domaine partagé entre votre environnement de serveur Lync 2010, Lync 2013 ou Skype Entreprise 2015 local et votre client Skype Entreprise Online (le cas échéant).
+- Activation des forfaits d’appels, de la diffusion de réunion Skype, du système téléphonique et des forfaits d’appels (dans les marchés disponibles – non disponible dans les plans GCC High ou DoD). 
     
 ![Étapes de l’intégration Lync durant la phase 1 de l’activation](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,7 +142,7 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Les options suivantes ne sont pas disponibles dans les plans GCC High ou DoD.
+> Les informations suivantes ne sont pas disponibles dans les plans GCC High ou DoD.
 
 Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants : 
 - Vérification de la configuration minimale requise.   
@@ -173,7 +173,7 @@ Pour Project Online, nous fournissons des conseils pour :
 Pour Yammer, nous fournissons des conseils concernant l’activation du service Yammer Entreprise.
 
 > [!NOTE]
-> Yammer Enterprise n’est pas un composant d’Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d’entreprise et les contrats d’abonnement Enterprise. Yammer n’est pas disponible dans les plans GCC High ou DoD. 
+> Yammer Entreprise n’est pas un composant d’Office 365 pour le gouvernement américain, mais peut être acquis sans frais en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC dans le cadre des contrats Entreprise et des contrats d’abonnement Entreprise. Yammer n’est pas disponible dans les plans GCC High ou DoD. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -183,7 +183,7 @@ Pour Microsoft 365 Apps, nous fournissons des conseils dans les domaines suivan
 - Installation de Microsoft 365 Apps à partir du portail Office 365 avec l’option Démarrer en un clic.    
 - Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS ou Android.   
 - Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.    
-- Configuration d’un serveur de distribution sur site unique pour les applications Microsoft 365, y compris l’assistance concernant la création d’un fichier de configuration.xml à utiliser avec l’outil de déploiement d’Office 365.    
+- Configuration d’un serveur de distribution sur site unique pour Microsoft 365 Apps, incluant une assistance pour la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.    
 - Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.
     
 ![Étapes de l’intégration Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)

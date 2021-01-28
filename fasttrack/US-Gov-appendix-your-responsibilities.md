@@ -1,23 +1,23 @@
 ---
-title: Vos responsabilités pour Office 365 gouvernement américain
+title: Vos responsabilités pour Office 365 pour le gouvernement américain
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: 541e26088bac9c13679a78906b9abac23077c36c
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: b2889b0b589c6bdb470dedc81f50e428143edc0c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750113"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016638"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Vos responsabilités pour Office 365 gouvernement américain
+# <a name="your-responsibilities-for-office-365-us-government"></a>Vos responsabilités pour Office 365 pour le gouvernement américain
 
 Vous avez les responsabilités suivantes lors de l’intégration.
   
@@ -41,8 +41,8 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 - Gérer, configurer et appliquer des stratégies de sécurité.    
 - Activer les appareils mobiles.    
 - Assurer la configuration, l’analyse, la validation de la bande passante, le test et la surveillance du réseau. 
-- Modifier les règles de pare-feu pour prendre en charge les URL spécifiques et les plages d’adresses IP utilisées par les services Office 365 (le cas échéant).
-- Fournir des points de terminaison de proxy inverse sur site à Microsoft (le cas échéant).     
+- Modifiez les règles de pare-feu pour prendre en charge les URL et plages d’adresses IP spécifiques utilisées par les services Office 365 (si nécessaire).
+- Fournir des points de terminaison de proxy inverse locaux à Microsoft (si nécessaire).     
 - Modifier le réseau afin de fournir la bande passante nécessaire pour les services Skype Entreprise Online.   
 - Gérer un processus d’approbation de gestion des modifications techniques et créer la documentation associée.    
 - Spécifier et définir des stratégies de groupe pour la gestion des utilisateurs, des postes de travail et du serveur.    
@@ -58,7 +58,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.
     
 ## <a name="initiate-phase"></a>Phase de lancement
 
-- Configurez un espace Microsoft teams collaboratif pour le partenariat d’intégration et invitez les membres de l’équipe du centre FastTrack (non disponible dans les offres GCC High ou DoD).   
+- Configurer l’espace Microsoft Teams collaboratif pour l’intégration du partenariat et inviter les membres de l’équipe du Centre FastTrack (non disponible dans les plans GCC High ou DoD).   
 - Collaborer avec les spécialistes de FastTrack pour commencer l’intégration des services éligibles.    
 - Participer à la réunion de lancement, gérer et diriger les participants de votre organisation et confirmer la chronologie des corrections.    
 - Fournir vos objectifs pour les services Office 365 (par exemple, SharePoint Online, Exchange Online, Microsoft Teams et Microsoft 365 Apps) et des objectifs organisationnels.

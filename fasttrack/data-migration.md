@@ -3,19 +3,19 @@ title: Migration des données
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack peut vous aider à migrer le courrier et les données de fichiers de vos environnements sources vers Office 365 (Exchange Online, SharePoint Online et OneDrive Entreprise). Le type d’aide que nous fournissons dépend de votre nombre de licences Office 365.
-ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750041"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016470"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -79,11 +79,11 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016, Exchange 2019</strong><br />
 <br />
-<strong>Remarque :</strong> Pour les dépendances Exchange locales, consultez la rubrique <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Configuration requise pour un déploiement hybride</span></a>.</td>
+<strong>Remarque :</strong> Pour les dépendances Exchange sur site, consultez <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">les conditions préalables au déploiement hybride.</span></a></td>
 <td>Migration avec déploiement hybride</td>
 <td><ul>
 <li>Messages électroniques</li>
-<li>Règles de boîte aux lettres</li>
+<li>Règles de boîte aux lettres côté serveur</li>
 <li>Délégués</li>
 <li>Contacts de boîte aux lettres </li>
 <li> Calendrier </li>
@@ -102,12 +102,13 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Données d’archive à partir de fichiers PST (Personal Storage Table) </li>
 <li> Éléments endommagés </li>
 <li> Boîtes aux lettres inactives </li>
+<li> Règles de boîte aux lettres côté client</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><strong>Environnement G Suite (Gmail, contacts et calendrier uniquement)</strong><br />
 <br />
-<strong>Remarque :</strong> Votre environnement G suite doit répondre aux conditions préalables décrites dans <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">perform a G suite migration</a>.</td>
+<strong>Remarque :</strong> Votre environnement G Suite doit respecter les conditions préalables décrites dans <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">Effectuer une migration G Suite.</a></td>
 <td>À basculement ou intermédiaire</td>
 <td><ul>
 <li> Messages électroniques </li>
@@ -242,7 +243,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Documents inaccessibles ou endommagés </li>
 <li> Partages masqués </li>
 <li> Partage (par exemple, autorisations accordées au niveau de partage) </li>
-<li> Fichiers ou dossiers dépassant <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">les restrictions et limitations SharePoint Online</span> actuelles</a> </li>
+<li> Fichiers ou dossiers dépassant les restrictions et <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limitations sharePoint Online actuelles</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -281,8 +282,8 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Le contenu n’appartient pas au compte Google Drive migré </li>
 <li> Autorisations et métadonnées de base des utilisateurs externes (<strong>remarque</strong> : utilisez les rapports d’administrateur Google Drive pour identifier le contenu partagé avec des utilisateurs externes. Demandez aux utilisateurs de partager à nouveau leur contenu avec les utilisateurs externes après la migration.) </li>
 <li> Autorisations d’appartenance pour les disques partagés (<strong>remarque</strong> : utilisez les rapports d’administrateur Google Drive afin d’identifier l’appartenance des disques partagés. Demandez aux utilisateurs de configurer ces paramètres d’appartenance sur la cible avant la migration.) </li>
-<li> Fichiers marqués comme étant restreints ou ne peuvent pas être copiés </li>
-<li> Fichiers ou dossiers dépassant <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">les restrictions et limitations SharePoint Online</span> actuelles</a> </li>
+<li> Fichiers marqués comme étant restreints ou non copiables </li>
+<li> Fichiers ou dossiers dépassant les restrictions et <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limitations sharePoint Online actuelles</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -302,7 +303,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Auteur de la dernière modification </li>
 </ul></li>
 <li> Contenu partagé appartenant au compte Box en cours de migration </li>
-<li> Notes de zone (conversion au format de document Word) </li>
+<li> Notes Box (converties au format de document Word) </li>
 </ul></td>
 <td><ul>
 <li> Historique d’appartenance, versions précédentes et commentaires </li>
@@ -318,7 +319,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Applications, signets, favoris et flux de travail Box </li>
 <li> Contenu n’appartenant pas au compte Box migré </li>
 <li> Autorisations et métadonnées de base des utilisateurs externes (<strong>remarque</strong> : utilisez les rapports Box pour identifier le contenu partagé avec des utilisateurs externes. Demandez aux utilisateurs de partager à nouveau leur contenu avec les utilisateurs externes après la migration.) </li>
-<li> Fichiers ou dossiers dépassant <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">les restrictions et limitations SharePoint Online</span> actuelles</a> </li>
+<li> Fichiers ou dossiers dépassant les restrictions et <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limitations sharePoint Online actuelles</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -356,7 +357,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Applications et favoris Dropbox (épingles/étoiles) </li>
 <li> Contenu n’appartenant pas au compte Dropbox migré </li>
 <li> Autorisations et métadonnées de base des utilisateurs externes (<strong>remarque</strong> : utilisez les rapports Dropbox pour identifier le contenu partagé avec des utilisateurs externes. Demandez aux utilisateurs de partager à nouveau leur contenu avec les utilisateurs externes après la migration.) </li>
-<li> Fichiers ou dossiers dépassant <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">les restrictions et limitations SharePoint Online</span> actuelles</a> </li>
+<li> Fichiers ou dossiers dépassant les restrictions et <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limitations sharePoint Online actuelles</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -436,7 +437,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Documents inaccessibles ou endommagés </li>
 <li> Partages masqués </li>
 <li> Partage (par exemple, autorisations accordées au niveau de partage) </li>
-<li> Fichiers ou dossiers dépassant <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">les restrictions et limitations SharePoint Online</span> actuelles</a> </li>
+<li> Fichiers ou dossiers dépassant les restrictions et <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limitations sharePoint Online actuelles</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -475,7 +476,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Le contenu n’appartient pas au compte Google Drive migré </li>
 <li> Autorisations et métadonnées de base des utilisateurs externes (<strong>remarque</strong> : utilisez les rapports d’administrateur Google Drive pour identifier le contenu partagé avec des utilisateurs externes. Demandez aux utilisateurs de partager à nouveau leur contenu avec les utilisateurs externes après la migration.) </li>
 <li> Autorisations d’appartenance pour les disques partagés (<strong>remarque</strong> : utilisez les rapports d’administrateur Google Drive afin d’identifier l’appartenance des disques partagés. Demandez aux utilisateurs de configurer ces paramètres d’appartenance sur la cible avant la migration.) </li>
-<li> Fichiers ou dossiers dépassant <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">les restrictions et limitations SharePoint Online</span> actuelles</a> </li>
+<li> Fichiers ou dossiers dépassant les restrictions et <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limitations sharePoint Online actuelles</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -510,7 +511,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Applications, signets, favoris et flux de travail Box </li>
 <li> Contenu n’appartenant pas au compte Box migré </li>
 <li> Autorisations et métadonnées de base des utilisateurs externes (<strong>remarque</strong> : utilisez les rapports Box pour identifier le contenu partagé avec des utilisateurs externes. Demandez aux utilisateurs de partager à nouveau leur contenu avec les utilisateurs externes après la migration.) </li>
-<li> Fichiers ou dossiers dépassant <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">les restrictions et limitations SharePoint Online</span> actuelles</a> </li>
+<li> Fichiers ou dossiers dépassant les restrictions et <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limitations sharePoint Online actuelles</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -548,7 +549,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Applications et favoris Dropbox (épingles/étoiles) </li>
 <li> Contenu n’appartenant pas au compte Dropbox migré </li>
 <li> Autorisations et métadonnées de base des utilisateurs externes (<strong>remarque</strong> : utilisez les rapports Dropbox pour identifier le contenu partagé avec des utilisateurs externes. Demandez aux utilisateurs de partager à nouveau leur contenu avec les utilisateurs externes après la migration.) </li>
-<li> Fichiers ou dossiers dépassant <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">les restrictions et limitations SharePoint Online</span> actuelles</a> </li>
+<li> Fichiers ou dossiers dépassant les restrictions et <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limitations sharePoint Online actuelles</span></a> </li>
 </ul></td>
 </tr>
 </tbody>

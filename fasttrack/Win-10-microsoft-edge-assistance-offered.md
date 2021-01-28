@@ -10,21 +10,21 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 (comme indiqué dans les services et les offres éligibles), les spécialistes FastTrack fournissent des instructions de déploiement à distance et une assistance en matière de compatibilité si vous avez une application web ou un site qui fonctionne avec Internet Explorer ou Google Chrome.
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827320"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016614"
 ---
 # <a name="assistance-offered"></a>Assistance proposée
 
-Lorsque vous achetez l’un des services éligibles de Windows 10 ou de Microsoft 365 (comme indiqué dans [éligibilité](eligibility.md)), les spécialistes FastTrack fournissent des conseils de déploiement et une assistance à la compatibilité si vous disposez d’une application Web ou d’un site qui fonctionne avec Internet Explorer ou Google Chrome. 
+Lorsque vous achetez l’un des services Windows 10 ou Microsoft [](eligibility.md)365 éligibles (comme détaillé dans éligibilité), les spécialistes FastTrack fournissent des conseils de déploiement à distance et une assistance de compatibilité si vous avez une application web ou un site qui fonctionne avec Internet Explorer ou Google Chrome. 
 
 ## <a name="assistance"></a>Assistance
 
 FastTrack propose une assistance à distance pour les éléments suivants :
-- Instructions sur le déploiement du nouveau Microsoft Edge sur Windows 10 Entreprise avec Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager or Microsoft Intune).
+- Recommandations pour déployer Microsoft Edge sur Windows 10 Entreprise avec Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Microsoft Intune).
 - Instructions sur la configuration de Microsoft Edge (à l’aide de stratégies de groupe ou de la configuration de l’application Intune et des stratégies d’application).
 - Recommandations sur l’inventaire de la liste des sites pouvant nécessiter une utilisation en mode Internet Explorer.
 - Instructions pour activer le mode Internet Explorer avec la liste des sites d’entreprise existante.

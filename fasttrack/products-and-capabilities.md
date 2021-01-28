@@ -3,27 +3,27 @@ title: Produits et fonctionnalités
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
-description: Cette rubrique inclut des détails sur les scénarios de charge de travail pris en charge par FastTrack et sur l’environnement source requis avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui permet à votre environnement source de bénéficier de la configuration minimale requise pour une intégration réussie.
-ms.openlocfilehash: 5e65d160822ed50840ecc65f484433bf0d485913
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+description: Cette rubrique contient des détails sur les scénarios de charge de travail pris en charge par FastTrack et les attentes de l’environnement source nécessaires avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui place votre environnement source à la configuration minimale requise pour l’intégration réussie.
+ms.openlocfilehash: abbc97a7b2d70b0b0111f1cbe96904bbe552e463
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750101"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016686"
 ---
 # <a name="products-and-capabilities"></a>Produits et fonctionnalités
 
 ## <a name="services-and-scenarios-supported-by-fasttrack"></a>Services et scénarios pris en charge par FastTrack
 
-Cette rubrique inclut des détails sur les scénarios de charge de travail pris en charge par FastTrack et sur l’environnement source requis avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui permet à votre environnement source de bénéficier de la configuration minimale requise pour une intégration réussie.
+Cette rubrique contient des détails sur les scénarios de charge de travail pris en charge par FastTrack et les attentes de l’environnement source nécessaires avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui place votre environnement source à la configuration minimale requise pour réussir l’intégration.
 
-FastTrack fournit des conseils pour vous aider à utiliser les fonctionnalités principales (communes à tous les services Microsoft Online), puis à intégrer chaque service éligible :
+FastTrack fournit des conseils pour vous aider tout d’abord avec les fonctionnalités principales (communes à tous les Microsoft Online Services), puis avec l’intégration de chaque service éligible :
 
   - [Général](#general)
   - [Sécurité et conformité](#security-and-compliance)
@@ -31,8 +31,8 @@ FastTrack fournit des conseils pour vous aider à utiliser les fonctionnalités 
   - [Enterprise Mobility + Security](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Windows Virtual Desktop](#windows-virtual-desktop)
-  - [Soutien aux Applications](#app-assure)
-  - [Nouveau Microsoft Edge](#the-new-microsoft-edge)
+  - [Soutien aux applications](#app-assure)
+  - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
 > Pour en savoir plus sur les conditions requises dans votre environnement source pour Office 365 US Government, consultez l’article relatif aux [conditions attendues dans l’environnement source pour Office 365 US Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations). 
@@ -43,36 +43,36 @@ FastTrack fournit des conseils pour vous aider à utiliser les fonctionnalités 
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Détails de l’aide FastTrack</strong></th>
-<th><strong>Attentes en matière d’environnement source</strong></th>
+<th><strong>Détails des conseils FastTrack</strong></th>
+<th><strong>Attentes de l’environnement source</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><strong>Intégration de base</strong></td>
-<td>  Nous fournissons des conseils à distance sur l’intégration de base, qui implique la mise en service, le client et l’intégration des identités. Il décrit également les étapes à suivre pour fournir une base pour les services d’intégration tels qu’Exchange Online, SharePoint Online et Microsoft Teams, y compris une <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">discussion sur la sécurité, la connectivité réseau et la conformité</a>.  
+<td>  Nous fournissons des conseils à distance sur l’intégration de base, qui implique l’approvisionnement de service, le client et l’intégration des identités. Il inclut également des étapes pour fournir une base pour l’intégration de services tels qu’Exchange Online, SharePoint Online et Microsoft Teams, y compris une discussion sur la sécurité, la connectivité réseau et la <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">conformité.</a>  
   L’intégration pour un ou plusieurs services éligibles peut commencer une fois l’intégration de base terminée.
 </li>
 </ul>  
 
 <strong> Intégration des identités </strong>
 
-Nous fournissons des conseils à distance pour :
+Nous fournissons des conseils à distance pour :
 <ul>
-<li>Préparation des identités Active Directory locales pour la synchronisation avec Azure Active Directory (Azure AD), y compris l’installation et la configuration d’Azure AD Connect (à forêt unique ou multi-forêt) et des licences (y compris les licences basées sur les groupes).</li>
-<li>Création d’identités Cloud incluant l’importation et la gestion de licences en bloc, y compris l’utilisation de licences basées sur les groupes.</li>
-<li>Sélection et activation de la méthode d’authentification appropriée pour votre parcours Cloud, la synchronisation de hachage de mot de passe, l’authentification directe ou Active Directory Federation Services (AD FS).</li>
-<li>Activation des services ADFS (Active Directory Federation Services) pour les clients disposant d’une seule forêt Active Directory et d’identités synchronisées avec l’outil Azure AD Connect. Cette opération nécessite Windows Server 2012 R2 Active Directory Federation Services 2,0 ou une version ultérieure.</li>
+<li>Préparation des identités Active Directory locales pour la synchronisation avec Azure Active Directory (Azure AD), notamment l’installation et la configuration d’Azure AD Connect (à forêt unique ou multi-forêts) et la gestion des licences (y compris les licences basées sur un groupe).</li>
+<li>Création d’identités cloud, y compris l’importation et la gestion des licences en bloc, y compris l’utilisation de licences basées sur des groupes.</li>
+<li>Choix et activation de la méthode d’authentification correcte pour votre parcours dans le cloud, la synchronisation de hachage de mot de passe, l’authentification directe ou les services AD FS (Active Directory Federation Services).</li>
+<li>Activation d’AD FS pour les clients avec une forêt Active Directory unique et des identités synchronisées avec l’outil Azure AD Connect. Cela nécessite Windows Server 2012 R2 Active Directory Federation Services 2.0 ou supérieur.</li>
 <li>Migration de l’authentification d’AD FS vers Azure AD à l’aide de la synchronisation de hachage de mot de passe ou de l’authentification directe.</li>
-<li>Migration des applications préintégrées (telles que les applications SaaS) d’AD FS vers Azure Active Directory pour l’authentification unique (SSO) pour Active Directory.</li>
-<li>Activation des intégrations de l’application SaaS avec l’authentification unique à partir de la Galerie Azure AD.</li>
-<li>Activation de la mise en service automatique des utilisateurs pour les applications SaaS pré-intégrées, telles qu’elles sont répertoriées dans la <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list">liste des didacticiels d’intégration des applications</a> (limitée aux applications SaaS et à la mise en service sortante de la Galerie AD AD).  </li>
+<li>Migration d’applications pré-intégrées (telles que des applications SaaS (software-as-a-service) azure AD AD gallery vers Azure AD pour l' sign-on unique (SSO).</li>
+<li>Activation des intégrations d’applications SaaS avec l' luiso à partir de la galerie Azure AD.</li>
+<li>Activation de la mise en service automatique des utilisateurs pour les applications SaaS pré-intégrées, comme indiqué dans la liste de didacticiels sur l’intégration des applications <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list">(limitée</a> aux applications SaaS de la galerie Azure AD et à la mise en service sortante uniquement).  </li>
 </td>
 
-<td>  <strong>Activation du réseau </strong>  
-  <br>Dans le cadre de l’avantage de FastTrack, nous vous conseillons de vous conformer aux meilleures pratiques pour vous connecter aux services Cloud afin de garantir les niveaux de performances les plus élevés de Microsoft 365.  
+<td>  <strong>Activer le réseau </strong>  
+  <br>Dans le cadre des avantages de FastTrack, nous vous conseillons de vous connecter aux services cloud afin de garantir les niveaux de performances les plus élevés de Microsoft 365.  
   
-<strong>Forêts Active Directory</strong> Ils ont le niveau de forêt fonctionnel défini sur Windows Server 2003 et versions ultérieures, avec la configuration de forêt suivante :
+<strong>Forêts Active Directory</strong> Celles-ci ont le niveau de forêt fonctionnel définie sur Windows Server 2003 et les autres, avec la configuration de forêt suivante :
 <ul>
 <li>  Forêt Active Directory unique.  </li>
 <li>  Topologies avec forêt de ressources et forêt de comptes Active Directory unique (Exchange et/ou Lync 2010, Lync 2013 ou Skype Entreprise) .  </li>
@@ -81,15 +81,15 @@ Nous fournissons des conseils à distance pour :
 <li>  Plusieurs forêts de comptes Active Directory, ayant chacune sa propre organisation Exchange.  </li>
 <li>  Tâches requises pour la configuration du client et l’intégration à Azure Active Directory, si nécessaire.   </li>
 </ul>
-  <strong>Indispensables</strong>  <ul>
-<li>  Pour les scénarios Active Directory à forêts multiples, si Lync 2010, Lync 2013 ou Skype entreprise est déployé, il doit être déployé dans la même forêt Active Directory qu’Exchange.  </li>
-<li>  Lors de l’implémentation de plusieurs forêts Active Directory avec plusieurs organisations Exchange dans une configuration multi-hybride Exchange, les espaces de noms UPN (nom d’utilisateur principal) partagés entre les forêts sources ne sont pas pris en charge. Les espaces de noms SMTP principaux entre les organisations Exchange doivent également être séparés. Pour plus d'informations, voir <a href="https://go.microsoft.com/fwlink/?linkid=845444">Déploiements hybrides à forêts Active Directory multiples</a>.  </li>
-<li>  Pour toutes les configurations à forêts multiples, le déploiement des services ADFS (Active Directory Federation Services) est hors de portée. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide à ce propos.  </li>
+  <strong>Important</strong>  <ul>
+<li>  Pour les scénarios Active Directory à forêts multiples, si Lync 2010, Lync 2013 ou Skype Entreprise est déployé, il doit être déployé dans la même forêt Active Directory qu’Exchange.  </li>
+<li>  Lorsque vous implémentez plusieurs forêts Active Directory avec plusieurs organisations Exchange dans une configuration Exchange multi-hybride, les espaces de noms d’utilisateur principal (UPN) partagés entre les forêts sources ne sont pas pris en charge. Les espaces de noms SMTP principaux entre les organisations Exchange doivent également être séparés. Pour plus d'informations, voir <a href="https://go.microsoft.com/fwlink/?linkid=845444">Déploiements hybrides à forêts Active Directory multiples</a>.  </li>
+<li>  Pour toutes les configurations à forêts multiples, le déploiement des services AD FS (Active Directory Federation Services) est hors de portée. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide à ce sujet.  </li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft 365 Apps</strong></td>
-<td>  Nous fournissons des conseils de déploiement à distance pour :
+<td>  Nous fournissons des conseils de déploiement à distance pour :
 <ul>
 <li>  Résolution des problèmes de déploiement.  </li>
 <li>  Attribution des licences utilisateur final et basées sur l’appareil à l’aide du Centre d’administration Microsoft 365 et de Windows PowerShell.  </li>
@@ -99,20 +99,20 @@ Nous fournissons des conseils à distance pour :
 <li>  Sélection et configuration d’une installation locale ou dans le cloud.  </li>
 <li>  Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.  </li>
 <li>  Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.  
-  En outre, si vous avez une macro ou un complément qui fonctionnait avec des versions antérieures d’Office et que vous rencontrez des problèmes de compatibilité, nous fournissons des conseils pour corriger le problème de compatibilité sans frais supplémentaires via le programme de garantie de l’application. Pour plus d’informations, consultez la section <strong>vérifier l’application</strong> de <a href="#windows-10">Windows 10</a> . </li>
+  En outre, si vous avez une macro ou un complément qui fonctionnait avec des versions antérieures d’Office et que vous avez des problèmes de compatibilité, nous fournissons des conseils pour résoudre le problème de compatibilité sans frais supplémentaires par le biais du programme Soutien aux applications. Pour plus <strong>d’informations,</strong> voir la partie Assure des applications de <a href="#windows-10">Windows 10.</a> </li>
 </ul></td>
 <td><ul>
-<li>  Le logiciel client en ligne doit être à un niveau minimal, comme défini dans la <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Configuration système requise pour Microsoft 365 et Office</a>.  </li>
+<li>  Les logiciels clients en ligne doivent être au niveau minimal défini dans la version système requise pour <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 et Office.</a>  </li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><strong>Intégrité du réseau</strong></td>
-<td>  Nous fournissons des conseils à distance pour l’obtention et l’interprétation des données clés de connectivité réseau de votre environnement, qui illustrent l’alignement des sites de votre organisation sur les <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">principes de la connectivité réseau de</a>Microsoft. Cela met en évidence votre score réseau qui influe directement sur la rapidité de migration, l’expérience utilisateur, les performances de service et la fiabilité.  
-  Nous vous proposons également des étapes de correction mises en évidence par ces données pour vous aider à améliorer votre score réseau.  </td>
+<td><strong>État du réseau</strong></td>
+<td>  Nous fournissons des conseils à distance pour obtenir et interpréter les données de connectivité réseau clés de votre environnement, montrant comment les sites de votre organisation sont <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">alignés</a>sur les principes de connectivité réseau de Microsoft. Cela met en évidence votre score réseau qui a un impact direct sur la vitesse de migration, l’expérience utilisateur, les performances du service et la fiabilité.  
+  Nous vous guidons également à travers les étapes de correction mises en évidence par ces données pour vous aider à améliorer votre score réseau.  </td>
 <td><ul>
-<li>  Accès au centre d’administration Microsoft 365.  </li>
-<li>  Des versions à jour des applications Microsoft 365 sont requises.  </li>
-<li>  Services d’emplacement activés en fonction <a href="https://docs.microsoft.com/Office365/Enterprise/office-365-network-mac-perf-overview">des recommandations en matière de performances réseau dans le centre d’administration Microsoft 365 (version préliminaire)</a>.  </li>
+<li>  Accès au Centre d’administration Microsoft 365.  </li>
+<li>  Les versions à jour des applications Microsoft 365 sont requises.  </li>
+<li>  Services de localisation activés en tant que recommandations de performances réseau dans le Centre d’administration <a href="https://docs.microsoft.com/Office365/Enterprise/office-365-network-mac-perf-overview">Microsoft 365 (prévisualisation).</a>  </li>
 </ul>
 <h3 id="section"></h3></td>
 </tr>
@@ -125,95 +125,95 @@ Nous fournissons des conseils à distance pour :
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Détails de l’aide FastTrack</strong></th>
-<th><strong>Attentes en matière d’environnement source</strong></th>
+<th><strong>Détails des conseils FastTrack</strong></th>
+<th><strong>Attentes de l’environnement source</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd"> 
 
 <td><strong>Azure Active Directory (Azure AD) et Azure AD Premium</strong></td>
-<td>  Nous fournissons des conseils à distance pour sécuriser vos identités Cloud dans les scénarios suivants.  
+<td>  Nous fournissons des conseils à distance pour la sécurisation de vos identités cloud pour les scénarios suivants.  
 
  <br/>
 
 <strong>Infrastructure de base sécurisée</strong>  </ul>
 <ul>
-<li>  La configuration et l’activation de l’authentification forte pour vos identités, notamment la protection avec Azure Multi-Factor Authentication (Multi-Factor Authentication) (Cloud uniquement), l’application Microsoft Authenticator et l’inscription combinée pour Azure MFA et l’self-service Password Reset (SSPR).  </li>
-<li>  Pour les clients autres que Azure AD Premium, des conseils sont fournis pour sécuriser vos identités à l’aide des paramètres de sécurité par défaut.  </li>
-<li>  Pour les clients Azure AD Premium, des conseils sont fournis pour sécuriser vos identités avec un accès conditionnel.  </li>
-<li>  Détection et blocage de l’utilisation de mots de passe faibles avec la protection par mot de passe Azure AD.  </li>
-<li>  Sécurisation de l’accès à distance aux applications Web locales avec le proxy d’application Azure AD.  </li>
-<li>  Activation de la détection et de la correction basées sur les risques avec Azure identity protection.  </li>
-<li>  L’activation d’un écran de connexion personnalisé, y compris le logo, le texte et les images avec personnalisation.  </li>
+<li>  La configuration et l’activation d’une authentification forte pour vos identités, notamment la protection avec Azure Multi-Factor Authentication (MFA) (cloud uniquement), l’application Microsoft Authenticator et l’inscription combinée pour Azure MFA et la réinitialisation de mot de passe libre-service (SSPR).  </li>
+<li>  Pour les clients autres qu’Azure AD Premium, des conseils sont fournis pour sécuriser vos identités à l’aide des paramètres de sécurité par défaut.  </li>
+<li>  Pour les clients Azure AD Premium, des conseils sont fournis pour sécuriser vos identités avec l’accès conditionnel.  </li>
+<li>  Détection et blocage de l’utilisation de mots de passe faibles avec Azure AD Password Protection.  </li>
+<li>  Sécurisation de l’accès à distance aux applications web sur site avec le proxy d’application Azure AD.  </li>
+<li>  Activation de la détection et de la correction basées sur les risques avec Azure Identity Protection.  </li>
+<li>  Activation d’un écran de personnalisation, y compris le logo, le texte et les images avec une personnalisation.  </li>
 <li>  Partage sécurisé d’applications et de services avec des utilisateurs invités à l’aide d’Azure AD B2B.  </li>
-<li>  Gestion de l’accès pour vos administrateurs Office 365 à l’aide de rôles administratifs intégrés au contrôle d’accès basé sur un rôle (RBAC) et pour réduire le nombre de comptes d’administrateurs privilégiés.  </li>
-<li>  Configuration de la jointure Azure AD hybride.  </li>
-<li>  Configuration de la participation à Azure AD.  </li>
+<li>  Gestion de l’accès pour vos administrateurs Office 365 à l’aide des rôles d’administration intégrés au contrôle d’accès basé sur un rôle (RBAC) et pour réduire le nombre de comptes d’administrateur privilégiés.  </li>
+<li>  Configuration de la jointation Azure AD hybride.  </li>
+<li>  Configuration de la jointation Azure AD.  </li>
 </ul>
   
-<strong>Surveillance et création de rapports</strong>  
+<strong>Surveiller et signaler</strong>  
 <ul>
 <li>  
-  Activation de la surveillance à distance pour AD FS, Azure AD Connect et des contrôleurs de domaine avec Azure AD Connect Health.  
+  Activation de la surveillance à distance pour les services AD FS, Azure AD Connect et les contrôleurs de domaine avec Azure AD Connect Health.  
   </li>
 </ul>
   
-<strong>Govern</strong>  
+<strong>Gouvernance</strong>  
 <ul>
 <li>  
-  Gestion du cycle de vie de votre identité Azure AD et de son accès à l’aide de la gestion des droits Azure AD.
+  Gestion de votre cycle de vie d’accès et d’identité Azure AD à grande échelle avec la gestion des droits Azure AD.
   </li>
 <li>  
-  Gestion des appartenances aux groupes Azure AD, de l’accès aux applications d’entreprise et des attributions de rôles avec les révisions Azure AD Access.  
+  Gestion des appartenances aux groupes Azure AD, de l’accès aux applications d’entreprise et des attributions de rôles avec les révisions d’accès Azure AD.  
   </li>
 <li>  
-  Consulter les conditions d’utilisation d’Azure AD.  
+  Examen des conditions d’utilisation d’Azure AD.  
   </li>
 <li>  
-  Gestion et contrôle de l’accès aux comptes d’administrateur privilégié grâce à Azure AD Privileged Identity Management.  
+  Gestion et contrôle de l’accès aux comptes d’administrateur privilégiés avec Azure AD Privileged Identity Management.  
   </li>
 </ul>
   
 <strong>Automatisation et efficacité </strong>  
 <ul>
 <li>  
-  Activation du SSPR Azure AD.  
+  Activation d’Azure AD SSPR.  
   </li>
-<li>  Permettre aux utilisateurs de créer et de gérer leurs propres groupes de sécurité Cloud ou Office 365 avec la gestion des groupes libre-service Azure AD.  </li>
+<li>  Permettre aux utilisateurs de créer et de gérer leur propre sécurité cloud ou groupes Office 365 avec la gestion de groupes libre-service Azure AD.  </li>
 <li>  Gestion de l’accès délégué aux applications d’entreprise avec la gestion des groupes délégués Azure AD.  </li>
 <li>  Activation des groupes dynamiques Azure AD.  </li>
-<li>  Organisation des applications dans le portail mes applications à l’aide de collections.  </li>
+<li>  Organisation des applications dans le portail Mes applications à l’aide de collections.  </li>
 </ul></td>
-<td>Active Directory sur site et son environnement ont été préparés pour Azure AD Premium, y compris la correction des problèmes identifiés qui empêchent l’intégration à Azure AD et les fonctionnalités Azure AD Premium.</td>
+<td>Active Directory local et son environnement ont été préparés pour Azure AD Premium, y compris la correction des problèmes identifiés qui empêchent l’intégration avec Azure AD et les fonctionnalités Azure AD Premium.</td>
 </tr>
 <tr class="odd">
-<td><strong>Azure information protection </strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td><strong>Azure Information Protection </strong></td>
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Activation et configuration de votre client.  </li>
 <li>  Création et configuration d’étiquettes et de stratégies.  </li>
 <li>  Application de la protection des informations aux documents.  </li>
 <li>  Classifier et étiqueter automatiquement des informations dans les applications Office (telles que Word, PowerPoint, Excel et Outlook) exécutées sur Windows et utilisant le client Azure information protection.  </li>
-<li>  Découverte et étiquetage des fichiers au repos à l’aide du scanneur Azure information protection.  </li>
+<li>  Découverte et étiquetage de fichiers au repos à l’aide du scanneur Azure Information Protection.  </li>
 <li>  Surveillance des courriers électroniques en transit à l’aide de règles de flux de messagerie Exchange Online.  </li>
 </ul>
-Nous fournissons également des conseils pour appliquer la protection à l’aide des services Microsoft Azure Rights Management (Azure RMS), du chiffrement de messages Office 365 (OME) et de la protection contre la perte de données (DLP).  </td>
-<td>  Les responsabilités du client sont les suivantes :
+Nous fournissons également des conseils si vous souhaitez appliquer une protection à l’aide de Microsoft Azure Rights Management Services (Azure RMS), du chiffrement de messages Office 365 (OME) et de la protection contre la perte de données (DLP).  </td>
+<td>  Les responsabilités préalables du client sont les suivantes :
 <ul>
-<li>  Liste des emplacements de partage de fichiers à analyser.  </li>
-<li>  Une taxonomie de classification approuvée. </li>
-<li> Compréhension des restrictions réglementaires ou des exigences en matière de gestion des clés.  </li>
+<li>  Liste des emplacements de partage de fichiers à scanner.  </li>
+<li>  Taxonomie de classification approuvée. </li>
+<li> Comprendre les restrictions ou exigences réglementaires relatives à la gestion des clés.  </li>
 <li>  Un compte de service créé pour votre annuaire Active Directory local qui a été synchronisé avec Azure AD. </li>
 <li>  Étiquettes configurées pour la classification et la protection. </li>
-<li> Tous les éléments prérequis pour le scanneur Azure information protection sont en place. Pour plus d’informations, reportez-vous à <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">la rubrique conditions préalables pour l’installation et le déploiement du scanneur d’étiquetage unifié Azure information protection</a>. </li>
-<li>  Vérifiez que les appareils utilisateur exécutent un système d’exploitation pris en charge et que les conditions préalables nécessaires sont installées. Pour plus d’informations, consultez les rubriques suivantes.</li>
+<li> Toutes les conditions préalables pour le scanneur Azure Information Protection sont en place. Pour plus d’informations, voir <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Conditions préalables à l’installation</a>et au déploiement du scanneur d’étiquetage unifié Azure Information Protection. </li>
+<li>  Assurez-vous que les appareils utilisateur exécutent un système d’exploitation pris en charge et que les conditions préalables nécessaires sont installées. Pour plus d’informations, voir les informations suivantes.</li>
 <ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guide d’administration : installer le client d’étiquetage unifié Azure information protection pour les utilisateurs</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Qu’est-ce que l’application Azure information protection pour iOS ou Android ?</a>  </li>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guide d’administration : Installer le client d’étiquetage unifié Azure Information Protection pour les utilisateurs</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Qu’est-ce que l’application Azure Information Protection pour iOS ou Android ?</a>  </li>
 </ul>
-<li> L’installation et la configuration du connecteur et des serveurs Azure RMS, y compris le connecteur AD RMS (Active Directory RMS) pour la prise en charge hybride.  </li>
-<li> Programme d’installation et configuration de la préversion (BYOK), du chiffrement à clé double (DKE) (client d’étiquetage unifié uniquement) ou de votre propre clé (HYOK) (client classique uniquement) si vous avez besoin de l’une de ces options pour votre déploiement.  </li>
+<li> Installation et configuration du connecteur et des serveurs Azure RMS, y compris le connecteur AD RMS (Active Directory RMS) pour la prise en charge hybride.  </li>
+<li> Si vous avez besoin de l’une de ces options pour votre déploiement, vous devez installer et configurer Bring Your Own Key (BYOK), DKE (Double Key Encryption) (client d’étiquetage unifié uniquement) ou Hold Your Own Key (HYOK) (client classique uniquement).  </li>
   </ul>
 </ul>
   
@@ -223,74 +223,74 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
 <tr class="even">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender est une suite de défense d’entreprise pré-et post-violation de manière native qui coordonne la détection, la prévention, l’enquête et la réponse au-delà des points de terminaison, des identités, de la messagerie et des applications pour fournir une protection intégrée contre les attaques sophistiquées. Nous fournissons des conseils à distance pour : </p> 
+<td> <p> Microsoft 365 Defender est une suite unifiée de défense d’entreprise avant et après la violation qui coordonne en natif la détection, la prévention, l’examen et la réponse entre les points de terminaison, les identités, le courrier électronique et les applications afin de fournir une protection intégrée contre les attaques sophistiquées. Nous fournissons des conseils à distance pour : </p> 
 <ul>
-<li>  Présentation du centre de sécurité Microsoft 365.  </li>
-<li>  Examen des incidents de produits, notamment le focus sur ce qui est essentiel en s’assurant de l’étendue d’attaque complète, des ressources affectées et des actions de correction automatisées qui sont regroupées.  </li>
-<li>  Démonstration de la façon dont Microsoft 365 Defender peut orchestrer l’enquête des biens, des utilisateurs, des appareils et des boîtes aux lettres susceptibles d’être compromis par le biais d’une auto-réparation automatique. </li>
-<li>  Explication et présentation de la façon dont les clients peuvent rechercher de façon proactive les tentatives d’intrusion et les activités de violation affectant vos courriers électroniques, données, périphériques et comptes à travers plusieurs ensembles de données.   </li>
-<li> Montrer aux clients comment ils peuvent consulter et améliorer leur position de sécurité de manière holistique à l’aide de Microsoft Secure score.</li>
+<li>  Présentation du Centre de sécurité Microsoft 365.  </li>
+<li>  Passer en revue les incidents entre produits, notamment en vous concentrant sur les éléments critiques en garantissant l’étendue complète de l’attaque, les ressources impactées et les actions de correction automatisées regroupées.  </li>
+<li>  Démonstration de la façon dont Microsoft 365 Defender peut orchestrer l’examen des biens, des utilisateurs, des appareils et des boîtes aux lettres qui ont pu être compromis par le biais d’une auto-ressource automatisée. </li>
+<li>  Explication et fourniture d’exemples de la façon dont les clients peuvent chercher de manière proactive les tentatives d’intrusion et l’activité de violation affectant vos e-mails, données, appareils et comptes dans plusieurs ensembles de données.   </li>
+<li> Montrer aux clients comment ils peuvent examiner et améliorer leur posture de sécurité globalement à l’aide du Niveau de sécurité Microsoft.</li>
 </ul>
-<p><strong>Les éléments suivants sont hors de portée</strong></p>
+<p><strong>Ce qui suit est hors de portée</strong></p>
 <ul>
 <li> Gestion de projet des activités de correction du client. </li>
 <li> Gestion continue, réponse aux menaces et correction. </li>
-<li> Conseils de déploiement ou éducation sur :
+<li> Instructions de déploiement ou formation sur :
 <ul>
-<li> Comment corriger ou interpréter les différents types d’alerte et activités surveillées. </li>
-<li> Comment examiner un utilisateur, un ordinateur, un chemin de déplacement latéral ou une entité. </li>
-<li> Personnalisation des menaces personnalisées.  </li>
+<li> Comment corriger ou interpréter les différents types d’alertes et activités surveillées. </li>
+<li> Comment examiner un utilisateur, un ordinateur, un chemin de mouvement latéral ou une entité. </li>
+<li> Recherche de menace personnalisée.  </li>
 </ul>
 </li>
-<li> Gestion des événements et des informations de sécurité (SIEM) ou intégration des API.</li>
+<li> Informations sur la sécurité et gestion des événements (SIEM) ou intégration d’API.</li>
 </td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft Cloud App Security</strong></td>
-<td>  La sécurité des applications Cloud Microsoft est un courtier de sécurité d’accès au Cloud (CASB) qui offre une visibilité riche, un contrôle des déplacements de données et des analyses sophistiquées pour identifier et combattre les menaces informatiques dans tous vos services Cloud Microsoft et tiers. Nous fournissons des conseils à distance pour :
+<td>  Microsoft Cloud App Security est un service Broker de sécurité d’accès au cloud (CASB) qui offre une visibilité enrichie, un contrôle sur les déplacements de données et des analyses sophistiquées pour identifier et lutter contre les cybermenaces dans tous vos services cloud Microsoft et tiers. Nous fournissons des conseils à distance pour :
 <ul>
-<li>  La configuration du portail, notamment :  </li>
+<li>  Configuration du portail, notamment :  </li>
 <ul>
 <li> Importation de groupes d’utilisateurs.</li>
-<li> Gestion de l’accès et des paramètres d’administration.  </li>
-<li> La portée de votre déploiement pour sélectionner certains groupes d’utilisateurs à surveiller ou à exclure de l’analyse.</li>
-<li> Définition des plages et des balises IP.</li>
-<li> Personnalisation de l’expérience de l’utilisateur final avec votre logo et la messagerie personnalisée.</li>
+<li> Gestion de l’accès et des paramètres de l’administrateur.  </li>
+<li> La portée de votre déploiement pour sélectionner certains groupes d’utilisateurs à surveiller ou exclure de la surveillance.</li>
+<li> Définition de plages IP et de balises.</li>
+<li> Personnalisation de l’expérience utilisateur final avec votre logo et votre messagerie personnalisée.</li>
 </ul>
-<li> Configuration de la découverte du Cloud pour l’occulter à l’aide de :</li>
+<li> Configuration de la découverte cloud pour fournir des services informatiques de l’ombre à l’aide des :</li>
 <ul>
 <li> Microsoft Defender pour les points de terminaison.</li>
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Connexion d' <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">applications proposées</a> à l’aide de connecteurs d’application.</li>
-<li> Configuration d’un contrôle d’application d’accès conditionnel dans les portails de sécurité d’accès conditionnel et de Cloud App pour appliquer des contrôles de session en temps réel.</li>
-<li> Déploiement des tableaux de bord de découverte de Cloud et de sécurité des applications Cloud.</li>
-<li> Personnalisation des scores des risques de l’application en fonction des priorités de votre organisation.</li>
+<li> Connexion <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">d’applications fonctionnalités à l’aide</a> de connecteurs d’application.</li>
+<li> Configuration du contrôle d’application d’accès conditionnel dans les portails Accès conditionnel et Sécurité des applications cloud pour appliquer des contrôles de session en temps réel.</li>
+<li> Déploiement des tableaux de bord Cloud App Security et Cloud Discovery.</li>
+<li> Personnalisation des scores de risque d’application en fonction des priorités de votre organisation.</li>
 <li> Création de balises et de catégories d’application.</li>
-<li> Les applications de sanction et de déssanctionne.</li>
-<li> À l’aide des journaux des activités et des fichiers.</li>
+<li> Application de sanctions et d’inséance.</li>
+<li> Utilisation des journaux d’activité et de fichiers.</li>
 <li> Gestion des applications OAuth.</li>
-<li> Présentation de la corrélation des incidents dans le portail Microsoft 365 Defender.</li>
-<li> Fournir une assistance de configuration avec les <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20 premiers cas d’utilisation pour CASBs</a> (y compris la création ou la mise à jour de six stratégies au maximum), sauf : </li>
+<li> Comprendre la corrélation des incidents dans le portail Microsoft 365 Defender.</li>
+<li> Fourniture d’une assistance à la configuration avec les 20 principaux cas d’utilisation pour les cas de base de données d’accès au détail (y compris la création ou la mise à jour de six (6) <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">stratégies),</a> sauf : </li>
 <ul>
-<li> Audit de la configuration de vos environnements IaaS (Internet as a service) (#18).</li>
+<li> Audit de la configuration de vos environnements Internet en tant que service (IaaS) (#18).</li>
 <li> Surveillance des activités des utilisateurs pour se protéger contre les menaces dans vos environnements IaaS (#19).</li>
 </ul>
 </ul>
-<p><strong>Les éléments suivants sont hors de portée</strong></p>
+<p><strong>Ce qui suit est hors de portée</strong></p>
 <ul>
 <li> Gestion de projet des activités de correction du client.</li>
 <li> Gestion continue, réponse aux menaces et correction. </li>
-<li> La configuration de l’infrastructure, de l’installation ou du déploiement des téléchargements automatiques de journaux pour les rapports continus à l’aide de l’docker ou d’un collecteur de journal. Pour plus d’informations, voir les <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20 premiers cas d’utilisation pour CASBs</a> .</li>
-<li> Création d’un rapport de capture instantanée de découverte dans le Cloud.</li>
-<li> Blocage de l’utilisation des applications à l’aide de scripts de blocage.</li>
+<li> Configuration de l’infrastructure, de l’installation ou du déploiement des téléchargements automatiques de journaux pour les rapports continus à l’aide de Docker ou d’un collecteur de journaux. Pour <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">plus d’informations, consultez les 20 principaux cas d’utilisation</a> des cas d’analyse de cas d’analyse de cas.</li>
+<li> Création d’un rapport instantané de découverte cloud.</li>
+<li> Blocage de l’utilisation de l’application à l’aide de scripts de blocage.</li>
 <li> Connexion d’applications personnalisées.</li>
-<li> Intégration aux fournisseurs d’identité tiers (FAI) et aux fournisseurs de protection contre la perte de données (DLP).</li>
+<li> Intégration avec des fournisseurs d’identité tiers (ISP) et des fournisseurs de protection contre la perte de données (DLP).</li>
 <li> Formation ou conseils pour le repérage avancé.</li>
-<li> L’analyse et la correction automatisées, y compris les règles de Microsoft Power Automated Power.</li>
-<li> Gestion des événements et des informations de sécurité (SIEM) ou intégration des API (y compris Azure sentinelle).</li>
-<li> Déploiement de la découverte d’applications Cloud comme preuve de concept.</li>
+<li> Examen et correction automatisés, y compris les manuels Microsoft Power Automate.</li>
+<li> Informations sur la sécurité et gestion des événements (SIEM) ou intégration d’API (y compris Azure Sentinel).</li>
+<li> Déploiement de la découverte d’applications cloud comme preuve de concept.</li>
 </ul></td>
 </tr>
 
@@ -299,15 +299,15 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
 <tr class="even">
 <td><strong>Microsoft Defender – Protection avancée contre les menaces (ATP)</strong></td>
 <td>  Microsoft Defender – Protection avancée contre les menaces est une plateforme conçue pour aider les réseaux d’entreprise à prévenir, détecter et examiner les menaces avancées et à y répondre.  
-  Nous fournissons des conseils à distance pour :
+  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Déploiement des technologies pour sécuriser vos points de terminaison.  </li>
-<li>  Configuration de la protection des points de terminaison et des profils de restriction d’appareil.  </li>
-<li>  Évaluation de la version du système d’exploitation et de la gestion des périphériques (notamment Intune, le gestionnaire de configuration du point de terminaison Microsoft, les objets de stratégie de groupe (GPO) et les configurations tierces), ainsi que l’état de vos services AV Windows Defender ou d’autres logiciels de sécurité de point de terminaison.  </li>
-<li>  Évaluation de l’état de vos services AV Windows ou d’un autre logiciel de sécurité de point de terminaison.  </li>
-<li>  Évaluation des proxys et des pare-feu pour limiter le trafic réseau.  </li>
-<li>  Activation du service ATP Microsoft Defender en expliquant comment déployer un profil d’agent ATP à l’aide d’un point de terminaison intégré.  </li>
-<li>  Conseils de déploiement, assistance de configuration et formation sur :
+<li>  Configuration des profils de protection des points de terminaison et de restriction d’appareil.  </li>
+<li>  Évaluation de la version du système d’exploitation et de la gestion des appareils (notamment Intune, Microsoft Endpoint Configuration Manager, objets de stratégie de groupe et configurations tierces), ainsi que l’état de vos services antivirus Windows Defender ou d’autres logiciels de sécurité de point de terminaison.  </li>
+<li>  Évaluation de l’état de vos services Antivirus Windows ou d’autres logiciels de sécurité de point de terminaison.  </li>
+<li>  Évaluation des proxies et des pare-feu limitant le trafic réseau.  </li>
+<li>  Activation du service Microsoft Defender ATP en expliquant comment déployer un profil d’agent ATP à l’aide d’un point de terminaison intégré.  </li>
+<li>  Conseils de déploiement, assistance à la configuration et formation sur :
 <ul>
 <li>  
   La gestion des menaces et des vulnérabilités.  
@@ -328,11 +328,11 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
   Le niveau de sécurité.  
   </li>
 </ul></li>
-<li>  Examen des simulations et des didacticiels (par exemple, scénarios de pratique, faux programme malveillant et enquêtes automatisées).  </li>
+<li>  Examen des simulations et didacticiels (tels que les scénarios pratiques, les programmes malveillants factices et les enquêtes automatisées).  </li>
 <li>  Vue d’ensemble des fonctionnalités de compte-rendu et d’analyse des menaces.  </li>
 <li>  L’intégration d’Office 365 – Protection avancée contre les menaces avec Microsoft Defender – Protection avancée contre les menaces.  </li>
 <li>  Effectuer des procédures pas à pas dans le portail du Centre de sécurité Microsoft Defender.  </li>
-<li>  Les systèmes d’exploitation suivants :
+<li>  Les systèmes d’exploitation suivants :
 <ul>
 <li>  
   Windows 10.  
@@ -350,17 +350,17 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
   Windows Server Semi-Annual Channel (SAC) version 1803.  
   </li>
 <li>  
-  macOS versions 10,13, 10,14 et 10,15.  
+  macOS versions 10.13, 10.14 et 10.15.  
   </li>
 </ul>
 </li>
 </ul>
-<strong>Remarque :</strong> Toutes les versions de Windows Server doivent être gérées par la dernière version de System Center Configuration Manager 2012 (versions 1012 R2, 1511 ou 1602) ou le gestionnaire de configuration du point de terminaison de Microsoft (version 2002 ou ultérieure). 
+<strong>Remarque :</strong> Toutes les versions de Windows Server doivent être gérées par la dernière version de System Center Configuration Manager 2012 (versions 1012 R2, 1511 ou 1602) ou Microsoft Endpoint Configuration Manager (version 2002 ou ultérieure). 
 
 </li>
 </ul>
 
-<strong>Les éléments suivants sont hors de portée </strong>  
+<strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li>  Gestion de projet des activités de correction du client.  </li>
 <li>  Support sur site.  </li>
@@ -380,31 +380,31 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
   Appareils mobiles (Android et iOS).  
   </li>
 </ul></li>
-<li>  Intégration et configuration du serveur :
+<li>  Intégration et configuration du serveur :
 <ul>
 <li>  
-  Configuration d’un serveur proxy pour les communications hors ligne.  
+  Configuration d’un serveur proxy pour les communications hors connexion.  
   </li>
 <li>  
-  Configuration des packages de déploiement de Configuration Manager sur les instances et versions de gestionnaire de configuration de bas niveau.  
+  Configuration des packages de déploiement Configuration Manager sur les instances et versions de Configuration Manager de bas niveau.  
   </li>
 <li>  
-  Intégration de serveurs à Azure Security Center.  
+  Intégration de serveurs au Centre de sécurité Azure.  
   </li>
 <li>  
-  Serveurs non gérés par le gestionnaire de configuration.  
+  Serveurs non gérés par Configuration Manager.  
   </li>
 </ul></li>
-<li>  intégration et configuration d’macOS :
+<li>  Intégration et configuration macOS :
 <ul>
 <li>  
-  Déploiement basé sur Intune manuel.  
+  Déploiement intune manuel.  
   </li>
 <li>  
   Déploiement basé sur JAMF.
   </li>
 <li>  
-  Autre déploiement basé sur des produits MDM (Mobile Device Management).  
+  Autres déploiements basés sur des produits de gestion des périphériques mobiles (MDM).  
   </li>
 <li>  
   Déploiement manuel.  
@@ -426,93 +426,93 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
   </li>
 </ul></li>
 <li>  Inscription ou configuration des Spécialistes des menaces Microsoft.  </li>
-<li>  La configuration ou la formation, l’API de révision ou les connexions de gestion des événements et des informations de sécurité (SIEM).  </li>
+<li>  Révision de la configuration ou de la formation sur les API ou les connexions de gestion des événements et des informations de sécurité (SIEM).  </li>
 <li>  Inscription ou configuration de la Protection Microsoft contre les menaces (MTP).  </li>
 <li>  Formation ou conseils pour le repérage avancé.  </li>
 <li>  Formation ou recommandations couvrant l’utilisation ou la création de requêtes Kusto.</li>
 </li>
 </ul>
-Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide sur ces services.  
+Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide sur ces services.  
 </ul></td>
 <td></td>
 
 <tr class="odd">
 <td><strong>Microsoft Defender pour l’identité </strong></td>
-<td>  Microsoft Defender pour Identity est une solution de sécurité basée sur le cloud qui exploite vos signaux Active Directory sur site pour identifier, détecter et examiner les menaces avancées, les identités compromises et les actions des utilisateurs malveillants ciblant votre organisation. Nous fournissons des conseils à distance pour :
+<td>  Microsoft Defender pour Identity est une solution de sécurité basée sur le cloud qui exploite vos signaux Active Directory sur site pour identifier, détecter et examiner les menaces avancées, les identités compromises et les actions des utilisateurs malveillants ciblant votre organisation. Nous fournissons des conseils à distance pour :
 <ul>
-<li>   Création de votre instance de Defender pour l’identité. </li>
+<li>   Création de votre instance de Defender for Identity. </li>
 <li>   Connexion de Defender pour l’identité à Active Directory. </li>
-<li>   Évaluation de la préparation de votre environnement pour déployer le capteur de protection contre les identités sur vos contrôleurs de domaine, notamment :</li>   
+<li>   Évaluation de la préparation de votre environnement pour déployer le capteur Defender for Identity sur vos contrôleurs de domaine, notamment :</li>   
 <ul> 
-<li>  Exécution de l’outil de dimensionnement pour la planification de la capacité des ressources. </li>
+<li>  Exécution de l’outil de taille pour la planification de la capacité des ressources. </li>
 <li>  Exécution de l’outil d’audit pour évaluer la compatibilité de vos contrôleurs de domaine avec le capteur. </li>
 </ul>
-<li>  Déploiement du capteur pour capturer et analyser le trafic réseau et les événements Windows directement à partir de vos contrôleurs de domaine, notamment : </li>
+<li>  Déploiement du capteur pour capturer et parer le trafic réseau et les événements Windows directement à partir de vos contrôleurs de domaine, notamment : </li>
 <ul> 
 <li>  Téléchargement du package de capteur. </li>
 <li>  Configuration du capteur. </li>
-<li>  Installation du capteur sur votre contrôleur de domaine en mode silencieux. </li>
-<li>  Déploiement du capteur dans votre environnement multiforêt. </li>
+<li>  Installation silencieuse du capteur sur votre contrôleur de domaine. </li>
+<li>  Déploiement du capteur dans votre environnement à forêts multiples. </li>
 </ul>
-<li>  L’intégration de Defender for Identity with Microsoft Cloud App Security (gestion des licences de la sécurité des applications Cloud n’est pas requise). </li>
-<li>  Fournir des conseils de déploiement, une assistance de configuration et des formations sur : </li>
+<li>  Intégration de Defender for Identity à Microsoft Cloud App Security (la gestion des licences Cloud App Security n’est pas requise). </li>
+<li>  Fourniture d’instructions de déploiement, d’assistance à la configuration et de formation sur : </li>
 <ul>
-<li> Réglage de l’environnement pour réduire le « bruit ».  </li>
-<li>  Comprendre le rapport d’évaluation de la sécurité de l’identité. </li>
-<li>  Comprendre le score de priorité de l’enquête utilisateur et le rapport de classement de l’enquête utilisateur. </li>
-<li> Présentation du rapport des utilisateurs inactifs.  </li>
+<li> Réglage de l’environnement pour réduire le « bruit ».  </li>
+<li>  Comprendre le rapport d’évaluation de la sécurité des identités. </li>
+<li>  Comprendre le score de priorité d’examen de l’utilisateur et le rapport de classement de l’examen utilisateur. </li>
+<li> Comprendre le rapport de l’utilisateur inactif.  </li>
 <li> Fourniture d’options de correction sur un compte compromis.  </li>
 </ul>
-<li>  Facilitation de la migration de Advanced Threat Analytics (ATA) vers Defender for Identity. </li>
+<li>  Faciliter la migration de Advanced Threat Analytics (ATA) vers Defender for Identity. </li>
 </ul>
-<p><strong>Les éléments suivants sont hors de portée</strong></p>
+<p><strong>Ce qui suit est hors de portée</strong></p>
 <ul>
 
 <li> Gestion de projet des activités de correction du client. </li>
 <li> Gestion continue, réponse aux menaces et correction.  </li>
-<li> Déploiement de l’Defender pour le capteur d’identité, notamment : </li>
+<li> Déploiement du capteur Defender pour l’identité, notamment : </li>
 <ul>
-<li> Planification de capacité manuelle. </li>
+<li> Planification manuelle de la capacité. </li>
 <li> Déploiement du capteur dans une capacité autonome. </li>
-<li> Déploiement du capteur à l’aide d’une carte d’interface réseau (NIC). </li>
+<li> Déploiement du capteur à l’aide d’un adaptateur d’équipe carte d’interface réseau (NIC). </li>
 <li> Déploiement du capteur via un outil tiers. </li>
-<li> Connexion à l’Defender pour Identity service Cloud via une connexion proxy Web. </li>
+<li> Connexion au service cloud Defender for Identity via une connexion proxy web. </li>
 </ul>
-<li> La création et la gestion de honeytokens. </li>
-<li> Conseils de déploiement ou éducation sur : </li>
+<li> Création et gestion de honeytokens. </li>
+<li> Instructions de déploiement ou formation sur : </li>
 <ul>
-<li> Correction ou interprétation des différents types d’alerte et activités contrôlées.  </li>
-<li> Examen d’un utilisateur, d’un ordinateur, d’un chemin de déplacement latéral ou d’une entité. </li>
-<li> La chasse aux menaces ou aux fonctionnalités avancées. </li>
+<li> Correction ou interprétation de différents types d’alertes et activités surveillées.  </li>
+<li> Recherche d’un utilisateur, d’un ordinateur, d’un chemin de mouvement latéral ou d’une entité. </li>
+<li> Menace ou recherche avancée. </li>
 <li> Réponse aux incidents. </li>
 </ul>
-<li> Fourniture d’un didacticiel de laboratoire d’alerte de sécurité pour Defender pour l’identité. </li>
-<li> Notification lorsque Defender pour Identity détecte des activités suspectes en envoyant des alertes de sécurité à votre serveur Syslog via un capteur désigné.  </li>
-<li> Configuring Defender for Identity to perform queries using Security Account Manager Remote (SAMR) Protocol pour identifier les administrateurs locaux sur des ordinateurs spécifiques. </li>
-<li> Configuration des solutions VPN pour ajouter des informations de la connexion VPN à la page de profil d’un utilisateur.  </li>
-<li> Gestion des événements et des informations de sécurité (SIEM) ou intégration des API (y compris Azure sentinelle). </li>
-<li> Déploiement de Defender pour les capteurs d’identité comme preuve de concept.</li>
+<li> Fourniture d’un didacticiel de laboratoire d’alertes de sécurité pour Defender for Identity. </li>
+<li> Envoi d’une notification lorsque Defender pour l’identité détecte des activités suspectes en envoyant des alertes de sécurité à votre serveur syslog via un capteur désigné.  </li>
+<li> Configuration de Defender for Identity pour effectuer des requêtes à l’aide du protocole SAMR (Security Account Manager remote) pour identifier les administrateurs locaux sur des ordinateurs spécifiques. </li>
+<li> Configuration de solutions VPN pour ajouter des informations à partir de la connexion VPN à la page de profil d’un utilisateur.  </li>
+<li> Informations sur la sécurité et gestion des événements (SIEM) ou intégration d’API (y compris Azure Sentinel). </li>
+<li> Déploiement des capteurs Defender for Identity comme preuve de concept.</li>
 </ul></td>
 <td><ul>
 <li>  Active Directory déployé.  </li>
-<li>  Les contrôleurs de domaine que vous avez l’intention d’installer Defender pour les capteurs d’identité disposent de la connectivité Internet à l’Defender pour l’identité du service Cloud.  </li>
+<li>  Les contrôleurs de domaine sur qui vous avez l’intention d’installer les capteurs Defender for Identity ont une connectivité Internet au service cloud de Defender for Identity.  </li>
 <ul>
-<li> Votre pare-feu et votre proxy doivent être ouverts pour communiquer avec le service Defender pour l’identité Cloud service (*. atp.azure.com le port 443 doit être ouvert).</li>
+<li> Votre pare-feu et votre proxy doivent être ouverts pour communiquer avec le service cloud Defender for Identity (*.atp.azure.com port 443 doit être ouvert).</li>
 </ul>
-<li> Contrôleurs de domaine s’exécutant sur l’un des suivants :</li>
+<li> Contrôleurs de domaine en cours d’exécution sur l’une des suivantes :</li>
 <ul>
 <li> Windows Server 2008 R2 SP1.</li>
 <li> Windows Server 2012.</li>
 <li> Windows Server 2012 R2.</li>
 <li> Windows Server 2016.</li>
-<li> Windows Server 2019 avec KB4487044 (OS Build 17763,316).</li>
+<li> Windows Server 2019 avec KB4487044 (build de système d’exploitation 17763.316).</li>
 </ul>
 </ul></td>
 </tr>
 
 <tr class="even">
 <td><strong>Gouvernance des informations Microsoft</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Étiquettes et stratégies de rétention.  </li>
 <li>  Gestion des enregistrements.  </li>
@@ -522,20 +522,20 @@ Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenair
 <li>  EDiscovery avancée.  </li>
 </ul>
 
-  <strong>Les éléments suivants sont hors de portée </strong>  
+  <strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li> Développement d’un plan de gestion des fichiers de gestion des enregistrements.</li>
 <li> Connecteurs de données.</li>
-<li> Obstacles aux informations.</li>
+<li> Obstacles à l’information.</li>
 <li> Gestion des accès privilégiés.</li>
 <li> Développement de l’architecture des informations dans SharePoint.</li>
-<li> Le codage et l’écriture de scripts personnalisés.</li>
+<li> Scripts et codage personnalisés.</li>
 </td>
-<td>Outre la partie de base de l' <strong>intégration</strong> en <a href="#general">général</a>, il n’y a pas de configuration système requise minimale.</td>
+<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="#general">général,</a>il n’existe aucune exigence minimale du système.</td>
 </tr>
 <tr class="odd">
 <td><strong>Protection des informations Microsoft</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Classification des données.  </li>
 <li>  Types d'informations sensibles.  </li>
@@ -549,30 +549,30 @@ Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenair
 <li>  Création de stratégies DLP de point de terminaison pour les appareils Windows 10.  </li>
 </ul>
 
-<strong>Les éléments suivants sont hors de portée </strong>  
+<strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li>Clé client.</li>
-<li>Le développement d’expressions régulières personnalisées (RegEx) pour les types d’informations sensibles.</li>
+<li>Développement d’expressions régulières personnalisées (RegEx) pour les types d’informations sensibles.</li>
 <li>Création ou modification de dictionnaires de mots clés.</li>
-<li>Le codage et l’écriture de scripts personnalisés.</li>
+<li>Scripts et codage personnalisés.</li>
 </ul>
-<strong>Remarque :</strong> Pour plus d’informations, reportez-vous à <strong> Azure information protection </strong> in <a href="#enterprise-mobility--security">Enterprise Mobility + Security</a>.
+<strong>Remarque :</strong> Pour plus d’informations, voir <strong>Azure Information Protection</strong> dans Enterprise Mobility + <a href="#enterprise-mobility--security">Security.</a>
 <ul>
 
 </td>
-<td>Outre la partie de base de l' <strong>intégration</strong> en <a href="#general">général</a>, il n’y a pas de configuration système requise minimale.</td>
+<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="#general">général,</a>il n’existe aucune exigence minimale du système.</td>
 </tr>
 
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Nous fournissons des conseils à distance sur la préparation de l’utilisation d’Intune en tant que fournisseur de service de gestion des appareils mobiles (MDM) et de gestion des applications mobiles (MAM) en nuage pour vos applications et appareils. Les étapes exactes dépendent de votre environnement source et sont basées sur vos besoins en matière de gestion des applications mobiles et des appareils mobiles. La procédure inclut les étapes suivantes :
+<td>  Nous fournissons des conseils à distance sur la préparation à l’utilisation d’Intune en tant que fournisseur de gestion des périphériques mobiles (MDM) et de gestion des applications mobiles (MAM) dans le cloud pour vos applications et appareils. Les étapes exactes dépendent de votre environnement source et sont basées sur vos besoins en matière de gestion des applications mobiles et des appareils mobiles. La procédure inclut les étapes suivantes :
 <ul>
 <li>  Licences pour les utilisateurs finaux.  </li>
-<li>  Configuration des identités à utiliser par Intune en tirant parti de votre annuaire Active Directory local ou des identités Cloud (Azure AD).  </li>
+<li>  Configuration des identités à utiliser par Intune en tirant parti de vos identités Active Directory locales ou cloud (Azure AD).  </li>
 <li>  Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils.  </li>
-<li>  Configuration de votre autorité MDM, en fonction de vos besoins de gestion, notamment :
+<li>  Configuration de votre autorité de gestion des projets, en fonction de vos besoins en matière de gestion, notamment :
 <ul>
 <li>  Définition d’Intune comme autorité de gestion des appareils mobiles lorsqu’ Intune est votre seule solution de gestion des appareils mobiles.  </li>
 </ul></li>
@@ -581,70 +581,68 @@ Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenair
 <li>  Configuration des groupes tests à utiliser pour valider les stratégies de la gestion des périphériques mobiles.  </li>
 <li>  Configuration des stratégies de gestion et des services de gestion du service MDM tels que :
 <ul>
-<li>  Déploiement d’applications pour chaque plateforme prise en charge par le biais de liens Web ou de liens détaillés.  </li>
+<li>  Déploiement d’application pour chaque plateforme prise en charge par le biais de liens web ou de liens profonds.  </li>
 <li>  Stratégies d’accès conditionnel.  </li>
-<li>  Le déploiement de la messagerie, des réseaux sans fil et des profils VPN si vous disposez d’une autorité de certification, d’un réseau sans fil ou d’une infrastructure VPN existante dans votre organisation.  </li>
+<li>  Déploiement de la messagerie, des réseaux sans fil et des profils VPN si vous avez une autorité de certification, un réseau sans fil ou une infrastructure VPN existante dans votre organisation.  </li>
 <li>  Connexion à l’entrepôt de données Intune.  </li>
 <li>  Intégration de Intune avec :
 <ul>
-<li>  Visionneuse d’équipe pour l’assistance à distance (un abonnement à la visionneuse d’équipe est requis).  </li>
-<li>  Solutions de partenariat mobile Threat Defense (MTD) (un abonnement MTD est requis).  </li>
+<li>  Visionneuse d’équipe pour l’assistance à distance (un abonnement Team Viewer est requis).  </li>
+<li>  Solutions de partenaires de protection contre les menaces mobiles (MTD) (un abonnement MTD est requis).  </li>
 <li>  Une solution de gestion des dépenses de télécommunication (un abonnement à une solution de gestion des dépenses de télécommunication est requis).  </li>
-<li>  Microsoft Defender ATP (Windows E5 ou Microsoft 365 E5 licences requises).  </li>
+
 </ul></li>
 <li>  Inscription de périphériques de chaque plateforme prise en charge sur Intune.  </li>
 </ul></li>
 </ul></li>
-<li>  Fournir des conseils sur la protection des applications sur :
+<li>  Fournir des conseils sur la protection des applications sur :
 <ul>
 <li>  Configurer des stratégies de protection des applications pour chaque plateforme prise en charge.  </li>
-<li>  La configuration des stratégies d’accès conditionnel pour les applications gérées.  </li>
-<li>  Ciblage des groupes d’utilisateurs appropriés avec les stratégies MAM mentionnées ci-dessus.  </li>
-<li>  Utilisation des rapports d’utilisation avec gestion des applications.  </li>
+<li>  Configuration des stratégies d’accès conditionnel pour les applications gérées.  </li>
+<li>  Ciblage des groupes d’utilisateurs appropriés avec les stratégies MAM mentionnées précédemment.  </li>
+<li>  Utilisation des rapports d’utilisation des applications gérées.  </li>
 </ul></li>
-<li>  Fournir des conseils de migration à partir de la gestion de PC héritée vers Intune MDM.  </li>
+<li>  Fourniture d’instructions de migration de la gestion des PC hérités vers la gestion des ordinateurs de groupe Intune.  </li>
 </ul>
-  <strong>Remarque</strong>: la gestion des PC hérités n’est plus prise en charge depuis le 15 octobre 2020.  
+ 
 </li>
 </ul>
   
 <strong>Attachement via le cloud</strong>  
 
-  Nous vous guiderons tout au long de la préparation au Cloud : attachez des environnements Configuration Manager existants avec Intune. Les étapes exactes dépendent de votre environnement source. La procédure inclut les étapes suivantes :  
+  Nous vous guidons tout au long de la préparation à l’attachement dans le cloud des environnements Configuration Manager existants avec Intune. Les étapes exactes dépendent de votre environnement source. La procédure inclut les étapes suivantes :  
 <ul>
 <li>  Licences pour les utilisateurs finaux.  </li>
 <li>  Configurer les identités pour les utiliser avec Intune en tirant parti de votre Active Directory local et des identités cloud.  </li>
 <li>  Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils.  </li>
-<li>  Fournir des conseils sur la configuration de la participation hybride Azure AD.  </li>
-<li>  Fournir des conseils sur la configuration d’Azure AD pour l’inscription automatique MDM.  </li>
-<li>  Fourniture de conseils sur la configuration de la passerelle de gestion cloud.  </li>
+<li>  Fourniture de conseils pour la configuration hybride de la jointation Azure AD.  </li>
+<li>  Fourniture de conseils sur la configuration d’Azure AD pour l’inscription automatique À la gestion des paramètres de gestion des logiciels.  </li>
+<li>  Fourniture d’instructions sur la façon de configurer la passerelle de gestion cloud lorsqu’elle est utilisée comme solution pour la cogestion de la gestion des appareils basés sur Internet à distance.  </li>
 <li>  Configuration des charges de travail prises en charge que vous voulez basculer vers Intune.  </li>
 <li>  Installation du client Configuration Manager dans les appareils inscrits sur Intune.  </li>
 </ul> 
 
-<strong>Déployer Outlook Mobile pour iOS et Android de manière sécurisée</strong> Nous pouvons fournir des conseils pour vous aider à déployer Outlook Mobile pour iOS et Android de manière sécurisée dans votre organisation afin de vous assurer que toutes les applications requises sont installées sur vos utilisateurs.  
-  Les étapes de déploiement sécurisé d’Outlook Mobile pour iOS et Android avec Intune dépendent de votre environnement source. Elle peut inclure les éléments suivants :
+<strong>Déployer Outlook Mobile pour iOS et Android en toute sécurité</strong> Nous pouvons fournir des conseils pour vous aider à déployer Outlook Mobile pour iOS et Android en toute sécurité dans votre organisation afin de vous assurer que toutes les applications requises sont installées pour vos utilisateurs.  
+  La procédure de déploiement sécurisé d’Outlook Mobile pour iOS et Android avec Intune dépend de votre environnement source. Il peut inclure les suivants :
 <ul>
-<li>  Téléchargement des applications Outlook pour iOS et Android, Microsoft authentificateur et portail d’entreprise Intune via le magasin d’applications Apple ou Google Play Store.  </li>
-<li>  Fournir des conseils sur la configuration des éléments suivants :
+<li>  Téléchargement des applications Outlook pour iOS et Android, Microsoft Authenticator et le portail d’entreprise Intune via l’App Store d’Apple ou Google Play Store.  </li>
+<li>  Fourniture d’instructions sur la configuration :
 <ul>
-<li>  Le déploiement d’applications de portail d’entreprise Outlook pour iOS et Android, Microsoft Authenticator et Intune avec Intune.  </li>
+<li>  Déploiement d’applications Outlook pour iOS et Android, Microsoft Authenticator et portail d’entreprise Intune avec Intune.  </li>
 <li>  Stratégies de protection des applications.  </li>
 <li>  Stratégies d’accès conditionnel.  </li>
-<li>  Stratégies de configuration de l’application.  </li>
+<li>  Stratégies de configuration d’application.  </li>
 </ul></li>
-</ul>
-  
-  <strong>Remarque</strong>: FastTrack ne prend pas en charge la sécurisation d’Outlook pour iOS et Android avec les stratégies de boîte aux lettres d’appareils mobiles Exchange. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide à ce propos.  
+</ul>  
   </td>
-<td>  Les administrateurs informatiques doivent disposer d’une autorité de certification existante, d’un réseau sans fil et d’infrastructures VPN qui travaillent déjà dans leurs environnements de production lors de la planification du déploiement de profils réseau sans fil et VPN avec Intune.  
-  <strong>Remarque</strong>: le service FastTrack n’inclut pas d’aide pour configurer ou configurer des autorités de certification, des réseaux sans fil, des infrastructures VPN ou des certificats poussés pour Intune.  
+<td>  Les administrateurs informatiques doivent avoir une autorité de certification, un réseau sans fil et des infrastructures VPN existants qui fonctionnent déjà dans leurs environnements de production lors de la planification du déploiement de réseau sans fil et de profils VPN avec Intune.  
+  <strong>Remarque</strong>: l’avantage du service FastTrack n’inclut pas d’assistance pour la configuration des autorités de certification, des réseaux sans fil, des infrastructures VPN ou des certificats Push Apple MDM pour Intune.  
  
-  <strong>Remarque</strong>: l’avantage de service FastTrack n’inclut pas d’aide pour la configuration ou la mise à niveau du serveur de site Configuration Manager et du client Configuration Manager vers la configuration minimale requise pour la prise en charge de l’attachement via le cloud. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide à ce propos.
+  <strong>Remarque</strong>: l’avantage de service FastTrack n’inclut pas d’aide pour la configuration ou la mise à niveau du serveur de site Configuration Manager et du client Configuration Manager vers la configuration minimale requise pour la prise en charge de l’attachement via le cloud. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide à ce sujet.
 
   <strong>Intune intégré avec Microsoft Defender - Protection avancée contre les menaces (ATP)</strong> 
  
-  <strong>Remarque</strong>: nous fournissons une assistance sur l’intégration d’Intune avec Microsoft Defender ATP et sur la création de stratégies de conformité des appareils basées sur son évaluation du niveau de risque de Windows 10. Nous ne fournissons pas d’assistance pour l’achat, la gestion des licences ou l’activation. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide à ce propos.  
+  <strong>Remarque</strong>: nous fournissons de l’aide sur l’intégration d’Intune à Microsoft Defender ATP et la création de stratégies de conformité des appareils en fonction de son évaluation du niveau de risque Windows 10. Nous ne fournissons pas d’aide sur les achats, les licences ou l’activation. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide à ce sujet.  
   
 <strong>Windows Autopilot</strong> 
  
@@ -655,14 +653,14 @@ Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenair
 
 <tr class="odd">
 <td><strong>Office 365 – Protection avancée contre les menaces (ATP)</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Activation de liens fiables, de pièces jointes fiables et de l’anti-hameçonnage.  </li>
 <li>  Configuration de l’automatisation, de l’investigation et de la réponse.  </li>
 <li>  Utilisation du Simulateur d’attaques.  </li>
 <li>  Création de rapports et analytique des menaces.  </li>
 </ul></td>
-<td>Outre la partie de base de l' <strong>intégration</strong> en <a href="#general">général</a>, il n’y a pas de configuration système requise minimale.</td>
+<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="#general">général,</a>il n’existe aucune exigence minimale du système.</td>
 </tr>
 </tbody>
 </table>
@@ -673,44 +671,44 @@ Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenair
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Détails de l’aide FastTrack</strong></th>
-<th><strong>Attentes en matière d’environnement source</strong></th>
+<th><strong>Détails des conseils FastTrack</strong></th>
+<th><strong>Attentes de l’environnement source</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><strong>Exchange Online</strong></td>
 <td>  Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre organisation à utiliser la messagerie électronique. Les étapes exactes dépendent de votre environnement source et de vos plans de migration de messagerie.  
-  Nous fournissons des conseils à distance pour :
+  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  La configuration des fonctionnalités d’Exchange Online Protection (EOP) pour tous les domaines à extension messagerie validés dans Office 365.  </li>
-<li>  Pointage de vos enregistrements MX (mail Exchange) vers Office 365.  </li>
-<li>  La configuration de la fonctionnalité DAV (ATP) d’Office 365 si elle fait partie de votre service d’abonnement. Pour plus d’informations, reportez-vous à la partie <strong>Office 365 Advanced Threat Protection</strong> de ce tableau.  </li>
+<li>  Pointage de vos enregistrements MX (mail exchange) vers Office 365.  </li>
+<li>  Configuration de la fonctionnalité Office 365 ATP si elle fait partie de votre service d’abonnement. Pour plus d’informations, voir la partie <strong>Office 365 - Protection</strong> avancée contre les menaces de ce tableau.  </li>
 <li>  La configuration de la fonctionnalité Protection contre la perte de données (DLP) pour tous les domaines à extension messagerie validés dans Office 365 dans le cadre de votre service d’abonnement, une fois que vos enregistrements MX pointent vers Office 365.</li>
 <li>  La configuration de la fonctionnalité Chiffrement des messages Office 365 (OME) pour tous les domaines à extension messagerie validés dans Office 365 dans le cadre de votre service d’abonnement, une fois que vos enregistrements MX pointent vers Office 365.</li>
 </ul>
-  <strong>Remarque :</strong> Le service de réplication de boîtes aux lettres tente de migrer les e-mails de gestion des droits relatifs à l’information (IRM) à partir de votre boîte aux lettres locale vers la boîte aux lettres Exchange Online correspondante. La possibilité de lire le contenu protégé après la migration dépend des modèles utilisés par le client pour le mappage et la copie des modèles AD RMS (Active Directory Rights Managed Services) vers le service Azure Rights Management (Azure RMS).  
+  <strong>Remarque :</strong> Le service de réplication de boîte aux lettres (MRS) tente de migrer des messages électroniques gérés par des droits d’information (IRM) de votre boîte aux lettres sur site vers la boîte aux lettres Exchange Online correspondante. La possibilité de lire le contenu protégé après la migration dépend des modèles utilisés par le client pour le mappage et la copie des modèles AD RMS (Active Directory Rights Managed Services) vers le service Azure Rights Management (Azure RMS).  
 <ul>
 <li>  La configuration de ports de pare-feu.  </li>
-<li>  La configuration d’un DNS, y compris les enregistrements de découverte automatique, SPF (Sender Policy Framework), DomainKeys Identified Identified Mail (DKIM), de création de message et de conformité (DMARC), ainsi que les enregistrements MX requis (le cas échéant).  </li>
+<li>  Configuration du DNS, y compris les enregistrements DMARC (Autodiscover, Sender Policy Framework) requis, DKIM (DomainKeys Identified Mail), DMARC (Domain-based Message Authentication, Reporting and Conformance) et MX (selon vos besoins).  </li>
 <li>  la configuration d'un flux de messagerie entre votre environnement de messagerie source et Exchange Online (si nécessaire).  </li>
 <li>  La migration de messagerie de votre environnement de messagerie source vers Office 365.  </li>
 <li>  La configuration des clients de boîte aux lettres (Outlook pour Windows, Outlook sur le web et Outlook pour iOS et Android).  </li>
 </ul>
-  <strong>Migration de données</strong>  <br>
-Pour plus d’informations sur l’utilisation de l’avantage FastTrack pour la migration de données vers Office 365, voir <a href="https://docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.   
-<td>  Votre environnement source doit avoir l’un des niveaux minimaux suivants :
+  <strong>Migration des données</strong>  <br>
+Pour plus d’informations sur l’utilisation des avantages de FastTrack pour la migration des données vers Office 365, voir <a href="https://docs.microsoft.com/fasttrack/data-migration">Migration des données.</a>   
+<td>  Votre environnement source doit avoir l’un des niveaux minimaux suivants :
 <ul>
 <li>  Organisations Exchange uniques ou multiples avec Exchange Server 2003 et versions ultérieures.  </li>
 <li>  Environnement de messagerie compatible IMAP (Internet Message Access Protocol) unique.  </li>
 <li>  Environnement G Suite unique (Gmail, contacts et calendrier uniquement).  </li>
-<li>  Pour plus d’informations sur les fonctionnalités multigéographiques, reportez-vous à la rubrique <a href="https://go.microsoft.com/fwlink/?linkid=872776">fonctionnalités Multigéographiques dans Exchange Online</a>.  </li>
+<li>  Pour plus d’informations sur les fonctionnalités multigé géographiques, voir <a href="https://go.microsoft.com/fwlink/?linkid=872776">Fonctionnalités multigé géographiques dans Exchange Online.</a>  </li>
 </ul>
-Les logiciels clients en ligne tels que Project pour Office 365, Outlook pour Windows, Outlook pour iOS et Android, le client de synchronisation OneDrive entreprise, Power BI Desktop et Skype entreprise doivent être au niveau minimal défini dans <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System Requirements for Microsoft 365 Office</a>.  </td>
+Les logiciels clients en ligne tels que Project pour Office 365, Outlook pour Windows, Outlook pour iOS et Android, le client de synchronisation OneDrive Entreprise, Power BI Desktop et Skype Entreprise doivent se trouver à un niveau minimal tel que défini dans la version système requise pour <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office.</a>  </td>
 </tr>
 <tr class="even">
 <td><strong>Gouvernance des informations Microsoft</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Étiquettes et stratégies de rétention.  </li>
 <li>  Gestion des enregistrements.  </li>
@@ -720,20 +718,20 @@ Les logiciels clients en ligne tels que Project pour Office 365, Outlook pour Wi
 <li>  EDiscovery avancée.  </li>
 </ul>
 
-  <strong>Les éléments suivants sont hors de portée </strong>  
+  <strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li> Développement d’un plan de gestion des fichiers de gestion des enregistrements.</li>
 <li> Connecteurs de données.</li>
-<li> Obstacles aux informations.</li>
+<li> Obstacles à l’information.</li>
 <li> Gestion des accès privilégiés.</li>
 <li> Développement de l’architecture des informations dans SharePoint.</li>
-<li> Le codage et l’écriture de scripts personnalisés.</li>
+<li> Scripts et codage personnalisés.</li>
 </td>
-<td>Outre la partie de base de l' <strong>intégration</strong> en <a href="#general">général</a>, il n’y a pas de configuration système requise minimale.</td>
+<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="#general">général,</a>il n’existe aucune exigence minimale du système.</td>
 </tr>
 <tr class="odd">
 <td><strong>Protection des informations Microsoft</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Classification des données.  </li>
 <li>  Types d'informations sensibles.  </li>
@@ -747,101 +745,101 @@ Les logiciels clients en ligne tels que Project pour Office 365, Outlook pour Wi
 <li>  Création de stratégies DLP de point de terminaison pour les appareils Windows 10.  </li>
 </ul>
 
-<strong>Les éléments suivants sont hors de portée </strong>  
+<strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li>Clé client.</li>
-<li>Le développement d’expressions régulières personnalisées (RegEx) pour les types d’informations sensibles.</li>
+<li>Développement d’expressions régulières personnalisées (RegEx) pour les types d’informations sensibles.</li>
 <li>Création ou modification de dictionnaires de mots clés.</li>
-<li>Le codage et l’écriture de scripts personnalisés.</li>
+<li>Scripts et codage personnalisés.</li>
 </ul>
-<strong>Remarque :</strong> Pour plus d’informations, reportez-vous à <strong> Azure information protection </strong> in <a href="#enterprise-mobility--security">Enterprise Mobility + Security</a>.
+<strong>Remarque :</strong> Pour plus d’informations, voir <strong>Azure Information Protection</strong> dans Enterprise Mobility + <a href="#enterprise-mobility--security">Security.</a>
 <ul>
 
 </td>
-<td>Outre la partie de base de l' <strong>intégration</strong> en <a href="#general">général</a>, il n’y a pas de configuration système requise minimale.</td>
+<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="#general">général,</a>il n’existe aucune exigence minimale du système.</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Teams</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
-<li>  Vérification de la configuration minimale requise dans Exchange Online, SharePoint Online, les groupes Office 365 et Azure AD pour la prise en charge de teams.  </li>
+<li>  Confirmation de la demande minimale requise dans Exchange Online, SharePoint Online, les groupes Office 365 et Azure AD pour prendre en charge Teams.  </li>
 <li>  la configuration de ports de pare-feu ;  </li>
 <li>  Configuration de DNS.  </li>
 <li>  Confirmation que Teams est activé sur votre client Office 365.  </li>
 <li>  Activation ou désactivation des licences utilisateur.  </li>
-<li>  Évaluation du réseau pour teams :
+<li>  Évaluation du réseau pour Teams :
 <ul>
 <li>  Vérifications des ports et des points de terminaison.  </li>
 <li>  Contrôles de la qualité de connexion.  </li>
 <li>  Estimations de la bande passante.  </li>
 </ul>
 <ul>
-<li>  Configuration de la stratégie d’application Teams (Team Web App, application de bureau teams et Teams pour l’application iOS et Android).  </li>
+<li>  Configuration de la stratégie d’application Teams (application web Teams, application de bureau Teams et application Teams pour iOS et Android).  </li>
 </ul>
-Le cas échéant, nous fournissons également des conseils pour :
+Le cas échéant, nous fournissons également des conseils pour :
 <ul>
-<li>  Appareils de salle Microsoft teams :  </li>
+<li>  Appareils de salle Microsoft Teams :  </li>
 <ul>
 <li>  Création de comptes en ligne nécessaires pour les appareils de salle de conférence et de téléphonie pris en charge répertoriés dans le <a href="https://go.microsoft.com/fwlink/?linkid=2066478">catalogue des appareils Teams</a>.  </li>
-<li>  Assistance à distance avec la configuration côté service des périphériques de salle Microsoft teams certifiés.  </li>
+<li>  Assistance à distance avec la configuration côté service des appareils de salles Microsoft Teams certifiés.  </li>
 <li>  Activation de l’audioconférence :  </li>
 <li>  Configuration de l’organisation pour les paramètres par défaut de la passerelle de conférence.  </li>
 <li>  Affectation de passerelles de conférence aux utilisateurs titulaires d’une licence.  </li>
 </ul>
-<li>  Système téléphonique :
+<li>  Système téléphonique :
 <ul>
 <li>  Configuration de l’organisation pour les paramètres par défaut de Cloud Voice.  </li>
-<li>  Conseils pour les forfaits d’appels (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">marchés disponibles</a>) :
+<li>  Conseils sur les forfaits d’appels<a href="https://go.microsoft.com/fwlink/?linkid=2066478">(marchés disponibles)</a>:
 <ul>
 <li>  Affectation de numéros aux utilisateurs titulaires d’une licence.  </li>
 <li>  Instructions de portage de numéro local via l’interface utilisateur jusqu’à 999.  </li>
 <li>  Prise en charge des demandes de service de portage de numéro local au-delà de 999.  </li>
 </ul></li>
-<li>  Guide de routage direct :
+<li>  Conseils de routage direct :
 <ul>
-<li>  Guide de configuration de l’Organisation pour le routage direct de scénarios hébergés par un partenaire ou de scénarios déployés par le client pour un maximum de 10 sites.  </li>
-<li> Vérification de la configuration du contrôleur de frontière de session (SBC). </li>
+<li>  Conseils de configuration de l’organisation pour la conception du routage direct des scénarios hébergés par un partenaire ou des scénarios déployés par le client pour un nombre de sites au plus de 10.  </li>
+<li> Révision de la configuration du contrôleur de frontière de session (SBC). </li>
 
 <li> Assistance à distance avec la configuration du plan de numérotation. </li>
 
-<li> Configuration de l’itinéraire des communications vocales.</li>
+<li> Configuration de l’itinéraire des voix.</li>
 
-<li> Déviation du trafic multimédia et optimisation des supports locaux. </li>
+<li> Contournement de média et optimisation des médias locaux. </li>
 
 </ul></li>
 </ul></li>
 <li>  Activation des événements en direct Teams.  </li>
 <li>  Configuration de l’organisation et intégration à Microsoft Stream.  </li>
-<li>  Instructions pour la transition entre Skype entreprise et Teams.  </li>
+<li>  Conseils pour la transition de Skype Entreprise vers Teams.  </li>
 </ul></td>
 <td><ul>
 <li>  Identités activées dans Azure AD pour Office 365.  </li>
 <li>  Utilisateurs activés pour SharePoint Online.  </li>
-<li>  Des boîtes aux lettres Exchange sont présentes (en ligne et en local dans une configuration hybride Exchange).  </li>
+<li>  Les boîtes aux lettres Exchange sont présentes (en ligne et en local dans une configuration hybride Exchange).  </li>
 <li>  Activation pour les groupes Office 365.  </li>
 </ul>
-  <strong>Remarque :</strong> Si les utilisateurs ne sont pas affectés et activés avec des licences SharePoint Online, ils n’auront pas de stockage OneDrive entreprise dans Office 365. Le partage de fichiers continue de fonctionner dans les canaux, mais les utilisateurs ne peuvent pas partager de fichiers dans les conversations sans espace de stockage OneDrive entreprise dans Office 365. Teams ne prend pas en charge SharePoint en local.  <br>
-  <strong>Remarque :</strong> L’état idéal est que les boîtes aux lettres de tous les utilisateurs soient hébergées sur Exchange Online. Les utilisateurs disposant de boîtes aux lettres hébergées sur site doivent être synchronisés avec l’annuaire Office 365 via Azure AD Connect. Pour ces clients hybrides Exchange, si la boîte aux lettres de l’utilisateur est locale, l’utilisateur ne peut pas ajouter ni configurer de connecteurs.  
+  <strong>Remarque :</strong> Si les utilisateurs ne sont pas affectés et activés avec des licences SharePoint Online, ils n’auront pas de stockage OneDrive Entreprise dans Office 365. Le partage de fichiers continue de fonctionner dans les canaux, mais les utilisateurs ne peuvent pas partager de fichiers dans des conversations sans stockage OneDrive Entreprise dans Office 365. Teams ne prend pas en charge SharePoint en local.  <br>
+  <strong>Remarque :</strong> L’état idéal est que tous les utilisateurs ont leurs boîtes aux lettres sur Exchange Online. Les utilisateurs avec des boîtes aux lettres locales doivent avoir leur identité synchronisée avec l’annuaire Office 365 via Azure AD Connect. Pour ces clients Exchange hybrides, si la boîte aux lettres de l’utilisateur est en local, l’utilisateur ne peut ni ajouter ni configurer de connecteurs.  
   Les programmes d’installation pour les clients de bureau Microsoft Teams Windows et Mac peuvent être téléchargés sur <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.  </td>
 </tr>
 <tr class="odd">
 <td><strong>Office 365 – Protection avancée contre les menaces (ATP)</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Activation de liens fiables, de pièces jointes fiables et de l’anti-hameçonnage.  </li>
 <li>  Configuration de l’automatisation, de l’investigation et de la réponse.  </li>
 <li>  Utilisation du Simulateur d’attaques.  </li>
 <li>  Création de rapports et analytique des menaces.  </li>
 </ul></td>
-<td>Outre la partie de base de l' <strong>intégration</strong> en <a href="#general">général</a>, il n’y a pas de configuration système requise minimale.</td>
+<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="#general">général,</a>il n’existe aucune exigence minimale du système.</td>
 </tr>
 <tr class="even">
 <td><strong>Outlook pour iOS et Android</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Téléchargement d’Outlook pour iOS et Android depuis l’App Store d’Apple et Google Play.  </li>
 <li>  Configuration des comptes et accès à la boîte aux lettres Exchange Online.  </li>
-<li>  Sécurisation d’Outlook Mobile (pour plus d’informations, consultez la rubrique <a href="https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">sécurisation d’Outlook pour iOS et Android dans Exchange Online</a> ).  </li>
+<li>  Sécurisation d’Outlook Mobile (voir <a href="https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Sécurisation d’Outlook pour iOS</a> et Android dans Exchange Online pour plus d’informations).  </li>
 </ul></td>
 <td><ul>
 <li>  Identités activées dans Azure AD pour Office 365.  </li>
@@ -850,27 +848,27 @@ Le cas échéant, nous fournissons également des conseils pour :
 </tr>
 <tr class="odd">
 <td><strong>Power BI</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Attribution de licences Power BI.  </li>
 <li>  Déploiement de l'application Power BI Desktop.  </li>
 </ul></td>
-<td>Les logiciels clients en ligne tels que Power BI Desktop doivent être au niveau minimal défini dans la <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Configuration système requise pour Microsoft 365 et Office</a>.</td>
+<td>Les logiciels clients en ligne tels que Power BI Desktop doivent être à un niveau minimal tel que défini dans la version système requise pour <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 et Office.</a></td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  la vérification de la fonctionnalité SharePoint de base sur laquelle Project Online s'appuie ;  </li>
 <li>  l'ajout du service Project Online à votre client (y compris en ajoutant des abonnements à des utilisateurs) ;  </li>
 <li>  la configuration de la liste des ressources d’entreprise (ERP) ;  </li>
 <li>  la création de votre premier projet.  </li>
 </ul></td>
-<td>Les logiciels clients en ligne tels que Project pour Office 365 doivent être au niveau minimal défini dans la <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Configuration système requise pour Microsoft 365 et Office</a>.</td>
+<td>Les logiciels clients en ligne tels que Project pour Office 365 doivent être à un niveau minimal tel que défini dans la norme système requise pour <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 et Office.</a></td>
 </tr>
 <tr class="odd">
-<td><strong>Project Online professionnel et Premium</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td><strong>Project Online Professionnel et Premium</strong></td>
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Résolution des problèmes de déploiement.  </li>
 <li>  Attribution des licences utilisateur final à l’aide du Centre d’administration Microsoft 365 et de Windows PowerShell.  </li>
@@ -879,11 +877,11 @@ Le cas échéant, nous fournissons également des conseils pour :
 <li>  Configuration d’un serveur de distribution sur site unique pour le client de bureau Project Online, incluant l’assistance concernant la création d’un fichier configuration.xml à utiliser avec l’outil Déploiement d’Office 365.  </li>
 <li>  Connexion du client de bureau Project Online à Project Online Professionnel ou Project Online Premium.  </li>
 </ul></td>
-<td>Les logiciels clients en ligne tels que Project pour Office 365 doivent être au niveau minimal défini dans la <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Configuration système requise pour Microsoft 365 et Office</a>.</td>
+<td>Les logiciels clients en ligne tels que Project pour Office 365 doivent être à un niveau minimal tel que défini dans la norme système requise pour <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 et Office.</a></td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online et OneDrive Entreprise</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Configuration de DNS.  </li>
 <li>  la configuration de ports de pare-feu ;  </li>
@@ -895,35 +893,35 @@ Le cas échéant, nous fournissons également des conseils pour :
 <li>  la configuration des fonctionnalités Environnement hybride SharePoint, telles que la recherche hybride, les sites hybrides, la taxonomie hybride, les types de contenu, la création de sites en libre-service hybride (SharePoint Server 2013 uniquement), le lanceur d’applications étendu, OneDrive Entreprise hybride et les sites extranet.  </li>
 <li>  Votre approche de migration.  </li>
 </ul>
-Des conseils supplémentaires sont fournis pour OneDrive entreprise en fonction de votre version de SharePoint, par exemple :
+Des instructions supplémentaires sont fournies pour OneDrive Entreprise en fonction de votre version de SharePoint, telles que :
 <ul>
-<li>  L’identification des options d’intégration et la vérification de la bande passante et de l’infrastructure réseau locale et en ligne ;  </li>
-<li>  Installation de SharePoint Online 2013 SP1 (le cas échéant), planification et implémentation des exigences en matière de synchronisation et d’identité, et identification de votre client de synchronisation OneDrive entreprise.  </li>
-<li>  La planification et l’implémentation d’un déploiement unique pour tous les utilisateurs (ou un déploiement échelonné).  </li>
-<li>  Attribution de licences, redirection de mes sites et de mes bibliothèques de documents personnelles vers Office 365 (applicable à SharePoint Online 2013), configuration des audiences pour contrôler l’accès à OneDrive (applicable à SharePoint Online 2013).  </li>
-<li>Redirection ou transfert de dossiers connus vers OneDrive.</li>
-<li>  Déploiement de la synchronisation du client OneDrive entreprise.  </li>
+<li>  Identification des options d’intégration et examen de l’infrastructure réseau locale et en ligne et de la bande passante.  </li>
+<li>  Installation de SharePoint Online 2013 SP1 (le cas échéant), planification et mise en œuvre des exigences de synchronisation et d’identité, et identification de votre client de synchronisation OneDrive Entreprise.  </li>
+<li>  Planification et mise en œuvre d’un déploiement unique pour tous les utilisateurs (ou d’un déploiement par phases).  </li>
+<li>  Attribution de licences, redirection des sites Mon site et des bibliothèques de documents personnels vers Office 365 (applicable à SharePoint Online 2013), configuration des audiences pour contrôler l’accès à OneDrive (applicable à SharePoint Online 2013).  </li>
+<li>Redirection ou déplacement de dossiers connus vers OneDrive.</li>
+<li>  Déploiement de la synchronisation du client OneDrive Entreprise.  </li>
 </ul>
-  <strong>Migration de données</strong>  <br>
-Pour plus d’informations sur l’utilisation de l’avantage FastTrack pour la migration de données vers Office 365, voir <a href="https://docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.
+  <strong>Migration des données</strong>  <br>
+Pour plus d’informations sur l’utilisation des avantages de FastTrack pour la migration des données vers Office 365, voir <a href="https://docs.microsoft.com/fasttrack/data-migration">Migration des données.</a>
 </ul></td>
-<td><br><strong>Pour SharePoint hybride :</strong>  
+<td><br><strong>Pour SharePoint hybride :</strong>  
 <ul>
-<li>  La configuration SharePoint hybride inclut la configuration de la recherche hybride, des sites, de la taxonomie, des types de contenu, de OneDrive entreprise, d’un lanceur d’applications étendu, de sites extranet et de la création de sites libre-service connectés en local à un environnement SharePoint Online cible unique.  </li>
+<li>  La configuration hybride SharePoint inclut la configuration de la recherche hybride, des sites, de la taxonomie, des types de contenu, OneDrive Entreprise, un lanceur d’applications étendu, des sites extranet et la création de sites libre-service connectés en local à un environnement SharePoint Online cible unique.  </li>
 </ul>
-  <strong>Remarque :</strong> La création de sites en libre-service n’est pas dans l’étendue avec les serveurs locaux exécutant SharePoint 2013.  
+  <strong>Remarque :</strong> La création de sites libre-service n’est pas limitée aux serveurs locaux exécutant SharePoint 2013.  
 <ul>
-<li>  Pour activer SharePoint hybride, vous devez disposer de l’un des environnements SharePoint Server locaux suivants : 2013, 2016 ou 2019.  </li>
+<li>  Pour activer SharePoint hybride, vous devez avoir l’un des environnements SharePoint Server locaux suivants : 2013, 2016 ou 2019.  </li>
 </ul>
-  <strong>Remarque :</strong> La mise à niveau des environnements SharePoint locaux vers SharePoint Server n’est pas dans l’étendue. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide. Pour plus d’informations, voir <a href="https://go.microsoft.com/fwlink/?linkid=853548">niveaux de mise à jour publique minimum pour les fonctionnalités hybrides SharePoint</a><em>.</em>  <br>
-  <strong>Remarque :</strong> Pour plus d’informations sur les fonctionnalités multigéographiques, reportez-vous à la rubrique <a href="https://go.microsoft.com/fwlink/?linkid=831056">fonctionnalités Multigéographiques dans OneDrive et SharePoint Online dans Office 365</a><em>.</em>  </td>
+  <strong>Remarque :</strong> La mise à niveau des environnements SharePoint locaux vers SharePoint Server n’est pas dans l’étendue. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide. Pour plus d’informations, voir <a href="https://go.microsoft.com/fwlink/?linkid=853548">Niveaux de mise à jour publique minimale pour les fonctionnalités hybrides SharePoint.</a><em></em>  <br>
+  <strong>Remarque :</strong> Pour plus d’informations sur les fonctionnalités multigé géographiques, voir Fonctionnalités multigé géographiques dans OneDrive et <a href="https://go.microsoft.com/fwlink/?linkid=831056">SharePoint Online dans Office 365.</a><em></em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td><ul>
-Nous fournissons des conseils à distance pour l’activation du service Yammer Enterprise.  
+Nous fournissons des conseils à distance pour l’activation Yammer service Entreprise.  
 </ul></td>
-<td>Le logiciel client en ligne doit être à un niveau minimal, comme défini dans la <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Configuration système requise pour Microsoft 365 et Office</a>.</td>
+<td>Les logiciels clients en ligne doivent être au niveau minimal défini dans la version système requise pour <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 et Office.</a></td>
 </tr>
 </tbody>
 </table>
@@ -934,94 +932,94 @@ Nous fournissons des conseils à distance pour l’activation du service Yammer 
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Détails de l’aide FastTrack</strong></th>
-<th><strong>Attentes en matière d’environnement source</strong></th>
+<th><strong>Détails des conseils FastTrack</strong></th>
+<th><strong>Attentes de l’environnement source</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (Azure AD) et Azure AD Premium</strong></td>
-<td>  Nous fournissons des conseils à distance pour sécuriser vos identités Cloud dans les scénarios suivants.  
+<td>  Nous fournissons des conseils à distance pour la sécurisation de vos identités cloud pour les scénarios suivants.  
 
  <br/>
 
 <strong>Infrastructure de base sécurisée</strong>  </ul>
 <ul>
-<li>  La configuration et l’activation de l’authentification forte pour vos identités, notamment la protection avec Azure Multi-Factor Authentication (Multi-Factor Authentication) (Cloud uniquement), l’application Microsoft Authenticator et l’inscription combinée pour Azure MFA et l’self-service Password Reset (SSPR).  </li>
-<li>  Pour les clients autres que Azure AD Premium, des conseils sont fournis pour sécuriser vos identités à l’aide des paramètres de sécurité par défaut.  </li>
-<li>  Pour les clients Azure AD Premium, des conseils sont fournis pour sécuriser vos identités avec un accès conditionnel.  </li>
-<li>  Détection et blocage de l’utilisation de mots de passe faibles avec la protection par mot de passe Azure AD.  </li>
-<li>  Sécurisation de l’accès à distance aux applications Web locales avec le proxy d’application Azure AD.  </li>
-<li>  Activation de la détection et de la correction basées sur les risques avec Azure identity protection.  </li>
-<li>  L’activation d’un écran de connexion personnalisé, y compris le logo, le texte et les images avec personnalisation.  </li>
+<li>  La configuration et l’activation d’une authentification forte pour vos identités, y compris la protection avec Azure Multi-Factor Authentication (MFA) (cloud uniquement), l’application Microsoft Authenticator et l’inscription combinée pour Azure MFA et la réinitialisation de mot de passe libre-service (SSPR).  </li>
+<li>  Pour les clients autres qu’Azure AD Premium, des conseils sont fournis pour sécuriser vos identités à l’aide des paramètres de sécurité par défaut.  </li>
+<li>  Pour les clients Azure AD Premium, des conseils sont fournis pour sécuriser vos identités avec l’accès conditionnel.  </li>
+<li>  Détection et blocage de l’utilisation de mots de passe faibles avec Azure AD Password Protection.  </li>
+<li>  Sécurisation de l’accès à distance aux applications web sur site avec le proxy d’application Azure AD.  </li>
+<li>  Activation de la détection et de la correction basées sur les risques avec Azure Identity Protection.  </li>
+<li>  Activation d’un écran de personnalisation, y compris le logo, le texte et les images avec une personnalisation.  </li>
 <li>  Partage sécurisé d’applications et de services avec des utilisateurs invités à l’aide d’Azure AD B2B.  </li>
-<li>  Gestion de l’accès pour vos administrateurs Office 365 à l’aide de rôles administratifs intégrés au contrôle d’accès basé sur un rôle (RBAC) et pour réduire le nombre de comptes d’administrateurs privilégiés.  </li>
-<li>  Configuration de la jointure Azure AD hybride.  </li>
-<li>  Configuration de la participation à Azure AD.  </li>
+<li>  Gestion de l’accès pour vos administrateurs Office 365 à l’aide des rôles d’administration intégrés au contrôle d’accès basé sur un rôle (RBAC) et pour réduire le nombre de comptes d’administrateur privilégiés.  </li>
+<li>  Configuration de la jointation Azure AD hybride.  </li>
+<li>  Configuration de la jointation Azure AD.  </li>
 </ul>
   
-<strong>Surveillance et création de rapports</strong>  
+<strong>Surveiller et signaler</strong>  
 <ul>
 <li>  
-  Activation de la surveillance à distance pour AD FS, Azure AD Connect et des contrôleurs de domaine avec Azure AD Connect Health.  
+  Activation de la surveillance à distance pour les services AD FS, Azure AD Connect et les contrôleurs de domaine avec Azure AD Connect Health.  
   </li>
 </ul>
   
-<strong>Govern</strong>  
+<strong>Gouvernance</strong>  
 <ul>
 <li>  
-  Gestion du cycle de vie de votre identité Azure AD et de son accès à l’aide de la gestion des droits Azure AD.
+  Gestion de votre cycle de vie d’accès et d’identité Azure AD à grande échelle avec la gestion des droits Azure AD.
   </li>
 <li>  
-  Gestion des appartenances aux groupes Azure AD, de l’accès aux applications d’entreprise et des attributions de rôles avec les révisions Azure AD Access.  
+  Gestion des appartenances aux groupes Azure AD, de l’accès aux applications d’entreprise et des attributions de rôles avec les révisions d’accès Azure AD.  
   </li>
 <li>  
-  Consulter les conditions d’utilisation d’Azure AD.  
+  Examen des conditions d’utilisation d’Azure AD.  
   </li>
 <li>  
-  Gestion et contrôle de l’accès aux comptes d’administrateur privilégié grâce à Azure AD Privileged Identity Management.  
+  Gestion et contrôle de l’accès aux comptes d’administrateur privilégiés avec Azure AD Privileged Identity Management.  
   </li>
 </ul>
   
 <strong>Automatisation et efficacité </strong>  
 <ul>
 <li>  
-  Activation du SSPR Azure AD.  
+  Activation d’Azure AD SSPR.  
   </li>
-<li>  Permettre aux utilisateurs de créer et de gérer leurs propres groupes de sécurité Cloud ou Office 365 avec la gestion des groupes libre-service Azure AD.  </li>
+<li>  Permettre aux utilisateurs de créer et de gérer leur propre sécurité cloud ou groupes Office 365 avec la gestion de groupes libre-service Azure AD.  </li>
 <li>  Gestion de l’accès délégué aux applications d’entreprise avec la gestion des groupes délégués Azure AD.  </li>
 <li>  Activation des groupes dynamiques Azure AD.  </li>
-<li>  Organisation des applications dans le portail mes applications à l’aide de collections.  </li>
+<li>  Organisation des applications dans le portail Mes applications à l’aide de collections.  </li>
 </ul></td>
-<td>Active Directory sur site et son environnement ont été préparés pour Azure AD Premium, y compris la correction des problèmes identifiés qui empêchent l’intégration à Azure AD et les fonctionnalités Azure AD Premium.</td>
+<td>Active Directory local et son environnement ont été préparés pour Azure AD Premium, y compris la correction des problèmes identifiés qui empêchent l’intégration avec Azure AD et les fonctionnalités Azure AD Premium.</td>
 </tr>
 <tr class="odd">
-<td><strong>Azure information protection </strong></td>
-<td>  Nous fournissons des conseils à distance pour :
+<td><strong>Azure Information Protection </strong></td>
+<td>  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Activation et configuration de votre client.  </li>
 <li>  Création et configuration d’étiquettes et de stratégies.  </li>
 <li>  Application de la protection des informations aux documents.  </li>
 <li>  Classifier et étiqueter automatiquement des informations dans les applications Office (telles que Word, PowerPoint, Excel et Outlook) exécutées sur Windows et utilisant le client Azure information protection.  </li>
-<li>  Découverte et étiquetage des fichiers au repos à l’aide du scanneur Azure information protection.  </li>
+<li>  Découverte et étiquetage des fichiers au repos à l’aide du scanneur Azure Information Protection.  </li>
 <li>  Surveillance des courriers électroniques en transit à l’aide de règles de flux de messagerie Exchange Online.  </li>
 </ul>
-Nous fournissons également des conseils pour appliquer la protection à l’aide des services Microsoft Azure Rights Management (Azure RMS), du chiffrement de messages Office 365 (OME) et de la protection contre la perte de données (DLP).  </td>
-<td>  Les responsabilités du client sont les suivantes :
+Nous fournissons également des conseils si vous souhaitez appliquer une protection à l’aide de Microsoft Azure Rights Management Services (Azure RMS), du chiffrement de messages Office 365 (OME) et de la protection contre la perte de données (DLP).  </td>
+<td>  Les responsabilités préalables du client sont les suivantes :
 <ul>
-<li>  Liste des emplacements de partage de fichiers à analyser.  </li>
-<li>  Une taxonomie de classification approuvée. </li>
-<li> Compréhension des restrictions réglementaires ou des exigences en matière de gestion des clés.  </li>
+<li>  Liste des emplacements de partage de fichiers à scanner.  </li>
+<li>  Taxonomie de classification approuvée. </li>
+<li> Comprendre les restrictions ou exigences réglementaires relatives à la gestion des clés.  </li>
 <li>  Un compte de service créé pour votre annuaire Active Directory local qui a été synchronisé avec Azure AD. </li>
 <li>  Étiquettes configurées pour la classification et la protection. </li>
-<li> Tous les éléments prérequis pour le scanneur Azure information protection sont en place. Pour plus d’informations, reportez-vous à <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">la rubrique conditions préalables pour l’installation et le déploiement du scanneur d’étiquetage unifié Azure information protection</a>. </li>
-<li>  Vérifiez que les appareils utilisateur exécutent un système d’exploitation pris en charge et que les conditions préalables nécessaires sont installées. Pour plus d’informations, consultez les rubriques suivantes.</li>
+<li> Toutes les conditions préalables pour le scanneur Azure Information Protection sont en place. Pour plus d’informations, voir Conditions préalables à l’installation et au déploiement du scanneur d’étiquetage unifié <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Azure Information Protection.</a> </li>
+<li>  Assurez-vous que les appareils utilisateur exécutent un système d’exploitation pris en charge et que les conditions préalables nécessaires sont installées. Pour plus d’informations, voir les informations suivantes.</li>
 <ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guide d’administration : installer le client d’étiquetage unifié Azure information protection pour les utilisateurs</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Qu’est-ce que l’application Azure information protection pour iOS ou Android ?</a>  </li>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guide d’administration : Installer le client d’étiquetage unifié Azure Information Protection pour les utilisateurs</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Qu’est-ce que l’application Azure Information Protection pour iOS ou Android ?</a>  </li>
 </ul>
-<li> L’installation et la configuration du connecteur et des serveurs Azure RMS, y compris le connecteur AD RMS (Active Directory RMS) pour la prise en charge hybride.  </li>
-<li> Programme d’installation et configuration de la préversion (BYOK), du chiffrement à clé double (DKE) (client d’étiquetage unifié uniquement) ou de votre propre clé (HYOK) (client classique uniquement) si vous avez besoin de l’une de ces options pour votre déploiement.  </li>
+<li> Installation et configuration du connecteur et des serveurs Azure RMS, y compris le connecteur AD RMS (Active Directory RMS) pour la prise en charge hybride.  </li>
+<li> Si vous avez besoin de l’une de ces options pour votre déploiement, vous devez installer et configurer Bring Your Own Key (BYOK), DKE (Double Key Encryption) (client d’étiquetage unifié uniquement) ou Hold Your Own Key (HYOK) (client classique uniquement).  </li>
   </ul>
 </ul>
   
@@ -1029,12 +1027,12 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Nous fournissons des conseils à distance sur la préparation de l’utilisation d’Intune en tant que fournisseur de service de gestion des appareils mobiles (MDM) et de gestion des applications mobiles (MAM) en nuage pour vos applications et appareils. Les étapes exactes dépendent de votre environnement source et sont basées sur vos besoins en matière de gestion des applications mobiles et des appareils mobiles. La procédure inclut les étapes suivantes :
+<td>  Nous fournissons des conseils à distance sur la préparation à l’utilisation d’Intune en tant que fournisseur de gestion des périphériques mobiles (MDM) et de gestion des applications mobiles (MAM) dans le cloud pour vos applications et appareils. Les étapes exactes dépendent de votre environnement source et sont basées sur vos besoins en matière de gestion des applications mobiles et des appareils mobiles. La procédure inclut les étapes suivantes :
 <ul>
 <li>  Licences pour les utilisateurs finaux.  </li>
-<li>  Configuration des identités à utiliser par Intune en tirant parti de votre annuaire Active Directory local ou des identités Cloud (Azure AD).  </li>
+<li>  Configuration des identités à utiliser par Intune en tirant parti de vos identités Active Directory locales ou cloud (Azure AD).  </li>
 <li>  Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils.  </li>
-<li>  Configuration de votre autorité MDM, en fonction de vos besoins de gestion, notamment :
+<li>  Configuration de votre autorité de gestion des projets, en fonction de vos besoins en matière de gestion, notamment :
 <ul>
 <li>  Définition d’Intune comme autorité de gestion des appareils mobiles lorsqu’ Intune est votre seule solution de gestion des appareils mobiles.  </li>
 </ul></li>
@@ -1043,70 +1041,67 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
 <li>  Configuration des groupes tests à utiliser pour valider les stratégies de la gestion des périphériques mobiles.  </li>
 <li>  Configuration des stratégies de gestion et des services de gestion du service MDM tels que :
 <ul>
-<li>  Déploiement d’applications pour chaque plateforme prise en charge par le biais de liens Web ou de liens détaillés.  </li>
+<li>  Déploiement d’application pour chaque plateforme prise en charge par le biais de liens web ou de liens profonds.  </li>
 <li>  Stratégies d’accès conditionnel.  </li>
-<li>  Le déploiement de la messagerie, des réseaux sans fil et des profils VPN si vous disposez d’une autorité de certification, d’un réseau sans fil ou d’une infrastructure VPN existante dans votre organisation.  </li>
+<li>  Déploiement de la messagerie, des réseaux sans fil et des profils VPN si vous avez une autorité de certification, un réseau sans fil ou une infrastructure VPN existante dans votre organisation.  </li>
 <li>  Connexion à l’entrepôt de données Intune.  </li>
 <li>  Intégration de Intune avec :
 <ul>
-<li>  Visionneuse d’équipe pour l’assistance à distance (un abonnement à la visionneuse d’équipe est requis).  </li>
-<li>  Solutions de partenariat mobile Threat Defense (MTD) (un abonnement MTD est requis).  </li>
+<li>  Visionneuse d’équipe pour l’assistance à distance (un abonnement Team Viewer est requis).  </li>
+<li>  Solutions de partenaires de protection contre les menaces mobiles (MTD) (un abonnement MTD est requis).  </li>
 <li>  Une solution de gestion des dépenses de télécommunication (un abonnement à une solution de gestion des dépenses de télécommunication est requis).  </li>
-<li>  Microsoft Defender ATP (Windows E5 ou Microsoft 365 E5 licences requises).  </li>
 </ul></li>
 <li>  Inscription de périphériques de chaque plateforme prise en charge sur Intune.  </li>
 </ul></li>
 </ul></li>
-<li>  Fournir des conseils sur la protection des applications sur :
+<li>  Fournir des conseils sur la protection des applications sur :
 <ul>
 <li>  Configurer des stratégies de protection des applications pour chaque plateforme prise en charge.  </li>
-<li>  La configuration des stratégies d’accès conditionnel pour les applications gérées.  </li>
-<li>  Ciblage des groupes d’utilisateurs appropriés avec les stratégies MAM mentionnées ci-dessus.  </li>
-<li>  Utilisation des rapports d’utilisation avec gestion des applications.  </li>
+<li>  Configuration des stratégies d’accès conditionnel pour les applications gérées.  </li>
+<li>  Ciblage des groupes d’utilisateurs appropriés avec les stratégies MAM mentionnées précédemment.  </li>
+<li>  Utilisation des rapports d’utilisation des applications gérées.  </li>
 </ul></li>
-<li>  Fournir des conseils de migration à partir de la gestion de PC héritée vers Intune MDM.  </li>
+<li>  Fourniture de conseils de migration de la gestion des PC hérités vers la gestion des systèmes de gestion Intune.  </li>
 </ul>
-  <strong>Remarque</strong>: la gestion des PC hérités n’est plus prise en charge depuis le 15 octobre 2020.  
+  
 </li>
 </ul>
   
 <strong>Attachement via le cloud</strong>  
 
-  Nous vous guiderons tout au long de la préparation au Cloud : attachez des environnements Configuration Manager existants avec Intune. Les étapes exactes dépendent de votre environnement source. La procédure inclut les étapes suivantes :  
+  Nous vous guidons tout au long de la préparation à l’attachement dans le cloud des environnements Configuration Manager existants avec Intune. Les étapes exactes dépendent de votre environnement source. La procédure inclut les étapes suivantes :  
 <ul>
 <li>  Licences pour les utilisateurs finaux.  </li>
 <li>  Configurer les identités pour les utiliser avec Intune en tirant parti de votre Active Directory local et des identités cloud.  </li>
 <li>  Ajouter des utilisateurs à votre abonnement Intune, définir des rôles d’administrateur informatique et créer des groupes d’utilisateurs et d’appareils.  </li>
-<li>  Fournir des conseils sur la configuration de la participation hybride Azure AD.  </li>
-<li>  Fournir des conseils sur la configuration d’Azure AD pour l’inscription automatique MDM.  </li>
-<li>  Fourniture de conseils sur la configuration de la passerelle de gestion cloud.  </li>
+<li>  Fourniture de conseils pour la configuration hybride de la jointation Azure AD.  </li>
+<li>  Fourniture d’instructions sur la configuration d’Azure AD pour l’inscription automatique À la gestion des fonctionnalités de gestion des plateformes (MDM).  </li>
+<li>  Fourniture d’instructions sur la façon de configurer la passerelle de gestion cloud lorsqu’elle est utilisée comme solution pour la cogestion de la gestion des appareils basés sur Internet à distance.  </li>
 <li>  Configuration des charges de travail prises en charge que vous voulez basculer vers Intune.  </li>
 <li>  Installation du client Configuration Manager dans les appareils inscrits sur Intune.  </li>
 </ul> 
 
-<strong>Déployer Outlook Mobile pour iOS et Android de manière sécurisée</strong> Nous pouvons fournir des conseils pour vous aider à déployer Outlook Mobile pour iOS et Android de manière sécurisée dans votre organisation afin de vous assurer que toutes les applications requises sont installées sur vos utilisateurs.  
-  Les étapes de déploiement sécurisé d’Outlook Mobile pour iOS et Android avec Intune dépendent de votre environnement source. Elle peut inclure les éléments suivants :
+<strong>Déployer Outlook Mobile pour iOS et Android en toute sécurité</strong> Nous pouvons fournir des conseils pour vous aider à déployer Outlook Mobile pour iOS et Android en toute sécurité dans votre organisation afin de vous assurer que toutes les applications requises sont installées pour vos utilisateurs.  
+  La procédure de déploiement sécurisé d’Outlook Mobile pour iOS et Android avec Intune dépend de votre environnement source. Il peut inclure les suivants :
 <ul>
-<li>  Téléchargement des applications Outlook pour iOS et Android, Microsoft authentificateur et portail d’entreprise Intune via le magasin d’applications Apple ou Google Play Store.  </li>
-<li>  Fournir des conseils sur la configuration des éléments suivants :
+<li>  Téléchargement des applications Outlook pour iOS et Android, Microsoft Authenticator et le portail d’entreprise Intune via l’App Store d’Apple ou Google Play Store.  </li>
+<li>  Fourniture d’instructions sur la configuration :
 <ul>
-<li>  Le déploiement d’applications de portail d’entreprise Outlook pour iOS et Android, Microsoft Authenticator et Intune avec Intune.  </li>
+<li>  Déploiement d’applications Outlook pour iOS et Android, Microsoft Authenticator et portail d’entreprise Intune avec Intune.  </li>
 <li>  Stratégies de protection des applications.  </li>
 <li>  Stratégies d’accès conditionnel.  </li>
-<li>  Stratégies de configuration de l’application.  </li>
+<li>  Stratégies de configuration d’application.  </li>
 </ul></li>
-</ul>
-  
-  <strong>Remarque</strong>: FastTrack ne prend pas en charge la sécurisation d’Outlook pour iOS et Android avec les stratégies de boîte aux lettres d’appareils mobiles Exchange. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide à ce propos.  
+</ul>  
   </td>
-<td>  Les administrateurs informatiques doivent disposer d’une autorité de certification existante, d’un réseau sans fil et d’infrastructures VPN qui travaillent déjà dans leurs environnements de production lors de la planification du déploiement de profils réseau sans fil et VPN avec Intune.  
-  <strong>Remarque</strong>: le service FastTrack n’inclut pas d’aide pour configurer ou configurer des autorités de certification, des réseaux sans fil, des infrastructures VPN ou des certificats poussés pour Intune.  
+<td>  Les administrateurs informatiques doivent avoir une autorité de certification, un réseau sans fil et des infrastructures VPN existants qui fonctionnent déjà dans leurs environnements de production lors de la planification du déploiement de réseau sans fil et de profils VPN avec Intune.  
+  <strong>Remarque</strong>: l’avantage du service FastTrack n’inclut pas d’assistance pour la configuration des autorités de certification, des réseaux sans fil, des infrastructures VPN ou des certificats Push Apple MDM pour Intune.  
  
-  <strong>Remarque</strong>: l’avantage de service FastTrack n’inclut pas d’aide pour la configuration ou la mise à niveau du serveur de site Configuration Manager et du client Configuration Manager vers la configuration minimale requise pour la prise en charge de l’attachement via le cloud. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide à ce propos.
+  <strong>Remarque</strong>: l’avantage de service FastTrack n’inclut pas d’aide pour la configuration ou la mise à niveau du serveur de site Configuration Manager et du client Configuration Manager vers la configuration minimale requise pour la prise en charge de l’attachement via le cloud. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide à ce sujet.
 
   <strong>Intune intégré avec Microsoft Defender - Protection avancée contre les menaces (ATP)</strong> 
  
-  <strong>Remarque</strong>: nous fournissons une assistance sur l’intégration d’Intune avec Microsoft Defender ATP et sur la création de stratégies de conformité des appareils basées sur son évaluation du niveau de risque de Windows 10. Nous ne fournissons pas d’assistance pour l’achat, la gestion des licences ou l’activation. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide à ce propos.  
+  <strong>Remarque</strong>: nous fournissons de l’aide sur l’intégration d’Intune à Microsoft Defender ATP et la création de stratégies de conformité des appareils en fonction de son évaluation du niveau de risque Windows 10. Nous ne fournissons pas d’aide sur les achats, les licences ou l’activation. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide à ce sujet.  
   
 <strong>Windows Autopilot</strong> 
  
@@ -1123,29 +1118,29 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Détails de l’aide FastTrack</strong></th>
-<th><strong>Attentes en matière d’environnement source</strong></th>
+<th><strong>Détails des conseils FastTrack</strong></th>
+<th><strong>Attentes de l’environnement source</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><strong>Windows 10</strong></td>
-<td>  Nous fournissons des conseils pour la mise à niveau de Windows 7 professionnel et Windows 8,1 professionnel vers Windows 10 entreprise.  
-  Nous fournissons des conseils à distance pour :
+<td>  Nous fournissons des conseils pour la mise à Windows 7 Professionnel de Windows 8.1 Professionnel vers Windows 10 Entreprise.  
+  Nous fournissons des conseils à distance pour :
 <ul>
-<li>  Comprendre votre intention Windows 10.  </li>
-<li>  Évaluation de votre environnement source et de la configuration requise (Assurez-vous que le gestionnaire de configuration du point de terminaison Microsoft est mis à niveau vers le niveau requis pour prendre en charge le déploiement de Windows 10).  </li>
-<li>  Déploiement des applications Windows 10 entreprise et Microsoft 365 à l’aide du gestionnaire de configuration de point de terminaison Microsoft ou de Microsoft 365.  </li>
-<li>  Recommandations sur les options pour évaluer vos applications Windows 10.  </li>
-<li>  Activation de l’analyse et des conseils de bureau par le biais de la création d’un plan de déploiement de l’analyse ordinateur de bureau.  </li>
-<li>  Évaluation de la compatibilité des applications Microsoft 365 en tirant parti du tableau de bord de disponibilité Office 365 du gestionnaire de configuration ou de la boîte à outils de préparation autonome pour Office plus aide à déployer des applications Microsoft 365.  </li>
-<li>  Création d’une liste de contrôle de correction sur ce que vous devez faire pour faire en sorte que votre environnement source réponde à la configuration minimale requise pour un déploiement réussi.  </li>
-<li>  Fournir des conseils de mise à niveau pour vos appareils existants vers Windows 10 entreprise s’ils répondent à la configuration matérielle requise pour l’appareil.  </li>
-<li>  Fournir des conseils de mise à niveau pour prendre en charge votre mouvement de déploiement existant. FastTrack recommande et fournit des conseils pour une mise à niveau sur place vers Windows 10. Des instructions sont également disponibles pour l’installation d'une image propre de Windows et les scénarios de déploiement Windows Auopilot.  </li>
-<li>  Déploiement d’applications Microsoft 365 à l’aide du gestionnaire de configuration dans le cadre du déploiement de Windows 10.   </li>
-<li>  Fournir des conseils pour aider votre organisation à se tenir au courant des applications Windows 10 entreprise et Microsoft 365 à l’aide de votre environnement de gestionnaire de configuration existant ou de Microsoft 365.  </li>
+<li>  Comprendre votre intention de Windows 10.  </li>
+<li>  Évaluation de votre environnement source et de la configuration requise (assurez-vous que Microsoft Endpoint Configuration Manager est mis à niveau vers le niveau requis pour prendre en charge le déploiement de Windows 10).  </li>
+<li>  Déploiement de Windows 10 Entreprise et Microsoft 365 Apps à l’aide de Microsoft Endpoint Configuration Manager ou Microsoft 365.  </li>
+<li>  Recommandations d’options pour évaluer vos applications Windows 10.  </li>
+<li>  Activation de l’utilisation de Desktop Analytics et de conseils via la création d’un plan de déploiement Desktop Analytics.  </li>
+<li>  Évaluation de la compatibilité des applications Microsoft 365 en tirant parti du tableau de bord de préparation d’Office 365 dans Configuration Manager ou avec le Shared Computer Toolkit de préparation autonome pour Office et une assistance pour le déploiement de Microsoft 365 Apps.  </li>
+<li>  Création d’une liste de vérification de correction sur ce que vous devez faire pour mettre votre environnement source au niveau minimal requis pour un déploiement réussi.  </li>
+<li>  Fournir des conseils de mise à niveau pour vos appareils existants vers Windows 10 Entreprise s’ils répondent à la configuration matérielle requise.  </li>
+<li>  Fournir des instructions de mise à niveau pour prendre en charge votre mouvement de déploiement existant. FastTrack recommande et fournit des conseils pour une mise à niveau sur place vers Windows 10. Des instructions sont également disponibles pour l’installation d'une image propre de Windows et les scénarios de déploiement Windows Auopilot.  </li>
+<li>  Déploiement de Microsoft 365 Apps à l’aide de Configuration Manager dans le cadre du déploiement de Windows 10.   </li>
+<li>  Fournir des conseils pour aider votre organisation à rester à jour avec Windows 10 Entreprise et Microsoft 365 Apps à l’aide de votre environnement Configuration Manager existant ou de Microsoft 365.  </li>
 </ul>
-  <strong>Les éléments suivants sont hors de portée </strong>  
+  <strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li>  Mettre à niveau Configuration Manager vers la branche actuelle.  </li>
 <li>  Créer des images personnalisées pour le déploiement de Windows 10.  </li>
@@ -1156,31 +1151,31 @@ Nous fournissons également des conseils pour appliquer la protection à l’aid
 <li>  Utiliser le Microsoft Deployment Toolkit (MDT) pour capturer et déployer des images Windows 10.  </li>
 <li>  Utiliser l’outil de migration de l’état utilisateur (USMT).  </li>
 </ul>
-Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide sur ces services.  </td>
+Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide sur ces services.  </td>
 <td>  Pour mettre à niveau un PC, vous devez respecter les conditions suivantes :
 <ul>
-<li>  Système d’exploitation source : Windows 7 entreprise ou professionnel, Windows 8,1 entreprise ou professionnel.  </li>
-<li>  Appareils : ordinateur de bureau, bloc-notes ou format tablette.  </li>
-<li>  Système d’exploitation cible : fenêtre 10 entreprise.  </li>
+<li>  Système d’exploitation source : Windows 7 Entreprise professionnel, Windows 8.1 Entreprise ou Professionnel.  </li>
+<li>  Appareils : facteur de forme de bureau, de bloc-notes ou de tablette.  </li>
+<li>  Système d’exploitation cible : Fenêtre 10 Entreprise.  </li>
 </ul>
 Pour mettre à niveau une infrastructure, vous devez respecter les exigences suivantes :
 <ul>
-<li>  Gestionnaire de configuration de point de terminaison Microsoft.  </li>
-<li>  La version du gestionnaire de configuration doit être prise en charge par la version cible de Windows 10. Pour plus d’informations, voir le tableau de prise en charge de Configuration Manager de l’article <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Prise en charge de Windows 10 dans Configuration Manager</a>.  </li>
+<li>  Microsoft Endpoint Configuration Manager.  </li>
+<li>  La version de Configuration Manager doit être prise en charge par la version cible de Windows 10. Pour plus d’informations, voir le tableau de prise en charge de Configuration Manager de l’article <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Prise en charge de Windows 10 dans Configuration Manager</a>.  </li>
 </ul>
 
 <tr class="odd">
 <td><strong>Microsoft Defender – Protection avancée contre les menaces (ATP)</strong></td>
 <td>  Microsoft Defender – Protection avancée contre les menaces est une plateforme conçue pour aider les réseaux d’entreprise à prévenir, détecter et examiner les menaces avancées et à y répondre.  
-  Nous fournissons des conseils à distance pour :
+  Nous fournissons des conseils à distance pour :
 <ul>
 <li>  Déploiement des technologies pour sécuriser vos points de terminaison.  </li>
-<li>  Configuration de la protection des points de terminaison et des profils de restriction d’appareil.  </li>
-<li>  Évaluation de la version du système d’exploitation et de la gestion des périphériques (notamment Intune, le gestionnaire de configuration du point de terminaison Microsoft, les objets de stratégie de groupe (GPO) et les configurations tierces), ainsi que l’état de vos services AV Windows Defender ou d’autres logiciels de sécurité de point de terminaison.  </li>
-<li>  Évaluation de l’état de vos services AV Windows ou d’un autre logiciel de sécurité de point de terminaison.  </li>
-<li>  Évaluation des proxys et des pare-feu pour limiter le trafic réseau.  </li>
-<li>  Activation du service ATP Microsoft Defender en expliquant comment déployer un profil d’agent ATP à l’aide d’un point de terminaison intégré.  </li>
-<li>  Conseils de déploiement, assistance de configuration et formation sur :
+<li>  Configuration des profils de protection des points de terminaison et de restriction d’appareil.  </li>
+<li>  Évaluation de la version du système d’exploitation et de la gestion des appareils (notamment Intune, Microsoft Endpoint Configuration Manager, objets de stratégie de groupe et configurations tierces), ainsi que l’état de vos services antivirus Windows Defender ou d’autres logiciels de sécurité de point de terminaison.  </li>
+<li>  Évaluation de l’état de vos services Antivirus Windows ou d’autres logiciels de sécurité de point de terminaison.  </li>
+<li>  Évaluation des proxies et des pare-feu limitant le trafic réseau.  </li>
+<li>  Activation du service Microsoft Defender ATP en expliquant comment déployer un profil d’agent ATP à l’aide d’un point de terminaison intégré.  </li>
+<li>  Conseils de déploiement, assistance à la configuration et formation sur :
 <ul>
 <li>  
   La gestion des menaces et des vulnérabilités.  
@@ -1197,15 +1192,16 @@ Pour mettre à niveau une infrastructure, vous devez respecter les exigences sui
 <li>  
   Les enquêtes et résolutions automatiques.  
   </li>
+<li> Microsoft Defender ATP (les licences Windows E5 ou Microsoft 365 E5 sont requises).  </li>
 <li>  
   Le niveau de sécurité.  
   </li>
 </ul></li>
-<li>  Examen des simulations et des didacticiels (par exemple, scénarios de pratique, faux programme malveillant et enquêtes automatisées).  </li>
+<li>  Examen des simulations et didacticiels (tels que les scénarios pratiques, les programmes malveillants factices et les enquêtes automatisées).  </li>
 <li>  Vue d’ensemble des fonctionnalités de compte-rendu et d’analyse des menaces.  </li>
 <li>  L’intégration d’Office 365 – Protection avancée contre les menaces avec Microsoft Defender – Protection avancée contre les menaces.  </li>
 <li>  Effectuer des procédures pas à pas dans le portail du Centre de sécurité Microsoft Defender.  </li>
-<li>  Les systèmes d’exploitation suivants :
+<li>  Les systèmes d’exploitation suivants :
 <ul>
 <li>  
   Windows 10.  
@@ -1223,17 +1219,17 @@ Pour mettre à niveau une infrastructure, vous devez respecter les exigences sui
   Windows Server Semi-Annual Channel (SAC) version 1803.  
   </li>
 <li>  
-  macOS versions 10,13, 10,14 et 10,15.  
+  macOS versions 10.13, 10.14 et 10.15.  
   </li>
 </ul>
 </li>
 </ul>
-<strong>Remarque :</strong> Toutes les versions de Windows Server doivent être gérées par la dernière version de System Center Configuration Manager 2012 (versions 1012 R2, 1511 ou 1602) ou le gestionnaire de configuration du point de terminaison de Microsoft (version 2002 ou ultérieure). 
+<strong>Remarque :</strong> Toutes les versions de Windows Server doivent être gérées par la dernière version de System Center Configuration Manager 2012 (versions 1012 R2, 1511 ou 1602) ou Microsoft Endpoint Configuration Manager (version 2002 ou ultérieure). 
 
 </li>
 </ul>
 
-<strong>Les éléments suivants sont hors de portée </strong>  
+<strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li>  Gestion de projet des activités de correction du client.  </li>
 <li>  Support sur site.  </li>
@@ -1253,31 +1249,31 @@ Pour mettre à niveau une infrastructure, vous devez respecter les exigences sui
   Appareils mobiles (Android et iOS).  
   </li>
 </ul></li>
-<li>  Intégration et configuration du serveur :
+<li>  Intégration et configuration du serveur :
 <ul>
 <li>  
-  Configuration d’un serveur proxy pour les communications hors ligne.  
+  Configuration d’un serveur proxy pour les communications hors connexion.  
   </li>
 <li>  
-  Configuration des packages de déploiement de Configuration Manager sur les instances et versions de gestionnaire de configuration de bas niveau.  
+  Configuration des packages de déploiement Configuration Manager sur les instances et versions de Configuration Manager de bas niveau.  
   </li>
 <li>  
-  Intégration de serveurs à Azure Security Center.  
+  Intégration de serveurs au Centre de sécurité Azure.  
   </li>
 <li>  
-  Serveurs non gérés par le gestionnaire de configuration.  
+  Serveurs non gérés par Configuration Manager.  
   </li>
 </ul></li>
-<li>  intégration et configuration d’macOS :
+<li>  Intégration et configuration macOS :
 <ul>
 <li>  
-  Déploiement basé sur Intune manuel.  
+  Déploiement intune manuel.  
   </li>
 <li>  
   Déploiement basé sur JAMF.
   </li>
 <li>  
-  Autre déploiement basé sur des produits MDM (Mobile Device Management).  
+  Autres déploiements basés sur des produits de gestion des périphériques mobiles (MDM).  
   </li>
 <li>  
   Déploiement manuel.  
@@ -1299,13 +1295,13 @@ Pour mettre à niveau une infrastructure, vous devez respecter les exigences sui
   </li>
 </ul></li>
 <li>  Inscription ou configuration des Spécialistes des menaces Microsoft.  </li>
-<li>  La configuration ou la formation, l’API de révision ou les connexions de gestion des événements et des informations de sécurité (SIEM).  </li>
+<li>  Révision de la configuration ou de la formation sur les CONNEXIONS API ou informations de sécurité et de gestion des événements (SIEM).  </li>
 <li>  Inscription ou configuration de la Protection Microsoft contre les menaces (MTP).  </li>
 <li>  Formation ou conseils pour le repérage avancé.  </li>
 <li>  Formation ou recommandations couvrant l’utilisation ou la création de requêtes Kusto.</li>
 </li>
 </ul>
-Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide sur ces services.  
+Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide sur ces services.  
 </ul></td>
 <td></td>
 
@@ -1318,62 +1314,62 @@ Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenair
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Détails de l’aide FastTrack</strong></th>
-<th><strong>Attentes en matière d’environnement source</strong></th>
+<th><strong>Détails des conseils FastTrack</strong></th>
+<th><strong>Attentes de l’environnement source</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><strong>Windows Virtual Desktop</strong></td>
-<td><p>Nous fournissons des conseils de déploiement pour l’intégration à Windows Virtual Desktop (un service de virtualisation d’application et de bureau). Windows Virtual Desktop tire parti de l’expérience multisession Windows 10 et est optimisé pour les applications Microsoft 365 pour entreprise avec une sécurité et une gestion intégrées pour Microsoft 365.</p>
-<p>Nous fournissons des conseils à distance pour :</p>
+<td><p>Nous fournissons des conseils de déploiement pour l’intégration à Windows Virtual Desktop (un service de virtualisation de bureau et d’application). Windows Virtual Desktop tire parti de l’expérience multisess session windows 10 et est optimisé pour Microsoft 365 Apps for Enterprise avec une sécurité et une gestion intégrées pour Microsoft 365.</p>
+<p>Nous fournissons des conseils à distance pour :</p>
 <ul>
-<li>Déployez votre environnement de bureau virtuel Windows avec les applications multisession Windows 10 entreprise et Microsoft 365 pour Enterprise à l’aide des éléments suivants :
+<li>Déploiement de votre environnement Windows Virtual Desktop avec Windows 10 Entreprise multisesse et Microsoft 365 Apps for Enterprise à l’aide des outils suivants :
 <ul>
-<li>Image Azure Marketplace.</li>
+<li>Image Marketplace Azure.</li>
 <li>Image partagée.</li>
-<li>Office Deployment Toolkit (ODT).</li>
+<li>Office Deployment Shared Computer Toolkit (ODT).</li>
 </ul></li>
-<li>Configuration de FSLogix :
+<li>Configuration de FSLogix :
 <ul>
-<li>Déploiement de l’agent FSLogix avec le conteneur de profil.</li>
-<li>Déploiement de l’agent FSLogix avec un conteneur Office.</li>
+<li>Déploiement de l’agent FSLogix avec conteneur de profils.</li>
+<li>Déploiement de l’agent FSLogix avec le conteneur Office.</li>
 <li>Configuration du dossier FSLogix avec des exclusions de contenu.</li>
 </ul></li>
 <li>Déploiement de Microsoft Edge.</li>
 <li>Déploiement de Microsoft Teams.</li>
-<li>Connexion à l’aide des clients de bureau virtuels Windows.</li>
+<li>Connexion à l’aide des clients Windows Virtual Desktop.</li>
 </ul>
 
-<strong>Les éléments suivants sont hors de portée</strong>
+<strong>Ce qui suit est hors de portée</strong>
 <ul>
-<li>Gestion de projet du déploiement de bureau virtuel Windows du client.</li>
-<li>Déploiement et virtualisation d’applications tierces.</li>
+<li>Gestion de projet du déploiement Windows Virtual Desktop du client.</li>
+<li>Virtualisation et déploiement d’applications tierces.</li>
 <li>Images personnalisées.</li>
 <li>Migrations et scénarios impliquant VMware et Citrix.</li>
 <li>Scénarios Linux.</li>
 <li>Conversion ou migrations de profils utilisateur.</li>
 </ul>
-Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide sur ces services.</td>
-<td>Vous devez déjà disposer des éléments suivants :
+Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide sur ces services.</td>
+<td>Vous devez déjà avoir les choses suivantes :
 <ul>
-<li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Conditions requises en matière de licences de bureau virtuel Windows</a>.</li>
-<li>Mise en réseau Azure :
+<li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Conditions requises pour les licences Windows Virtual Desktop.</a></li>
+<li>Mise en réseau Azure :
 <ul>
-<li>Création de réseau virtuel (VNET) et création de sous-réseaux.</li>
-<li>Groupes de sécurité du réseau et du pare-feu.</li>
+<li>Création et sous-réseau de réseau virtuel (VNET).</li>
+<li>Pare-feu et groupes de sécurité réseau.</li>
 <li>VPN et ExpressRoute.</li>
-<li>Routage vers Azure à partir de l’organisation locale.</li>
-<li>Règles de pare-feu pour autoriser la connectivité au bureau virtuel Windows.
+<li>Routage vers Azure à partir de l’local.</li>
+<li>Règles de pare-feu pour autoriser la connectivité à Windows Virtual Desktop.
 </ul>
-Pour plus d’informations, voir <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients"> prise en charge des clients de bureau à distance</a>.
+Pour plus d’informations, voir <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">Clients Bureau à distance pris en charge.</a>
 </ul>
-<ul><li>Installation générale d’Azure AD :
+<ul><li>Configuration générale d’Azure AD :
 <ul>
-<li>Stratégie <i>d’identité (vous ne pouvez utiliser qu’une des trois options suivantes) :</i>
+<li>Stratégie <i>d’identité (vous ne pouvez utiliser qu’une des trois options suivantes) :</i>
 <ul>
 <li>Active Directory avec Azure AD Connect dans Azure.</li>
-<li>Active Directory avec Azure AD Connect sur site sur un réseau privé virtuel (VPN) ou ExpressRoute.</li>
+<li>Active Directory avec Azure AD Connect en local sur VPN ou ExpressRoute.</li>
 <li>Services de domaine Active Directory (AD DS).</li>
 </ul></li>
 </ul></li>
@@ -1389,37 +1385,37 @@ Pour plus d’informations, voir <a href="https://docs.microsoft.com/azure/virtu
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Détails de l’aide FastTrack</strong></th>
-<th><strong>Attentes en matière d’environnement source</strong></th>
+<th><strong>Détails des conseils FastTrack</strong></th>
+<th><strong>Attentes de l’environnement source</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
 <td><strong>Soutien aux Applications</strong></td>
-<td>  Application s’assurer est un service conçu pour résoudre les problèmes liés à la compatibilité des applications avec Windows 10 et Microsoft 365 apps. Lorsque vous demandez le service de garantie de l’application, nous vous aidons à résoudre les problèmes d’application valides sans coût supplémentaire pour vous avec un abonnement éligible. Nous fournissons également des conseils aux clients qui rencontrent des problèmes de compatibilité lors du déploiement de Windows Virtual Desktop et de Microsoft Edge et de tous les efforts raisonnables pour résoudre les problèmes de compatibilité. Nous fournissons une aide aux corrections pour les applications déployées sur les produits Microsoft suivants :
+<td>  App Assure est un service conçu pour résoudre les problèmes de compatibilité des applications Windows 10 et Microsoft 365 Apps. Lorsque vous demandez le service Soutien aux applications, nous travaillons avec vous pour résoudre les problèmes d’application valides sans frais supplémentaires pour vous avec un abonnement éligible. Nous fournissons également des conseils aux clients qui rencontrent des problèmes de compatibilité lors du déploiement de Windows Virtual Desktop et De Microsoft Edge, et nous faisons tous les efforts raisonnables pour résoudre les problèmes de compatibilité. Nous fournissons une assistance de correction pour les applications déployées sur les produits Microsoft suivants :
 <ul>
 <li>  <strong>Windows 10 </strong> (y compris les appareils ARM64)</li>
 <li> <strong>Applications Microsoft 365</strong>  </li>
-<li>  <strong>Le nouveau Microsoft Edge-</strong> Pour obtenir des instructions de déploiement, consultez <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">la rubrique vue d’ensemble des canaux Microsoft Edge</a>.  </li>
-<li>  <strong>Bureau</strong> - virtuel Windows Pour plus d’informations, consultez <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">la rubrique qu’est-ce que le bureau virtuel Windows ? et le</a> <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">Forum aux questions sur Windows 10 entreprise multi-session</a>.  </li>
+<li>  <strong>Microsoft Edge -</strong> Pour obtenir des conseils de déploiement, voir <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Vue d’ensemble des canaux Microsoft Edge.</a>  </li>
+<li>  <strong>Windows Virtual Desktop</strong> - Pour plus d’informations, voir Qu’est-ce que <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">Windows Virtual Desktop ?</a> et WINDOWS <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">10 Entreprise multisesse FAQ</a>.  </li>
 </ul>
 
-<strong>Les éléments suivants sont hors de portée </strong>  
+<strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li>  Inventaire et test des applications pour déterminer ce qui fonctionne et ce qui ne fonctionne pas sous Windows 10 et Microsoft 365 Apps. Pour obtenir des instructions plus sur ce processus, visitez le <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Centre de Déploiement de Bureau</a>. Si vous êtes intéressé(e) par une évaluation approfondie de préparation de mise à niveau, terminez le formulaire<a href="https://go.microsoft.com/fwlink/?linkid=2053818">client demande pour l’évaluation bureau modernes</a>.</li>
 <li>  Recherche des déclarations de support et de compatibilité avec Windows 10 dans les applications ISV tierces. Pour plus d’informations, consultez <a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">Analytique de bureau</a>.</li>
 <li>Services uniquement pour le conditionnement des applications. Toutefois, l’équipe Soutien aux applications du bureau conditionne les applications que nous avons corrigées pour Windows 10 afin qu’elles puissent être déployées dans l’environnement du client.</li>
 </ul>
 
-<strong>Les responsabilités du client sont les suivants :</strong>  
+<strong>Les responsabilités du client sont les suivantes :</strong>  
 <ul>
 <li>  Création d’un inventaire d’applications.</li>
 <li>  Validation de ces applications sous Windows 10 et Microsoft 365 Apps.</li>
 </ul>
-<strong>Remarque :</strong>  Microsoft ne peut pas modifier votre code source. Toutefois, l’équipe Soutien aux applications peut fournir des conseils aux développeurs d’applications si le code source est disponible pour vos applications. 
+<strong>Remarque :</strong>  Microsoft ne peut pas apporter de modifications à votre code source. Toutefois, l’équipe Soutien aux applications peut fournir des conseils aux développeurs d’applications si le code source est disponible pour vos applications. 
 
 
-  Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft</a> pour obtenir de l’aide sur ces services.  </td>
+  Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide sur ces services.  </td>
 
 </td>
 <td><strong>Applications Windows 10 et Microsoft 365</strong>
@@ -1431,41 +1427,41 @@ Pour plus d’informations, voir <a href="https://docs.microsoft.com/azure/virtu
 <strong>Windows 10 sur ARM</strong>
 <ul>
 <li>  
-Les applications qui fonctionnaient sous Windows 7, Office 2010 ou des versions ultérieures fonctionnent également sur les applications Windows 10 et Microsoft 365 sur les appareils ARM64. 
+Les applications qui fonctionnaient sur Windows 7, Office 2010 ou versions ultérieures fonctionnent également sur Les applications Windows 10 et Microsoft 365 sur les appareils ARM64. 
   </li>
 </ul>
-  <strong>Note</strong> 
+  <strong>Remarque :</strong> 
 <ul>
-<li> l’émulation x64 (64 bits) est disponible en aperçu pour les clients participant au <a href="https://insider.windows.com/">programme Windows Insider</a>.  </li>
+<li> L’émulation x64 (64 bits) est disponible en prévisualisation pour les clients participant au programme <a href="https://insider.windows.com/">Windows Insider.</a>  </li>
 <li>  
- Pour les clients non-Windows Insider sur Windows 10 version 2004 (ou version ultérieure), ARM64 Photoshop est pris en charge à l’aide du <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">Pack de compatibilité OpenCL et OpenGL</a>. 
+ Pour les clients autres que Windows Insider sur Windows 10 version 2004 (ou version ultérieure), ARM64 Photoshop est pris en charge à l’aide du pack de compatibilité OpenCL et <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL.</a> 
   </li>
 <li>  
-  Les clients du programme Windows Insider peuvent télécharger une version Insider du Pack de compatibilité OpenCL et OpenGL à utiliser avec des applications supplémentaires.    
+  Les clients du programme Windows Insider peuvent télécharger une version Insider du pack de compatibilité OpenCL et OpenGL pour une utilisation avec des applications supplémentaires.    
   </li>
 </ul>
-<strong>Le nouveau Microsoft Edge</strong>
+<strong>Microsoft Edge</strong>
 <ul>
 <li>  
-  Si vos applications ou sites Web fonctionnent sur Internet Explorer 11, les versions prises en charge de Google Chrome ou toute version de Microsoft Edge, ils fonctionnent également avec le nouveau Microsoft Edge.  
+  Si vos applications ou sites web fonctionnent sur Internet Explorer 11, les versions de Google Chrome ou toute version de Microsoft Edge, elles fonctionneront également avec Microsoft Edge.  
   </li>
 <li>  
-  Lorsque le site Web est en perpétuelle évolution, veillez à consulter la liste publiée de la <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">compatibilité des sites connus-impact sur les modifications apportées à Microsoft Edge</a>.  
+  Comme le web évolue constamment, n’oubliez pas de passer en revue cette liste publiée des modifications connues qui ont un impact sur la compatibilité des sites <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">pour Microsoft Edge.</a>  
   </li>
 </ul>
-  <strong>Bureau virtuel Windows </strong>  
+  <strong>Windows Virtual Desktop </strong>  
 <ul>
 <li>  
   Les applications virtualisées qui s'exécutent sur un hôte de la session Bureau à distance Windows Server s'exécutent également sur Windows 10 Entreprise multi-session dans le cadre de Windows Virtual Desktop.  
   </li>
 <li>  
-  Les applications qui s’exécutent sur un environnement VDI (Virtual Desktop Infrastructure) Windows 7 ou Windows 10 s’exécutent également sur Windows 7 entreprise et Windows 10 entreprise dans le cadre du bureau virtuel Windows.  
+  Les applications s’exécutant sur un environnement d’infrastructure de bureau virtuel Windows 7 ou Windows 10 (VDI) s’exécutent également sur Windows 7 Entreprise et Windows 10 Entreprise dans le cadre de Windows Virtual Desktop.  
   </li>
 <li>  
   Les applications s’exécutant sur les appareils clients Windows 7 ou Windows 10 s’exécutent également sur Windows 7 Entreprise et Windows 10 Entreprise dans le cadre de Windows Virtual Desktop.  
   </li>
 </ul>
-  <strong>Remarque :</strong> Les exclusions et limitations de compatibilité entre les sessions Windows 10 entreprise sont les suivantes :
+  <strong>Remarque :</strong> Les exclusions et limitations de compatibilité multisessexe Windows 10 Entreprise sont les suivantes :
 <ul>
 <li>  
   Redirection limitée du matériel.  
@@ -1481,29 +1477,29 @@ Les applications qui fonctionnaient sous Windows 7, Office 2010 ou des versions 
 </tbody>
 </table>
 
-## <a name="the-new-microsoft-edge"></a>Le nouveau Microsoft Edge
+## <a name="microsoft-edge"></a>Microsoft Edge
 
 
 <table>
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Détails de l’aide FastTrack</strong></th>
-<th><strong>Attentes en matière d’environnement source</strong></th>
+<th><strong>Détails des conseils FastTrack</strong></th>
+<th><strong>Attentes de l’environnement source</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
-<td><strong>Microsoft Edge</strong> (pour les clients Windows 10 entreprise)</td>
+<td><strong>Microsoft Edge</strong> (pour les clients Windows 10 Entreprise)</td>
 <td><ul>
-<li>  Nous fournissons des conseils de déploiement à distance et une assistance en matière de compatibilité pour : le déploiement de la nouvelle Microsoft Edge sur Windows 10 entreprise avec le gestionnaire de points de terminaison Microsoft (point de terminaison de configuration Microsoft ou Intune).  </li>
-<li>  Configuration de Microsoft Edge (à l’aide des stratégies de groupe ou des stratégies d’application et de configuration de l’application Intune).  </li>
-<li>  Inventorier la liste des sites pouvant nécessiter une utilisation en mode Internet Explorer.  </li>
-<li>  Activation du mode Internet Explorer avec la liste de sites d’entreprise existante.  
-  En outre, si vous disposez d’une application Web ou d’un site qui fonctionne avec Internet Explorer ou Google Chrome et que vous rencontrez des problèmes de compatibilité, nous fournissons des conseils pour résoudre le problème sans frais supplémentaires. Pour plus d’informations, consultez la rubrique <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">application</a> Apto.  </li>
+<li>  Nous fournissons des conseils de déploiement à distance et une assistance de compatibilité pour : déploiement de Microsoft Edge sur Windows 10 Entreprise avec Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Intune).  </li>
+<li>  Configuration de Microsoft Edge (à l’aide de stratégies de groupe ou de stratégies d’application Intune).  </li>
+<li>  Inventoriez la liste des sites qui peuvent nécessiter une utilisation en mode Internet Explorer.  </li>
+<li>  Activation du mode Internet Explorer avec la liste des sites d’entreprise existante.  
+  En outre, si vous avez une application web ou un site qui fonctionne avec Internet Explorer ou Google Chrome et que vous rencontrez des problèmes de compatibilité, nous fournissons des conseils pour résoudre le problème sans frais supplémentaires. Pour <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">plus d’informations,</a> voir App Assure.  </li>
 </ul>
 
-<strong>Les éléments suivants sont hors de portée </strong>  
+<strong>Ce qui suit est hors de portée </strong>  
 <ul>
 <li>Gestion de projet du déploiement Microsoft Edge du client.</li>
 <li>  Support sur site.</li>

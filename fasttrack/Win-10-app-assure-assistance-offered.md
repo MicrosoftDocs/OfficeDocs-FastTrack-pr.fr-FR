@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Lorsque vous achetez un service Windows 10 ou Microsoft 365, des spécialistes FastTrack vous fournissent des conseils et des instructions afin de le déployer vers Windows 10 et Microsoft 365 Apps et de rester à jour sans frais supplémentaires (avec un abonnement éligible).
-ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4cd513a4e0c1edda3598a6650bdea91d90f5584f
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827416"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016420"
 ---
 # <a name="assistance-offered"></a>Assistance proposée  
 
-Lorsque vous achetez l’un des services Windows 10 ou Microsoft 365 (comme indiqué dans [éligibilité](eligibility.md)), les spécialistes FastTrack fournissent des conseils et des instructions de correction si vous rencontrez des problèmes de compatibilité des applications lorsque vous déployez des produits Microsoft plus récents, comme décrit dans les [produits Microsoft pris en charge](#supported-microsoft-products).
+Lorsque vous achetez l’un des services Windows 10 ou [](eligibility.md)Microsoft 365 (comme indiqué dans éligibilité), les spécialistes FastTrack fournissent des conseils et des conseils de correction si vous rencontrez des problèmes de compatibilité des applications lorsque vous déployez des produits Microsoft plus nouveaux, comme indiqué dans les produits Microsoft pris [en](#supported-microsoft-products)charge.
 
 Pour obtenir de l’aide, remplissez la [demande de service Soutien aux applications](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -38,21 +38,21 @@ FastTrack fournit une assistance de conversion pour les applications déployées
 
 ### <a name="windows-10-on-arm"></a>Windows 10 sur ARM
 
-- Les applications qui fonctionnaient sous Windows 7, Office 2010 ou des versions ultérieures fonctionnent sur les applications Windows 10 et Microsoft 365 sur les appareils ARM64.
+- Les applications qui fonctionnaient sur Windows 7, Office 2010 ou versions ultérieures fonctionnent sur Windows 10 et Microsoft 365 Apps sur les appareils ARM64.
 
 > [!NOTE]
-> Les exclusions et limitations de Windows 10 sur ARM incluent les applications qui reposent sur des pilotes logiciels qui ne sont pas compatibles avec ARM, utilisent OpenGL ou OpenCL, ou sont uniquement disponibles dans 64 bits (x64).
+> Les exclusions et limitations de Windows 10 sur ARM incluent les applications qui reposent sur des pilotes logiciels qui ne sont pas compatibles dans ARM, qui utilisent OpenGL ou OpenCL, ou qui sont disponibles uniquement en 64 bits (x64).
 
-### <a name="the-new-microsoft-edge"></a>Le nouveau Microsoft Edge
+### <a name="microsoft-edge"></a>Microsoft Edge
 
-- Si vos applications ou sites Web fonctionnent sur Internet Explorer 11, les versions prises en charge de Google Chrome ou toute version de Microsoft Edge, ils fonctionnent également avec le nouveau Microsoft Edge.
+- Si vos applications ou sites web fonctionnent sur Internet Explorer 11, les versions de Google Chrome ou toute version de Microsoft Edge, elles fonctionneront également avec Microsoft Edge.
 
 Si vous souhaitez en savoir plus sur le déploiement de Microsoft Edge, consultez [Présentation des canaux Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). Le web est en constante évolution, c’est pourquoi nous publions une liste des [ modifications connues ayant un impact sur la compatibilité des sites pour Microsoft Edge.](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
 
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 - Les applications virtualisées qui s'exécutent sur un hôte de la session Bureau à distance Windows Server s'exécutent également sur Windows 10 Entreprise multi-session dans le cadre de Windows Virtual Desktop.
-- Les applications qui s’exécutent sur un environnement VDI (Virtual Desktop Infrastructure) Windows 7 ou Windows 10 s’exécutent également sur Windows 7 entreprise et Windows 10 entreprise dans le cadre du bureau virtuel Windows.
+- Les applications s’exécutant sur un environnement d’infrastructure de bureau virtuel Windows 7 ou Windows 10 (VDI) s’exécutent également sur Windows 7 Entreprise et Windows 10 Entreprise dans le cadre de Windows Virtual Desktop.
 - Les applications s’exécutant sur les appareils clients Windows 7 ou Windows 10 s’exécutent également sur Windows 7 Entreprise et Windows 10 Entreprise dans le cadre de Windows Virtual Desktop.
 
 > [!NOTE]

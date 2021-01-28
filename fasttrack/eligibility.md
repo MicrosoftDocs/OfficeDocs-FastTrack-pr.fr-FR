@@ -3,19 +3,19 @@ title: Éligibilité
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous décrivons les conditions d’éligibilité pour bénéficier de l’assistance guidée à distance des spécialistes FastTrack incluse dans l’achat de licences Microsoft 365 en présentant dans le détail les produits et les fonctionnalités spécifiques couverts.
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750017"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016458"
 ---
 # <a name="eligibility"></a>Éligibilité
 
@@ -36,7 +36,7 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
 > Office 365 ProPlus a été renommé Microsoft 365 Apps. Dans certains cas, vous rencontrerez peut-être encore l’ancien nom. Pour plus d’informations sur la date d’entrée en vigueur de cette modification, consultez [Changement de nom d’Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
   - Microsoft 365 Defender
-  - Microsoft Cloud App Security
+  - Microsoft Cloud App Security
   - Microsoft Defender – Protection avancée contre les menaces (ATP)
   - Microsoft Defender pour Identity 
   - Microsoft Edge
@@ -119,12 +119,12 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
   - Exchange Online Protection
   - Office 365 – Protection avancée contre les menaces
 
-#### <a name="microsoft-teams"></a>Microsoft Teams
+#### <a name="microsoft-teams"></a>Microsoft Teams
 
   - Système téléphonique
   - Forfait d'appels
   - Audioconférence
-  - Salle Microsoft teams
+  - Salle Microsoft Teams
 
 #### <a name="onedrive-for-business"></a>OneDrive Entreprise
 
@@ -168,7 +168,7 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
 
 #### <a name="azure-information-protection"></a>Azure Information Protection
 
-  - Azure Information Protection (plan 2)\*\*\*\*\*
+  - Azure Information Protection
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
       
 <br>
 
-\*\*\*\*Disponible pour les services cloud éligibles aux avantages FastTrack. Dans le cas contraire, les demandes d’assistances sont transmises à un spécialiste FastTrack ou à un partenaire de référence.  
-      
-\*\*\*\*\*Disponible pour P2 dans E5 ou en tant qu’offre autonome. Disponible pour les services cloud éligibles aux avantages FastTrack. Pour les services cloud P1, FastTrack partage le guide de déploiement automatique.  
-      
+\*\*\*\*Disponible pour les services cloud éligibles aux avantages FastTrack. Dans le cas contraire, les demandes d’assistances sont transmises à un spécialiste FastTrack ou à un partenaire de référence.    
 
 ### <a name="windows-10-plans"></a>Plans Windows 10
 

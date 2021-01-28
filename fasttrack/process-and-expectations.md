@@ -3,19 +3,19 @@ title: Processus et attentes
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous allons vous expliquer comment impliquer FastTrack pour obtenir de l’aide, obtenir des conseils sur la réussite d’une expérience et comprendre les responsabilités essentielles de FastTrack et de votre entreprise.
-ms.openlocfilehash: 8bf3ffc97a08f4a89807e6d7dcedbeacc148db60
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49749981"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016506"
 ---
 # <a name="process-and-expectations"></a>Processus et attentes
 
@@ -44,7 +44,7 @@ Pour que votre partenaire demande une assistance en votre nom via le site FastTr
 4.  Sélectionnez votre client dans les résultats de recherche.
 5.  Complétez le formulaire **Demande d’assistance avec Microsoft 365**.
 
-Pour demander de l’aide pour la garantie de l’application, complétez la [demande de service confirmer l’application](https://go.microsoft.com/fwlink/?linkid=2022721).
+Pour demander de l’aide pour Soutien aux applications, remplissez la demande [de service Soutien aux applications.](https://go.microsoft.com/fwlink/?linkid=2022721)
 
 ## <a name="fasttrack-expectations"></a>Attentes pour FastTrack
 
@@ -55,7 +55,7 @@ FastTrack fournit des instructions complètes sur la migration vers et l’utili
 Vous travaillez à distance avec les spécialistes FastTrack par le biais de conversations techniques, de séminaires et de réunions de point de contrôle, notamment :
 
   - **Séminaires techniques et ateliers :** ceux-ci proposent des idées approfondies et des pratiques recommandées pour accélérer le déploiement des services Microsoft 365. Ces réunions fournissent souvent une vue d’ensemble de la documentation, des outils logiciels et des consoles d’administration disponibles. Durée standard : 60 minutes.
-  - **Réunions de point de contrôle :** Toutes les semaines ou tous les TouchPoints pour garantir la progression de votre déploiement. Durée standard : 30 minutes.
+  - **Réunions de point de contrôle :** Des points de contact hebdomadaires ou hebdomadaires pour vous assurer que votre déploiement progresse. Durée standard : 30 minutes.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Résultats attendus et dates importantes 
 

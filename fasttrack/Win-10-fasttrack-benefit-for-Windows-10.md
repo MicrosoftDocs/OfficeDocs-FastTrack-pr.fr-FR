@@ -10,19 +10,19 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Vous utilisez les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez *au moins* 150 licences pour un service ou un plan éligible.
-ms.openlocfilehash: 851f774dda5d6ea93890f7eb3e6d85f766d9fdd8
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: d60c422ae958ffe70e92979b74ae8eed8e736034
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827344"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016434"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Avantages du Centre FastTrack pour Windows 10
 
 > [!CAUTION]
 > Ce contenu n’est plus à jour et il est prévu de le supprimer. Utilisez la table des matières dans le volet de navigation gauche pour voir le contenu actuel.
 
-Vous pouvez utiliser les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez au moins 150 licences pour un service ou un plan éligible. Vous collaborez ensuite avec les spécialistes FastTrack pour évaluer, corriger et déployer Windows 10, le nouveau Microsoft Edge ou Microsoft Defender - Protection avancée contre les menaces, et coordonner les avantages du Centre FastTrack pour Microsoft 365 Apps. 
+Vous pouvez utiliser les services Avantages du Centre FastTrack pour Windows 10 lorsque vous achetez au moins 150 licences pour un service ou un plan éligible. Vous travaillez ensuite avec des spécialistes FastTrack pour évaluer, corriger et déployer Windows 10, Microsoft Edge ou Microsoft Defender Advanced Thread Protection et coordonner les avantages du Centre FastTrack pour Les applications Microsoft 365. 
 
 Le avantages du Centre FastTrack pour Windows 10 fournit également l’application vérifier le service. Avec ce service, un spécialiste FastTrack est disponible pour fournir des conseils et vous communique des instructions si vous rencontrez des problèmes de compatibilité avec l’application. 
 
