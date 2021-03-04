@@ -3,19 +3,19 @@ title: Processus et attentes
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous allons vous expliquer comment impliquer FastTrack pour obtenir de l’aide, obtenir des conseils sur la réussite d’une expérience et comprendre les responsabilités essentielles de FastTrack et de votre entreprise.
-ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 99b21f0fa76cf5c392d47dcb53d78710130327bd
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016506"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416587"
 ---
 # <a name="process-and-expectations"></a>Processus et attentes
 
