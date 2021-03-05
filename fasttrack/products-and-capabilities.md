@@ -9,21 +9,21 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
-description: Cette rubrique contient des détails sur les scénarios de charge de travail pris en charge par FastTrack et les attentes de l’environnement source nécessaires avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui place votre environnement source à la configuration minimale requise pour l’intégration réussie.
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+description: Cette rubrique contient des détails sur les scénarios de charge de travail pris en charge par FastTrack et les attentes de l’environnement source nécessaires avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui place votre environnement source à la configuration minimale requise pour réussir l’intégration.
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416563"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464206"
 ---
 # <a name="products-and-capabilities"></a>Produits et fonctionnalités
 
 ## <a name="services-and-scenarios-supported-by-fasttrack"></a>Services et scénarios pris en charge par FastTrack 
 
-Cette rubrique contient des détails sur les scénarios de charge de travail pris en charge par FastTrack et les attentes de l’environnement source nécessaires avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui place votre environnement source à la configuration minimale requise pour réussir l’intégration.
+Cette rubrique contient des détails sur les scénarios de charge de travail pris en charge par FastTrack et les attentes de l’environnement source nécessaires avant de commencer. En fonction de votre configuration actuelle, nous travaillons avec vous pour créer un plan de correction qui place votre environnement source à la configuration minimale requise pour l’intégration réussie.
 
-FastTrack fournit des conseils pour vous aider tout d’abord avec les fonctionnalités principales (communes à tous les Microsoft Online Services), puis avec l’intégration de chaque service éligible :
+FastTrack fournit des conseils pour vous aider tout d’abord avec les fonctionnalités principales (courantes pour tous les Microsoft Online Services), puis avec l’intégration de chaque service éligible :
 
   - [Général](#general)
   - [Sécurité et conformité](#security-and-compliance)
@@ -59,12 +59,12 @@ FastTrack fournit des conseils pour vous aider tout d’abord avec les fonctionn
 
 Nous fournissons des conseils à distance pour :
 <ul>
-<li>Préparation des identités Active Directory locales pour la synchronisation avec Azure Active Directory (Azure AD), y compris l’installation et la configuration d’Azure AD Connect (à forêt unique ou multi-forêts) et la gestion des licences (y compris les licences basées sur un groupe).</li>
+<li>Préparation des identités Active Directory locales pour la synchronisation avec Azure Active Directory (Azure AD), notamment l’installation et la configuration d’Azure AD Connect (à forêt unique ou multi-forêts) et la gestion des licences (y compris les licences basées sur un groupe).</li>
 <li>Création d’identités cloud, y compris l’importation et la gestion des licences en bloc, y compris l’utilisation de licences basées sur des groupes.</li>
 <li>Choix et activation de la méthode d’authentification correcte pour votre parcours dans le cloud, la synchronisation de hachage de mot de passe, l’authentification directe ou les services AD FS (Active Directory Federation Services).</li>
 <li>Activation d’AD FS pour les clients avec une forêt Active Directory unique et des identités synchronisées avec l’outil Azure AD Connect. Cela nécessite Windows Server 2012 R2 Active Directory Federation Services 2.0 ou supérieur.</li>
 <li>Migration de l’authentification d’AD FS vers Azure AD à l’aide de la synchronisation de hachage de mot de passe ou de l’authentification directe.</li>
-<li>Migration d’applications pré-intégrées (telles que des applications SaaS (software-as-a-service) azure AD AD gallery vers Azure AD pour l' sign-on unique (SSO).</li>
+<li>Migration d’applications pré-intégrées (telles que les applications SaaS (software-as-a-service) azure AD AD gallery) vers Azure AD pour l' sign-on unique (SSO).</li>
 <li>Activation des intégrations d’applications SaaS avec l' luiso à partir de la galerie Azure AD.</li>
 <li>Activation de la mise en service automatique des utilisateurs pour les applications SaaS pré-intégrées, comme indiqué dans la liste de didacticiels sur l’intégration des applications <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list">(limitée</a> aux applications SaaS de la galerie Azure AD et à la mise en service sortante uniquement).  </li>
 </td>
@@ -83,7 +83,7 @@ Nous fournissons des conseils à distance pour :
 </ul>
   <strong>Important</strong>  <ul>
 <li>  Pour les scénarios Active Directory à forêts multiples, si Lync 2010, Lync 2013 ou Skype Entreprise est déployé, il doit être déployé dans la même forêt Active Directory qu’Exchange.  </li>
-<li>  Lorsque vous implémentez plusieurs forêts Active Directory avec plusieurs organisations Exchange dans une configuration Exchange multi-hybride, les espaces de noms d’utilisateur principal (UPN) partagés entre les forêts sources ne sont pas pris en charge. Les espaces de noms SMTP principaux entre les organisations Exchange doivent également être séparés. Pour plus d'informations, voir <a href="https://go.microsoft.com/fwlink/?linkid=845444">Déploiements hybrides à forêts Active Directory multiples</a>.  </li>
+<li>  Lors de l’implémentation de plusieurs forêts Active Directory avec plusieurs organisations Exchange dans une configuration Exchange multi-hybride, les espaces de noms d’utilisateur principal (UPN) partagés entre les forêts sources ne sont pas pris en charge. Les espaces de noms SMTP principaux entre les organisations Exchange doivent également être séparés. Pour plus d'informations, voir <a href="https://go.microsoft.com/fwlink/?linkid=845444">Déploiements hybrides à forêts Active Directory multiples</a>.  </li>
 <li>  Pour toutes les configurations à forêts multiples, le déploiement des services AD FS (Active Directory Federation Services) est hors de portée. Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide à ce sujet.  </li>
 </ul></td>
 </tr>
@@ -180,7 +180,7 @@ Nous fournissons des conseils à distance pour :
 <li>  
   Activation d’Azure AD SSPR.  
   </li>
-<li>  Permettre aux utilisateurs de créer et de gérer leur propre sécurité cloud ou groupes Office 365 avec la gestion de groupes libre-service Azure AD.  </li>
+<li>  Permettre aux utilisateurs de créer et de gérer leur propre sécurité cloud ou groupes Office 365 avec la gestion de groupes en libre-service Azure AD.  </li>
 <li>  Gestion de l’accès délégué aux applications d’entreprise avec la gestion des groupes délégués Azure AD.  </li>
 <li>  Activation des groupes dynamiques Azure AD.  </li>
 <li>  Organisation des applications dans le portail Mes applications à l’aide de collections.  </li>
@@ -208,7 +208,7 @@ Nous fournissons des conseils à distance pour :
 
 <strong>Audit avancé</strong> (uniquement pris en charge dans E5)
 
-Nous fournissons des conseils à distance pour : 
+Nous fournissons des conseils à distance pour :  
 <ul>
 <li> Activation de l’audit avancé.</li>
 <li> Exécuter une interface utilisateur du journal d’audit de recherche et des commandes PowerShell d’audit de base.</li>
@@ -351,7 +351,7 @@ Nous fournissons des conseils à distance pour :
 <ul>
 <li> Gestion de projet des activités de correction du client.</li>
 <li> Gestion continue, réponse aux menaces et correction. </li>
-<li> Configuration de l’infrastructure, de l’installation ou du déploiement des téléchargements automatiques de journaux pour les rapports continus à l’aide de Docker ou d’un collecteur de journaux. Pour <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">plus d’informations, voir les 20 principaux cas d’utilisation</a> des cas d’analyse de cas d’analyse de cas.</li>
+<li> Configuration de l’infrastructure, de l’installation ou du déploiement des téléchargements automatiques de journaux pour les rapports continus à l’aide de Docker ou d’un collecteur de journaux. Pour <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">plus d’informations, consultez les 20 principaux cas d’utilisation</a> des cas d’analyse de cas d’analyse de cas.</li>
 <li> Création d’un rapport instantané de découverte cloud.</li>
 <li> Blocage de l’utilisation de l’application à l’aide de scripts de blocage.</li>
 <li> Connexion d’applications personnalisées.</li>
@@ -572,7 +572,7 @@ Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenair
 <li> Configuration de Defender for Identity pour effectuer des requêtes à l’aide du protocole SAMR (Security Account Manager remote) pour identifier les administrateurs locaux sur des ordinateurs spécifiques. </li>
 <li> Configuration de solutions VPN pour ajouter des informations à partir de la connexion VPN à la page de profil d’un utilisateur.  </li>
 <li> Informations sur la sécurité et gestion des événements (SIEM) ou intégration d’API (y compris Azure Sentinel). </li>
-<li> Déploiement des capteurs Defender pour l’identité comme preuve de concept.</li>
+<li> Déploiement des capteurs Defender for Identity comme preuve de concept.</li>
 </ul></td>
 <td><ul>
 <li>  Active Directory déployé.  </li>
@@ -598,7 +598,7 @@ Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenair
 <ul>
 <li>  Création et publication d’étiquettes et de stratégies de rétention (uniquement pris en charge dans E5).  
 </li>
-<li>  Gestion des enregistrements (prise en charge uniquement dans E5).  </li>
+<li>  Gestion des enregistrements (uniquement prise en charge dans E5).  </li>
 <ul><li>  Examen de la création d’un plan de fichiers. </li>
 <li>  Création et gestion des enregistrements (y compris les enregistrements basés sur des événements).  </li>
 <li>  Révision de la disposition. </ul> </li>
@@ -640,7 +640,7 @@ Nous fournissons des conseils à distance pour :
 <li>  Application d’étiquettes de sensibilité (prise en charge dans E3 et E5).  </li>
 <li>  Classifieurs entra nessables (pris en charge dans E5).  </li>
 <li>  Connaissance de vos données avec l’Explorateur de contenu et l’Explorateur d’activités (pris en charge dans E5).  </li>
-<li>  Publication d’étiquettes à l’aide de stratégies (manuelle et automatique) (prise en charge dans E5).  </li>
+<li>  Publication d’étiquettes à l’aide de stratégies (manuelles et automatiques) (prise en charge dans E5).  </li>
 <li>  Création de stratégies de protection contre la perte de données (DLP) de point de terminaison pour les appareils Windows 10 (pris en charge dans E5).  </li>
 <li>  Création de stratégies DLP pour les conversations et les canaux Microsoft Teams.  </li>
 </ul>
@@ -685,7 +685,7 @@ Nous fournissons des conseils à distance pour :
 <ul>
 
 </td>
-<td>En dehors <strong>de la</strong> partie Intégration de base en <a href="#general">général,</a>il n’existe aucune exigence système minimale à l’exception d’Azure Information Protection.
+<td>En dehors <strong>de la partie</strong> Intégration de base en <a href="#general">général,</a>il n’existe aucune exigence système minimale à l’exception d’Azure Information Protection.
 
 <strong>Azure Information Protection</strong>
 
@@ -748,7 +748,7 @@ Les responsabilités préalables du client sont les suivantes :
 <li>  Ciblage des groupes d’utilisateurs appropriés avec les stratégies MAM mentionnées précédemment.  </li>
 <li>  Utilisation des rapports d’utilisation des applications gérées.  </li>
 </ul></li>
-<li>  Fourniture d’instructions de migration de la gestion des PC hérités vers la gestion des ordinateurs de groupe Intune.  </li>
+<li>  Fourniture de conseils de migration de la gestion des PC hérités vers la gestion des systèmes de gestion Intune.  </li>
 </ul>
  
 </li>
@@ -858,7 +858,7 @@ Les logiciels clients en ligne tels que Project pour Office 365, Outlook pour Wi
 <ul>
 <li>  Création et publication d’étiquettes et de stratégies de rétention (uniquement pris en charge dans E5).  
 </li>
-<li>  Gestion des enregistrements (prise en charge uniquement dans E5).  </li>
+<li>  Gestion des enregistrements (uniquement prise en charge dans E5).  </li>
 <ul><li>  Examen de la création d’un plan de fichiers. </li>
 <li>  Création et gestion des enregistrements (y compris les enregistrements basés sur des événements).  </li>
 <li>  Révision de la disposition. </ul> </li>
@@ -901,7 +901,7 @@ Nous fournissons des conseils à distance pour :
 <li>  Application d’étiquettes de sensibilité (prise en charge dans E3 et E5).  </li>
 <li>  Classifieurs entra nessables (pris en charge dans E5).  </li>
 <li>  Connaissance de vos données avec l’Explorateur de contenu et l’Explorateur d’activités (pris en charge dans E5).  </li>
-<li>  Publication d’étiquettes à l’aide de stratégies (manuelle et automatique) (prise en charge dans E5).  </li>
+<li>  Publication d’étiquettes à l’aide de stratégies (manuelles et automatiques) (prise en charge dans E5).  </li>
 <li>  Création de stratégies de protection contre la perte de données (DLP) de point de terminaison pour les appareils Windows 10 (pris en charge dans E5).  </li>
 <li>  Création de stratégies DLP pour les conversations et les canaux Microsoft Teams.  </li>
 </ul>
@@ -944,7 +944,7 @@ Nous fournissons également des conseils si vous souhaitez appliquer une protect
 </ul>
 
 </td>
-<td>En dehors <strong>de la</strong> partie Intégration de base en <a href="#general">général,</a>il n’existe aucune exigence système minimale à l’exception d’Azure Information Protection.
+<td>En dehors <strong>de la partie</strong> Intégration de base en <a href="#general">général,</a>il n’existe aucune exigence système minimale à l’exception d’Azure Information Protection.
 
 <strong>Azure Information Protection</strong>
 
@@ -1007,7 +1007,7 @@ Le cas échéant, nous fournissons également des conseils pour :
 </ul></li>
 <li>  Conseils de routage direct :
 <ul>
-<li>  Conseils de configuration de l’organisation pour la conception du routage direct des scénarios hébergés par un partenaire ou des scénarios déployés par le client pour un nombre de sites au plus de 10.  </li>
+<li>  Conseils de configuration de l’organisation pour la conception du routage direct des scénarios hébergés par des partenaires ou des scénarios déployés par le client pour un nombre de sites au plus de 10.  </li>
 <li> Révision de la configuration du contrôleur de frontière de session (SBC). </li>
 
 <li> Assistance à distance avec la configuration du plan de numérotation. </li>
@@ -1117,7 +1117,7 @@ Pour plus d’informations sur l’utilisation des avantages de FastTrack pour l
 </ul></td>
 <td><br><strong>Pour SharePoint hybride :</strong>  
 <ul>
-<li>  La configuration hybride SharePoint inclut la configuration de la recherche hybride, des sites, de la taxonomie, des types de contenu, OneDrive Entreprise, un lanceur d’applications étendu, des sites extranet et la création de sites libre-service connectés en local à un environnement SharePoint Online cible unique.  </li>
+<li>  La configuration hybride de SharePoint inclut la configuration de la recherche hybride, des sites, de la taxonomie, des types de contenu, OneDrive Entreprise, un lanceur d’applications étendu, des sites extranet et la création de sites libre-service connectés en local à un environnement SharePoint Online cible unique.  </li>
 </ul>
   <strong>Remarque :</strong> La création de sites libre-service n’est pas limitée aux serveurs locaux exécutant SharePoint 2013.  
 <ul>
@@ -1196,7 +1196,7 @@ Nous fournissons des conseils à distance pour l’activation Yammer service Ent
 <li>  
   Activation d’Azure AD SSPR.  
   </li>
-<li>  Permettre aux utilisateurs de créer et de gérer leur propre sécurité cloud ou groupes Office 365 avec la gestion de groupes libre-service Azure AD.  </li>
+<li>  Permettre aux utilisateurs de créer et de gérer leur propre sécurité cloud ou groupes Office 365 avec la gestion de groupes en libre-service Azure AD.  </li>
 <li>  Gestion de l’accès délégué aux applications d’entreprise avec la gestion des groupes délégués Azure AD.  </li>
 <li>  Activation des groupes dynamiques Azure AD.  </li>
 <li>  Organisation des applications dans le portail Mes applications à l’aide de collections.  </li>
@@ -1246,7 +1246,7 @@ Nous fournissons des conseils à distance pour l’activation Yammer service Ent
 <li>  Ciblage des groupes d’utilisateurs appropriés avec les stratégies MAM mentionnées précédemment.  </li>
 <li>  Utilisation des rapports d’utilisation des applications gérées.  </li>
 </ul></li>
-<li>  Fourniture d’instructions de migration de la gestion des PC hérités vers la gestion des ordinateurs de groupe Intune.  </li>
+<li>  Fourniture de conseils de migration de la gestion des PC hérités vers la gestion des systèmes de gestion Intune.  </li>
 </ul>
   
 </li>
@@ -1626,7 +1626,7 @@ Les applications qui fonctionnaient sur Windows 7, Office 2010 ou versions ulté
 </ul>
   <strong>Remarque :</strong> 
 <ul>
-<li> L’émulation x64 (64 bits) est disponible en prévisualisation pour les clients participant au <a href="https://insider.windows.com/">programme Windows Insider.</a>  </li>
+<li> L’émulation x64 (64 bits) est disponible en prévisualisation pour les clients participant au programme <a href="https://insider.windows.com/">Windows Insider.</a>  </li>
 <li>  
  Pour les clients autres que Windows Insider sur Windows 10 version 2004 (ou version ultérieure), ARM64 Photoshop est pris en charge à l’aide du pack de compatibilité OpenCL et <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL.</a> 
   </li>
