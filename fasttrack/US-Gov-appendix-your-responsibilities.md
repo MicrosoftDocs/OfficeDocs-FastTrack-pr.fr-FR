@@ -3,19 +3,19 @@ title: Vos responsabilités pour Office 365 pour le gouvernement américain
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Vous avez les responsabilités suivantes lors de l’intégration.
-ms.openlocfilehash: df3481b18ae675f85add83ba969fce78f24eaf6b
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: c6d54abb51faf276ad5d66a784c8b38cc1ed4c01
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416505"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188023"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Vos responsabilités pour Office 365 pour le gouvernement américain
 
@@ -41,7 +41,7 @@ Vous avez les responsabilités suivantes lors de l’intégration.
 - Gérer, configurer et appliquer des stratégies de sécurité.    
 - Activer les appareils mobiles.    
 - Assurer la configuration, l’analyse, la validation de la bande passante, le test et la surveillance du réseau. 
-- Modifier les règles de pare-feu pour prendre en charge les URL et plages d’adresses IP spécifiques utilisées par les services Office 365 (si nécessaire).
+- Modifiez les règles de pare-feu pour prendre en charge les URL et plages d’adresses IP spécifiques utilisées par les services Office 365 (si nécessaire).
 - Fournir des points de terminaison de proxy inverse locaux à Microsoft (si nécessaire).     
 - Modifier le réseau afin de fournir la bande passante nécessaire pour les services Skype Entreprise Online.   
 - Gérer un processus d’approbation de gestion des modifications techniques et créer la documentation associée.    

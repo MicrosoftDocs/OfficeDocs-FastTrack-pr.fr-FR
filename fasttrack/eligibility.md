@@ -3,19 +3,19 @@ title: Éligibilité
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous décrivons les conditions d’éligibilité pour bénéficier de l’assistance guidée à distance des spécialistes FastTrack incluse dans l’achat de licences Microsoft 365 en présentant dans le détail les produits et les fonctionnalités spécifiques couverts.
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416423"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187983"
 ---
 # <a name="eligibility"></a>Éligibilité
 
@@ -37,14 +37,14 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
-  - Microsoft Defender – Protection avancée contre les menaces (ATP)
+  - Microsoft Defender pour point de terminaison
   - Microsoft Defender pour l’identité 
+  - Microsoft Defender pour Office 365
   - Microsoft Edge
   - Gouvernance des informations Microsoft
   - Protection des informations Microsoft
   - Microsoft Intune
-  - Microsoft Teams
-  - Office 365 – Protection avancée contre les menaces (ATP)
+  - Microsoft Teams
   - OneDrive Entreprise
   - Power BI
   - Project Online
@@ -96,7 +96,7 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
 #### <a name="office-365-enterprise"></a>Office 365 Entreprise
 
   - Office 365 Entreprise E1
-  - Office 365 Entreprise E3
+  - Office 365 Entreprise E3
   - Office 365 Entreprise E4
   - Office 365 Entreprise E5
   - Office 365 Entreprise F3
@@ -117,9 +117,9 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
   - Exchange Online (plan 2)
   - Exchange Online Kiosk
   - Exchange Online Protection
-  - Office 365 – Protection avancée contre les menaces
+  - Microsoft Defender pour Office 365
 
-#### <a name="microsoft-teams"></a>Microsoft Teams
+#### <a name="microsoft-teams"></a>Microsoft Teams
 
   - Système téléphonique
   - Forfait d'appels
@@ -141,7 +141,7 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
 #### <a name="sharepoint-online"></a>SharePoint Online
 
   - SharePoint Online (plan 1)
-  - SharePoint Online (plan 2)
+  - SharePoint Online (offre 2)
 
 #### <a name="yammer"></a>Yammer
 
