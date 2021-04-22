@@ -3,19 +3,19 @@ title: Éligibilité
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous décrivons les conditions d’éligibilité pour bénéficier de l’assistance guidée à distance des spécialistes FastTrack incluse dans l’achat de licences Microsoft 365 en présentant dans le détail les produits et les fonctionnalités spécifiques couverts.
-ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51187983"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51927008"
 ---
 # <a name="eligibility"></a>Éligibilité
 
@@ -36,7 +36,7 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
 > Office 365 ProPlus a été renommé Microsoft 365 Apps. Dans certains cas, vous rencontrerez peut-être encore l’ancien nom. Pour plus d’informations sur la date d’entrée en vigueur de cette modification, consultez [Changement de nom d’Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
   - Microsoft 365 Defender
-  - Microsoft Cloud App Security
+  - Microsoft Cloud App Security
   - Microsoft Defender pour point de terminaison
   - Microsoft Defender pour l’identité 
   - Microsoft Defender pour Office 365
@@ -44,7 +44,7 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
   - Gouvernance des informations Microsoft
   - Protection des informations Microsoft
   - Microsoft Intune
-  - Microsoft Teams
+  - Microsoft Teams
   - OneDrive Entreprise
   - Power BI
   - Project Online
@@ -119,7 +119,7 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
   - Exchange Online Protection
   - Microsoft Defender pour Office 365
 
-#### <a name="microsoft-teams"></a>Microsoft Teams
+#### <a name="microsoft-teams"></a>Microsoft Teams
 
   - Système téléphonique
   - Forfait d'appels
