@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack peut vous aider à migrer le courrier et les données de fichiers de vos environnements sources vers Office 365 (Exchange Online, SharePoint Online et OneDrive Entreprise). Le type d’aide que nous fournissons dépend de votre nombre de licences Office 365.
-ms.openlocfilehash: 07165233711d4d4931f8adac4809b56138078f5a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926996"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996253"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -160,7 +160,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Responsabilités fastTrack pour les migrations Exchange Online
 
 Nos spécialistes FastTrack effectuent les activités standard pendant le projet de migration. Pour plus d’informations, voir les responsabilités relatives à la migration des données dans [Processus et attentes](process-and-expectations.md).
 
@@ -363,7 +363,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>Responsabilités fastTrack pour les migrations SharePoint Online
 
 Nos spécialistes FastTrack effectuent les activités standard pendant le projet de migration. Pour plus d’informations, voir les responsabilités relatives à la migration des données dans [Processus et attentes](process-and-expectations.md).
 
@@ -555,7 +555,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>Responsabilités fastTrack pour les migrations OneDrive Entreprise
 
 Nos spécialistes FastTrack effectuent les activités standard pendant le projet de migration. Pour plus d’informations, voir les responsabilités relatives à la migration des données dans [Processus et attentes](process-and-expectations.md).
 
@@ -569,7 +569,7 @@ Vous effectuez également les activités suivantes, spécifiques aux migrations 
 
 ## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Migration vers Microsoft Teams et les groupes Microsoft 365
 
-Lorsque vous choisissez d'utiliser FastTrack pour migrer vos fichiers vers Microsoft Teams et les groupes Microsoft 365, nous fournissons des conseils de migration et des services de migration des données. Nous vous fournissons des conseils pour vous aider à planifier votre migration, à configurer vos environnements sources, Teams et groupes Microsoft 365, et à tirer parti de nos services de migration de données pour migrer vos fichiers. Vous créez et planifiez vos événements de migration. Nous les lançons conformément à votre planning, nous surveillons leur avancement et nous fournissons des rapports sur leur statut. Une fois vos événements de migration terminés, vous pouvez vous attendre à ce que les fichiers provenant de sources éligibles et correctement programmées de vos environnements sources soient migrés vers Teams et groupes Microsoft 365. Les canaux Teams et les groupes Microsoft 365 doivent être pré-mis en service par le client avant de pouvoir migrer les données vers ces types de destination. Teams et les groupes Microsoft 365 ont une incidence sur vos autorisations sur l'emplacement de destination du fichier. Teams et les groupes Microsoft 365 sont conçus pour permettre la collaboration. Le canal Teams ou le groupe Microsoft 365 déterminent qui a accès à ces fichiers lors de la migration vers ces destinations. FastTrack n'ajoute pas d'utilisateurs finaux ou de groupes à une autorisation de canal Teams ou de groupes Microsoft 365 pendant la migration.
+Lorsque vous choisissez d'utiliser FastTrack pour migrer vos fichiers vers Microsoft Teams et les groupes Microsoft 365, nous fournissons des conseils de migration et des services de migration des données. Nous vous fournissons des conseils pour vous aider à planifier votre migration, à configurer vos environnements sources et Teams et les groupes Microsoft 365, et à tirer parti de nos services de migration de données pour migrer vos fichiers. Vous créez et planifiez vos événements de migration. Nous les lançons conformément à votre planning, nous surveillons leur avancement et nous fournissons des rapports sur leur statut. Une fois vos événements de migration terminés, vous pouvez vous attendre à ce que les fichiers provenant de sources éligibles et correctement programmées de vos environnements sources soient migrés vers Teams et groupes Microsoft 365. Les canaux Teams et les groupes Microsoft 365 doivent être pré-mis en service par le client avant de pouvoir migrer les données vers ces types de destination. Teams et les groupes Microsoft 365 ont une incidence sur vos autorisations sur l'emplacement de destination du fichier. Teams et les groupes Microsoft 365 sont conçus pour permettre la collaboration. Le canal Teams ou le groupe Microsoft 365 déterminent qui a accès à ces fichiers lors de la migration vers ces destinations. FastTrack n'ajoute pas d'utilisateurs finaux ou de groupes à une autorisation de canal Teams ou de groupes Microsoft 365 pendant la migration.
 
 ## <a name="considerations"></a>Considérations
 
@@ -616,7 +616,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 </ul></li>
 </ul>
 <br>
-*Configuration de la synchronisation d’annuaires requise. Seules les autorisations NTFS exposées à l’Explorateur de fichiers Windows sont migrées. Les autorisations gérées directement sur les appareils de partage de fichiers ne sont pas migrées. Si les données sont stockées sur un appareil SMB 2.0, les autorisations équivalentes à NTFS exposées par le protocole SMB sont migrées. Les autorisations sont impactées par le groupe Microsoft 365 et/ou le canal Microsoft Teams. Si la destination est un groupe Microsoft 365 ou un canal Microsoft Teams, le groupe ou le canal détermine le profil des autorisations finales sur les fichiers migrés. Nous vous recommandons de ne pas migrer les autorisations sur les fichiers migrés vers un groupe Microsoft 365 ou un canal Microsoft Teams.</td>
+*Configuration de la synchronisation d’annuaires requise. Seules les autorisations NTFS exposées à l’Explorateur de fichiers Windows sont migrées. Les autorisations gérées directement sur les appareils de partage de fichiers ne sont pas migrées. Si les données sont stockées sur un appareil SMB 2.0, les autorisations équivalentes à NTFS exposées par le protocole SMB sont migrées. Les autorisations sont impactées par le groupe Microsoft 365 et/ou le canal Microsoft Teams. Si la destination est un groupe Microsoft 365 ou un canal Microsoft Teams, le groupe ou le canal détermine le profil d'autorisations final sur les fichiers migrés. Nous vous recommandons de ne pas migrer les autorisations sur les fichiers migrés vers un groupe Microsoft 365 ou un canal Microsoft Teams.</td>
 <td><ul>
 <li> Historique d’appartenance et versions antérieures </li>
 <li> Conversion d’URL incorporées dans le contenu </li>
@@ -694,7 +694,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Notes Box (converties au format de document Word) </li>
 </ul>
 <br>
-*Les autorisations sont impactées par le groupe Microsoft 365 et/ou le canal Microsoft Teams. Si la destination est un groupe Microsoft 365 ou un canal Microsoft Teams, le groupe ou le canal détermine le profil des autorisations finales sur les fichiers migrés. Nous vous recommandons de ne pas migrer les autorisations sur les fichiers migrés vers un groupe Microsoft 365 ou un canal Microsoft Teams. </td>
+*Les autorisations sont impactées par le groupe Microsoft 365 et/ou le canal Microsoft Teams. Si la destination est un groupe Microsoft 365 ou un canal Microsoft Teams, le groupe ou le canal détermine le profil d'autorisations final sur les fichiers migrés. Nous vous recommandons de ne pas migrer les autorisations sur les fichiers migrés vers un groupe Microsoft 365 ou un canal Microsoft Teams. </td>
 <td><ul>
 <li> Historique d’appartenance, versions précédentes et commentaires </li>
 <li> Descriptions des fichiers et des dossiers </li>
@@ -732,7 +732,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <li> Contenu partagé appartenant au compte Dropbox en cours de migration </li>
 </ul>
 <br>
-*Les autorisations sont impactées par le groupe Microsoft 365 et/ou le canal Microsoft Teams. Si la destination est un groupe Microsoft 365 ou un canal Microsoft Teams, le groupe ou le canal détermine le profil des autorisations finales sur les fichiers migrés. Nous vous recommandons de ne pas migrer les autorisations sur les fichiers migrés vers un groupe Microsoft 365 ou un canal Microsoft Teams.
+*Les autorisations sont impactées par le groupe Microsoft 365 et/ou le canal Microsoft Teams. Si la destination est un groupe Microsoft 365 ou un canal Microsoft Teams, le groupe ou le canal détermine le profil d'autorisations final sur les fichiers migrés. Nous vous recommandons de ne pas migrer les autorisations sur les fichiers migrés vers un groupe Microsoft 365 ou un canal Microsoft Teams.
 </td>
 <td><ul>
 <li> Historique d’appartenance, versions précédentes et commentaires </li>
@@ -756,7 +756,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Responsabilités FastTrack
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Responsabilités FastTrack pour les migrations de Microsoft Teams et de groupes Microsoft 365
 
 Nos spécialistes FastTrack effectuent les activités standard pendant le projet de migration. Pour plus d’informations, voir les responsabilités relatives à la migration des données dans [Processus et attentes](process-and-expectations.md).
 
