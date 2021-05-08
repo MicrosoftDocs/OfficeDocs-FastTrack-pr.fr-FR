@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous décrivons les conditions d’éligibilité pour bénéficier de l’assistance guidée à distance des spécialistes FastTrack incluse dans l’achat de licences Microsoft 365 en présentant dans le détail les produits et les fonctionnalités spécifiques couverts.
-ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
+ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927008"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52283446"
 ---
 # <a name="eligibility"></a>Éligibilité
 
@@ -44,7 +44,7 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
   - Gouvernance des informations Microsoft
   - Protection des informations Microsoft
   - Microsoft Intune
-  - Microsoft Teams
+  - Microsoft Teams
   - OneDrive Entreprise
   - Power BI
   - Project Online
@@ -119,12 +119,12 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
   - Exchange Online Protection
   - Microsoft Defender pour Office 365
 
-#### <a name="microsoft-teams"></a>Microsoft Teams
+#### <a name="microsoft-teams"></a>Microsoft Teams
 
   - Système téléphonique
   - Forfait d'appels
   - Audioconférence
-  - Salle Microsoft Teams
+  - Microsoft Teams Salle
 
 #### <a name="onedrive-for-business"></a>OneDrive Entreprise
 
@@ -202,6 +202,9 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
       
 > [!NOTE]
 > Aucune licence minimale n’est requise pour les éditeurs de logiciels indépendants qui créent des applications Windows 10. Toutes les demandes d’application doivent cibler une version de Windows 10 ou de Microsoft 365 Apps qui se situe dans la fenêtre de maintenance standard.
+
+> [!NOTE]
+> L’éligibilité aux avantages du Centre FastTrack est basée sur l’achat de licences payantes pour les offres éligibles mentionnées précédemment. À titre d’exception, FastTrack vous aide à intégrer des licences d’essai Office 365 E1 de mai 2021 au 30 juin 2021 pour les clients éligibles en Inde et au Brésil afin de répondre à l’augmentation actuelle du COVID-19. 
 
 ### <a name="ineligible-plans"></a>Plans non éligibles 
  Voici la liste (non exhaustive) des plans non éligibles aux services FastTrack :
