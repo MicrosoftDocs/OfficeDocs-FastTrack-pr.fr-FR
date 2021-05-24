@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous décrivons les conditions d’éligibilité pour bénéficier de l’assistance guidée à distance des spécialistes FastTrack incluse dans l’achat de licences Microsoft 365 en présentant dans le détail les produits et les fonctionnalités spécifiques couverts.
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570492"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592396"
 ---
 # <a name="eligibility"></a>Éligibilité
 
@@ -33,12 +33,12 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
   - Microsoft 365 Apps
 
 > [!NOTE]
-> Office 365 ProPlus a été renommé Microsoft 365 Apps. Dans certains cas, vous rencontrerez peut-être encore l’ancien nom. Pour plus d’informations sur la date d’entrée en vigueur de cette modification, consultez [Changement de nom d’Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
+> Office 365 ProPlus a été renommé Microsoft 365 Apps. Dans certains cas, vous rencontrerez peut-être encore l’ancien nom. Pour plus d’informations sur la date d’entrée en vigueur de cette modification, consultez [Changement de nom d’Office 365 ProPlus](/deployoffice/name-change).
 
-  - Microsoft 365 Defender
+  - Microsoft 365 Defender
   - Microsoft Cloud App Security
   - Microsoft Defender pour point de terminaison
-  - Microsoft Defender pour l’identité 
+  - Microsoft Defender pour l’identité 
   - Microsoft Defender pour Office 365
   - Microsoft Edge
   - Gouvernance des informations Microsoft
