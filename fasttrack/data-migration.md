@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack peut vous aider à migrer le courrier et les données de fichiers de vos environnements sources vers Office 365 (Exchange Online, SharePoint Online et OneDrive Entreprise). Le type d’aide que nous fournissons dépend de votre nombre de licences Office 365.
-ms.openlocfilehash: 437da2c12375bfc2d9614c452b0685f18ad3d188
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 4fc2f5c1bf74de40109e7022ba7c333065f74d24
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592425"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626671"
 ---
 # <a name="data-migration"></a>Migration des données
 
@@ -108,7 +108,7 @@ Le tableau suivant répertorie les détails de la migration propres à chaque en
 <tr class="even">
 <td><strong>Environnement G Suite (Gmail, contacts et calendrier uniquement)</strong><br />
 <br />
-<strong>Remarque :</strong> Votre environnement G Suite doit respecter les conditions préalables décrites dans [Effectuer une migration G Suite.](/Exchange/mailbox-migration/perform-g-suite-migration)</td>
+<strong>Remarque :</strong> Votre environnement G Suite doit respecter les conditions préalables décrites dans <a href="/exchange/mailbox-migration/perform-g-suite-migration">Effectuer une migration G Suite.</a></td>
 <td>À basculement ou intermédiaire</td>
 <td><ul>
 <li> Messages électroniques </li>
@@ -569,7 +569,7 @@ Vous effectuez également les activités suivantes, spécifiques aux migrations 
 
 ## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Migration vers Microsoft Teams et Microsoft 365 groupes
 
-Lorsque vous choisissez d’utiliser FastTrack pour migrer vos fichiers vers des groupes Microsoft Teams et Microsoft 365, nous fournissons des conseils de migration et des services de migration de données. Nous vous fournissons des conseils pour vous aider à planifier votre migration, à configurer vos environnements sources et vos groupes Teams et Microsoft 365, et à tirer parti de nos services de migration de données pour migrer vos fichiers. Vous créez et planifiez vos événements de migration. Nous les lançons conformément à votre planning, nous surveillons leur avancement et nous fournissons des rapports sur leur statut. Une fois vos événements de migration terminés, vous pouvez vous attendre à ce que les fichiers provenant de sources éligibles et correctement programmées de vos environnements sources soient migrés vers les groupes Teams et Microsoft 365. Teams et Microsoft 365 groupes doivent être pré-mis en service par le client avant de pouvoir migrer les données vers ces types de destination. Teams et Microsoft 365 groupes de données ont une incidence sur vos autorisations sur l’emplacement de destination du fichier. Teams et Microsoft 365 groupes sont conçus pour permettre la collaboration. Le Teams ou le groupe Microsoft 365 déterminer qui a accès à ces fichiers lors de la migration vers ces destinations. FastTrack n’ajoute pas d’utilisateurs finaux ou de groupes aux autorisations Teams canal ou Microsoft 365 groupes au cours de la migration.
+Lorsque vous choisissez d’utiliser FastTrack pour migrer vos fichiers vers des groupes Microsoft Teams et Microsoft 365, nous fournissons des conseils de migration et des services de migration de données. Nous vous fournissons des conseils pour vous aider à planifier votre migration, à configurer vos environnements sources et vos groupes Teams et Microsoft 365, et à tirer parti de nos services de migration de données pour migrer vos fichiers. Vous créez et planifiez vos événements de migration. Nous les lançons conformément à votre planning, nous surveillons leur avancement et nous fournissons des rapports sur leur statut. Une fois vos événements de migration terminés, vous pouvez vous attendre à ce que les fichiers provenant de sources éligibles et correctement programmées de vos environnements sources soient migrés vers les groupes Teams et Microsoft 365. Teams et Microsoft 365 groupes doivent être pré-mis en service par le client avant de pouvoir migrer les données vers ces types de destination. Teams et Microsoft 365 groupes de données ont une incidence sur vos autorisations sur l’emplacement de destination du fichier. Teams et Microsoft 365 groupes sont conçus pour permettre la collaboration. Le Teams ou le groupe Microsoft 365 détermine qui a accès à ces fichiers lors de la migration vers ces destinations. FastTrack n’ajoute pas d’utilisateurs finaux ou de groupes aux autorisations Teams canal ou Microsoft 365 groupes au cours de la migration.
 
 ### <a name="considerations"></a>Considérations
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous décrivons les conditions d’éligibilité pour bénéficier de l’assistance guidée à distance des spécialistes FastTrack incluse dans l’achat de licences Microsoft 365 en présentant dans le détail les produits et les fonctionnalités spécifiques couverts.
-ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592396"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626695"
 ---
 # <a name="eligibility"></a>Éligibilité
 
@@ -44,12 +44,12 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
   - Gouvernance des informations Microsoft
   - Protection des informations Microsoft
   - Microsoft Intune
-  - Microsoft Teams
+  - Microsoft Teams
   - OneDrive Entreprise
   - Power BI
   - Project Online
   - SharePoint Online
-  - Windows 10
+  - Windows 10
   - Windows Virtual Desktop
   - Yammer Enterprise
 
@@ -119,7 +119,7 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
   - Exchange Online Protection
   - Microsoft Defender pour Office 365
 
-#### <a name="microsoft-teams"></a>Microsoft Teams
+#### <a name="microsoft-teams"></a>Microsoft Teams
 
   - Système téléphonique
   - Forfait d'appels
