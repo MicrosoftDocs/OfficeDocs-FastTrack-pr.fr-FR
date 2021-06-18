@@ -3,19 +3,19 @@ title: Éligibilité
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dans cette rubrique, nous décrivons les conditions d’éligibilité pour bénéficier de l’assistance guidée à distance des spécialistes FastTrack incluse dans l’achat de licences Microsoft 365 en présentant dans le détail les produits et les fonctionnalités spécifiques couverts.
-ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+ms.openlocfilehash: 28f1c2e8907e62b3431d759ed90307d7d4dfb527
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626695"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994867"
 ---
 # <a name="eligibility"></a>Éligibilité
 
@@ -39,7 +39,7 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
   - Microsoft Cloud App Security
   - Microsoft Defender pour point de terminaison
   - Microsoft Defender pour l’identité 
-  - Microsoft Defender pour Office 365
+  - Microsoft Defender pour Office 365
   - Microsoft Edge
   - Gouvernance des informations Microsoft
   - Protection des informations Microsoft
@@ -55,7 +55,7 @@ Les spécialistes FastTrack peuvent vous fournir une assistance guidée à dista
 
 ## <a name="eligible-plans"></a>Plans éligibles
 
-Vous devez acheter au moins 150 licences par client dans l’un des plans ci-dessous afin d’être éligible pour FastTrack. La liste est regroupée par famille de produits pour vous aider à trouver les plans spécifiques achetés par votre entreprise : Microsoft 365, Office 365, Enterprise Mobility & Security et Windows 10.
+Vous devez acheter au moins 150 licences dans l’un des plans ci-dessous pour être éligible pour FastTrack. La liste est regroupée par famille de produits pour vous aider à trouver les plans spécifiques achetés par votre entreprise : Microsoft 365, Office 365, Enterprise Mobility & Security et Windows 10.
 
 ### <a name="microsoft-365-plans"></a>Plans Microsoft 365
 
@@ -117,7 +117,7 @@ Vous devez acheter au moins 150 licences par client dans l’un des plans ci-de
   - Exchange Online (plan 2)
   - Exchange Online Kiosk
   - Exchange Online Protection
-  - Microsoft Defender pour Office 365
+  - Microsoft Defender pour Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 

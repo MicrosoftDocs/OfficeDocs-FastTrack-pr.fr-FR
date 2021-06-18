@@ -3,19 +3,19 @@ title: Phases d’intégration et de migration pour Office 365 gouvernement amé
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "Office 365'intégration pour Office 365 gouvernement américain possède quatre phases principales : lancer, évaluer, corriger et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570564"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994959"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 
@@ -23,7 +23,7 @@ L'intégration Office 365 comporte quatre phases principales : lancement, éva
   
 ![Phases du service d’intégration](media/O365-Onboarding-Phases.png)
   
-Pour obtenir des tâches détaillées pour chaque phase, voir [Responsabilités fastTrack](US-Gov-appendix-fasttrack-responsibilities.md) pour Office 365 gouvernement américain et vos responsabilités [pour Office 365 gouvernement américain.](US-Gov-appendix-your-responsibilities.md)
+Pour obtenir des tâches détaillées pour chaque phase, voir [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and Your [Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Phase de lancement
 
@@ -57,7 +57,7 @@ Ceci inclut de collaborer avec vous afin de déterminer la façon dont vous pré
 
 Votre responsable FastTrack passe un appel interactif de planification de la réussite avec vous et votre équipe d’adoption. Il présente les fonctionnalités des services éligibles que vous avez achetés, les bases clés nécessaires à votre réussite, la méthodologie pour stimuler l’utilisation du service et les scénarios que vous pouvez utiliser pour tirer parti des services. Nous vous aidons dans la planification de la réussite et vous fournissons des commentaires sur les principaux domaines (selon vos besoins).
   
-Les spécialistes FastTrack collaborent avec vous pour évaluer votre environnement source et la configuration requise. Nous vous fournissons des outils pour collecter des données sur votre environnement et vous guider dans l’estimation des besoins en bande passante et l’évaluation de vos navigateurs Internet, systèmes d’exploitation clients, DNS (Domain Name System), réseau, infrastructure et système d’identité pour déterminer si des modifications sont nécessaires à l’intégration. 
+Les spécialistes FastTrack collaborent avec vous pour évaluer votre environnement source et la configuration requise. Nous vous fournissons des outils pour collecter des données sur votre environnement et vous guider dans l’estimation des besoins en bande passante et l’évaluation de vos navigateurs Internet, systèmes d’exploitation clients, DNS (Domain Name System), réseau, infrastructure et système d’identité pour déterminer si des modifications sont requises pour l’intégration. 
   
 En fonction de votre configuration actuelle, nous vous fournissons un plan de correction de votre environnement source visant à mettre en place la configuration minimale requise aux conditions minimales requises pour la réussite de l'intégration à Office 365 et, si nécessaire, pour la réussite de la migration des boîtes aux lettres et/ou des données. Nous offrons un ensemble de suggestions d'activités visant à accroître l'adoption et la valeur pour l'utilisateur final. Nous mettons également en place des appels de point de contrôle appropriés pour la phase de correction.
   
@@ -142,7 +142,7 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Les informations suivantes ne sont pas disponibles dans Cloud de la communauté du secteur public plans Élevé ou DoD.
+> Les informations suivantes ne sont pas disponibles dans Cloud de la communauté du secteur public plans Haut ou DoD.
 
 Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants : 
 - Vérification de la configuration minimale requise.   
@@ -173,7 +173,7 @@ Pour Project Online, nous fournissons des conseils pour :
 Pour Yammer, nous fournissons des conseils concernant l’activation du service Yammer Entreprise.
 
 > [!NOTE]
-> Yammer Entreprise n’est pas un composant de Office 365 pour le gouvernement américain, mais peut être acquis sans frais en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence Office 365 dans Cloud de la communauté du secteur public. Cette offre est actuellement limitée aux clients qui achètent des Office 365 Cloud de la communauté du secteur public dans le cadre Enterprise contrats et Enterprise’abonnement. Yammer’est pas disponible dans les plans Cloud de la communauté du secteur public Ou DoD. 
+> Yammer Enterprise n’est pas un composant de Office 365 pour le gouvernement américain, mais peut être acquis sans frais en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence Office 365 dans Cloud de la communauté du secteur public. Cette offre est actuellement limitée aux clients qui achètent des Office 365 Cloud de la communauté du secteur public dans le cadre Enterprise contrats et Enterprise’abonnement. Yammer n’est pas disponible dans les plans Cloud de la communauté du secteur public Ou DoD. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
