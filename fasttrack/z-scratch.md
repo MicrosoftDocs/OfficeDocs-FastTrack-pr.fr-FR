@@ -1,5 +1,5 @@
 ---
-title: Sécurité et conformité
+title: Tests
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
@@ -10,504 +10,129 @@ ms.service: O365-seccomp
 localization_priority: None
 ms.collection: FastTrack
 description: Détails des instructions FastTrack pour services Microsoft.
-ms.openlocfilehash: 67dd428de8a8f48e0d52e4f6c6daf85cbd27ec76
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 0db37fc7c623f4c1d9599e517abef4a7903858b6
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592393"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255539"
 ---
-# <a name="security-and-compliance"></a>Sécurité et conformité
+|Test 1  |Test 2 |Test 3  |
+|---------|---------|---------|
+|**Test A**     |         |         |
+|**Test B**     |         |         |
+|**Test C**     |         |         |
+
+
+
+
+
+|Test 1  |Test 2  |Test 3  |
+|---------|---------|---------|
+|**Test A**     |         |         |
+|**Test B**     |         |         |
+|**Test C**     |         |         |
+
+
+
+
+|Service  |Détails des conseils FastTrack  |Attentes concernant l’environnement source  |
+|---------|---------|---------|
+|**Intégration de base**    |   Nous fournissons des conseils à distance sur l’intégration de base, qui implique l’approvisionnement de service, le client et l’intégration des identités. Il inclut également des étapes pour fournir une base pour l’intégration de services tels que Exchange Online, SharePoint Online et Microsoft Teams, y compris une discussion sur la sécurité, la connectivité réseau et la <a href="/office365/enterprise/office-365-network-connectivity-principles">conformité.</a>       |         |
+|**Microsoft 365 Apps**    |   Nous fournissons des conseils de déploiement à distance pour :  
+<ul>
+<li>  Résolution des problèmes de déploiement.  </li>
+<li>  Attribution des licences utilisateur final et basées sur l’appareil à l’aide du Centre d’administration Microsoft 365 et de Windows PowerShell.  </li>
+<li>  Installation de Microsoft 365 Apps à partir du portail Office 365 avec l’option Démarrer en un clic.  </li>
+<li>  Installation des applications Office Mobile (comme Outlook Mobile, Word Mobile, Excel Mobile et PowerPoint Mobile) sur vos appareils iOS ou Android.  </li>
+<li>  Configuration des paramètres de mise à jour à l’aide de l’outil Déploiement d’Office 365.  </li>
+<li>  Sélection et configuration d’une installation locale ou dans le cloud.  </li>
+<li>  Création du code XML de configuration de l’outil de déploiement d’Office avec l’outil de personnalisation d’Office ou de code XML natif pour configurer le package de déploiement.  </li>
+<li>  Déploiement à l’aide de Microsoft Endpoint Configuration Manager, incluant une assistance à la création du packaging Microsoft Endpoint Configuration Manager.  
+  En outre, si vous avez une macro ou un complément qui fonctionnait avec des versions antérieures de Office et que vous avez des problèmes de compatibilité, nous fournissons des conseils pour résoudre le problème de compatibilité sans frais supplémentaires via le programme Soutien aux applications. Pour plus <strong>d’informations,</strong> voir la partie <a href="#windows-10">Assurer Windows 10'application.</a> </li>  </br>    |         | | **Réseau d'|**        |         |
+
+
+
+
+
+
+|Service  |Détails des conseils FastTrack  |Attentes concernant l’environnement source  |
+|---------|---------|---------|
+|**Intégration de base**    |    • Test 
+• Test
+
+
+o Test o Test - Test - Test |         | | **Microsoft 365 Apps** |         |         | | **Réseau d'|**         |         | |  **Tester une |**          |        |
+
+
+
+|Service  |Détails des conseils FastTrack  |Attentes concernant l’environnement source |
+|---------|---------|---------|
+|**Test A**     |   Nous fournissons des conseils à distance sur l’intégration de base, qui implique l’approvisionnement de service, le client et l’intégration des identités. Il inclut également des étapes pour fournir une base pour l’intégration de services tels que Exchange Online, SharePoint Online et Microsoft Teams, y compris une discussion sur la sécurité, la connectivité réseau et la <a href="/office365/enterprise/office-365-network-connectivity-principles">conformité.</a>      |         |
+|**Test B**     |         |         |
+|**Test C**     |         |         |
+
+
+|Service  |Détails des conseils FastTrack  |Attentes concernant l’environnement source |
+|---------|---------|---------|
+|**Test A**     |    Nous fournissons des conseils à distance sur l’intégration de base, qui implique l’approvisionnement de service, le client et l’intégration des identités. Il inclut également des étapes pour fournir une base pour l’intégration de services tels que Exchange Online, SharePoint Online et Microsoft Teams, y compris une discussion sur la sécurité, la connectivité réseau et la <a href="/office365/enterprise/office-365-network-connectivity-principles">conformité.</a>     |         |
+|**Test B**     |         |         |
+|**Test C**     |         |         |
+
+
+|Service  |Détails des conseils FastTrack  |Attentes concernant l’environnement source |
+|---------|---------|---------|
+|**Test A**     |  Nous fournissons des conseils à distance sur l’intégration de base, qui implique l’approvisionnement de service, le client et l’intégration des identités. Il inclut également des étapes pour fournir une base pour l’intégration de services tels que Exchange Online, SharePoint Online et Microsoft Teams, y compris une discussion sur la sécurité, la connectivité réseau et la <a href="/office365/enterprise/office-365-network-connectivity-principles">conformité.</a> <br>   Nous fournissons des conseils pour : </br>    <ul> <li>|  </li>     <ul>  |<li> </li> </ul> </ul>
+|**Test B**     |         |         |
+|**Test C**     |         |         |
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security 
 
 <table>
+<table style="width: 100%">
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 55%;">
+<col span="1" style="width: 30%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Service</strong></th>
-<th><strong>Détails des conseils FastTrack</strong></th>
-<th><strong>Attente concernant l'environnement source</strong></th>
+<th>Service</th>
+<th>Détails des conseils FastTrack</th>
+<th>Attentes concernant l’environnement source</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><strong>Microsoft 365 Defender</strong></td>
-
-<td> <p> Microsoft 365 Defender est une suite unifiée de défense d’entreprise avant et après la violation qui coordonne en natif la détection, la prévention, l’examen et la réponse entre les points de terminaison, les identités, le courrier électronique et les applications afin de fournir une protection intégrée contre les attaques sophistiquées. Nous fournissons des conseils à distance pour : </p> 
-<ul>
-<li>  Présentation du centre de Microsoft 365 de sécurité.  </li>
-<li>  Passer en revue les incidents entre produits, notamment en vous concentrant sur les éléments critiques en garantissant l’étendue complète des attaques, les ressources impactées et les actions de correction automatisées regroupées.  </li>
-<li>  Démonstration de la façon dont Microsoft 365 Defender peut orchestrer l’examen des biens, des utilisateurs, des appareils et des boîtes aux lettres qui ont pu être compromis par le biais d’une auto-ressource automatisée. </li>
-<li>  Explication et fourniture d’exemples de la façon dont les clients peuvent chercher de manière proactive les tentatives d’intrusion et l’activité de violation affectant vos e-mails, données, appareils et comptes dans plusieurs ensembles de données.   </li>
-<li> Montrer aux clients comment ils peuvent examiner et améliorer leur posture de sécurité globalement à l’aide du Niveau de sécurité Microsoft.</li>
-</ul>
-<p><strong>Ce qui suit est hors de portée</strong></p>
-<ul>
-<li> Gestion de projet des activités de correction du client. </li>
-<li> Gestion continue, réponse aux menaces et correction. </li>
-<li> Instructions de déploiement ou formation sur :
-<ul>
-<li> Comment corriger ou interpréter les différents types d’alertes et activités surveillées. </li>
-<li> Comment examiner un utilisateur, un ordinateur, un chemin de mouvement latéral ou une entité. </li>
-<li> Recherche de menace personnalisée.  </li>
-</ul>
-</li>
-<li> Informations sur la sécurité et gestion des événements (SIEM) ou intégration d’API.</li>
-</td>
-</tr>
 <tr class="even">
-<td><strong>Microsoft Cloud App Security</strong></td>
-<td>  Microsoft Cloud App Security est un service Broker de sécurité d’accès au cloud (CASB) qui offre une visibilité enrichie, un contrôle sur les déplacements de données et des analyses sophistiquées pour identifier et lutter contre les cybermenaces dans tous vos services Cloud Microsoft et tiers. Nous fournissons des conseils à distance pour :
-<ul>
-<li>  Configuration du portail, notamment :  </li>
-<ul>
-<li> Importation de groupes d’utilisateurs.</li>
-<li> Gestion de l’accès et des paramètres de l’administrateur.  </li>
-<li> La portée de votre déploiement pour sélectionner certains groupes d’utilisateurs à surveiller ou exclure de la surveillance.</li>
-<li> Définition de plages IP et de balises.</li>
-<li> Personnalisation de l’expérience utilisateur final avec votre logo et votre messagerie personnalisée.</li>
-</ul>
-<li> Configuration de la découverte dans le cloud pour fournir des services informatiques de l’ombre à l’aide des :</li>
-<ul>
-<li> Microsoft Defender pour les points de terminaison.</li>
-<li> Zscaler.</li>
-<li> iboss.</li>
-</ul>
-<li> Connexion [d’applications featured à l’aide](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) de connecteurs d’application.</li>
-<li> Configuration du contrôle d’application d’accès conditionnel dans les portails d Sécurité des applications cloud et d’accès conditionnel pour appliquer des contrôles de session en temps réel.</li>
-<li> Déploiement des tableaux de bord Sécurité des applications cloud de découverte cloud.</li>
-<li> Personnalisation des scores de risque d’application en fonction des priorités de votre organisation.</li>
-<li> Création de balises et de catégories d’application.</li>
-<li> Application de sanctions et d’inséance.</li>
-<li> Utilisation des journaux d’activité et de fichiers.</li>
-<li> Gestion des applications OAuth.</li>
-<li> Comprendre la corrélation d’incidents dans Microsoft 365 Portail Defender.</li>
-<li> Fourniture d’une assistance à la configuration avec les 20 principaux cas d’utilisation pour les cas de base de données d’accès au détail (y compris la création ou la mise à jour de six (6) <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">stratégies),</a> sauf : </li>
-<ul>
-<li> Audit de la configuration de vos environnements Internet en tant que service (IaaS) (#18).</li>
-<li> Surveillance des activités des utilisateurs pour se protéger contre les menaces dans vos environnements IaaS (#19).</li>
-</ul>
-</ul>
-<p><strong>Ce qui suit est hors de portée</strong></p>
-<ul>
-<li> Gestion de projet des activités de correction du client.</li>
-<li> Gestion continue, réponse aux menaces et correction. </li>
-<li> Configuration de l’infrastructure, de l’installation ou du déploiement des téléchargements automatiques de journaux pour les rapports continus à l’aide de Docker ou d’un collecteur de journaux. Pour <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">plus d’informations, consultez les 20 principaux cas d’utilisation</a> des cas d’analyse de cas d’analyse de cas.</li>
-<li> Création d’un rapport instantané de découverte cloud.</li>
-<li> Blocage de l’utilisation de l’application à l’aide de scripts de blocage.</li>
-<li> Connexion d’applications personnalisées.</li>
-<li> Intégration avec des fournisseurs d’identité tiers (ISP) et des fournisseurs de protection contre la perte de données (DLP).</li>
-<li> Formation ou conseils pour le repérage avancé.</li>
-<li> Examen et correction automatisés, y compris les manuels Power Automate Microsoft.</li>
-<li> Informations sur la sécurité et gestion des événements (SIEM) ou intégration d’API (y compris Azure Sentinel).</li>
-<li> Le déploiement Sécurité des applications cloud en tant que preuve de concept.</li>
-</ul></td>
-</tr>
-
-
-
-<tr class="odd">
-<td><strong>Microsoft Defender – Protection avancée contre les menaces (ATP)</strong></td>
-<td>  Microsoft Defender – Protection avancée contre les menaces est une plateforme conçue pour aider les réseaux d’entreprise à prévenir, détecter et examiner les menaces avancées et à y répondre.  
-  Nous fournissons des conseils à distance pour :
-<ul>
-<li>  Déploiement des technologies pour sécuriser vos points de terminaison.  </li>
-<li>  Configuration des profils de protection des points de terminaison et de restriction d’appareil.  </li>
-<li>  Évaluation de la version du système d’exploitation et de la gestion des appareils (notamment Intune, Microsoft Endpoint Configuration Manager, objets de stratégie de groupe et configurations tierces), ainsi que l’état de vos services antivirus Windows Defender ou d’autres logiciels de sécurité de point de terminaison.  </li>
-<li>  Évaluation de l’état de vos services Windows antivirus ou d’autres logiciels de sécurité de point de terminaison.  </li>
-<li>  Évaluation des proxies et des pare-feu limitant le trafic réseau.  </li>
-<li>  Activation du service Microsoft Defender ATP en expliquant comment déployer un profil d’agent ATP à l’aide d’un point de terminaison intégré.  </li>
-<li>  Conseils de déploiement, assistance à la configuration et formation sur :
-<ul>
-<li>  
-  La gestion des menaces et des vulnérabilités.  
-  </li>
-<li>  
-  La réduction de la surface d’attaque.  
-  </li>
-<li>  
-  La nouvelle génération de protection.  
-  </li>
-<li>  
-  La détection de point de terminaison et réponse.  
-  </li>
-<li>  
-  Les enquêtes et résolutions automatiques.  
-  </li>
-<li>  
-  Le niveau de sécurité.  
-  </li>
-</ul></li>
-<li>  Examen des simulations et didacticiels (tels que les scénarios pratiques, les programmes malveillants factices et les enquêtes automatisées).  </li>
-<li>  Vue d’ensemble des fonctionnalités de compte-rendu et d’analyse des menaces.  </li>
-<li>  L’intégration d’Office 365 – Protection avancée contre les menaces avec Microsoft Defender – Protection avancée contre les menaces.  </li>
-<li>  Effectuer des procédures pas à pas dans le portail du Centre de sécurité Microsoft Defender.  </li>
-<li>  Les systèmes d’exploitation suivants :
-<ul>
-<li>  
-  Windows 10.  
-  </li>
-<li>  
-  Windows Server 2016.  
-  </li>
-<li>  
-  Windows Serveur 2019.  
-  </li>
-<li>  
-  Windows Server 2019 Core Edition.  
-  </li>
-<li>  
-  Windows Server Semi-Annual Channel (SAC) version 1803.  
-  </li>
-<li>  
-  macOS versions 10.13, 10.14 et 10.15.  
-  </li>
-</ul>
-</li>
-</ul>
-<strong>Remarque :</strong> Toutes les versions Windows Server doivent être gérées par la dernière version de System Center Configuration Manager 2012 (versions 1012 R2, 1511 ou 1602) ou Microsoft Endpoint Configuration Manager (version 2002 ou ultérieure). 
-
-</li>
-</ul>
-
-<strong>Ce qui suit est hors de portée </strong>  
-<ul>
-<li>  Gestion de projet des activités de correction du client.  </li>
-<li>  Support sur site.  </li>
-<li>  Gestion continue et réponse aux menaces.  </li>
-<li>  Intégration ou configuration des agents Microsoft Defender - PACM suivants :
-<ul>
-<li>  
-  Windows Server 2008  
-  </li>
-<li>  
-  Windows Server 2012.  
-  </li>
-<li>  
-  Linux.  
-  </li>
-<li>  
-  Appareils mobiles (Android et iOS).  
-  </li>
-</ul></li>
-<li>  Intégration et configuration du serveur :
-<ul>
-<li>  
-  Configuration d’un serveur proxy pour les communications hors connexion.  
-  </li>
-<li>  
-  Configuration des packages de déploiement Configuration Manager sur les instances et versions de Configuration Manager de bas niveau.  
-  </li>
-<li>  
-  Intégration de serveurs au Centre de sécurité Azure.  
-  </li>
-<li>  
-  Serveurs non gérés par Configuration Manager.  
-  </li>
-</ul></li>
-<li>  Intégration et configuration macOS :
-<ul>
-<li>  
-  Déploiement intune manuel.  
-  </li>
-<li>  
-  Déploiement basé sur JAMF.
-  </li>
-<li>  
-  Autres déploiements basés sur des produits de gestion des périphériques mobiles (MDM).  
-  </li>
-<li>  
-  Déploiement manuel.  
-  </li>
-</ul></li>
-<li>  Configuration des fonctionnalités suivantes de réduction de la surface d’attaque :
-<ul>
-<li>  
-  Isolation basée sur le matériel.  
-  </li>
-<li>  
-  Contrôle d’application.  
-  </li>
-<li>  
-  Exploit Protection.  
-  </li>
-<li>  
-  Pare-feu du réseau.  
-  </li>
-</ul></li>
-<li>  Inscription ou configuration des Spécialistes des menaces Microsoft.  </li>
-<li>  Révision de la configuration ou de la formation sur les CONNEXIONS API ou informations de sécurité et de gestion des événements (SIEM).  </li>
-<li>  Inscription ou configuration de la Protection Microsoft contre les menaces (MTP).  </li>
-<li>  Formation ou conseils pour le repérage avancé.  </li>
-<li>  Formation ou recommandations couvrant l’utilisation ou la création de requêtes Kusto.</li>
-</li>
-</ul>
-Contactez un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partenaire Microsoft pour</a> obtenir de l’aide sur ces services.  
-</ul></td>
+<td><strong>Azure Active Directory (Azure AD) et Azure AD Premium</strong></td>
+<td>  Pour plus d’informations, <strong>voir Azure Active Directory (Azure AD)</strong> et Azure AD Premium <a href="/fasttrack/products-and-capabilities#security-and-compliance">sécurité et conformité.</a></td>
 <td></td>
-
-<tr class="odd">
-<td><strong>Microsoft Defender pour l’identité </strong></td>
-<td>  Microsoft Defender pour Identity est une solution de sécurité basée sur le cloud qui exploite vos signaux Active Directory sur site pour identifier, détecter et examiner les menaces avancées, les identités compromises et les actions des utilisateurs malveillants ciblant votre organisation. Nous fournissons des conseils à distance pour :
-<ul>
-<li>   Création de votre instance de Defender for Identity. </li>
-<li>   Connexion de Defender pour l’identité à Active Directory. </li>
-<li>   Évaluation de la préparation de votre environnement pour déployer le capteur Defender for Identity sur vos contrôleurs de domaine, notamment :</li>   
-<ul> 
-<li>  Exécution de l’outil de taille pour la planification de la capacité des ressources. </li>
-<li>  Exécution de l’outil d’audit pour évaluer la compatibilité de vos contrôleurs de domaine avec le capteur. </li>
-</ul>
-<li>  Déploiement du capteur pour capturer et parer le trafic réseau et Windows événements directement à partir de vos contrôleurs de domaine, notamment : </li>
-<ul> 
-<li>  Téléchargement du package de capteur. </li>
-<li>  Configuration du capteur. </li>
-<li>  Installation silencieuse du capteur sur votre contrôleur de domaine. </li>
-<li>  Déploiement du capteur dans votre environnement à forêts multiples. </li>
-</ul>
-<li>  Intégration de Defender for Identity à Microsoft Cloud App Security (Sécurité des applications cloud licences n’est pas requise). </li>
-<li>  Fourniture d’instructions de déploiement, d’assistance à la configuration et de formation sur : </li>
-<ul>
-<li> Réglage de l’environnement pour réduire le « bruit ».  </li>
-<li>  Comprendre le rapport d’évaluation de la sécurité des identités. </li>
-<li>  Comprendre le score de priorité d’examen de l’utilisateur et le rapport de classement de l’examen utilisateur. </li>
-<li> Comprendre le rapport utilisateur inactif.  </li>
-<li> Fourniture d’options de correction sur un compte compromis.  </li>
-</ul>
-<li>  Faciliter la migration de Advanced Threat Analytics (ATA) vers Defender for Identity. </li>
-</ul>
-<p><strong>Ce qui suit est hors de portée</strong></p>
-<ul>
-
-<li> Gestion de projet des activités de correction du client. </li>
-<li> Gestion continue, réponse aux menaces et correction.  </li>
-<li> Déploiement du capteur Defender pour l’identité, notamment : </li>
-<ul>
-<li> Planification manuelle de la capacité. </li>
-<li> Déploiement du capteur dans une capacité autonome. </li>
-<li> Déploiement du capteur à l’aide d’un adaptateur d’équipe carte d’interface réseau (NIC). </li>
-<li> Déploiement du capteur via un outil tiers. </li>
-<li> Connexion au service cloud Defender for Identity via une connexion proxy web. </li>
-</ul>
-<li> Création et gestion de honeytokens. </li>
-<li> Instructions de déploiement ou formation sur : </li>
-<ul>
-<li> Correction ou interprétation de différents types d’alertes et activités surveillées.  </li>
-<li> Recherche d’un utilisateur, d’un ordinateur, d’un chemin de mouvement latéral ou d’une entité. </li>
-<li> Menace ou recherche avancée. </li>
-<li> Réponse aux incidents. </li>
-</ul>
-<li> Fourniture d’un didacticiel de laboratoire d’alertes de sécurité pour Defender for Identity. </li>
-<li> Envoi d’une notification lorsque Defender for Identity détecte des activités suspectes en envoyant des alertes de sécurité à votre serveur syslog via un capteur désigné.  </li>
-<li> Configuration de Defender for Identity pour effectuer des requêtes à l’aide du protocole SAMR (Security Account Manager remote) pour identifier les administrateurs locaux sur des ordinateurs spécifiques. </li>
-<li> Configuration de solutions VPN pour ajouter des informations à partir de la connexion VPN à la page de profil d’un utilisateur.  </li>
-<li> Informations sur la sécurité et gestion des événements (SIEM) ou intégration d’API (y compris Azure Sentinel). </li>
-<li> Déploiement des capteurs Defender pour l’identité comme preuve de concept.</li>
-</ul></td>
-<td><ul>
-<li>  Active Directory déployé.  </li>
-<li>  Les contrôleurs de domaine sur qui vous avez l’intention d’installer les capteurs Defender for Identity ont une connectivité Internet au service cloud de Defender for Identity.  </li>
-<ul>
-<li> Votre pare-feu et votre proxy doivent être ouverts pour communiquer avec le service cloud Defender for Identity (*.atp.azure.com port 443 doit être ouvert).</li>
-</ul>
-<li> Contrôleurs de domaine en cours d’exécution sur l’une des suivantes :</li>
-<ul>
-<li> Windows Serveur 2008 R2 SP1.</li>
-<li> Windows Server 2012.</li>
-<li> Windows Server 2012 R2.</li>
-<li> Windows Server 2016.</li>
-<li> Windows Serveur 2019 avec KB4487044 (build de système d’exploitation 17763.316).</li>
-</ul>
-</ul></td>
-</tr>
-
-<tr class="even">
-<td><strong>Gouvernance des informations Microsoft</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
-<ul>
-<li>  Étiquettes et stratégies de rétention.  </li>
-<li>  Gestion des enregistrements.  </li>
-<li>  Stratégies de suppression.  </li>
-<li>  Conformité des communications.  </li>
-<li>  Gestion des risques d'initiés.  </li>
-<li>  EDiscovery avancée.  </li>
-</ul>
-
-  <strong>Ce qui suit est hors de portée </strong>  
-<ul>
-<li> Développement d’un plan de gestion des fichiers de gestion des enregistrements.</li>
-<li> Connecteurs de données.</li>
-<li> Obstacles à l’information.</li>
-<li> Gestion des accès privilégiés.</li>
-<li> Développement de l’architecture des informations dans SharePoint.</li>
-<li> Scripts et codage personnalisés.</li>
-</td>
-<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="products-and-capabilities.md#general">général,</a>il n’existe aucune exigence minimale du système.</td>
 </tr>
 <tr class="odd">
-<td><strong>Protection des informations Microsoft</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
-<ul>
-<li>  Classification des données.  </li>
-<li>  Types d'informations sensibles.  </li>
-<li>  Création de labels de sensibilité.  </li>
-<li>  Application d’étiquettes de sensibilité.  </li>
-<li>  Étiquetage unifié.  </li>
-<li>  Des classificateurs avec capacité d’apprentissage.  </li>
-<li>  Connaître ses données avec l'explorateur de contenu et l'explorateur d'activités.  </li>
-<li>  Publication d'étiquettes à l'aide de politiques (manuelles et automatiques).  </li>
-<li>  Créer des politiques de prévention des pertes de données (DLP) pour les conversations et les canaux de Microsoft Teams.  </li>
-<li>  Création de stratégies DLP de point de terminaison pour Windows 10 appareils.  </li>
-</ul>
-
-<strong>Ce qui suit est hors de portée </strong>  
-<ul>
-<li>Clé client.</li>
-<li>Développement d’expressions régulières personnalisées (RegEx) pour les types d’informations sensibles.</li>
-<li>Création ou modification de dictionnaires de mots clés.</li>
-<li>Scripts et codage personnalisés.</li>
-</ul>
-<strong>Remarque :</strong> Pour plus d’informations, voir <strong>Azure Information Protection</strong> dans <a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise Mobility + Security</a>.
-<ul>
-
-</td>
-<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="products-and-capabilities.md#general">général,</a>il n’existe aucune exigence minimale du système.</td>
-</tr>
-
-<tr class="odd">
-<td><strong>Office 365 – Protection avancée contre les menaces (ATP)</strong></td>
-<td>  Nous fournissons des conseils à distance pour :
-<ul>
-<li>  Activation de liens fiables, de pièces jointes fiables et de l’anti-hameçonnage.  </li>
-<li>  Configuration de l’automatisation, de l’investigation et de la réponse.  </li>
-<li>  Utilisation du Simulateur d’attaques.  </li>
-<li>  Création de rapports et analytique des menaces.  </li>
-</ul></td>
-<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="products-and-capabilities.md#general">général,</a>il n’existe aucune exigence minimale du système.</td>
-</tr>
-
-
-<tr class="odd">
-<td><strong>Réponse & détection</strong></td>
+<td><strong>Azure Information Protection </strong></td>
+<td>  Pour plus d’informations sur Azure Information Protection, voir <strong>Protection des données Microsoft</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">sécurité et conformité.</a>  </td>
 <td>  
-
-<strong>Advanced eDiscovery</strong>
   
-<ul>
-<li>  Activation de liens fiables, de pièces jointes fiables et de l’anti-hameçonnage.  </li>
-<li>  Configuration de l’automatisation, de l’investigation et de la réponse.  </li>
-<li>  Utilisation du Simulateur d’attaques.  </li>
-<li>  Création de rapports et analytique des menaces.  </li>
-</ul>
-
-<strong>Audit avancé</strong> (uniquement pris en charge dans E5)
-
-Nous fournissons des conseils à distance pour : 
-<ul>
-<li> Activation de l’audit avancé.</li>
-<li> Exécuter une interface utilisateur du journal d’audit de recherche et des commandes PowerShell d’audit de base.</li>
-</ul>
-
-<strong> Gestionnaire de conformité</strong>
-
-Nous fournissons des conseils à distance pour :  
-
-<ul> <li>Examen des types de rôles.  </li>
-<li> Ajout et configuration des évaluations.</li>
-<li> Évaluer la conformité en implémentant des actions d’amélioration et en déterminant comment cela a un impact sur votre score de conformité.</li>
-<li> Examen du mappage des contrôles intégrés et de l’évaluation des contrôles.</li>
-<li> Génération d’un rapport au sein d’une évaluation.</li>
-</ul>
-
-<strong>Ce qui suit est hors de portée </strong> 
-<ul>
-<li> Scripts ou codage personnalisés.</li>
-<li> API eDiscovery. </li>
-<li> Connecteurs de données. </li>
-<li> Limites de conformité et filtres de sécurité.</li>
-<li> Enquêtes sur les données.</li>
-<li> Demandes des personnes à l’objet de données.</li>
-<li> Révision de documents tiers, de conception et d’architecte.</li>
-<li> Conformité avec les réglementations et exigences régionales et industrielles.</li>
-<li> Implémentation pratique des actions d’amélioration recommandées pour les évaluations dans le Gestionnaire de conformité.</li>
-</ul>
 </td>
-<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="products-and-capabilities.md#general">général,</a>il n’existe aucune exigence minimale du système.</td>
 </tr>
-<tr class="odd">
-<td><strong>Gestion des menaces internes</strong></td>
-
-<td>  Nous fournissons des conseils à distance pour :
-<ul>
-<li> Création de stratégies et révision des paramètres.</li>
-<li> Accès aux rapports et aux alertes.</li>
-<li> Créer des cas.</li>
-<li> Création de modèles d’avis.</li>
-<li> Recommandations sur la création du connecteur de ressources humaines (RH).</li>
-</ul>
-
-<strong> Conformité des communications </strong> 
-
-Nous fournissons des conseils à distance pour : 
-<ul>
-<li> Création de stratégies et révision des paramètres.</li>
-<li> Accès aux rapports et aux alertes.</li>
-<li> Création de modèles d’avis.</li>
-</ul>
-
-<strong> Gestionnaire de conformité</strong>
-
-Nous fournissons des conseils à distance pour :  
-
-<ul> <li>Examen des types de rôles.  </li>
-<li> Ajout et configuration des évaluations.</li>
-<li> Évaluer la conformité en implémentant des actions d’amélioration et en déterminant comment cela a un impact sur votre score de conformité.</li>
-<li> Examen du mappage des contrôles intégrés et de l’évaluation des contrôles.</li>
-<li> Génération d’un rapport au sein d’une évaluation.</li>
-</ul>
-
-<strong>Ce qui suit est hors de portée </strong> 
-<ul>
-<li> La création et la gestion Power Automate flux de données.</li>
-<li> Connecteurs de données (au-delà du connecteur RH). </li>
-<li> Configurations d’expression régulière personnalisées (RegEx).</li>
-<li> Révision de documents tiers, de conception et d’architecte.</li>
-<li> Obstacles à l’information.</li>
-<li> Gestion des accès privilégiés.</li>
-<li> Conformité avec les réglementations et exigences régionales et industrielles.</li>
-<li> Implémentation pratique des actions d’amélioration recommandées pour les évaluations dans le Gestionnaire de conformité.</li>
-</ul></td>
-<td>En dehors <strong>de la partie Intégration de</strong> base en <a href="products-and-capabilities.md#general">général,</a>il n’existe aucune exigence minimale du système.</td>
-</tr>
-
-
-</tbody>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-</tbody>
-</table>
-
-
-<table>
-<thead>
-<TABLE  CELLPADDING="2" CELLSPACING="2" WIDTH="100%">
-<tr class="header">
-<TD width 15%><strong>Service</strong></TD>
-<TD width 50%><strong>Détails des conseils FastTrack</strong></TD>
-<TD width 25%><strong>Attentes de l’environnement source</strong></TD>
-<TR>
-</thead>
-<tbody>
-
-
+<tr class="even">
+<td><strong>Microsoft Intune</strong></td>
+<td>  Pour plus d’informations, <strong>voir Microsoft Intune</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">sécurité et conformité.</a>
+  </td>
+<td>  
+  
+</td>
 </tr>
 </tbody>
 </table>

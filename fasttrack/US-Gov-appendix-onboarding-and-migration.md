@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "Office 365'intégration pour Office 365 gouvernement américain possède quatre phases principales : lancer, évaluer, corriger et activer. Vous pouvez suivre ces phases d'une phase de migration de données, comme indiqué dans l'illustration suivante."
-ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994959"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255527"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Phases d’intégration et de migration pour Office 365 gouvernement américain
 
@@ -23,7 +23,7 @@ L'intégration Office 365 comporte quatre phases principales : lancement, éva
   
 ![Phases du service d’intégration](media/O365-Onboarding-Phases.png)
   
-Pour obtenir des tâches détaillées pour chaque phase, voir [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and Your [Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
+Pour obtenir des tâches détaillées pour chaque phase, voir [Responsabilités fastTrack](US-Gov-appendix-fasttrack-responsibilities.md) pour Office 365 gouvernement américain et vos responsabilités [pour Office 365 gouvernement américain.](US-Gov-appendix-your-responsibilities.md)
   
 ## <a name="initiate-phase"></a>Phase de lancement
 
@@ -92,7 +92,7 @@ L’intégration pour un ou plusieurs services éligibles peut commencer une foi
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre organisation à utiliser la messagerie électronique. Les étapes exactes, en fonction de votre environnement source et de vos plans de migration de messagerie, peuvent vous aider avec les opérations suivantes :
+Pour Exchange Online, nous vous guidons à distance tout au long du processus pour préparer votre organisation à utiliser le courrier électronique. Les étapes exactes, en fonction de votre environnement source et de vos plans de migration de messagerie, peuvent vous aider avec les opérations suivantes :
   
 - La configuration des fonctionnalités d’Exchange Online Protection (EOP) pour tous les domaines à extension messagerie validés dans Office 365.   
     > [!NOTE]
@@ -109,7 +109,7 @@ Pour Exchange Online, nous vous guidons au fil du processus pour préparer votre
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>Sharepoint Online et OneDrive Entreprise
 
-Pour SharePoint Online et OneDrive Entreprise, nous fournissons des conseils pour les étapes suivantes : 
+Pour SharePoint Online et OneDrive Entreprise, nous fournissons des conseils à distance pour : 
 - Configuration de DNS.   
 - la configuration de ports de pare-feu ;   
 - la mise en service des utilisateurs et des licences ;   
@@ -125,9 +125,9 @@ Pour OneDrive Entreprise, les étapes varient selon que vous utilisez ou non Sha
   
 ![Étapes de l’intégration OneDrive durant la phase d’activation](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="skype-for-business-online"></a>Skype Entreprise Online
+## <a name="skype-for-business-online"></a>Skype Entreprise Online
 
-Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes suivantes : 
+Pour Skype Entreprise Online, nous fournissons des conseils à distance pour : 
 - la configuration de ports de pare-feu ;    
 - Configuration de DNS.    
 - la création de comptes pour les périphériques système de salle de réunion ;    
@@ -142,20 +142,48 @@ Pour Skype Entreprise Online, nous fournissons des conseils pour les étapes sui
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Les informations suivantes ne sont pas disponibles dans Cloud de la communauté du secteur public plans Haut ou DoD.
+> FastTrack vous aide à l’étendue en fonction de la disponibilité des fonctionnalités dans chaque environnement respectif. Pour obtenir la liste des fonctionnalités actuellement disponibles dans chaque environnement, voir <a href="/office365/servicedescriptions/teams-service-description#feature-availability">Disponibilité des fonctionnalités.</a>
 
-Pour Microsoft Teams, nous fournissons des conseils pour les éléments suivants : 
-- Vérification de la configuration minimale requise.   
+Pour Microsoft Teams, nous fournissons des conseils à distance pour : 
+- Confirmation de la demande minimale requise dans Exchange Online, SharePoint Online, Office 365 Groups et Azure Active Directory (Azure AD) pour prendre en charge Teams.
 - la configuration de ports de pare-feu ;   
 - Configuration de DNS.  
 - Confirmation que Microsoft Teams est activé sur votre client Office 365.    
 - Activation ou désactivation des licences utilisateur.
+- Évaluation réseau pour les Teams :
+    - Vérifications des ports et des points de terminaison.
+    - Contrôles de la qualité de connexion.
+    - Estimations de la bande passante.
+    - Configuration de Teams d’application (Teams application web, Teams application de bureau et Teams pour iOS et Android).
+ 
+<br> Le cas échéant, nous fournissons des conseils pour : </br>
+- Microsoft Teams Appareils de salle :
+    - Création de comptes en ligne nécessaires pour les appareils de salle de conférence et de téléphonie pris en charge répertoriés dans le <a href="https://go.microsoft.com/fwlink/?linkid=2066478">catalogue des appareils Teams</a>.
+    - Assistance à distance avec la configuration côté service des appareils Salles Microsoft Teams certifiés.
+- Activation de l’audioconférence :
+    - Configuration de l’organisation pour les paramètres par défaut de la passerelle de conférence.
+    - Affectation de passerelles de conférence aux utilisateurs titulaires d’une licence.
+- Système téléphonique :
+    - Configuration de l’organisation pour les paramètres par défaut de Cloud Voice.
+    - Conseils sur les forfaits d’appels<a href="https://go.microsoft.com/fwlink/?linkid=2066478">(marchés disponibles)</a>:  
+        - Affectation de numéros aux utilisateurs titulaires d’une licence.
+        - Instructions de portage de numéro local via l’interface utilisateur jusqu’à 999.
+        - Prise en charge des demandes de service de portage de numéro local au-delà de 999.
+        - Conseils de routage direct :
+            - Conseils de configuration de l’organisation pour la conception du routage direct des scénarios hébergés par des partenaires ou des scénarios déployés par le client pour un nombre de sites au plus de 10.
+            - Révision de la configuration du contrôleur de frontière de session (SBC).
+            - Assistance à distance avec la configuration du plan de numérotation.
+            - Configuration de l’itinéraire des voix.
+            - Contournement de média et optimisation des médias locaux.
+- Activation des événements en direct Teams.
+- Configuration de l’organisation et intégration à Microsoft Stream.
+- Recommandations pour Skype Entreprise transition Teams transition. 
     
 ![Diagramme de FastTrack Microsoft Teams (phase d’activation)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-Pour Power BI, nous fournissons des conseils pour les étapes suivantes :  
+Pour Power BI, nous fournissons des conseils à distance pour :  
 - Attribution de licences Power BI.    
 - Déploiement de l'application Power BI Desktop.   
 ## <a name="project-online"></a>Project Online
@@ -170,14 +198,14 @@ Pour Project Online, nous fournissons des conseils pour :
   
 ## <a name="yammer-enterprise"></a>Yammer Entreprise
 
-Pour Yammer, nous fournissons des conseils concernant l’activation du service Yammer Entreprise.
+Pour Yammer, nous fournissons des conseils à distance pour l’activation du service Yammer Entreprise service.
 
 > [!NOTE]
-> Yammer Enterprise n’est pas un composant de Office 365 pour le gouvernement américain, mais peut être acquis sans frais en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence Office 365 dans Cloud de la communauté du secteur public. Cette offre est actuellement limitée aux clients qui achètent des Office 365 Cloud de la communauté du secteur public dans le cadre Enterprise contrats et Enterprise’abonnement. Yammer n’est pas disponible dans les plans Cloud de la communauté du secteur public Ou DoD. 
+> Yammer Entreprise n’est pas un composant de Office 365 pour le gouvernement américain, mais peut être acquis sans frais en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence Office 365 dans Cloud de la communauté du secteur public. Cette offre est actuellement limitée aux clients qui achètent des Office 365 Cloud de la communauté du secteur public dans le cadre Enterprise contrats et Enterprise’abonnement. Yammer n’est pas disponible dans les plans Cloud de la communauté du secteur public Ou DoD. 
   
-## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Pour Microsoft 365 Apps, nous fournissons des conseils dans les domaines suivants : 
+Pour Microsoft 365 Apps, nous fournissons des conseils à distance pour : 
 - Résolution des problèmes de déploiement.    
 - Attribution des licences utilisateur final à l’aide du [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) et de Windows PowerShell.    
 - Installation de Microsoft 365 Apps à partir du portail Office 365 avec l’option Démarrer en un clic.    
